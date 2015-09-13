@@ -1,0 +1,22 @@
+Run3/Camera
+{
+	zorder 1
+
+	container Panel(Run3/CamDisp)
+	{	
+		metrics_mode relative
+		horz_align top
+		vert_align  right
+		element TextArea(Run3/CamDispText)
+		{
+			metrics_mode pixels
+			left 0
+			top -300
+			font_name ABC_HUD
+			char_height 16
+			caption BLABLABLA
+			colour_top 1 1 1
+			colour_bottom 1 1 0.7
+		}
+	}
+}

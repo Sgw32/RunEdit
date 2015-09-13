@@ -1,0 +1,663 @@
+<scene formatVersion="1.0">
+    <environment>
+        <skyBox material="Examples/MorningSkyBox" />
+        <fog mode="none" />
+    </environment>
+    <nodes>
+        <node name="dolgopr_ts04#0" id="429">
+            <position x="0" y="0" z="0" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="dolgopr_ts04#0" meshFile="dolgopr_ts04.mesh" castShadows="true" />
+        </node>
+        <node name="dolgopr_ts03#0" id="627">
+            <position x="0" y="0" z="0" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="dolgopr_ts03#0" meshFile="dolgopr_ts03.mesh" castShadows="true" />
+        </node>
+        <node name="dolgopr_ts02#0" id="458">
+            <position x="0" y="0" z="0" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="dolgopr_ts02#0" meshFile="dolgopr_ts02.mesh" castShadows="true" />
+        </node>
+        <node name="dolgopr_ts01#0" id="41">
+            <position x="0" y="0" z="0" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="dolgopr_ts01#0" meshFile="dolgopr_ts01.mesh" castShadows="true" />
+        </node>
+        <node name="dolgopr02#0" id="451">
+            <position x="0" y="0" z="0" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="dolgopr02#0" meshFile="dolgopr02.mesh" castShadows="true" />
+        </node>
+        <node name="dolgopr04_2#0" id="830">
+            <position x="0" y="0" z="0" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="dolgopr04_2#0" meshFile="dolgopr04_2.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#7" id="837">
+            <position x="-13000" y="-422.917" z="-2837.2" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#7" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="dolgopr01_1#0" id="930">
+            <position x="0" y="0" z="0" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="dolgopr01_1#0" meshFile="dolgopr01_1.mesh" castShadows="true" />
+        </node>
+        <node name="dolgopr04_1#0" id="701">
+            <position x="0" y="0" z="0" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="dolgopr04_1#0" meshFile="dolgopr04_1.mesh" castShadows="true" />
+        </node>
+        <node name="gprops01#2" id="678">
+            <position x="5122.16" y="-257.903" z="-2842.75" />
+            <rotation qw="0.798635" qx="0" qy="0.601815" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops01#2" meshFile="gprops01.mesh" castShadows="true" />
+        </node>
+        <node name="gprops01#1" id="3">
+            <position x="4875.78" y="-257.903" z="-2901.12" />
+            <rotation qw="0.691513" qx="0" qy="0.722364" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops01#1" meshFile="gprops01.mesh" castShadows="true" />
+        </node>
+        <node name="gprops01#0" id="33">
+            <position x="4650.81" y="-257.903" z="-2863.47" />
+            <rotation qw="0.646124" qx="0" qy="0.763233" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops01#0" meshFile="gprops01.mesh" castShadows="true" />
+        </node>
+        <node name="gprops09#1" id="160">
+            <position x="-12227.8" y="-605.585" z="-5782.58" />
+            <rotation qw="0.728371" qx="0" qy="0.685183" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops09#1" meshFile="gprops09.mesh" castShadows="true" />
+        </node>
+        <node name="gprops09#0" id="59">
+            <position x="-12276.5" y="-605.585" z="-2998.04" />
+            <rotation qw="0.700909" qx="0" qy="-0.713251" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops09#0" meshFile="gprops09.mesh" castShadows="true" />
+        </node>
+        <node name="gprops08#2" id="705">
+            <position x="-10582.5" y="-695.161" z="-4706.94" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="gprops08#2" meshFile="gprops08.mesh" castShadows="true" />
+        </node>
+        <node name="gprops08#1" id="411">
+            <position x="-10582.5" y="-695.161" z="-4461.77" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="gprops08#1" meshFile="gprops08.mesh" castShadows="true" />
+        </node>
+        <node name="gprops08#0" id="324">
+            <position x="-10582.5" y="-695.161" z="-4276.75" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="gprops08#0" meshFile="gprops08.mesh" castShadows="true" />
+        </node>
+        <node name="gprops01#6" id="607">
+            <position x="-18103.6" y="-260.972" z="9007.13" />
+            <rotation qw="0.548293" qx="0" qy="-0.836286" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops01#6" meshFile="gprops01.mesh" castShadows="true" />
+        </node>
+        <node name="gprops01#5" id="149">
+            <position x="-18315.4" y="-260.972" z="8988.6" />
+            <rotation qw="0.67559" qx="0" qy="-0.737277" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops01#5" meshFile="gprops01.mesh" castShadows="true" />
+        </node>
+        <node name="gprops01#4" id="753">
+            <position x="-17528.8" y="-260.972" z="9057.42" />
+            <rotation qw="0.67559" qx="0" qy="-0.737277" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops01#4" meshFile="gprops01.mesh" castShadows="true" />
+        </node>
+        <node name="gprops01#3" id="629">
+            <position x="5370.22" y="-257.903" z="-2831.79" />
+            <rotation qw="0.798635" qx="0" qy="0.601815" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops01#3" meshFile="gprops01.mesh" castShadows="true" />
+        </node>
+        <node name="dolgopr01_2#0" id="966">
+            <position x="0" y="0" z="0" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="dolgopr01_2#0" meshFile="dolgopr01_2.mesh" castShadows="true" />
+        </node>
+        <node name="dolgopr01_3#0" id="688">
+            <position x="0" y="0" z="0" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="dolgopr01_3#0" meshFile="dolgopr01_3.mesh" castShadows="true" />
+        </node>
+        <node name="dolgopr03_1#0" id="289">
+            <position x="0" y="0" z="0" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="dolgopr03_1#0" meshFile="dolgopr03_1.mesh" castShadows="true" />
+        </node>
+        <node name="dolgopr04_8#0" id="191">
+            <position x="0" y="0" z="0" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="dolgopr04_8#0" meshFile="dolgopr04_8.mesh" castShadows="true" />
+        </node>
+        <node name="dolgopr03#0" id="447">
+            <position x="0" y="0" z="0" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="dolgopr03#0" meshFile="dolgopr03.mesh" castShadows="true" />
+        </node>
+        <node name="dolgopr04_3#0" id="184">
+            <position x="0" y="0" z="0" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="dolgopr04_3#0" meshFile="dolgopr04_3.mesh" castShadows="true" />
+        </node>
+        <node name="dolgopr04_4#0" id="133">
+            <position x="0" y="0" z="0" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="dolgopr04_4#0" meshFile="dolgopr04_4.mesh" castShadows="true" />
+        </node>
+        <node name="dolgopr05#0" id="639">
+            <position x="0" y="0" z="0" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="dolgopr05#0" meshFile="dolgopr05.mesh" castShadows="true" />
+        </node>
+        <node name="dolgopr04_5#0" id="162">
+            <position x="0" y="0" z="0" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="dolgopr04_5#0" meshFile="dolgopr04_5.mesh" castShadows="true" />
+        </node>
+        <node name="dolgopr04_6#0" id="608">
+            <position x="0" y="0" z="0" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="dolgopr04_6#0" meshFile="dolgopr04_6.mesh" castShadows="true" />
+        </node>
+        <node name="dolgopr04_7#0" id="875">
+            <position x="0" y="0" z="0" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="dolgopr04_7#0" meshFile="dolgopr04_7.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb7#0" id="448">
+            <position x="9034.04" y="122.362" z="-31356.6" />
+            <rotation qw="0.704015" qx="0" qy="0.710185" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="moscowb7#0" meshFile="moscowb7.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb2#1" id="578">
+            <position x="648.637" y="122.362" z="-31283.5" />
+            <rotation qw="0.704015" qx="0" qy="0.710185" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="moscowb2#1" meshFile="moscowb7.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb4#1" id="356">
+            <position x="5311.05" y="236.856" z="-20273.1" />
+            <rotation qw="0.79069" qx="0" qy="0.612217" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="moscowb4#1" meshFile="moscowb4.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb5#0" id="447">
+            <position x="-10505.6" y="-1433.71" z="-11078.2" />
+            <rotation qw="0.85264" qx="0" qy="0.522499" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="moscowb5#0" meshFile="moscowb5.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb2#0" id="964">
+            <position x="-8368.63" y="122.362" z="-19704.3" />
+            <rotation qw="0.704015" qx="0" qy="0.710185" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="moscowb2#0" meshFile="moscowb2.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb8#0" id="237">
+            <position x="25581.9" y="199.618" z="-385.633" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="moscowb8#0" meshFile="moscowb8.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb8#1" id="72">
+            <position x="30079.1" y="199.618" z="3367.15" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="moscowb8#1" meshFile="moscowb8.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb8#2" id="478">
+            <position x="36238.8" y="-18.6846" z="12439.5" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="moscowb8#2" meshFile="moscowb2.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb4#0" id="204">
+            <position x="6216.54" y="236.856" z="-14650.3" />
+            <rotation qw="0.79069" qx="0" qy="0.612217" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="moscowb4#0" meshFile="moscowb4.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#8" id="361">
+            <position x="-10000" y="-422.917" z="-2837.2" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#8" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#9" id="320">
+            <position x="-9000" y="-422.917" z="-2837.2" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#9" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#0" id="484">
+            <position x="-3000" y="-422.917" z="-2837.2" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#0" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#19" id="9">
+            <position x="-23000" y="-422.917" z="-2837.2" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#19" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#18" id="121">
+            <position x="-22000" y="-422.917" z="-2837.2" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#18" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#17" id="438">
+            <position x="-21000" y="-422.917" z="-2837.2" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#17" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#16" id="617">
+            <position x="-20000" y="-422.917" z="-2837.2" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#16" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#15" id="491">
+            <position x="-19000" y="-422.917" z="-2837.2" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#15" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#14" id="313">
+            <position x="-18000" y="-422.917" z="-2837.2" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#14" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#13" id="807">
+            <position x="-17000" y="-422.917" z="-2837.2" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#13" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#12" id="40">
+            <position x="-16000" y="-422.917" z="-2837.2" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#12" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#11" id="482">
+            <position x="-15000" y="-422.917" z="-2837.2" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#11" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#10" id="94">
+            <position x="-14000" y="-422.917" z="-2837.2" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#10" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#1" id="439">
+            <position x="-4000" y="-422.917" z="-2837.2" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#1" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="apache01#1" id="176">
+            <position x="-8960.26" y="1663.4" z="660.813" />
+            <rotation qw="0.930418" qx="0" qy="0.366501" qz="0" />
+            <scale x="126.628" y="126.628" z="126.628" />
+            <entity name="apache01#1" meshFile="apache01.mesh" castShadows="true" />
+        </node>
+        <node name="apache01#0" id="796">
+            <position x="-9938.99" y="1663.4" z="355.008" />
+            <rotation qw="0.906308" qx="0" qy="0.422618" qz="0" />
+            <scale x="126.628" y="126.628" z="126.628" />
+            <entity name="apache01#0" meshFile="apache01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#21" id="233">
+            <position x="-4000" y="-422.917" z="-6096.78" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#21" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#20" id="254">
+            <position x="-3000" y="-422.917" z="-6096.78" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#20" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#2" id="510">
+            <position x="-5000" y="-422.917" z="-2837.2" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#2" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#22" id="926">
+            <position x="-5000" y="-422.917" z="-6096.78" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#22" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#23" id="566">
+            <position x="-6000" y="-422.917" z="-6096.78" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#23" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#24" id="346">
+            <position x="-7000" y="-422.917" z="-6096.78" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#24" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#25" id="666">
+            <position x="-8000" y="-422.917" z="-6096.78" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#25" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#29" id="366">
+            <position x="-12000" y="-422.917" z="-6096.78" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#29" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#28" id="664">
+            <position x="-11000" y="-422.917" z="-6096.78" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#28" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#27" id="903">
+            <position x="-10000" y="-422.917" z="-6096.78" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#27" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#26" id="273">
+            <position x="-9000" y="-422.917" z="-6096.78" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#26" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#3" id="344">
+            <position x="-6000" y="-422.917" z="-2837.2" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#3" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#30" id="352">
+            <position x="-13000" y="-422.917" z="-6096.78" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#30" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#31" id="781">
+            <position x="-14000" y="-422.917" z="-6096.78" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#31" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#32" id="731">
+            <position x="-16000" y="-422.917" z="-6096.78" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#32" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#33" id="920">
+            <position x="-17000" y="-422.917" z="-6096.78" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#33" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#34" id="45">
+            <position x="-18000" y="-422.917" z="-6096.78" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#34" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#35" id="394">
+            <position x="-20000" y="-422.917" z="-6096.78" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#35" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#36" id="86">
+            <position x="-21000" y="-422.917" z="-6096.78" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#36" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#37" id="464">
+            <position x="-22000" y="-422.917" z="-6096.78" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#37" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#38" id="110">
+            <position x="-23000" y="-422.917" z="-6096.78" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#38" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#39" id="999">
+            <position x="-24000" y="-422.917" z="-6096.78" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#39" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#4" id="587">
+            <position x="-7000" y="-422.917" z="-2837.2" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#4" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#40" id="698">
+            <position x="-25000" y="-422.917" z="-6096.78" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#40" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#41" id="670">
+            <position x="-26000" y="-422.917" z="-6096.78" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#41" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#42" id="278">
+            <position x="-27392.4" y="-422.917" z="-6096.78" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#42" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#5" id="583">
+            <position x="-11000" y="-422.917" z="-2837.2" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#5" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#6" id="712">
+            <position x="-12000" y="-422.917" z="-2837.2" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#6" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="bmp_metro01#0" id="735">
+            <position x="-12920.5" y="-359.346" z="-3090.59" />
+            <rotation qw="0.669131" qx="0" qy="0.743145" qz="0" />
+            <scale x="70" y="70" z="70" />
+            <entity name="bmp_metro01#0" meshFile="bmp_metro01.mesh" castShadows="true" />
+        </node>
+        <node name="bmp_metro01#1" id="732">
+            <position x="-24811.5" y="-359.346" z="-1840.8" />
+            <rotation qw="0.978148" qx="0" qy="0.207912" qz="0" />
+            <scale x="70" y="70" z="70" />
+            <entity name="bmp_metro01#1" meshFile="bmp_metro01.mesh" castShadows="true" />
+        </node>
+        <node name="bmp_metro01#2" id="268">
+            <position x="-25245.9" y="-359.346" z="-3102.28" />
+            <rotation qw="0.177943" qx="0" qy="-0.984041" qz="0" />
+            <scale x="70" y="70" z="70" />
+            <entity name="bmp_metro01#2" meshFile="bmp_metro01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#9" id="129">
+            <position x="4413.27" y="-424.241" z="17767.6" />
+            <rotation qw="0.691513" qx="0" qy="0.722364" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tree_dec01#9" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#8" id="426">
+            <position x="-8269.03" y="-550.7" z="-1090.89" />
+            <rotation qw="0.748927" qx="-0.0057824" qy="0.662595" qz="-0.0065358" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tree_dec01#8" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#7" id="580">
+            <position x="-10703.5" y="-441.799" z="-9020.76" />
+            <rotation qw="0.793353" qx="0" qy="0.608761" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tree_dec01#7" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#6" id="633">
+            <position x="-17600.5" y="-424.241" z="18728.8" />
+            <rotation qw="0.691513" qx="0" qy="0.722364" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tree_dec01#6" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#5" id="207">
+            <position x="-3743.7" y="-424.241" z="18123.8" />
+            <rotation qw="0.691513" qx="0" qy="0.722364" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tree_dec01#5" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#4" id="829">
+            <position x="2376.29" y="-424.241" z="3551.99" />
+            <rotation qw="0.691513" qx="0" qy="0.722364" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tree_dec01#4" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#3" id="597">
+            <position x="11693.6" y="-424.241" z="738.989" />
+            <rotation qw="0.691513" qx="0" qy="0.722364" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tree_dec01#3" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#2" id="800">
+            <position x="18255" y="-424.241" z="2332.18" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tree_dec01#2" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#1" id="455">
+            <position x="10281" y="-424.241" z="5134.96" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tree_dec01#1" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#0" id="406">
+            <position x="7096.23" y="-431.728" z="8136.82" />
+            <rotation qw="0.994969" qx="0" qy="0" qz="0.100188" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tree_dec01#0" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tube01s#0" id="428">
+            <position x="2171.67" y="-429.351" z="6348.42" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tube01s#0" meshFile="tube01s.mesh" castShadows="true" />
+        </node>
+        <node name="tube01s#1" id="959">
+            <position x="2675.02" y="-429.351" z="8341.05" />
+            <rotation qw="0.994522" qx="-0.104528" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tube01s#1" meshFile="tube01s.mesh" castShadows="true" />
+        </node>
+        <node name="forester01#0" id="465">
+            <position x="-17849.2" y="-355.859" z="9075.9" />
+            <rotation qw="0.988362" qx="0" qy="0.152123" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="forester01#0" meshFile="forester01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#10" id="519">
+            <position x="6619.46" y="-424.241" z="18936.7" />
+            <rotation qw="0.691513" qx="0" qy="0.722364" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tree_dec01#10" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="garbage02a#4" id="893">
+            <position x="-6111.79" y="-423.006" z="2812.29" />
+            <rotation qw="0.75184" qx="0" qy="0.659346" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="garbage02a#4" meshFile="garbage02a.mesh" castShadows="true" />
+        </node>
+        <node name="garbage02a#3" id="937">
+            <position x="-6925.69" y="-423.006" z="2782.93" />
+            <rotation qw="0.665882" qx="0" qy="0.746057" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="garbage02a#3" meshFile="garbage02a.mesh" castShadows="true" />
+        </node>
+        <node name="garbage02a#2" id="369">
+            <position x="-9075.67" y="-423.006" z="2210.86" />
+            <rotation qw="0.774393" qx="0" qy="0.632705" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="garbage02a#2" meshFile="garbage01b.mesh" castShadows="true" />
+        </node>
+        <node name="garbage02a#1" id="755">
+            <position x="-8821.63" y="-423.006" z="2206.41" />
+            <rotation qw="0.665882" qx="0" qy="0.746057" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="garbage02a#1" meshFile="garbage02a.mesh" castShadows="true" />
+        </node>
+        <node name="garbage02a#0" id="646">
+            <position x="-8566.84" y="-423.006" z="1423.73" />
+            <rotation qw="0.774393" qx="0" qy="0.632705" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="garbage02a#0" meshFile="garbage02a.mesh" castShadows="true" />
+        </node>
+        <node name="garbage01b#0" id="525">
+            <position x="-8495.06" y="-444.376" z="2455.23" />
+            <rotation qw="0.774393" qx="0" qy="0.632705" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="garbage01b#0" meshFile="garbage01b.mesh" castShadows="true" />
+        </node>
+        <node name="topolm01phys#0" id="812">
+            <position x="-6350.44" y="-254.509" z="2928.38" />
+            <rotation qw="0.688354" qx="0" qy="-0.725375" qz="0" />
+            <scale x="70" y="70" z="70" />
+            <entity name="topolm01phys#0" meshFile="topolm01phys.mesh" castShadows="true" />
+        </node>
+    </nodes>
+    <aiNodes />
+</scene>

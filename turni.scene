@@ -1,0 +1,69 @@
+<scene formatVersion="1.0">
+    <environment>
+        <skyBox material="Examples/MorningSkyBox" />
+        <fog mode="none" />
+    </environment>
+    <nodes>
+        <node name="turniket1_l" id="437">
+            <position x="15913.8" y="-501.982" z="8449.4" />
+            <rotation qw="-0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="0.285014" y="0.285014" z="0.285014" />
+            <entity name="turniket1_l" meshFile="akpp74_stvorka.mesh" castShadows="true" />
+        </node>
+        <node name="turniket1" id="413">
+            <position x="15939.7" y="-501.982" z="8424.08" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="0.285014" y="0.285014" z="0.285014" />
+            <entity name="turniket1" meshFile="akpp74.mesh" castShadows="true" />
+        </node>
+        <node name="akpp74#0" id="663">
+            <position x="15813.2" y="-501.982" z="8424.08" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="0.285014" y="0.285014" z="0.285014" />
+            <entity name="akpp74#0" meshFile="akpp74.mesh" castShadows="true" />
+        </node>
+        <node name="akpp74#1" id="925">
+            <position x="16071.8" y="-501.982" z="8424.08" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="0.285014" y="0.285014" z="0.285014" />
+            <entity name="akpp74#1" meshFile="akpp74.mesh" castShadows="true" />
+        </node>
+        <node name="akpp74#2" id="172">
+            <position x="16222.5" y="-501.982" z="8424.08" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="0.285014" y="0.285014" z="0.285014" />
+            <entity name="akpp74#2" meshFile="akpp74.mesh" castShadows="true" />
+        </node>
+        <node name="akpp74_stvorka#4_1l" id="193">
+            <position x="16046.6" y="-501.982" z="8449.4" />
+            <rotation qw="-0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="0.285014" y="0.285014" z="0.285014" />
+            <entity name="akpp74_stvorka#4_1l" meshFile="akpp74_stvorka.mesh" castShadows="true" />
+        </node>
+        <node name="akpp74_stvorka#2_0l" id="104">
+            <position x="15788.6" y="-501.982" z="8449.4" />
+            <rotation qw="-0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="0.285014" y="0.285014" z="0.285014" />
+            <entity name="akpp74_stvorka#2_0l" meshFile="akpp74_stvorka.mesh" castShadows="true" />
+        </node>
+        <node name="akpp74#1_1r" id="46">
+            <position x="16064.3" y="-501.982" z="8424.08" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="0.285014" y="0.285014" z="0.285014" />
+            <entity name="akpp74#1_1r" meshFile="akpp74_stvorka.mesh" castShadows="true" />
+        </node>
+        <node name="akpp74_stvorka#0_2r" id="314">
+            <position x="16213.3" y="-501.982" z="8424.08" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="0.285014" y="0.285014" z="0.285014" />
+            <entity name="akpp74_stvorka#0_2r" meshFile="akpp74_stvorka.mesh" castShadows="true" />
+        </node>
+        <node name="turniket1_r" id="876">
+            <position x="15934.6" y="-501.982" z="8424.08" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="0.285014" y="0.285014" z="0.285014" />
+            <entity name="turniket1_r" meshFile="akpp74_stvorka.mesh" castShadows="true" />
+        </node>
+    </nodes>
+    <aiNodes />
+</scene>

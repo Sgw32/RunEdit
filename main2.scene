@@ -1,0 +1,1213 @@
+
+        <node name="garbage01b#3" id="421">
+            <position x="2014.7" y="-6447.78" z="-7801.31" />
+            <rotation qw="-0.949699" qx="0" qy="0.313164" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="garbage01b#3" meshFile="garbage01b.mesh" castShadows="true" />
+        </node>
+        <node name="garbage01b#2" id="646">
+            <position x="2345.74" y="-6447.78" z="-7879.59" />
+            <rotation qw="-0.0566929" qx="0" qy="0.998392" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="garbage01b#2" meshFile="garbage01b.mesh" castShadows="true" />
+        </node>
+        <node name="garbage01b#4" id="341">
+            <position x="1207.48" y="-6450.43" z="-8384.02" />
+            <rotation qw="-0.728371" qx="0" qy="0.685183" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="garbage01b#4" meshFile="garbage01b.mesh" castShadows="true" />
+        </node>
+        <node name="garbage01b#1" id="473">
+            <position x="693" y="-6444" z="-7235" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="3" z="2" />
+            <nocollide run3batcher="true" name="garbage01b#1" meshFile="tbh01.mesh" castShadows="true" />
+        </node>
+        <node name="garbage01b#0" id="362">
+            <position x="928.269" y="-6451.52" z="-7121.6" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="garbage01b#0" meshFile="garbage01b.mesh" castShadows="true" />
+        </node>
+        <node name="bathroomsink01tm#0" id="588">
+            <position x="1516.37" y="-6461.55" z="-7558.11" />
+            <rotation qw="-1.49012e-007" qx="0" qy="-1" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <nocollide run3batcher="true" name="bathroomsink01tm#0" meshFile="bathroomsink01tm.mesh" castShadows="true" />
+        </node>
+        <node name="tlw_home02#0" id="896">
+            <position x="1.5791" y="-0.0390625" z="0.184082" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <nocollide run3batcher="true" name="tlw_home02#0" meshFile="tlw_home02.mesh" castShadows="true" />
+        </node>
+        <node name="tlw_home01#0" id="88">
+            <position x="0" y="0" z="0" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <nocollide run3batcher="true" name="tlw_home01#0" meshFile="tlw_home01.mesh" castShadows="true" />
+        </node>
+        <node name="amiga1000#0" id="187">
+            <position x="988.556" y="-6364.65" z="-7023.51" />
+            <rotation qw="0.0697563" qx="0" qy="0.997564" qz="0" />
+            <scale x="0.771669" y="0.771669" z="0.771669" />
+            <nocollide run3batcher="true" name="amiga1000#0" meshFile="amiga1000.mesh" castShadows="true" />
+        </node>
+        <node name="picture_rama01#0" id="32">
+            <position x="597.244" y="-6321.73" z="-7451.76" />
+            <rotation qw="0.71325" qx="0" qy="-0.700909" qz="0" />
+            <scale x="70" y="70" z="70" />
+            <nocollide run3batcher="true" name="picture_rama01#0" meshFile="picture_rama01.mesh" castShadows="true" />
+        </node>
+        <node name="couchm01#1" id="469">
+            <position x="1005.55" y="-6455.67" z="-7092.59" />
+            <rotation qw="0.746057" qx="0" qy="0.665882" qz="0" />
+            <scale x="86" y="86" z="86" />
+            <nocollide run3batcher="true" name="couchm01#1" meshFile="table01_metro.mesh" castShadows="true" />
+        </node>
+        <node name="couchm01#0" id="963">
+            <position x="998.551" y="-6364.69" z="-7149.59" />
+            <rotation qw="0.788011" qx="0" qy="0.615662" qz="0" />
+            <scale x="86" y="86" z="86" />
+            <nocollide run3batcher="true" name="couchm01#0" meshFile="foto01.mesh" castShadows="true" />
+        </node>
+        <node name="butilka01#1" id="239">
+            <position x="184.759" y="-6455.67" z="-7499.81" />
+            <rotation qw="0.951056" qx="0" qy="0.309017" qz="0" />
+            <scale x="86" y="86" z="86" />
+            <nocollide run3batcher="true" name="butilka01#1" meshFile="couchm01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#3" id="862">
+            <position x="3500" y="-9654.64" z="3407.64" />
+            <rotation qw="-1.22935e-007" qx="0" qy="1" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <nocollide run3batcher="true" name="streetlight01#3" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="computeh#0" id="293">
+            <position x="991.717" y="-6345.07" z="-7114.87" />
+            <rotation qw="0.0958456" qx="0" qy="0.995396" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="computeh#0" meshFile="computeh.mesh" castShadows="true" />
+        </node>
+        <node name="butilka01#0" id="214">
+            <position x="812" y="-6456" z="-7258" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="86" y="86" z="86" />
+            <nocollide run3batcher="true" name="butilka01#0" meshFile="butilka01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#2" id="261">
+            <position x="2500" y="-9654.64" z="3407.64" />
+            <rotation qw="-1.22935e-007" qx="0" qy="1" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <nocollide run3batcher="true" name="streetlight01#2" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="foto02#0" id="957">
+            <position x="901" y="-6358" z="-6820" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="72" y="86" z="86" />
+            <nocollide run3batcher="true" name="foto02#0" meshFile="windowm01.mesh" castShadows="true" />
+        </node>
+        <node name="windowm01#0" id="323">
+            <position x="794.394" y="-6358" z="-6820" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="72" y="86" z="86" />
+            <nocollide run3batcher="true" name="windowm01#0" meshFile="windowm01.mesh" castShadows="true" />
+        </node>
+        <node name="kreslo01#0" id="113">
+            <position x="1001.19" y="-6357" z="-7157.33" />
+            <rotation qw="0.0828077" qx="0" qy="0.996566" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="kreslo01#0" meshFile="reciever01.mesh" castShadows="true" />
+        </node>
+        <node name="windowm01#1" id="401">
+            <position x="272.958" y="-6358" z="-6820" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="72" y="86" z="86" />
+            <nocollide run3batcher="true" name="windowm01#1" meshFile="windowm01.mesh" castShadows="true" />
+        </node>
+        <node name="windowm01#2" id="580">
+            <position x="379.021" y="-6358" z="-6820" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="72" y="86" z="86" />
+            <nocollide run3batcher="true" name="windowm01#2" meshFile="windowm01.mesh" castShadows="true" />
+        </node>
+        <node name="table01_metro#0" id="712">
+            <position x="985.653" y="-6365.18" z="-7085.37" />
+            <rotation qw="0.746057" qx="0" qy="0.665882" qz="0" />
+            <scale x="86" y="86" z="86" />
+            <nocollide run3batcher="true" name="table01_metro#0" meshFile="monitorm01.mesh" castShadows="true" />
+        </node>
+        <node name="fridge_tm#0" id="383">
+            <position x="1183.32" y="-6422.42" z="-6927.02" />
+            <rotation qw="-0.0479783" qx="0" qy="-0.998848" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <nocollide run3batcher="true" name="fridge_tm#0" meshFile="fridge_tm.mesh" castShadows="true" />
+        </node>
+        <node name="table01_metro#1" id="207">
+            <position x="978.8" y="-6379.69" z="-7327.75" />
+            <rotation qw="0.746057" qx="0" qy="0.665882" qz="0" />
+            <scale x="12" y="12" z="12" />
+            <nocollide run3batcher="true" name="table01_metro#1" meshFile="control_board01.mesh" castShadows="true" />
+        </node>
+        <node name="table01_metro#2" id="198">
+            <position x="622.242" y="-6457.69" z="-6995.54" />
+            <rotation qw="-6.10948e-007" qx="0" qy="1" qz="0" />
+            <scale x="70" y="70" z="70" />
+            <nocollide run3batcher="true" name="table01_metro#2" meshFile="skaf01.mesh" castShadows="true" />
+        </node>
+        <node name="pot_01#0" id="831">
+            <position x="1639.47" y="-6417.8" z="-7160.1" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="109.242" y="109.242" z="109.242" />
+            <nocollide run3batcher="true" name="pot_01#0" meshFile="pot_01.mesh" castShadows="true" />
+        </node>
+        <node name="skaf01#0" id="359">
+            <position x="843.697" y="-6458.01" z="-7110.93" />
+            <rotation qw="-6.10948e-007" qx="0" qy="1" qz="0" />
+            <scale x="70" y="70" z="70" />
+            <nocollide run3batcher="true" name="skaf01#0" meshFile="carpte01.mesh" castShadows="true" />
+        </node>
+        <node name="table01_metro#3" id="366">
+            <position x="906.314" y="-6455.67" z="-7103.9" />
+            <rotation qw="0.746057" qx="0" qy="0.665882" qz="0" />
+            <scale x="86" y="86" z="86" />
+            <nocollide run3batcher="true" name="table01_metro#3" meshFile="kreslo01.mesh" castShadows="true" />
+        </node>
+        <node name="butilka01#2" id="19">
+            <position x="783.071" y="-6456" z="-7193.72" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="86" y="86" z="86" />
+            <nocollide run3batcher="true" name="butilka01#2" meshFile="butilka01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#0" id="827">
+            <position x="500" y="-9654.64" z="3407.64" />
+            <rotation qw="-1.22935e-007" qx="0" qy="1" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <nocollide run3batcher="true" name="streetlight01#0" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="butilka01#3" id="754">
+            <position x="856.618" y="-6456" z="-7193.72" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="86" y="86" z="86" />
+            <nocollide run3batcher="true" name="butilka01#3" meshFile="butilka01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#1" id="1">
+            <position x="1500" y="-9654.64" z="3407.64" />
+            <rotation qw="-1.22935e-007" qx="0" qy="1" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <nocollide run3batcher="true" name="streetlight01#1" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="filecab01#1" id="322">
+            <position x="994.619" y="-6431.6" z="-7548.08" />
+            <rotation qw="-0.12187" qx="0" qy="0.992546" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="filecab01#1" meshFile="filecab01.mesh" castShadows="true" />
+        </node>
+        <node name="coffeemug01#2" id="343">
+            <position x="501.229" y="-6381.69" z="-7643.69" />
+            <rotation qw="0.848048" qx="0" qy="0.529919" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="coffeemug01#2" meshFile="coffeemug01.mesh" castShadows="true" />
+        </node>
+        <node name="catmagn01#0" id="332">
+            <position x="691.729" y="-6389.09" z="-7229.96" />
+            <rotation qw="-0.130526" qx="0" qy="0.991445" qz="0" />
+            <scale x="0.7" y="0.7" z="0.7" />
+            <nocollide run3batcher="true" name="catmagn01#0" meshFile="catmagn01.mesh" castShadows="true" />
+        </node>
+        <node name="lamp_gilman_01#0" id="10">
+            <position x="1243.8" y="-6153.92" z="-8045.17" />
+            <rotation qw="-0.00872665" qx="0" qy="0.999962" qz="0" />
+            <scale x="100" y="100" z="100" />
+            <nocollide run3batcher="true" name="lamp_gilman_01#0" meshFile="lamp_gilman_01.mesh" castShadows="true" />
+        </node>
+        <node name="lamp_gilman_01#1" id="251">
+            <position x="950.284" y="-6153.92" z="-8230.74" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="100" y="100" z="100" />
+            <nocollide run3batcher="true" name="lamp_gilman_01#1" meshFile="lamp_gilman_01.mesh" castShadows="true" />
+        </node>
+        <node name="lamp_gilman_01#2" id="247">
+            <position x="1463.41" y="-6200.35" z="-7423.01" />
+            <rotation qw="-0.00872665" qx="0" qy="0.999962" qz="0" />
+            <scale x="100" y="100" z="100" />
+            <nocollide run3batcher="true" name="lamp_gilman_01#2" meshFile="lamp_gilman_01.mesh" castShadows="true" />
+        </node>
+        <node name="lamp_gilman_01#3" id="87">
+            <position x="1520.81" y="-6216.18" z="-7544.91" />
+            <rotation qw="-0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="100" y="100" z="100" />
+            <nocollide run3batcher="true" name="lamp_gilman_01#3" meshFile="lamp_gilman_01.mesh" castShadows="true" />
+        </node>
+        <node name="lamp_gilman_01#4" id="752">
+            <position x="2234.84" y="-6153.92" z="-8046.42" />
+            <rotation qw="-0.00872665" qx="0" qy="0.999962" qz="0" />
+            <scale x="100" y="100" z="100" />
+            <nocollide run3batcher="true" name="lamp_gilman_01#4" meshFile="lamp_gilman_01.mesh" castShadows="true" />
+        </node>
+        <node name="lamp_gilman_01#5" id="594">
+            <position x="2504.07" y="-6153.92" z="-8230.74" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="100" y="100" z="100" />
+            <nocollide run3batcher="true" name="lamp_gilman_01#5" meshFile="lamp_gilman_01.mesh" castShadows="true" />
+        </node>
+        <node name="lamp_gilman_01#6" id="142">
+            <position x="1262.05" y="-6298.47" z="-7349.88" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <nocollide run3batcher="true" name="lamp_gilman_01#6" meshFile="shelfbathroom01.mesh" castShadows="true" />
+        </node>
+        <node name="lamp_gilman_01#7" id="140">
+            <position x="1548.17" y="-6383.61" z="-7514.75" />
+            <rotation qw="-0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <nocollide run3batcher="true" name="lamp_gilman_01#7" meshFile="metla01.mesh" castShadows="true" />
+        </node>
+        <node name="toilet01s#0" id="563">
+            <position x="1396.36" y="-6312.52" z="-7406.26" />
+            <rotation qw="0.00872642" qx="0" qy="-0.999962" qz="0" />
+            <scale x="3.04366" y="3.04366" z="3.04366" />
+            <nocollide run3batcher="true" name="toilet01s#0" meshFile="toilet01s.mesh" castShadows="true" />
+        </node>
+        <node name="reciever02#0" id="609">
+            <position x="1002.27" y="-6344.14" z="-7158.29" />
+            <rotation qw="-0.12187" qx="0" qy="-0.992546" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="reciever02#0" meshFile="reciever02.mesh" castShadows="true" />
+        </node>
+        <node name="reciever02#1" id="135">
+            <position x="1002.27" y="-6334.85" z="-7158.29" />
+            <rotation qw="-0.12187" qx="0" qy="-0.992546" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="reciever02#1" meshFile="reciever03.mesh" castShadows="true" />
+        </node>
+        <node name="reciever03#0" id="499">
+            <position x="473.256" y="-6425.64" z="-7578.7" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="reciever03#0" meshFile="reciever03.mesh" castShadows="true" />
+        </node>
+        <node name="reciever02#2" id="677">
+            <position x="542.878" y="-6263.96" z="-7345.1" />
+            <rotation qw="-0.0130898" qx="0" qy="0.999914" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="reciever02#2" meshFile="reciever02.mesh" castShadows="true" />
+        </node>
+        <node name="reciever02#3" id="213">
+            <position x="542.878" y="-6251.79" z="-7345.1" />
+            <rotation qw="-0.0130898" qx="0" qy="0.999914" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="reciever02#3" meshFile="reciever01.mesh" castShadows="true" />
+        </node>
+        <node name="reciever01#0" id="712">
+            <position x="543.068" y="-6240.99" z="-7337.84" />
+            <rotation qw="-0.0130898" qx="0" qy="0.999914" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="reciever01#0" meshFile="reciever03.mesh" castShadows="true" />
+        </node>
+        <node name="tube01s#0" id="285">
+            <position x="1394.09" y="-6430.13" z="-7683.12" />
+            <rotation qw="0.0261768" qx="0" qy="0.999657" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="tube01s#0" meshFile="tube01s.mesh" castShadows="true" />
+        </node>
+        <node name="compm01#1" id="939">
+            <position x="1009.74" y="-6364.66" z="-6990.12" />
+            <rotation qw="0.707107" qx="0.707107" qy="0" qz="0" />
+            <scale x="60" y="60" z="60" />
+            <nocollide run3batcher="true" name="compm01#1" meshFile="compm01.mesh" castShadows="true" />
+        </node>
+        <node name="chair02#0" id="700">
+            <position x="917.902" y="-6406.29" z="-7348.07" />
+            <rotation qw="0.594823" qx="0" qy="-0.803857" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <nocollide run3batcher="true" name="chair02#0" meshFile="chair02.mesh" castShadows="true" />
+        </node>
+        <node name="compm01#0" id="235">
+            <position x="1036.13" y="-6364.66" z="-7063.15" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="60" y="60" z="60" />
+            <nocollide run3batcher="true" name="compm01#0" meshFile="compm01.mesh" castShadows="true" />
+        </node>
+        <node name="pipe02#0" id="392">
+            <position x="1512.44" y="-6263.56" z="-7395.5" />
+            <rotation qw="-0.0218151" qx="0" qy="0.999762" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="pipe02#0" meshFile="pipe02.mesh" castShadows="true" />
+        </node>
+        <node name="switchbox01#3" id="388">
+            <position x="2073.12" y="-6460.87" z="-8472.54" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="122.389" y="122.389" z="122.389" />
+            <nocollide run3batcher="true" name="switchbox01#3" meshFile="switchbox01.mesh" castShadows="true" />
+        </node>
+        <node name="large_hsngar#0" id="37">
+            <position x="4736.74" y="-9180.27" z="-5006.8" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="15" y="15" z="15" />
+            <nocollide run3batcher="true" name="large_hsngar#0" meshFile="large_hsngar.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#5" id="358">
+            <position x="-1500" y="-9654.64" z="3407.64" />
+            <rotation qw="-1.22935e-007" qx="0" qy="1" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <nocollide run3batcher="true" name="streetlight01#5" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="switchbox01#2" id="907">
+            <position x="1973.92" y="-6460.87" z="-8472.54" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="122.389" y="122.389" z="122.389" />
+            <nocollide run3batcher="true" name="switchbox01#2" meshFile="switchbox01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#4" id="393">
+            <position x="-500" y="-9654.64" z="3407.64" />
+            <rotation qw="-1.22935e-007" qx="0" qy="1" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <nocollide run3batcher="true" name="streetlight01#4" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="butilka01#6" id="209">
+            <position x="973.378" y="-6364.92" z="-7099.18" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="86" y="86" z="86" />
+            <nocollide run3batcher="true" name="butilka01#6" meshFile="butilka01.mesh" castShadows="true" />
+        </node>
+        <node name="butilka01#4" id="62">
+            <position x="971.546" y="-6364.92" z="-7166.19" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="86" y="86" z="86" />
+            <nocollide run3batcher="true" name="butilka01#4" meshFile="butilka01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#6" id="699">
+            <position x="-2500" y="-9654.64" z="3407.64" />
+            <rotation qw="-1.22935e-007" qx="0" qy="1" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <nocollide run3batcher="true" name="streetlight01#6" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="switchbox01#0" id="918">
+            <position x="1251.33" y="-6460.87" z="-8472.54" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="122.389" y="122.389" z="122.389" />
+            <nocollide run3batcher="true" name="switchbox01#0" meshFile="switchbox01.mesh" castShadows="true" />
+        </node>
+        <node name="tumba01#0" id="472">
+            <position x="1656.78" y="-6457.62" z="-6929.9" />
+            <rotation qw="0.976296" qx="0" qy="-0.21644" qz="0" />
+            <scale x="125.1" y="125.1" z="125.1" />
+            <nocollide run3batcher="true" name="tumba01#0" meshFile="tumba01.mesh" castShadows="true" />
+        </node>
+        <node name="bed01#0" id="224">
+            <position x="172.298" y="-6459.51" z="-7799.96" />
+            <rotation qw="-0.0130898" qx="0" qy="0.999914" qz="0" />
+            <scale x="13" y="13" z="13" />
+            <nocollide run3batcher="true" name="bed01#0" meshFile="bed01.mesh" castShadows="true" />
+        </node>
+        <node name="blok2#0" id="429">
+            <position x="962.954" y="-6460.01" z="-7004.3" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="blok2#0" meshFile="blok1.mesh" castShadows="true" />
+        </node>
+        <node name="monitor02#0" id="576">
+            <position x="1093.1" y="-6279.83" z="-7326.07" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="5.92299" y="5.92299" z="5.92299" />
+            <nocollide run3batcher="true" name="monitor02#0" meshFile="monitor02.mesh" castShadows="true" />
+        </node>
+        <node name="couch01a#0" id="191">
+            <position x="2683.02" y="-6417.37" z="-7578.15" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="couch01a#0" meshFile="couch01a.mesh" castShadows="true" />
+        </node>
+        <node name="floor_clock01tm#0" id="209">
+            <position x="107.007" y="-6457.1" z="-7457.32" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="floor_clock01tm#0" meshFile="floor_clock01tm.mesh" castShadows="true" />
+        </node>
+        <node name="toilet01s#1" id="700">
+            <position x="1648.24" y="-6338.68" z="-7324.04" />
+            <rotation qw="0.999391" qx="0" qy="0.0348995" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <nocollide run3batcher="true" name="toilet01s#1" meshFile="toilet01s.mesh" castShadows="true" />
+        </node>
+        <node name="filecab01#0" id="432">
+            <position x="1021.76" y="-6431.6" z="-7624.72" />
+            <rotation qw="0.169349" qx="0" qy="0.985556" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="filecab01#0" meshFile="filecab01.mesh" castShadows="true" />
+        </node>
+        <node name="filecab01#3" id="1">
+            <position x="994.619" y="-6371.75" z="-7548.08" />
+            <rotation qw="0.199367" qx="0" qy="0.979925" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="filecab01#3" meshFile="filecab01.mesh" castShadows="true" />
+        </node>
+        <node name="coffeemug01#0" id="702">
+            <position x="970.599" y="-6359.22" z="-7078.51" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="1.8817" y="1.8817" z="1.8817" />
+            <nocollide run3batcher="true" name="coffeemug01#0" meshFile="coffeemug01.mesh" castShadows="true" />
+        </node>
+        <node name="switchbox01#1" id="918">
+            <position x="1352.19" y="-6460.87" z="-8472.54" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="122.389" y="122.389" z="122.389" />
+            <nocollide run3batcher="true" name="switchbox01#1" meshFile="switchbox01.mesh" castShadows="true" />
+        </node>
+        <node name="dead_rastenie01#0" id="919">
+            <position x="70.7771" y="-6382.76" z="-6870.32" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="dead_rastenie01#0" meshFile="dead_rastenie01.mesh" castShadows="true" />
+        </node>
+        <node name="butilka01#5" id="67">
+            <position x="973.378" y="-6364.92" z="-7152.23" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="86" y="86" z="86" />
+            <nocollide run3batcher="true" name="butilka01#5" meshFile="butilka01.mesh" castShadows="true" />
+        </node>
+        <node name="doorm01#0" id="262">
+            <position x="931.417" y="-6457.92" z="-8233.86" />
+            <rotation qw="-0.713251" qx="0" qy="0.700909" qz="0" />
+            <scale x="109.331" y="117.544" z="104.616" />
+            <nocollide run3batcher="true" name="doorm01#0" meshFile="doorm01.mesh" castShadows="true" />
+        </node>
+        <node name="garbage02a#5" id="394">
+            <position x="2617.68" y="-6447.83" z="-7926.46" />
+            <rotation qw="-0.710186" qx="0" qy="0.704015" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="garbage02a#5" meshFile="garbage02a.mesh" castShadows="true" />
+        </node>
+        <node name="garbage02a#4" id="586">
+            <position x="1823.4" y="-6441.95" z="-7597.42" />
+            <rotation qw="0.763232" qx="0" qy="0.646124" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="garbage02a#4" meshFile="garbage01b.mesh" castShadows="true" />
+        </node>
+        <node name="garbage02a#3" id="724">
+            <position x="1586.95" y="-6441.95" z="-7636.98" />
+            <rotation qw="0.763232" qx="0" qy="0.646124" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="garbage02a#3" meshFile="garbage02a.mesh" castShadows="true" />
+        </node>
+        <node name="garbage02a#2" id="342">
+            <position x="2736.56" y="-6450.83" z="-8193.47" />
+            <rotation qw="-0.544639" qx="0" qy="0.83867" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="garbage02a#2" meshFile="garbage02a.mesh" castShadows="true" />
+        </node>
+        <node name="garbage02a#1" id="460">
+            <position x="995.5" y="-6447.78" z="-8246.55" />
+            <rotation qw="-0.0566929" qx="0" qy="0.998392" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="garbage02a#1" meshFile="garbage01b.mesh" castShadows="true" />
+        </node>
+        <node name="garbage02a#0" id="272">
+            <position x="1658.83" y="-6450.05" z="-8072.9" />
+            <rotation qw="0.763232" qx="0" qy="0.646124" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="garbage02a#0" meshFile="garbage02a.mesh" castShadows="true" />
+        </node>
+        <node name="pipe01#0" id="717">
+            <position x="1517.98" y="-6284.3" z="-7323.22" />
+            <rotation qw="0.502177" qx="-0.497814" qy="0.497814" qz="-0.502177" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="pipe01#0" meshFile="pipe01.mesh" castShadows="true" />
+        </node>
+        <node name="sofa012#0" id="141">
+            <position x="683.676" y="-6462.1" z="-7616.58" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.99359" y="2.99359" z="2.99359" />
+            <nocollide run3batcher="true" name="sofa012#0" meshFile="sofa012.mesh" castShadows="true" />
+        </node>
+        <node name="carpte01#1" id="412">
+            <position x="2644.68" y="-6286.06" z="-7478.38" />
+            <rotation qw="0.707107" qx="0" qy="0" qz="-0.707107" />
+            <scale x="90.2826" y="90.2826" z="90.2826" />
+            <nocollide run3batcher="true" name="carpte01#1" meshFile="carpte01.mesh" castShadows="true" />
+        </node>
+        <node name="carpte01#0" id="825">
+            <position x="78.5647" y="-6286.06" z="-7796.14" />
+            <rotation qw="0.707107" qx="0" qy="0" qz="-0.707107" />
+            <scale x="90.2826" y="90.2826" z="90.2826" />
+            <nocollide run3batcher="true" name="carpte01#0" meshFile="carpte01.mesh" castShadows="true" />
+        </node>
+        <node name="sofa013#0" id="13">
+            <position x="1771.34" y="-6548.02" z="-9012.78" />
+            <rotation qw="0.990268" qx="-0.139173" qy="0" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <nocollide run3batcher="true" name="sofa013#0" meshFile="sofa013.mesh" castShadows="true" />
+        </node>
+        <node name="table_tm01#0" id="994">
+            <position x="1307.14" y="-6417.25" z="-7010.79" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="3" z="2" />
+            <nocollide run3batcher="true" name="table_tm01#0" meshFile="table_tm01.mesh" castShadows="true" />
+        </node>
+        <node name="table_tm02#0" id="412">
+            <position x="514.406" y="-6435.48" z="-7629.39" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <nocollide run3batcher="true" name="table_tm02#0" meshFile="table_tm02.mesh" castShadows="true" />
+        </node>
+        <node name="microwave_tm01#1" id="17">
+            <position x="514.309" y="-6421.08" z="-7742.31" />
+            <rotation qw="0.165048" qx="0" qy="-0.986286" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="microwave_tm01#1" meshFile="microwave_tm01.mesh" castShadows="true" />
+        </node>
+        <node name="microwave_tm01#0" id="825">
+            <position x="1189.42" y="-6254.75" z="-6902.39" />
+            <rotation qw="0.665882" qx="0" qy="0.746057" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="microwave_tm01#0" meshFile="microwave_tm01.mesh" castShadows="true" />
+        </node>
+        <node name="curtain02_tm#0" id="602">
+            <position x="335.344" y="-6448.65" z="-6853.12" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="4.46964" y="4.46964" z="6.04029" />
+            <nocollide run3batcher="true" name="curtain02_tm#0" meshFile="curtain02_tm.mesh" castShadows="true" />
+        </node>
+        <node name="curtain02_tm#1" id="441">
+            <position x="1318.06" y="-6448.65" z="-6853.12" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="4.46964" y="4.46964" z="6.04029" />
+            <nocollide run3batcher="true" name="curtain02_tm#1" meshFile="curtain02_tm.mesh" castShadows="true" />
+        </node>
+        <node name="tableprops01_tm#0" id="397">
+            <position x="495.856" y="-6471.86" z="-7681.56" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <nocollide run3batcher="true" name="tableprops01_tm#0" meshFile="tableprops01_tm.mesh" castShadows="true" />
+        </node>
+        <node name="sofa014#0" id="546">
+            <position x="963.241" y="-6460.51" z="-7958.34" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <nocollide run3batcher="true" name="sofa014#0" meshFile="sofa014.mesh" castShadows="true" />
+        </node>
+        <node name="tableprops01_tm#1" id="671">
+            <position x="1338.08" y="-6392.26" z="-7401.36" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="2.85194" y="2.85194" z="2.85194" />
+            <nocollide run3batcher="true" name="tableprops01_tm#1" meshFile="fridge_tm2.mesh" castShadows="true" />
+        </node>
+        <node name="books_tm#0" id="804">
+            <position x="624.047" y="-6371.66" z="-7008.77" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="books_tm#0" meshFile="books_tm.mesh" castShadows="true" />
+        </node>
+        <node name="royal_chair01tm#0" id="205">
+            <position x="1275.8" y="-6458.25" z="-7468.3" />
+            <rotation qw="0.994056" qx="0" qy="-0.108867" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <nocollide run3batcher="true" name="royal_chair01tm#0" meshFile="royal_chair01tm.mesh" castShadows="true" />
+        </node>
+        <node name="windowm01#3" id="399">
+            <position x="1275.05" y="-6358" z="-6820" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="72" y="86" z="86" />
+            <nocollide run3batcher="true" name="windowm01#3" meshFile="windowm01.mesh" castShadows="true" />
+        </node>
+        <node name="windowm01#4" id="533">
+            <position x="1378.11" y="-6358" z="-6820" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="72" y="86" z="86" />
+            <nocollide run3batcher="true" name="windowm01#4" meshFile="windowm01.mesh" castShadows="true" />
+        </node>
+        <node name="monitorm01#0" id="329">
+            <position x="532.961" y="-6387.22" z="-7689.26" />
+            <rotation qw="0.704015" qx="0" qy="0.710185" qz="0" />
+            <scale x="70" y="70" z="70" />
+            <nocollide run3batcher="true" name="monitorm01#0" meshFile="monitorm01.mesh" castShadows="true" />
+        </node>
+        <node name="parts02#0" id="147">
+            <position x="511.273" y="-6424.92" z="-7585.42" />
+            <rotation qw="0.707107" qx="0.707107" qy="0" qz="0" />
+            <scale x="1" y="1" z="1" />
+            <nocollide run3batcher="true" name="parts02#0" meshFile="parts02.mesh" castShadows="true" />
+        </node>
+        <node name="coffeemug01#1" id="685">
+            <position x="512.308" y="-6381.69" z="-7656.63" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="coffeemug01#1" meshFile="coffeemug01.mesh" castShadows="true" />
+        </node>
+        <node name="filecab01#2" id="511">
+            <position x="543.397" y="-6303.2" z="-7192.78" />
+            <rotation qw="-0.70091" qx="0" qy="0.71325" qz="0" />
+            <scale x="1.63086" y="1.63086" z="1.63086" />
+            <nocollide run3batcher="true" name="filecab01#2" meshFile="filecab01.mesh" castShadows="true" />
+        </node>
+        <node name="doorm01#1" id="711">
+            <position x="2214.59" y="-6457.92" z="-8036.55" />
+            <rotation qw="-1" qx="0" qy="-6.44475e-007" qz="0" />
+            <scale x="109.331" y="117.544" z="104.616" />
+            <nocollide run3batcher="true" name="doorm01#1" meshFile="doorm01.mesh" castShadows="true" />
+        </node>
+        <node name="windowm01#5" id="556">
+            <position x="1784.3" y="-6498.25" z="-9305.25" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="72" y="83.0018" z="86" />
+            <nocollide run3batcher="true" name="windowm01#5" meshFile="windowm01.mesh" castShadows="true" />
+        </node>
+        <node name="windowm01#6" id="611">
+            <position x="1683.69" y="-6498.25" z="-9305.25" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="72" y="83.0018" z="86" />
+            <nocollide run3batcher="true" name="windowm01#6" meshFile="windowm01.mesh" castShadows="true" />
+        </node>
+        <node name="curtain03_tm#1" id="649">
+            <position x="430.532" y="-6517.04" z="-6884.35" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="1.66522" y="1.66522" z="1.26556" />
+            <nocollide run3batcher="true" name="curtain03_tm#1" meshFile="curtain03_tm.mesh" castShadows="true" />
+        </node>
+        <node name="curtain03_tm#0" id="73">
+            <position x="905.28" y="-6517.04" z="-6884.35" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="1.66522" y="1.66522" z="1.66522" />
+            <nocollide run3batcher="true" name="curtain03_tm#0" meshFile="curtain03_tm.mesh" castShadows="true" />
+        </node>
+        <node name="diff_radiator01tm#1" id="492">
+            <position x="804.327" y="-6457.76" z="-6842.87" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="diff_radiator01tm#1" meshFile="diff_radiator01tm.mesh" castShadows="true" />
+        </node>
+        <node name="snow_kucha02#0" id="99">
+            <position x="2284.58" y="-6421.51" z="-6858.11" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.24546" y="2.24546" z="2.24546" />
+            <nocollide run3batcher="true" name="snow_kucha02#0" meshFile="snow_kucha02.mesh" castShadows="true" />
+        </node>
+        <node name="snow_kucha03#0" id="439">
+            <position x="1977.13" y="-6469.3" z="-7037.74" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="snow_kucha03#0" meshFile="snow_kucha03.mesh" castShadows="true" />
+        </node>
+        <node name="snow_kucha01#0" id="549">
+            <position x="2696.97" y="-6421.51" z="-6858.11" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.24546" y="2.24546" z="2.24546" />
+            <nocollide run3batcher="true" name="snow_kucha01#0" meshFile="snow_kucha02.mesh" castShadows="true" />
+        </node>
+        <node name="tvset01tm#0" id="479">
+            <position x="498.728" y="-6376.23" z="-7675.22" />
+            <rotation qw="-0.0261771" qx="0" qy="0.999657" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="tvset01tm#0" meshFile="tvset01tm.mesh" castShadows="true" />
+        </node>
+        <node name="zip_box01tm#0" id="510">
+            <position x="524.401" y="-6458.92" z="-7466.96" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="zip_box01tm#0" meshFile="rest01tm.mesh" castShadows="true" />
+        </node>
+        <node name="debriswall01#7" id="982">
+            <position x="2811.34" y="-6235.64" z="-8025.06" />
+            <rotation qw="0.763232" qx="0" qy="0.646124" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <nocollide run3batcher="true" name="debriswall01#7" meshFile="debriswall01.mesh" castShadows="true" />
+        </node>
+        <node name="debriswall01#6" id="211">
+            <position x="2811.34" y="-6471.19" z="-8025.06" />
+            <rotation qw="0.763232" qx="0" qy="0.646124" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <nocollide run3batcher="true" name="debriswall01#6" meshFile="debriswall01.mesh" castShadows="true" />
+        </node>
+        <node name="debriswall01#5" id="333">
+            <position x="3040.96" y="-6280.92" z="-7998.34" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <nocollide run3batcher="true" name="debriswall01#5" meshFile="debriswall01.mesh" castShadows="true" />
+        </node>
+        <node name="debriswall01#4" id="639">
+            <position x="3034.47" y="-6512.4" z="-8004.81" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <nocollide run3batcher="true" name="debriswall01#4" meshFile="debriswall01.mesh" castShadows="true" />
+        </node>
+        <node name="debriswall01#3" id="89">
+            <position x="1597.91" y="-6470.33" z="-7720.49" />
+            <rotation qw="-0.177944" qx="0" qy="-0.984041" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <nocollide run3batcher="true" name="debriswall01#3" meshFile="debriswall01.mesh" castShadows="true" />
+        </node>
+        <node name="debriswall01#2" id="544">
+            <position x="1597.41" y="-6235.42" z="-7720.24" />
+            <rotation qw="-0.177944" qx="0" qy="-0.984041" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <nocollide run3batcher="true" name="debriswall01#2" meshFile="debriswall01.mesh" castShadows="true" />
+        </node>
+        <node name="debriswall01#1" id="109">
+            <position x="1891.69" y="-6235.42" z="-7720.24" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <nocollide run3batcher="true" name="debriswall01#1" meshFile="debriswall01.mesh" castShadows="true" />
+        </node>
+        <node name="debriswall01#0" id="211">
+            <position x="1891.69" y="-6455.57" z="-7720.24" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <nocollide run3batcher="true" name="debriswall01#0" meshFile="debriswall01.mesh" castShadows="true" />
+        </node>
+        <node name="foto03#0" id="840">
+            <position x="542.075" y="-6327.24" z="-7353.69" />
+            <rotation qw="0.977231" qx="0" qy="0.212178" qz="0" />
+            <scale x="60" y="60" z="60" />
+            <nocollide run3batcher="true" name="foto03#0" meshFile="foto03.mesh" castShadows="true" />
+        </node>
+        <node name="ice_rock01#1" id="836">
+            <position x="2593.31" y="-6462.43" z="-6895.17" />
+            <rotation qw="0.529919" qx="0" qy="0.848048" qz="0" />
+            <scale x="0.770646" y="0.770646" z="0.770646" />
+            <nocollide run3batcher="true" name="ice_rock01#1" meshFile="ice_rock01.mesh" castShadows="true" />
+        </node>
+        <node name="ice_rock01#0" id="989">
+            <position x="2276.78" y="-6462.43" z="-6917.3" />
+            <rotation qw="0.731354" qx="0" qy="0.681998" qz="0" />
+            <scale x="0.391665" y="0.391665" z="0.391665" />
+            <nocollide run3batcher="true" name="ice_rock01#0" meshFile="ice_rock01.mesh" castShadows="true" />
+        </node>
+        <node name="blok1#0" id="151">
+            <position x="984.185" y="-6459.81" z="-7048.16" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="blok1#0" meshFile="blok2.mesh" castShadows="true" />
+        </node>
+        <node name="bookstand01tm#1" id="747">
+            <position x="525.956" y="-6335.04" z="-7076.51" />
+            <rotation qw="0.00872632" qx="0" qy="0.999962" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <nocollide run3batcher="true" name="bookstand01tm#1" meshFile="bookcase01.mesh" castShadows="true" />
+        </node>
+        <node name="desk_clock01tm#0" id="544">
+            <position x="488.836" y="-6391.94" z="-7569.7" />
+            <rotation qw="0.104528" qx="0" qy="0.994522" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="desk_clock01tm#0" meshFile="desk_clock01tm.mesh" castShadows="true" />
+        </node>
+        <node name="books_tm02#0" id="217">
+            <position x="607.017" y="-6302.48" z="-7000.36" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="books_tm02#0" meshFile="books_tm02.mesh" castShadows="true" />
+        </node>
+        <node name="food01tm#0" id="875">
+            <position x="1288.27" y="-6374.28" z="-7067.49" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <nocollide run3batcher="true" name="food01tm#0" meshFile="food01tm.mesh" castShadows="true" />
+        </node>
+        <node name="stove_01tm#0" id="805">
+            <position x="1573.94" y="-6455.23" z="-6946.4" />
+            <rotation qw="-1.63913e-007" qx="0" qy="-1" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <nocollide run3batcher="true" name="stove_01tm#0" meshFile="stove_01tm.mesh" castShadows="true" />
+        </node>
+        <node name="apple01tm#0" id="412">
+            <position x="1281.21" y="-6369.6" z="-7048.68" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="apple01tm#0" meshFile="apple01tm.mesh" castShadows="true" />
+        </node>
+        <node name="picturetm01#0" id="842">
+            <position x="568.463" y="-6343.8" z="-7678.58" />
+            <rotation qw="-1.78814e-007" qx="0" qy="1" qz="0" />
+            <scale x="3.19364" y="3.19364" z="3.19364" />
+            <nocollide run3batcher="true" name="picturetm01#0" meshFile="picturetm01.mesh" castShadows="true" />
+        </node>
+        <node name="blok1#1" id="774">
+            <position x="962.954" y="-6429.79" z="-7004.3" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="blok1#1" meshFile="blok1.mesh" castShadows="true" />
+        </node>
+        <node name="bookstand01tm#0" id="143">
+            <position x="529.519" y="-6461.89" z="-7280.62" />
+            <rotation qw="0.00872632" qx="0" qy="0.999962" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <nocollide run3batcher="true" name="bookstand01tm#0" meshFile="bookstand01tm.mesh" castShadows="true" />
+        </node>
+        <node name="silo01#0" id="984">
+            <position x="527.369" y="-6327.34" z="-7360.25" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="0.04" y="0.04" z="0.04" />
+            <nocollide run3batcher="true" name="silo01#0" meshFile="silo01.mesh" castShadows="true" />
+        </node>
+        <node name="snow_bush01#0" id="665">
+            <position x="2468.46" y="-6439.73" z="-6887.88" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="snow_bush01#0" meshFile="snow_bush01.mesh" castShadows="true" />
+        </node>
+        <node name="snow_bush01#1" id="90">
+            <position x="2591.96" y="-6439.73" z="-7040.15" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="snow_bush01#1" meshFile="snow_bush01.mesh" castShadows="true" />
+        </node>
+        <node name="tvset01tm#1" id="266">
+            <position x="1283.29" y="-6312.44" z="-7271.18" />
+            <rotation qw="0.522498" qx="0" qy="-0.85264" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="tvset01tm#1" meshFile="tvset01tm.mesh" castShadows="true" />
+        </node>
+        <node name="hangl02tm#0" id="145">
+            <position x="1273.9" y="-6138.99" z="-7050.68" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="hangl02tm#0" meshFile="hangl02tm.mesh" castShadows="true" />
+        </node>
+        <node name="sofa014#1" id="925">
+            <position x="212.2" y="-6460.58" z="-7347.61" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <nocollide run3batcher="true" name="sofa014#1" meshFile="sofa014.mesh" castShadows="true" />
+        </node>
+        <node name="pot_01#1" id="945">
+            <position x="1406.4" y="-6438.78" z="-8472.25" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="61.5221" y="61.5221" z="61.5221" />
+            <nocollide run3batcher="true" name="pot_01#1" meshFile="pot_01.mesh" castShadows="true" />
+        </node>
+        <node name="pot_01#2" id="978">
+            <position x="1463.39" y="-6438.78" z="-8472.25" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="61.5221" y="61.5221" z="61.5221" />
+            <nocollide run3batcher="true" name="pot_01#2" meshFile="pot_01.mesh" castShadows="true" />
+        </node>
+        <node name="hangl01tm#0" id="655">
+            <position x="1722.74" y="-6122.95" z="-8271.56" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="hangl01tm#0" meshFile="hangl01tm.mesh" castShadows="true" />
+        </node>
+        <node name="hangl01tm#1" id="584">
+            <position x="2007.07" y="-6122.95" z="-8271.56" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="hangl01tm#1" meshFile="hangl01tm.mesh" castShadows="true" />
+        </node>
+        <node name="radar01#0" id="735">
+            <position x="554.358" y="-6324.69" z="-7373.24" />
+            <rotation qw="0.944089" qx="0" qy="-0.329691" qz="0" />
+            <scale x="0.3" y="0.3" z="0.3" />
+            <nocollide run3batcher="true" name="radar01#0" meshFile="radar01.mesh" castShadows="true" />
+        </node>
+        <node name="hangl01tm#2" id="143">
+            <position x="1318.88" y="-6122.95" z="-8271.56" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="hangl01tm#2" meshFile="hangl01tm.mesh" castShadows="true" />
+        </node>
+        <node name="royal_chair01tm#1" id="365">
+            <position x="968.507" y="-6458.25" z="-6800.36" />
+            <rotation qw="0.580703" qx="0" qy="0.814115" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <nocollide run3batcher="true" name="royal_chair01tm#1" meshFile="royal_chair01tm.mesh" castShadows="true" />
+        </node>
+        <node name="pipe01#1" id="217">
+            <position x="1478.7" y="-6284.3" z="-7323.56" />
+            <rotation qw="0.502177" qx="-0.497814" qy="0.497814" qz="-0.502177" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="pipe01#1" meshFile="pipe01.mesh" castShadows="true" />
+        </node>
+        <node name="pipe01#2" id="890">
+            <position x="1479.75" y="-6284.3" z="-7443.96" />
+            <rotation qw="0.502177" qx="-0.497814" qy="0.497814" qz="-0.502177" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="pipe01#2" meshFile="pipe01.mesh" castShadows="true" />
+        </node>
+        <node name="diff_radiator01tm#0" id="141">
+            <position x="1312.98" y="-6458.21" z="-6842.91" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="diff_radiator01tm#0" meshFile="diff_radiator01tm.mesh" castShadows="true" />
+        </node>
+        <node name="diff_radiator01tm#2" id="632">
+            <position x="872.338" y="-6457.76" z="-6842.87" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="diff_radiator01tm#2" meshFile="diff_radiator01tm.mesh" castShadows="true" />
+        </node>
+        <node name="diff_radiator01tm#3" id="413">
+            <position x="371.328" y="-6460.33" z="-6842.87" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="diff_radiator01tm#3" meshFile="diff_radiator01tm.mesh" castShadows="true" />
+        </node>
+        <node name="diff_radiator01tm#4" id="792">
+            <position x="303.599" y="-6460.33" z="-6842.87" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="diff_radiator01tm#4" meshFile="diff_radiator01tm.mesh" castShadows="true" />
+        </node>
+        <node name="blok1#2" id="926">
+            <position x="962.954" y="-6398.92" z="-6956.09" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="blok1#2" meshFile="blok3.mesh" castShadows="true" />
+        </node>
+        <node name="blok3#0" id="547">
+            <position x="962.954" y="-6398.92" z="-7060.94" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="1.32611" z="2" />
+            <nocollide run3batcher="true" name="blok3#0" meshFile="blok5.mesh" castShadows="true" />
+        </node>
+        <node name="compm01#2" id="735">
+            <position x="1009.74" y="-6349.2" z="-6990.12" />
+            <rotation qw="0.705788" qx="0.705788" qy="0.0431678" qz="-0.0431678" />
+            <scale x="60" y="60" z="60" />
+            <nocollide run3batcher="true" name="compm01#2" meshFile="compm01.mesh" castShadows="true" />
+        </node>
+        <node name="compm01#3" id="824">
+            <position x="1016.22" y="-6352.54" z="-6937.32" />
+            <rotation qw="0.704416" qx="0.704416" qy="-0.0616284" qz="0.0616284" />
+            <scale x="60" y="60" z="60" />
+            <nocollide run3batcher="true" name="compm01#3" meshFile="compm01.mesh" castShadows="true" />
+        </node>
+        <node name="chair02#1" id="38">
+            <position x="480.279" y="-6406.29" z="-7421.18" />
+            <rotation qw="0.806445" qx="0" qy="-0.59131" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <nocollide run3batcher="true" name="chair02#1" meshFile="chair02.mesh" castShadows="true" />
+        </node>
+        <node name="chair02#2" id="930">
+            <position x="465.013" y="-6406.29" z="-7310.21" />
+            <rotation qw="0.67559" qx="0" qy="-0.737277" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <nocollide run3batcher="true" name="chair02#2" meshFile="chair02.mesh" castShadows="true" />
+        </node>
+        <node name="doorm01#2" id="35">
+            <position x="2936.14" y="-6457.92" z="-8494.55" />
+            <rotation qw="-1" qx="0" qy="-6.44475e-007" qz="0" />
+            <scale x="109.331" y="124.408" z="104.616" />
+            <nocollide run3batcher="true" name="doorm01#2" meshFile="doorm01.mesh" castShadows="true" />
+        </node>
+        <node name="bookstand01tm#2" id="236">
+            <position x="3364.31" y="-6459.83" z="-8244.67" />
+            <rotation qw="0.99863" qx="0" qy="0.052336" qz="0" />
+            <scale x="3" y="4" z="4" />
+            <nocollide run3batcher="true" name="bookstand01tm#2" meshFile="bookstand01tm.mesh" castShadows="true" />
+        </node>
+        <node name="skaf01#1" id="976">
+            <position x="2197.77" y="-6457" z="-7947.54" />
+            <rotation qw="0.652604" qx="-0.0165262" qy="0.757385" qz="-0.0142399" />
+            <scale x="70" y="70" z="70" />
+            <nocollide run3batcher="true" name="skaf01#1" meshFile="skaf01.mesh" castShadows="true" />
+        </node>
+        <node name="curtain01_tm#1" id="590">
+            <position x="1457.99" y="-6407.61" z="-7622.53" />
+            <rotation qw="0.734322" qx="0" qy="0.678801" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="curtain01_tm#1" meshFile="curtain01_tm.mesh" castShadows="true" />
+        </node>
+        <node name="curtain01_tm#0" id="485">
+            <position x="1336.7" y="-6407.61" z="-7633.26" />
+            <rotation qw="0.734322" qx="0" qy="0.678801" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="curtain01_tm#0" meshFile="curtain01_tm.mesh" castShadows="true" />
+        </node>
+        <node name="apple01tm#1" id="325">
+            <position x="1305.24" y="-6369.6" z="-7057.48" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="apple01tm#1" meshFile="apple01tm.mesh" castShadows="true" />
+        </node>
+        <node name="gprops02#0" id="856">
+            <position x="136.703" y="-6410" z="-7163.94" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="gprops02#0" meshFile="gprops02.mesh" castShadows="true" />
+        </node>
+        <node name="hangl02tm#1" id="857">
+            <position x="332.837" y="-6110.68" z="-7208.01" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="hangl02tm#1" meshFile="hangl02tm.mesh" castShadows="true" />
+        </node>
+        <node name="hangl02tm#2" id="847">
+            <position x="332.837" y="-6120.5" z="-7552.02" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="hangl02tm#2" meshFile="hangl02tm.mesh" castShadows="true" />
+        </node>
+        <node name="parts04#0" id="967">
+            <position x="521.897" y="-6423.42" z="-6981.72" />
+            <rotation qw="-0.156435" qx="0" qy="-0.987688" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="parts04#0" meshFile="parts04.mesh" castShadows="true" />
+        </node>
+        <node name="parts04#1" id="520">
+            <position x="510.482" y="-6423.42" z="-6946.59" />
+            <rotation qw="-0.156435" qx="0" qy="-0.987688" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="parts04#1" meshFile="parts02.mesh" castShadows="true" />
+        </node>
+        <node name="parts02#1" id="722">
+            <position x="559.151" y="-6250.03" z="-7221.03" />
+            <rotation qw="0.0697565" qx="0" qy="-0.997564" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="parts02#1" meshFile="parts01.mesh" castShadows="true" />
+        </node>
+        <node name="reciever_cart01#0" id="202">
+            <position x="147.912" y="-6389.04" z="-7015.98" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="reciever_cart01#0" meshFile="reciever_cart01.mesh" castShadows="true" />
+        </node>
+        <node name="bookcase01#0" id="262">
+            <position x="951.294" y="-6335.04" z="-7764.96" />
+            <rotation qw="0.71934" qx="0" qy="0.694659" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <nocollide run3batcher="true" name="bookcase01#0" meshFile="bookcase01.mesh" castShadows="true" />
+        </node>
+        <node name="bookcase01#1" id="614">
+            <position x="1501.26" y="-6337.03" z="-7869.19" />
+            <rotation qw="0.0348993" qx="0" qy="0.999391" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <nocollide run3batcher="true" name="bookcase01#1" meshFile="bookstand02tm.mesh" castShadows="true" />
+        </node>
+        <node name="radar01tm#0" id="931">
+            <position x="550.711" y="-6324.65" z="-7374.01" />
+            <rotation qw="0.279829" qx="0" qy="-0.96005" qz="0" />
+            <scale x="0.0235676" y="0.0235676" z="0.0235676" />
+            <nocollide run3batcher="true" name="radar01tm#0" meshFile="radar01tm.mesh" castShadows="true" />
+        </node>
+        <node name="forester01#2" id="485">
+            <position x="544.687" y="-6327.55" z="-7366.22" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="0.04" y="0.04" z="0.04" />
+            <nocollide run3batcher="true" name="forester01#2" meshFile="chme3.mesh" castShadows="true" />
+        </node>
+        <node name="forester01#1" id="129">
+            <position x="535.17" y="-6325.51" z="-7376.28" />
+            <rotation qw="0.279829" qx="0" qy="0.96005" qz="0" />
+            <scale x="0.05" y="0.05" z="0.05" />
+            <nocollide run3batcher="true" name="forester01#1" meshFile="forester01.mesh" castShadows="true" />
+        </node>
+        <node name="forester01#0" id="838">
+            <position x="537.773" y="-6325.51" z="-7385.02" />
+            <rotation qw="0.426569" qx="0" qy="0.904455" qz="0" />
+            <scale x="0.05" y="0.05" z="0.05" />
+            <nocollide run3batcher="true" name="forester01#0" meshFile="forester01.mesh" castShadows="true" />
+        </node>
+        <node name="zip_box01tm#1" id="881">
+            <position x="434.476" y="-6456.96" z="-6998.34" />
+            <rotation qw="0.685183" qx="0" qy="0.728371" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="zip_box01tm#1" meshFile="zip_box01tm.mesh" castShadows="true" />
+        </node>
+        <node name="tableprops01_tm#2" id="108">
+            <position x="540.594" y="-6384.1" z="-7326.61" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="tableprops01_tm#2" meshFile="tableprops01_tm.mesh" castShadows="true" />
+        </node>
+        <node name="tbh01#0" id="670">
+            <position x="465.104" y="-6424.4" z="-7169.36" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="tbh01#0" meshFile="tbh01.mesh" castShadows="true" />
+        </node>
+        <node name="filecab01#4" id="700">
+            <position x="944.619" y="-6438.45" z="-7624.79" />
+            <rotation qw="0.121305" qx="0.11817" qy="0.705956" qz="-0.687712" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="filecab01#4" meshFile="filecab01.mesh" castShadows="true" />
+        </node>
+        <node name="foto03#1" id="588">
+            <position x="546.419" y="-6269" z="-7381.25" />
+            <rotation qw="0.977231" qx="0" qy="0.212178" qz="0" />
+            <scale x="60" y="60" z="60" />
+            <nocollide run3batcher="true" name="foto03#1" meshFile="foto04.mesh" castShadows="true" />
+        </node>
+        <node name="sofa014#2" id="83">
+            <position x="851.234" y="-6460.51" z="-7958.34" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <nocollide run3batcher="true" name="sofa014#2" meshFile="sofa014.mesh" castShadows="true" />
+        </node>
+        <node name="door01hl#5" id="535">
+            <position x="2713.14" y="-6447.8" z="-8167.71" />
+            <rotation qw="0.531631" qx="0.531631" qy="0.466228" qz="-0.466228" />
+            <scale x="2.72107" y="2.72107" z="2.72107" />
+            <nocollide run3batcher="true" name="door01hl#5" meshFile="door01hl.mesh" castShadows="true" />
+        </node>
+        <node name="buxlo01#0" id="381">
+            <position x="1201.4" y="-6421" z="-6863" />
+            <rotation qw="0.731354" qx="0" qy="0.681998" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="buxlo01#0" meshFile="buxlo01.mesh" castShadows="true" />
+        </node>
+        <node name="odealo01#0" id="439">
+            <position x="138.603" y="-6437.63" z="-7811.77" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="3.51765" y="3.51765" z="3.51765" />
+            <nocollide run3batcher="true" name="odealo01#0" meshFile="odealo01.mesh" castShadows="true" />
+        </node>
+        <node name="nosok01#0" id="467">
+            <position x="171.945" y="-6459.07" z="-8009.58" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <nocollide run3batcher="true" name="nosok01#0" meshFile="nosok01.mesh" castShadows="true" />
+        </node>
+        <node name="nosok01#1" id="28">
+            <position x="247.725" y="-6459.07" z="-8119.98" />
+            <rotation qw="0.932008" qx="0" qy="-0.362438" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <nocollide run3batcher="true" name="nosok01#1" meshFile="nosok01.mesh" castShadows="true" />
+        </node>
+        <node name="nosok01#2" id="575">
+            <position x="345.395" y="-6459.07" z="-8068.58" />
+            <rotation qw="0.932008" qx="0" qy="-0.362438" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <nocollide run3batcher="true" name="nosok01#2" meshFile="djinsi01.mesh" castShadows="true" />
+        </node>
+        <node name="buxlo01#1" id="58">
+            <position x="1222.76" y="-6392.01" z="-6929.86" />
+            <rotation qw="0.731354" qx="0" qy="0.681998" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="buxlo01#1" meshFile="supp01.mesh" castShadows="true" />
+        </node>
+        <node name="supp01#0" id="27">
+            <position x="1200.62" y="-6389.88" z="-6898.84" />
+            <rotation qw="0.731354" qx="0" qy="0.681998" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="supp01#0" meshFile="kukisi01.mesh" castShadows="true" />
+        </node>
+        <node name="supp01#1" id="105">
+            <position x="1145.4" y="-6364.07" z="-6940.06" />
+            <rotation qw="0.731354" qx="0" qy="0.681998" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="supp01#1" meshFile="hrenkakayato01.mesh" castShadows="true" />
+        </node>
+        <node name="toster01#2" id="526">
+            <position x="1393.6" y="-6373.63" z="-6995.46" />
+            <rotation qw="0.882948" qx="0" qy="-0.469471" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="toster01#2" meshFile="toster01.mesh" castShadows="true" />
+        </node>
+        <node name="toster01#1" id="775">
+            <position x="1397.98" y="-6373.63" z="-6998.35" />
+            <rotation qw="0.880891" qx="0" qy="-0.47332" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="toster01#1" meshFile="toster01.mesh" castShadows="true" />
+        </node>
+        <node name="toster01#0" id="531">
+            <position x="1402.6" y="-6373.63" z="-7001.41" />
+            <rotation qw="0.880891" qx="0" qy="-0.47332" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="toster01#0" meshFile="toster01.mesh" castShadows="true" />
+        </node>
+        <node name="pot_01#3" id="553">
+            <position x="942.9" y="-6346.65" z="-8331.55" />
+            <rotation qw="0.971342" qx="0" qy="0.237686" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <nocollide run3batcher="true" name="pot_01#3" meshFile="dead_rastenie01.mesh" castShadows="true" />
+        </node>

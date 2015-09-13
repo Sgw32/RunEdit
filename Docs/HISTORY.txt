@@ -1,0 +1,17 @@
+Change Log for RunEdit Map Editor for Run3 Game Engine
+______________________________________________________
+v0.1 Stable
+Now you can move objects by your key-pad!
+All critical bugs fixed:
+1)An exeption when wrong material name;
+2)Many bugs when editing phys-objs in object editor
+3)Some wrong with materials of physobjects while loading from DotScene
+v0.1
+Final version - you can select objects by mouse
+v0.1 RC2
+A feature of creating physobjects and on-screen map location.
+v0.1 RC1
+All static object without physobjs. Many glitches
+v0.0
+The first version capable only for static objects - cylinder and box
+_______________________________________________________

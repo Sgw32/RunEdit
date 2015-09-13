@@ -1,0 +1,51 @@
+<scene formatVersion="1.0">
+    <environment>
+        <skyBox material="Examples/MorningSkyBox" />
+        <fog mode="none" />
+    </environment>
+    <nodes>
+        <node name="door01hl#4" id="984">
+            <position x="1013.95" y="-5058.18" z="-5956.74" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="2.30242" y="2.12232" z="2.08986" />
+            <entity name="door01hl#4" meshFile="door01hl.mesh" castShadows="true" />
+        </node>
+        <node name="door01hl#3" id="107">
+            <position x="1013.95" y="-5058.18" z="-6118.53" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="2.30242" y="2.12232" z="2.08986" />
+            <entity name="door01hl#3" meshFile="door01hl.mesh" castShadows="true" />
+        </node>
+        <node name="door01hl#2" id="781">
+            <position x="469.965" y="-5058.18" z="-6363.99" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="2.30242" y="2.12232" z="2.08986" />
+            <entity name="door01hl#2" meshFile="door01hl.mesh" castShadows="true" />
+        </node>
+        <node name="door01hl#1" id="999">
+            <position x="575.706" y="-5058.18" z="-6178.99" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.34758" y="2.08986" z="2.08986" />
+            <entity name="door01hl#1" meshFile="door01hl.mesh" castShadows="true" />
+        </node>
+        <node name="door01hl#0" id="970">
+            <position x="946.52" y="-5058.18" z="-6415.14" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.08986" y="2.08986" z="2.08986" />
+            <entity name="door01hl#0" meshFile="door01hl.mesh" castShadows="true" />
+        </node>
+        <node name="door01hl#6" id="999">
+            <position x="2313.39" y="-5160.14" z="-6271.79" />
+            <rotation qw="0.698401" qx="0.698401" qy="0.110616" qz="-0.110616" />
+            <scale x="2.08986" y="2.08986" z="2.08986" />
+            <entity name="door01hl#6" meshFile="door01hl.mesh" castShadows="true" />
+        </node>
+        <node name="door01hl#7" id="864">
+            <position x="2216.37" y="-5058.18" z="-6151.95" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.34758" y="2.08986" z="2.08986" />
+            <entity name="door01hl#7" meshFile="door01hl.mesh" castShadows="true" />
+        </node>
+    </nodes>
+    <aiNodes />
+</scene>

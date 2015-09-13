@@ -1,0 +1,159 @@
+<scene formatVersion="1.0">
+    <environment>
+        <skyBox material="Examples/MorningSkyBox" />
+        <fog mode="none" />
+    </environment>
+    <nodes>
+        <node name="dolgopr_ts04#0" id="310">
+            <position x="0" y="0" z="0" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="dolgopr_ts04#0" meshFile="dolgopr_ts04.mesh" castShadows="true" />
+        </node>
+        <node name="dolgopr_ts03#0" id="486">
+            <position x="0" y="0" z="0" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="dolgopr_ts03#0" meshFile="dolgopr_ts03.mesh" castShadows="true" />
+        </node>
+        <node name="dolgopr_ts02#0" id="492">
+            <position x="0" y="0" z="0" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="dolgopr_ts02#0" meshFile="dolgopr_ts02.mesh" castShadows="true" />
+        </node>
+        <node name="dolgopr_ts01#0" id="753">
+            <position x="0" y="0" z="0" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="dolgopr_ts01#0" meshFile="dolgopr_ts01.mesh" castShadows="true" />
+        </node>
+        <node name="dolgopr04_2#0" id="946">
+            <position x="0" y="0" z="0" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="dolgopr04_2#0" meshFile="dolgopr04_2.mesh" castShadows="true" />
+        </node>
+        <node name="dolgopr02#0" id="841">
+            <position x="0" y="0" z="0" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="dolgopr02#0" meshFile="dolgopr02.mesh" castShadows="true" />
+        </node>
+        <node name="dolgopr01_1#0" id="102">
+            <position x="0" y="0" z="0" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="dolgopr01_1#0" meshFile="dolgopr01_1.mesh" castShadows="true" />
+        </node>
+        <node name="dolgopr04_1#0" id="624">
+            <position x="0" y="0" z="0" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="dolgopr04_1#0" meshFile="dolgopr04_1.mesh" castShadows="true" />
+        </node>
+        <node name="dolgopr01_2#0" id="613">
+            <position x="0" y="0" z="0" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="dolgopr01_2#0" meshFile="dolgopr01_2.mesh" castShadows="true" />
+        </node>
+        <node name="dolgopr03_1#0" id="19">
+            <position x="0" y="0" z="0" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="dolgopr03_1#0" meshFile="dolgopr03_1.mesh" castShadows="true" />
+        </node>
+        <node name="dolgopr04_8#0" id="957">
+            <position x="0" y="0" z="0" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="dolgopr04_8#0" meshFile="dolgopr04_8.mesh" castShadows="true" />
+        </node>
+        <node name="dolgopr01_3#0" id="541">
+            <position x="0" y="0" z="0" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="dolgopr01_3#0" meshFile="dolgopr01_3.mesh" castShadows="true" />
+        </node>
+        <node name="dolgopr03#0" id="239">
+            <position x="0" y="0" z="0" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="dolgopr03#0" meshFile="dolgopr03.mesh" castShadows="true" />
+        </node>
+        <node name="dolgopr04_3#0" id="683">
+            <position x="0" y="0" z="0" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="dolgopr04_3#0" meshFile="dolgopr04_3.mesh" castShadows="true" />
+        </node>
+        <node name="dolgopr04_4#0" id="527">
+            <position x="0" y="0" z="0" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="dolgopr04_4#0" meshFile="dolgopr04_4.mesh" castShadows="true" />
+        </node>
+        <node name="dolgopr04_5#0" id="477">
+            <position x="0" y="0" z="0" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="dolgopr04_5#0" meshFile="dolgopr04_5.mesh" castShadows="true" />
+        </node>
+        <node name="dolgopr05#0" id="528">
+            <position x="0" y="0" z="0" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="dolgopr05#0" meshFile="dolgopr05.mesh" castShadows="true" />
+        </node>
+        <node name="dolgopr04_6#0" id="170">
+            <position x="0" y="0" z="0" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="dolgopr04_6#0" meshFile="dolgopr04_6.mesh" castShadows="true" />
+        </node>
+        <node name="dolgopr04_7#0" id="916">
+            <position x="0" y="0" z="0" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="dolgopr04_7#0" meshFile="dolgopr04_7.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb8#0" id="341">
+            <position x="25581.9" y="199.618" z="-385.633" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="moscowb8#0" meshFile="moscowb8.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb8#1" id="797">
+            <position x="30079.1" y="199.618" z="3367.15" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="moscowb8#1" meshFile="moscowb8.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb8#2" id="476">
+            <position x="36238.8" y="-18.6846" z="12439.5" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="moscowb8#2" meshFile="moscowb2.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb4#0" id="677">
+            <position x="6216.54" y="236.856" z="-14650.3" />
+            <rotation qw="0.79069" qx="0" qy="0.612217" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="moscowb4#0" meshFile="moscowb4.mesh" castShadows="true" />
+        </node>
+        <node name="light0Node" id="618">
+            <position x="11782.2" y="12093.6" z="-25707.5" />
+            <rotation qw="-0.16926" qx="0.030668" qy="-0.969312" qz="-0.175629" />
+            <scale x="1" y="1" z="1" />
+            <light name="light0" castShadows="true" type="spot">
+                <colourDiffuse r="1" g="1" b="1" />
+                <colourSpecular r="1" g="1" b="1" />
+                <normal x="0" y="0" z="-1" />
+                <lightAttenuation range="1000" />
+                <lightRange inner="70" outer="90" />
+            </light>
+        </node>
+    </nodes>
+    <aiNodes />
+</scene>

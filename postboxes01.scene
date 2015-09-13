@@ -1,0 +1,51 @@
+<scene formatVersion="1.0">
+    <environment>
+        <skyBox material="Examples/MorningSkyBox" />
+        <fog mode="none" />
+    </environment>
+    <nodes>
+        <node name="debris03#6" id="249">
+            <position x="2755.8" y="-349.525" z="-2803.23" />
+            <rotation qw="0.96005" qx="0" qy="0.279829" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <nocollide run3batcher="true" name="debris03#6" meshFile="debris03.mesh" castShadows="true" />
+        </node>
+        <node name="debris03#7" id="373">
+            <position x="2728.53" y="-349.525" z="-3868.63" />
+            <rotation qw="0.173648" qx="0" qy="-0.984808" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <nocollide run3batcher="true" name="debris03#7" meshFile="debris03.mesh" castShadows="true" />
+        </node>
+        <node name="postboxes01#0" id="293">
+            <position x="1946" y="-485.195" z="-4106.2" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <nocollide run3batcher="true" name="postboxes01#0" meshFile="postboxes01.mesh" castShadows="true" />
+        </node>
+        <node name="postboxes01#1" id="698">
+            <position x="1946" y="-415.258" z="-4106.2" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <nocollide run3batcher="true" name="postboxes01#1" meshFile="postboxes01.mesh" castShadows="true" />
+        </node>
+        <node name="postboxes01#2" id="631">
+            <position x="1946" y="-348.11" z="-4106.2" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <nocollide run3batcher="true" name="postboxes01#2" meshFile="postboxes01.mesh" castShadows="true" />
+        </node>
+        <node name="postboxes01#3" id="706">
+            <position x="2335.75" y="-355.06" z="-3963.9" />
+            <rotation qw="-0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <nocollide run3batcher="true" name="postboxes01#3" meshFile="postboxes01.mesh" castShadows="true" />
+        </node>
+        <node name="postboxes01#4" id="839">
+            <position x="2335.75" y="-422.207" z="-3963.9" />
+            <rotation qw="-0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <nocollide run3batcher="true" name="postboxes01#4" meshFile="postboxes01.mesh" castShadows="true" />
+        </node>
+    </nodes>
+    <aiNodes />
+</scene>

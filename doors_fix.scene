@@ -1,0 +1,129 @@
+<scene formatVersion="1.0">
+    <environment>
+        <skyBox material="Examples/MorningSkyBox" />
+        <fog mode="none" />
+    </environment>
+    <nodes>
+        <node name="blastdemo01#0" id="900">
+            <position x="16220.1" y="-523.678" z="7787.44" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="3.86908" y="4.60336" z="4.60336" />
+            <entity name="blastdemo01#0" meshFile="blastdemo01.mesh" castShadows="true" />
+        </node>
+        <node name="blastdemo01#1" id="846">
+            <position x="15679.1" y="-523.678" z="7834" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="3.86908" y="4.60336" z="4.60336" />
+            <entity name="blastdemo01#1" meshFile="blastdemo01.mesh" castShadows="true" />
+        </node>
+        <node name="door03_anim01#0" id="152">
+            <position x="5321.52" y="-447.934" z="6691.2" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="3.48184" y="2.63066" z="2" />
+            <entity name="door03_anim01#0" meshFile="door03_anim01.mesh" castShadows="true" />
+        </node>
+        <node name="blastdemo01#2" id="714">
+            <position x="5339.36" y="-444.606" z="5668.6" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.6499" y="3.47888" z="2" />
+            <entity name="blastdemo01#2" meshFile="blastdemo01.mesh" castShadows="true" />
+        </node>
+        <node name="door03_anim01#2" id="395">
+            <position x="6950.36" y="-487.656" z="-6034.26" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.04842" y="2.44374" z="2" />
+            <entity name="door03_anim01#2" meshFile="door03_anim01.mesh" castShadows="true" />
+        </node>
+        <node name="door03_anim01#1" id="676">
+            <position x="6938.62" y="-494.692" z="-6676.38" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.04842" y="2.44374" z="2" />
+            <entity name="door03_anim01#1" meshFile="door03_anim01.mesh" castShadows="true" />
+        </node>
+        <node name="blastdemo01#3" id="952">
+            <position x="15845.2" y="-523.678" z="9414.46" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="1.93178" y="3.03618" z="3.03618" />
+            <entity name="blastdemo01#3" meshFile="blastdemo01.mesh" castShadows="true" />
+        </node>
+        <node name="blastdemo01#4" id="94">
+            <position x="16116" y="-523.678" z="9385.18" />
+            <rotation qw="-1" qx="0" qy="-2.90573e-007" qz="0" />
+            <scale x="1.93178" y="3.03618" z="3.03618" />
+            <entity name="blastdemo01#4" meshFile="blastdemo01.mesh" castShadows="true" />
+        </node>
+        <node name="blastdemo01#5" id="321">
+            <position x="16116" y="641.144" z="9385.18" />
+            <rotation qw="-1" qx="0" qy="-2.90573e-007" qz="0" />
+            <scale x="1.93178" y="3.03618" z="3.03618" />
+            <entity name="blastdemo01#5" meshFile="blastdemo01.mesh" castShadows="true" />
+        </node>
+        <node name="blastdemo01#6" id="637">
+            <position x="15841.6" y="641.144" z="9414.46" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="1.93178" y="3.03618" z="3.03618" />
+            <entity name="blastdemo01#6" meshFile="blastdemo01.mesh" castShadows="true" />
+        </node>
+        <node name="blastdemo01#7" id="299">
+            <position x="16116" y="641.144" z="4910.24" />
+            <rotation qw="-1" qx="0" qy="-2.90573e-007" qz="0" />
+            <scale x="1.93178" y="3.03618" z="3.03618" />
+            <entity name="blastdemo01#7" meshFile="blastdemo01.mesh" castShadows="true" />
+        </node>
+        <node name="blastdemo01#8" id="583">
+            <position x="15843.6" y="641.144" z="4938.54" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="1.93178" y="3.03618" z="3.03618" />
+            <entity name="blastdemo01#8" meshFile="blastdemo01.mesh" castShadows="true" />
+        </node>
+        <node name="elevdoor01#0" id="209">
+            <position x="1284.18" y="-235.418" z="-2444.16" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="elevdoor01#0" meshFile="elevdoor01.mesh" castShadows="true" />
+        </node>
+        <node name="elevdoor01#1" id="131">
+            <position x="1221.77" y="-235.418" z="-2444.66" />
+            <rotation qw="-1.78814e-007" qx="0" qy="1" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="elevdoor01#1" meshFile="elevdoor01.mesh" castShadows="true" />
+        </node>
+        <node name="bmp_metro01#1" id="598">
+            <position x="12662.2" y="-493.774" z="892.166" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="2.09424" y="1.7809" z="1.37172" />
+            <entity name="bmp_metro01#1" meshFile="door_metal_tlwh2.mesh" castShadows="true" />
+        </node>
+        <node name="door_metal_tlwh2#0" id="749">
+            <position x="3824.84" y="-486.478" z="7107.36" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.09424" y="1.7809" z="1.48631" />
+            <entity name="door_metal_tlwh2#0" meshFile="door_metal_tlwh2.mesh" castShadows="true" />
+        </node>
+        <node name="door_metal_tlwh2#1" id="866">
+            <position x="13859.8" y="-493.774" z="892.166" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="2.09424" y="1.7809" z="1.37172" />
+            <entity name="door_metal_tlwh2#1" meshFile="door_metal_tlwh2.mesh" castShadows="true" />
+        </node>
+        <node name="train_tlw01_nm_doors2#0" id="889">
+            <position x="16817.5" y="493.87" z="8642.98" />
+            <rotation qw="-1" qx="0" qy="-2.38419e-007" qz="0" />
+            <scale x="2.6053" y="2.6053" z="2.8053" />
+            <entity name="train_tlw01_nm_doors2#0" meshFile="train_tlw01_nm_doors2.mesh" castShadows="true" />
+        </node>
+        <node name="train_tlw01_nm_doors2#1" id="339">
+            <position x="16819.1" y="493.87" z="4984.56" />
+            <rotation qw="4.0134e-007" qx="0" qy="-1" qz="0" />
+            <scale x="2.6053" y="2.6053" z="2.8053" />
+            <entity name="train_tlw01_nm_doors2#1" meshFile="train_tlw01_nm_doors2.mesh" castShadows="true" />
+        </node>
+        <node name="train_tlw01_nm_doors2#2" id="289">
+            <position x="16817.5" y="493.87" z="6899.16" />
+            <rotation qw="-1" qx="0" qy="-2.38419e-007" qz="0" />
+            <scale x="2.6053" y="2.6053" z="2.8053" />
+            <entity name="train_tlw01_nm_doors2#2" meshFile="train_tlw01_nm_doors2.mesh" castShadows="true" />
+        </node>
+    </nodes>
+    <aiNodes />
+</scene>

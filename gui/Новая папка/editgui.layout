@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<GUILayout >
+    <Window Type="DefaultWindow" Name="root" >
+        <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+        <Property Name="UnifiedAreaRect" Value="{{0,0},{0,0},{1,0},{1,0}}" />
+        <Window Type="DefaultWindow" Name="OgreGuiDemo" >
+            <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+            <Property Name="UnifiedAreaRect" Value="{{0.00292969,0},{0.212468,0},{0.186523,0},{1.00127,0}}" />
+            <Window Type="TaharezLook/FrameWindow" Name="OgreGuiDemo/" >
+                <Property Name="TitlebarFont" Value="Commonwealth-10" />
+                <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                <Property Name="TitlebarEnabled" Value="True" />
+                <Property Name="UnifiedAreaRect" Value="{{0.00736371,0},{0.0216529,0},{0.908128,0},{0.992981,0}}" />
+                <Window Type="TaharezLook/Button" Name="Box" >
+                    <Property Name="Text" Value="Box" />
+                    <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.116212,0},{0.0733542,0},{0.929434,0},{0.114444,0}}" />
+                </Window>
+                <Window Type="TaharezLook/Button" Name="Cylinder" >
+                    <Property Name="Font" Value="Commonwealth-10" />
+                    <Property Name="Text" Value="Cylinder" />
+                    <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.111385,0},{0.124825,0},{0.924607,0},{0.165915,0}}" />
+                </Window>
+                <Window Type="TaharezLook/Button" Name="Terrain" >
+                    <Property Name="Font" Value="Commonwealth-10" />
+                    <Property Name="Text" Value="Terrain" />
+                    <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.111699,0},{0.283673,0},{0.924921,0},{0.324763,0}}" />
+                </Window>
+                <Window Type="TaharezLook/Button" Name="Prefabs" >
+                    <Property Name="Font" Value="Commonwealth-10" />
+                    <Property Name="Text" Value="Prefabs" />
+                    <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.111857,0},{0.335144,0},{0.925079,0},{0.376234,0}}" />
+                </Window>
+                <Window Type="TaharezLook/Button" Name="Open" >
+                    <Property Name="Font" Value="Commonwealth-10" />
+                    <Property Name="Text" Value="Open" />
+                    <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.126495,0},{0.761828,0},{0.939717,0},{0.802919,0}}" />
+                </Window>
+                <Window Type="TaharezLook/StaticText" Name="Landscp" >
+                    <Property Name="Font" Value="Commonwealth-10" />
+                    <Property Name="Text" Value="Landscape editor" />
+                    <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.161384,0},{0.69857,0},{0.884889,0},{0.745545,0}}" />
+                </Window>
+                <Window Type="TaharezLook/Button" Name="Other" >
+                    <Property Name="Font" Value="Commonwealth-10" />
+                    <Property Name="Text" Value="Other" />
+                    <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.126652,0},{0.895686,0},{0.939874,0},{0.936777,0}}" />
+                </Window>
+                <Window Type="TaharezLook/Button" Name="Advanced" >
+                    <Property Name="Font" Value="Commonwealth-10" />
+                    <Property Name="Text" Value="Adv. Entities" />
+                    <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.121668,0},{0.179219,0},{0.93489,0},{0.220309,0}}" />
+                </Window>
+                <Window Type="TaharezLook/Button" Name="Noclip" >
+                    <Property Name="Font" Value="Commonwealth-10" />
+                    <Property Name="Text" Value="Test" />
+                    <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.121825,0},{0.847117,0},{0.935047,0},{0.888208,0}}" />
+                </Window>
+                <Window Type="TaharezLook/Button" Name="Mesh1" >
+                    <Property Name="Font" Value="Commonwealth-10" />
+                    <Property Name="Text" Value="Phys" />
+                    <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.120206,0},{0.230536,0},{0.933428,0},{0.271626,0}}" />
+                </Window>
+                <Window Type="TaharezLook/Button" Name="Prefabs1" >
+                    <Property Name="Font" Value="Commonwealth-10" />
+                    <Property Name="Text" Value="Tools" />
+                    <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.114616,0},{0.385144,0},{0.927838,0},{0.426234,0}}" />
+                </Window>
+                <Window Type="TaharezLook/Button" Name="Prefabs11" >
+                    <Property Name="Font" Value="Commonwealth-10" />
+                    <Property Name="Text" Value="Light" />
+                    <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.117375,0},{0.436804,0},{0.930597,0},{0.477894,0}}" />
+                </Window>
+            </Window>
+        </Window>
+        <Window Type="DefaultWindow" Name="OgreGuiDemo2" >
+            <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+            <Property Name="UnifiedAreaRect" Value="{{0.177735,0},{0.382952,0},{0.55957,0},{0.991093,0}}" />
+            <Window Type="TaharezLook/FrameWindow" Name="OgreGuiDemo2/MainWindow" >
+                <Property Name="Text" Value="Primitive" />
+                <Property Name="TitlebarFont" Value="Commonwealth-10" />
+                <Property Name="RollUpEnabled" Value="False" />
+                <Property Name="SizingEnabled" Value="False" />
+                <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                <Property Name="TitlebarEnabled" Value="True" />
+                <Property Name="UnifiedAreaRect" Value="{{0.0159978,0},{0.0356803,0},{0.808131,0},{0.965312,0}}" />
+                <Property Name="CloseButtonEnabled" Value="False" />
+                <Window Type="TaharezLook/Editbox" Name="Root//" >
+                    <Property Name="MaxTextLength" Value="1073741823" />
+                    <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.339441,0},{0.276728,0},{0.956348,0},{0.325502,0}}" />
+                </Window>
+                <Window Type="TaharezLook/Button" Name="Root//1" >
+                    <Property Name="Text" Value="OK" />
+                    <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.750292,0},{0.93253,0},{0.954328,0},{0.974292,0}}" />
+                </Window>
+                <Window Type="TaharezLook/Button" Name="Root//Text" >
+                    <Property Name="Text" Value="Close" />
+                    <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.514643,0},{0.929946,0},{0.718679,0},{0.971708,0}}" />
+                </Window>
+                <Window Type="TaharezLook/StaticText" Name="Root//2" >
+                    <Property Name="Text" Value="Position" />
+                    <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.045773,0},{0.264805,0},{0.323117,0},{0.331238,0}}" />
+                </Window>
+                <Window Type="TaharezLook/Editbox" Name="Root//3" >
+                    <Property Name="MaxTextLength" Value="1073741823" />
+                    <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.34001,0},{0.369742,0},{0.952871,0},{0.418513,0}}" />
+                </Window>
+                <Window Type="TaharezLook/StaticText" Name="Root//21" >
+                    <Property Name="Font" Value="Commonwealth-10" />
+                    <Property Name="Text" Value="Scale" />
+                    <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.045773,0},{0.354264,0},{0.323117,0},{0.420697,0}}" />
+                </Window>
+                <Window Type="TaharezLook/StaticText" Name="Root//212" >
+                    <Property Name="Font" Value="Commonwealth-10" />
+                    <Property Name="Text" Value="Orient" />
+                    <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.045773,0},{0.445113,0},{0.323117,0},{0.512494,0}}" />
+                </Window>
+                <Window Type="TaharezLook/Editbox" Name="Root//31" >
+                    <Property Name="Font" Value="Commonwealth-10" />
+                    <Property Name="MaxTextLength" Value="1073741823" />
+                    <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.341672,0},{0.452764,0},{0.954533,0},{0.501537,0}}" />
+                </Window>
+                <Window Type="TaharezLook/Editbox" Name="Root//311" >
+                    <Property Name="Font" Value="Commonwealth-10" />
+                    <Property Name="MaxTextLength" Value="1073741823" />
+                    <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.340312,0},{0.528499,0},{0.953173,0},{0.577272,0}}" />
+                </Window>
+                <Window Type="TaharezLook/StaticText" Name="Root//2121" >
+                    <Property Name="Font" Value="Commonwealth-10" />
+                    <Property Name="Text" Value="Material" />
+                    <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.045773,0},{0.523507,0},{0.323117,0},{0.590887,0}}" />
+                </Window>
+                <Window Type="TaharezLook/Editbox" Name="Root//3111" >
+                    <Property Name="Font" Value="Commonwealth-10" />
+                    <Property Name="MaxTextLength" Value="1073741823" />
+                    <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.0528191,0},{0.605453,0},{0.18001,0},{0.654225,0}}" />
+                </Window>
+                <Window Type="TaharezLook/Editbox" Name="Root//3114" >
+                    <Property Name="Font" Value="Commonwealth-10" />
+                    <Property Name="MaxTextLength" Value="1073741823" />
+                    <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.198369,0},{0.607783,0},{0.325561,0},{0.656555,0}}" />
+                </Window>
+                <Window Type="TaharezLook/Editbox" Name="Root//31141" >
+                    <Property Name="Font" Value="Commonwealth-10" />
+                    <Property Name="MaxTextLength" Value="1073741823" />
+                    <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.362489,0},{0.608238,0},{0.483647,0},{0.65701,0}}" />
+                </Window>
+                <Window Type="TaharezLook/Editbox" Name="Root//31111" >
+                    <Property Name="Font" Value="Commonwealth-10" />
+                    <Property Name="MaxTextLength" Value="1073741823" />
+                    <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.519397,0},{0.609494,0},{0.643573,0},{0.658267,0}}" />
+                </Window>
+                <Window Type="TaharezLook/StaticText" Name="Root//22" >
+                    <Property Name="Font" Value="Commonwealth-10" />
+                    <Property Name="Text" Value="Name" />
+                    <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.045773,0},{0.174565,0},{0.323117,0},{0.240998,0}}" />
+                </Window>
+                <Window Type="TaharezLook/Editbox" Name="Root//4" >
+                    <Property Name="Font" Value="Commonwealth-10" />
+                    <Property Name="MaxTextLength" Value="1073741823" />
+                    <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.337429,0},{0.184356,0},{0.954336,0},{0.233128,0}}" />
+                </Window>
+                <Window Type="TaharezLook/Button" Name="Root//Text1" >
+                    <Property Name="Font" Value="Commonwealth-10" />
+                    <Property Name="Text" Value="Change" />
+                    <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.288169,0},{0.931131,0},{0.492205,0},{0.972893,0}}" />
+                </Window>
+                <Window Type="TaharezLook/Button" Name="Root//Text11" >
+                    <Property Name="Font" Value="Commonwealth-10" />
+                    <Property Name="Text" Value="Get" />
+                    <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.0723003,0},{0.932316,0},{0.276337,0},{0.974078,0}}" />
+                </Window>
+                <Window Type="TaharezLook/Editbox" Name="Root//41" >
+                    <Property Name="Font" Value="Commonwealth-10" />
+                    <Property Name="MaxTextLength" Value="1073741823" />
+                    <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.333796,0},{0.109389,0},{0.950703,0},{0.158161,0}}" />
+                </Window>
+                <Window Type="TaharezLook/StaticText" Name="Root//221" >
+                    <Property Name="Font" Value="Commonwealth-10" />
+                    <Property Name="Text" Value="File" />
+                    <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.045773,0},{0.091811,0},{0.323117,0},{0.163144,0}}" />
+                </Window>
+                <Window Type="TaharezLook/Combobox" Name="OgreGuiDemo2/MainWindow/" >
+                    <Property Name="ReadOnly" Value="True" />
+                    <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.0656118,0},{0.674391,0},{0.623303,0},{0.879094,0}}" />
+                    <Property Name="MaxEditTextLength" Value="1073741823" />
+                </Window>
+            </Window>
+        </Window>
+        <Window Type="DefaultWindow" Name="OgreGuiDemo1" >
+            <Property Name="Font" Value="Commonwealth-10" />
+            <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+            <Property Name="UnifiedAreaRect" Value="{{0.00019531,0},{0.006743,0},{0.967969,0},{0.201399,0}}" />
+            <Window Type="TaharezLook/FrameWindow" Name="OgreGuiDemo1/" >
+                <Property Name="TitlebarFont" Value="Commonwealth-10" />
+                <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                <Property Name="TitlebarEnabled" Value="True" />
+                <Property Name="UnifiedAreaRect" Value="{{-0.00272448,0},{-0.0215869,0},{0.812361,0},{0.943209,0}}" />
+                <Window Type="TaharezLook/Button" Name="Open_1" >
+                    <Property Name="Font" Value="Commonwealth-10" />
+                    <Property Name="Text" Value="Open" />
+                    <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.0189385,0},{0.753375,0},{0.197725,0},{0.928799,0}}" />
+                </Window>
+                <Window Type="TaharezLook/Button" Name="Save1" >
+                    <Property Name="Font" Value="Commonwealth-10" />
+                    <Property Name="Text" Value="New" />
+                    <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.0216496,0},{0.326254,0},{0.200436,0},{0.501678,0}}" />
+                </Window>
+                <Window Type="TaharezLook/Button" Name="Save" >
+                    <Property Name="Font" Value="Commonwealth-10" />
+                    <Property Name="Text" Value="Save" />
+                    <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.0202616,0},{0.525424,0},{0.199048,0},{0.700848,0}}" />
+                </Window>
+                <Window Type="TaharezLook/Button" Name="Copy" >
+                    <Property Name="Font" Value="Commonwealth-10" />
+                    <Property Name="Text" Value="Copy" />
+                    <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.206821,0},{0.322033,0},{0.385607,0},{0.497457,0}}" />
+                </Window>
+                <Window Type="TaharezLook/Button" Name="Delete" >
+                    <Property Name="Font" Value="Commonwealth-10" />
+                    <Property Name="Text" Value="Delete" />
+                    <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.207824,0},{0.532203,0},{0.38661,0},{0.707627,0}}" />
+                </Window>
+                <Window Type="TaharezLook/Button" Name="Open_11" >
+                    <Property Name="Font" Value="Commonwealth-10" />
+                    <Property Name="Text" Value="Merge" />
+                    <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.207974,0},{0.753381,0},{0.38676,0},{0.928805,0}}" />
+                </Window>
+                <Window Type="TaharezLook/Button" Name="Assign" >
+                    <Property Name="Font" Value="Commonwealth-10" />
+                    <Property Name="Text" Value="Assign Script" />
+                    <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.399398,0},{0.423727,0},{0.596239,0},{0.802543,0}}" />
+                </Window>
+                <Window Type="TaharezLook/Button" Name="Edit_feat" >
+                    <Property Name="Font" Value="Commonwealth-10" />
+                    <Property Name="Text" Value="Edit worldscape" />
+                    <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.603861,0},{0.433049,0},{0.800702,0},{0.811865,0}}" />
+                </Window>
+            </Window>
+        </Window>
+        <Window Type="DefaultWindow" Name="SaveLoadDialog" >
+            <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+            <Property Name="UnifiedAreaRect" Value="{{0.212695,0},{0.212723,0},{0.699024,0},{0.344402,0}}" />
+            <Window Type="TaharezLook/FrameWindow" Name="SaveLoadDialog/" >
+                <Property Name="Text" Value="Save" />
+                <Property Name="TitlebarFont" Value="Commonwealth-10" />
+                <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                <Property Name="TitlebarEnabled" Value="True" />
+                <Property Name="UnifiedAreaRect" Value="{{-0.00456119,0},{0.0198073,0},{0.815968,0},{0.926811,0}}" />
+                <Window Type="TaharezLook/Editbox" Name="SaveLoadDialog//save" >
+                    <Property Name="MaxTextLength" Value="1073741823" />
+                    <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.0504673,0},{0.540879,0},{0.658202,0},{0.790878,0}}" />
+                </Window>
+                <Window Type="TaharezLook/Button" Name="SaveLoadDialog//sbut" >
+                    <Property Name="Text" Value="Ok" />
+                    <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.690023,0},{0.540879,0},{0.946883,0},{0.790878,0}}" />
+                </Window>
+            </Window>
+        </Window>
+        <Window Type="DefaultWindow" Name="root/" >
+            <Property Name="Text" Value="ADent" />
+            <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+            <Property Name="UnifiedAreaRect" Value="{{0.569531,0},{0.405598,0},{0.974805,0},{0.972391,0}}" />
+            <Window Type="TaharezLook/FrameWindow" Name="root//" >
+                <Property Name="Text" Value="Light" />
+                <Property Name="TitlebarFont" Value="Commonwealth-10" />
+                <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                <Property Name="TitlebarEnabled" Value="True" />
+                <Property Name="UnifiedAreaRect" Value="{{0.01,0},{0.0185737,0},{0.859899,0},{0.977401,0}}" />
+                <Window Type="TaharezLook/Button" Name="Root//11" >
+                    <Property Name="Font" Value="Commonwealth-10" />
+                    <Property Name="Text" Value="OK" />
+                    <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.73867,0},{0.931027,0},{0.942706,0},{0.972789,0}}" />
+                </Window>
+                <Window Type="TaharezLook/Button" Name="Root//Text2" >
+                    <Property Name="Font" Value="Commonwealth-10" />
+                    <Property Name="Text" Value="Close" />
+                    <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.514643,0},{0.929946,0},{0.718679,0},{0.971708,0}}" />
+                </Window>
+                <Window Type="TaharezLook/Button" Name="Root//Text12" >
+                    <Property Name="Font" Value="Commonwealth-10" />
+                    <Property Name="Text" Value="Change" />
+                    <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.288169,0},{0.931131,0},{0.492205,0},{0.972893,0}}" />
+                </Window>
+                <Window Type="TaharezLook/Button" Name="Root//Text111" >
+                    <Property Name="Font" Value="Commonwealth-10" />
+                    <Property Name="Text" Value="Get" />
+                    <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.0723003,0},{0.932316,0},{0.276337,0},{0.974078,0}}" />
+                </Window>
+                <Window Type="TaharezLook/Editbox" Name="Root//42" >
+                    <Property Name="Font" Value="Commonwealth-10" />
+                    <Property Name="MaxTextLength" Value="1073741823" />
+                    <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.325719,0},{0.11028,0},{0.942626,0},{0.159052,0}}" />
+                </Window>
+                <Window Type="TaharezLook/StaticText" Name="Root//222" >
+                    <Property Name="Font" Value="Commonwealth-10" />
+                    <Property Name="Text" Value="Name" />
+                    <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.0633477,0},{0.0973101,0},{0.300595,0},{0.163743,0}}" />
+                </Window>
+                <Window Type="TaharezLook/StaticText" Name="Root//23" >
+                    <Property Name="Font" Value="Commonwealth-10" />
+                    <Property Name="Text" Value="Position" />
+                    <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.0607104,0},{0.178186,0},{0.297956,0},{0.244619,0}}" />
+                </Window>
+                <Window Type="TaharezLook/Editbox" Name="Root//5" >
+                    <Property Name="Font" Value="Commonwealth-10" />
+                    <Property Name="MaxTextLength" Value="1073741823" />
+                    <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.325463,0},{0.19245,0},{0.94237,0},{0.241224,0}}" />
+                </Window>
+                <Window Type="TaharezLook/StaticText" Name="Root//231" >
+                    <Property Name="Font" Value="Commonwealth-10" />
+                    <Property Name="Text" Value="Diffuse(RGB)" />
+                    <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.0508303,0},{0.263302,0},{0.301604,0},{0.329735,0}}" />
+                </Window>
+                <Window Type="TaharezLook/Editbox" Name="Root//51" >
+                    <Property Name="Font" Value="Commonwealth-10" />
+                    <Property Name="MaxTextLength" Value="1073741823" />
+                    <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.328259,0},{0.272046,0},{0.945166,0},{0.32082,0}}" />
+                </Window>
+                <Window Type="TaharezLook/Editbox" Name="Root//512" >
+                    <Property Name="Font" Value="Commonwealth-10" />
+                    <Property Name="MaxTextLength" Value="1073741823" />
+                    <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.322027,0},{0.348635,0},{0.938933,0},{0.397409,0}}" />
+                </Window>
+                <Window Type="TaharezLook/StaticText" Name="Root//2312" >
+                    <Property Name="Font" Value="Commonwealth-10" />
+                    <Property Name="Text" Value="Specular(RGB)" />
+                    <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.0480347,0},{0.345239,0},{0.29351,0},{0.411672,0}}" />
+                </Window>
+            </Window>
+        </Window>
+    </Window>
+</GUILayout>

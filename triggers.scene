@@ -1,0 +1,28 @@
+<scene formatVersion="1.0">
+    <environment>
+        <skyBox material="Examples/MorningSkyBox" />
+        <fog mode="none" />
+    </environment>
+    <nodes>
+        <node name="trigget1" id="838">
+            <position x="1710.15" y="-282.8" z="-3484.54" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="346.186" y="247.142" z="107.546" />
+            <entity name="trigget1" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="box#0" id="141">
+            <position x="6900.34" y="-372.754" z="-6614.78" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="346.186" y="247.142" z="107.546" />
+            <entity name="box#0" meshFile="box.mesh" castShadows="true" />
+        </node>
+
+        <node name="box#2" id="460">
+            <position x="5172.54" y="-372.756" z="6700.9" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="346.186" y="392.942" z="53.957" />
+            <entity name="box#2" meshFile="box.mesh" castShadows="true" />
+        </node>
+    </nodes>
+    <aiNodes />
+</scene>

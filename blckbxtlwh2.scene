@@ -1,0 +1,207 @@
+<scene formatVersion="1.0">
+    <environment>
+        <skyBox material="Examples/MorningSkyBox" />
+        <fog mode="none" />
+    </environment>
+    <nodes>
+        <node name="vokzal_ambience" id="698">
+            <position x="19614.1" y="-410.337" z="11008.8" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="75" y="75" z="75" />
+            <entity name="vokzal_ambience" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="monitor02#0" id="830">
+            <position x="1843.89" y="-280.467" z="-3095.55" />
+            <rotation qw="-1.37836e-007" qx="0" qy="1" qz="0" />
+            <scale x="5" y="5" z="5" />
+            <entity name="monitor02#0" meshFile="monitor02.mesh" castShadows="true" />
+        </node>
+        <node name="couchm01#1" id="369">
+            <position x="2271.05" y="-457.928" z="-3201.03" />
+            <rotation qw="0.296541" qx="0" qy="-0.95502" qz="0" />
+            <scale x="90.0885" y="90.0885" z="90.0885" />
+            <entity name="couchm01#1" meshFile="couchm01.mesh" castShadows="true" />
+        </node>
+        <node name="trigget1" id="255">
+            <position x="2137.69" y="-353.5" z="-4355.67" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="432.733" y="308.927" z="134.433" />
+            <entity name="trigget1" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="garbage02a#3" id="323">
+            <position x="1270.11" y="-440.622" z="-3243.58" />
+            <rotation qw="-0.760406" qx="0" qy="-0.649448" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity name="garbage02a#3" meshFile="garbage02a.mesh" castShadows="true" />
+        </node>
+        <node name="garbage02a#1" id="151">
+            <position x="1787.16" y="-440.622" z="-3365.78" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity name="garbage02a#1" meshFile="garbage02a.mesh" castShadows="true" />
+        </node>
+        <node name="garbage02a#2" id="940">
+            <position x="1449.4" y="-440.622" z="-3365.78" />
+            <rotation qw="0.386711" qx="0" qy="-0.922201" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity name="garbage02a#2" meshFile="garbage02a.mesh" castShadows="true" />
+        </node>
+        <node name="garbage01b#2" id="264">
+            <position x="1939.07" y="-445.168" z="-3351.15" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity name="garbage01b#2" meshFile="garbage01b.mesh" castShadows="true" />
+        </node>
+        <node name="garbage01b#3" id="137">
+            <position x="2318" y="-445.168" z="-3351.15" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity name="garbage01b#3" meshFile="garbage01b.mesh" castShadows="true" />
+        </node>
+        <node name="couch01a#3" id="19">
+            <position x="1489.58" y="-400.983" z="-4066.7" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity name="couch01a#3" meshFile="couch01a.mesh" castShadows="true" />
+        </node>
+        <node name="carpte01#4" id="483">
+            <position x="2132.41" y="-450.325" z="-3250.13" />
+            <rotation qw="0.870356" qx="0" qy="0.492424" qz="0" />
+            <scale x="61.6015" y="9.03098" z="61.6015" />
+            <entity name="carpte01#4" meshFile="carpte01.mesh" castShadows="true" />
+        </node>
+        <node name="carpte01#5" id="768">
+            <position x="1705.27" y="-450.325" z="-3293.63" />
+            <rotation qw="0.92554" qx="0" qy="-0.378649" qz="0" />
+            <scale x="61.6015" y="9.03098" z="61.6015" />
+            <entity name="carpte01#5" meshFile="carpte01.mesh" castShadows="true" />
+        </node>
+        <node name="carpte01#6" id="222">
+            <position x="1252.08" y="-450.325" z="-3338.92" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="61.6015" y="9.03098" z="61.6015" />
+            <entity name="carpte01#6" meshFile="carpte01.mesh" castShadows="true" />
+        </node>
+        <node name="box#2" id="599">
+            <position x="6465.67" y="-465.945" z="8376.13" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="432.733" y="491.177" z="67.4463" />
+            <entity name="box#2" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="box#1" id="389">
+            <position x="7747.18" y="-465.943" z="-3618.8" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="432.733" y="308.927" z="760.203" />
+            <entity name="box#1" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="box#0" id="63">
+            <position x="8625.42" y="-465.943" z="-8268.47" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="432.733" y="308.927" z="134.433" />
+            <entity name="box#0" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="home_sound" id="966">
+            <position x="2131.06" y="-311.723" z="-3461.82" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="75" y="75" z="75" />
+            <entity name="home_sound" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="elevator_sound" id="926">
+            <position x="1560.21" y="-311.723" z="-2938.15" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="75" y="75" z="75" />
+            <entity name="elevator_sound" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="city_sound" id="771">
+            <position x="2636.27" y="-271.475" z="-10524.4" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="75" y="75" z="75" />
+            <entity name="city_sound" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="check_centre" id="562">
+            <position x="8606.95" y="-387.49" z="-7898.35" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="75" y="75" z="75" />
+            <entity name="check_centre" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="market_sound" id="732">
+            <position x="8606.95" y="-534.75" z="-5728" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="75" y="75" z="75" />
+            <entity name="market_sound" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="electr_mach_small" id="340">
+            <position x="8456.67" y="-534.393" z="-4149.4" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="75" y="75" z="75" />
+            <entity name="electr_mach_small" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="hall_sound" id="1">
+            <position x="7548.38" y="-534.393" z="-3578.7" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="75" y="75" z="75" />
+            <entity name="hall_sound" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="50hertz" id="804">
+            <position x="6465.28" y="-534.393" z="-3544.8" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="75" y="75" z="75" />
+            <entity name="50hertz" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="calcuation_clicking" id="611">
+            <position x="6556.95" y="-456.048" z="7811.43" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="75" y="75" z="75" />
+            <entity name="calcuation_clicking" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="city_siound2" id="418">
+            <position x="9068.95" y="-410.337" z="9129.33" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="75" y="75" z="75" />
+            <entity name="city_siound2" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="street_ambience" id="334">
+            <position x="16342.3" y="-410.337" z="9129.33" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="75" y="75" z="75" />
+            <entity name="street_ambience" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="vokzal_sound" id="926">
+            <position x="19614.1" y="1416.83" z="9196.4" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="75" y="75" z="75" />
+            <entity name="vokzal_sound" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="box#6" id="974">
+            <position x="18855.2" y="994.71" z="8033.85" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="762.148" y="679.26" z="7745.45" />
+            <entity name="box#6" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="box#7" id="177">
+            <position x="19555.1" y="994.71" z="12578.2" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="4434.1" y="722.932" z="936.288" />
+            <entity name="box#7" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="box#8" id="457">
+            <position x="19555.1" y="994.71" z="3775.75" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="4434.1" y="722.932" z="936.288" />
+            <entity name="box#8" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="box#9" id="245">
+            <position x="19348.4" y="994.71" z="12335.9" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="423.46" y="722.932" z="1435.39" />
+            <entity name="box#9" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="box#10" id="569">
+            <position x="20867.2" y="994.71" z="12335.9" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="940.092" y="722.932" z="1435.39" />
+            <entity name="box#10" meshFile="box.mesh" castShadows="true" />
+        </node>
+    </nodes>
+    <aiNodes />
+</scene>

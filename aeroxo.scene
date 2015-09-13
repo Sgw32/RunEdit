@@ -1,0 +1,57 @@
+<scene formatVersion="1.0">
+    <environment>
+        <skyBox material="Examples/MorningSkyBox" />
+        <fog mode="none" />
+    </environment>
+    <nodes>
+        <node name="era50#2" id="226">
+            <position x="-257.435" y="71.2533" z="420.091" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="0.211865" y="0.211865" z="0.211865" />
+            <entity name="era50#2" meshFile="era50.mesh" castShadows="true" />
+        </node>
+        <node name="aeroxo_room01#0" id="268">
+            <position x="0" y="286.426" z="0" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="aeroxo_room01#0" meshFile="aeroxo_room01.mesh" castShadows="true" />
+        </node>
+        <node name="era50#3" id="698">
+            <position x="-30.3837" y="71.2533" z="192.467" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="0.211865" y="0.211865" z="0.211865" />
+            <entity name="era50#3" meshFile="era50.mesh" castShadows="true" />
+        </node>
+        <node name="era50#0" id="274">
+            <position x="-630.021" y="71.2533" z="-36.2853" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="0.211865" y="0.211865" z="0.211865" />
+            <entity name="era50#0" meshFile="era50.mesh" castShadows="true" />
+        </node>
+        <node name="era50#1" id="727">
+            <position x="-461.019" y="71.2533" z="194.535" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="0.211865" y="0.211865" z="0.211865" />
+            <entity name="era50#1" meshFile="era50.mesh" castShadows="true" />
+        </node>
+        <node name="era50#4" id="296">
+            <position x="134.073" y="71.2533" z="-60.7285" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="0.211865" y="0.211865" z="0.211865" />
+            <entity name="era50#4" meshFile="era50.mesh" castShadows="true" />
+        </node>
+        <node name="light0Node" id="386">
+            <position x="4367.8" y="1731.44" z="109.694" />
+            <rotation qw="0.689051" qx="-0.0983728" qy="0.710798" qz="0.101478" />
+            <scale x="1" y="1" z="1" />
+            <light name="light0" castShadows="true" type="spot">
+                <colourDiffuse r="1" g="1" b="0.7" />
+                <colourSpecular r="1" g="1" b="0.9" />
+                <normal x="0" y="0" z="-1" />
+                <lightAttenuation range="10000" />
+                <lightRange inner="70" outer="90" />
+            </light>
+        </node>
+    </nodes>
+    <aiNodes />
+</scene>

@@ -1,0 +1,3675 @@
+<scene formatVersion="1.0">
+    <environment>
+        <skyBox material="Examples/MorningSkyBox" />
+        <fog mode="none" />
+    </environment>
+    <nodes>
+        <node name="tlw_out_2#0" id="895">
+            <position x="0" y="0" z="152.561" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tlw_out_2#0" meshFile="tlw_out_2.mesh" castShadows="true" />
+        </node>
+        <node name="pipe01#0" id="135">
+            <position x="15404.7" y="323.872" z="8275.3" />
+            <rotation qw="-0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="pipe01#0" meshFile="pipe01.mesh" castShadows="true" />
+        </node>
+        <node name="tlw_out_1#0" id="353">
+            <position x="0" y="0" z="0" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tlw_out_1#0" meshFile="tlw_out_1.mesh" castShadows="true" />
+        </node>
+        <node name="large_container01#3" id="2">
+            <position x="6419.6" y="-512.978" z="6453.82" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="6.77598" y="6.77598" z="6.77598" />
+            <entity name="large_container01#3" meshFile="large_container01.mesh" castShadows="true" />
+        </node>
+        <node name="bmp_metro01#0" id="171">
+            <position x="12469.4" y="-392.644" z="5277.84" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="76.4506" y="76.4506" z="76.4506" />
+            <entity name="bmp_metro01#0" meshFile="bmp_metro01.mesh" castShadows="true" />
+        </node>
+        <node name="tlw_out_9#0" id="770">
+            <position x="0" y="0" z="0" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tlw_out_9#0" meshFile="tlw_out_9.mesh" castShadows="true" />
+        </node>
+        <node name="tlw_out_3#0" id="458">
+            <position x="0" y="0" z="0" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tlw_out_3#0" meshFile="tlw_out_3.mesh" castShadows="true" />
+        </node>
+        <node name="tlw_out_4#0" id="617">
+            <position x="0" y="0" z="0" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tlw_out_4#0" meshFile="tlw_out_4.mesh" castShadows="true" />
+        </node>
+        <node name="tlw_out_5#0" id="104">
+            <position x="0" y="0" z="0" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tlw_out_5#0" meshFile="tlw_out_5.mesh" castShadows="true" />
+        </node>
+        <node name="switchbox01#1" id="985">
+            <position x="6011.28" y="-442.424" z="6374.68" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="82.6302" y="82.6302" z="82.6302" />
+            <entity name="switchbox01#1" meshFile="switchbox01.mesh" castShadows="true" />
+        </node>
+        <node name="tlw_out_6#0" id="907">
+            <position x="-2.10792" y="-0.228028" z="-0.255616" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tlw_out_6#0" meshFile="tlw_out_6.mesh" castShadows="true" />
+        </node>
+        <node name="vokzal_ambience" id="608">
+            <position x="15691.2" y="-328.27" z="8807.08" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="60" y="60" z="60" />
+            <entity name="vokzal_ambience" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="zabor05#30" id="957">
+            <position x="3641.26" y="-347.772" z="-10624.7" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="zabor05#30" meshFile="zabor05.mesh" castShadows="true" />
+        </node>
+        <node name="zabor05#31" id="644">
+            <position x="3641.26" y="-347.772" z="-12108.4" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="zabor05#31" meshFile="zabor05.mesh" castShadows="true" />
+        </node>
+        <node name="air01#2" id="118">
+            <position x="-15768.3" y="4923.46" z="-7522.96" />
+            <rotation qw="0.0174522" qx="0" qy="0.999848" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="air01#2" meshFile="air01.mesh" castShadows="true" />
+        </node>
+        <node name="tlw_out_7#0" id="690">
+            <position x="0" y="0" z="0" />
+            <rotation qw="1" qx="0" qy="5.86733e-008" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tlw_out_7#0" meshFile="tlw_out_7.mesh" castShadows="true" />
+        </node>
+        <node name="inventory_advice" id="27">
+            <position x="15939.3" y="-240.83" z="8207.62" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="539.63" y="688.11" z="111.523" />
+            <entity name="inventory_advice" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="train_tlw01#1" id="470">
+            <position x="16813.7" y="493.87" z="8858.14" />
+            <rotation qw="-1" qx="0" qy="-2.38419e-007" qz="0" />
+            <scale x="2.6053" y="2.6053" z="2.6053" />
+            <entity name="train_tlw01#1" meshFile="train_tlw01.mesh" castShadows="true" />
+        </node>
+        <node name="tlw_out_18#3" id="587">
+            <position x="6401.44" y="-1014.85" z="16361.2" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tlw_out_18#3" meshFile="tlw_out_18.mesh" castShadows="true" />
+        </node>
+        <node name="tlw_out_16#0" id="930">
+            <position x="0" y="0" z="0" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tlw_out_16#0" meshFile="tlw_out_16.mesh" castShadows="true" />
+        </node>
+        <node name="tlw_out_14#0" id="395">
+            <position x="0" y="0" z="0" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tlw_out_14#0" meshFile="tlwhrlwy01.mesh" castShadows="true" />
+        </node>
+        <node name="tlw_out_15#0" id="80">
+            <position x="0" y="0" z="0" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tlw_out_15#0" meshFile="tlwhrlwy02.mesh" castShadows="true" />
+        </node>
+        <node name="tlw_out_10#0" id="177">
+            <position x="0" y="0" z="0" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tlw_out_10#0" meshFile="tlw_out_10.mesh" castShadows="true" />
+        </node>
+        <node name="tlw_out_11#0" id="492">
+            <position x="0" y="0" z="31.6354" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tlw_out_11#0" meshFile="tlw_out_11.mesh" castShadows="true" />
+        </node>
+        <node name="tlw_out_12#0" id="996">
+            <position x="0" y="0" z="0" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tlw_out_12#0" meshFile="tlw_out_12.mesh" castShadows="true" />
+        </node>
+        <node name="tlw_out_18#0" id="713">
+            <position x="25576.2" y="-922.276" z="51817.6" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tlw_out_18#0" meshFile="tlw_out_18.mesh" castShadows="true" />
+        </node>
+        <node name="tlw_out_18#1" id="746">
+            <position x="8579.84" y="-1014.85" z="13027.4" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tlw_out_18#1" meshFile="tlw_out_18.mesh" castShadows="true" />
+        </node>
+        <node name="tlw_out_18#2" id="632">
+            <position x="598.838" y="-1269.2" z="31247.8" />
+            <rotation qw="0.757565" qx="0" qy="-0.65276" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tlw_out_18#2" meshFile="tlw_out_18.mesh" castShadows="true" />
+        </node>
+        <node name="tlw_out_17#0" id="957">
+            <position x="0" y="0" z="0" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tlw_out_17#0" meshFile="tlw_out_17.mesh" castShadows="true" />
+        </node>
+        <node name="tlw_out_18#4" id="541">
+            <position x="-3054" y="-1269.2" z="30517.8" />
+            <rotation qw="0.757565" qx="0" qy="-0.65276" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tlw_out_18#4" meshFile="tlw_out_18.mesh" castShadows="true" />
+        </node>
+        <node name="tlw_out_18#5" id="680">
+            <position x="10783.7" y="-1014.85" z="9654.46" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tlw_out_18#5" meshFile="tlw_out_18.mesh" castShadows="true" />
+        </node>
+        <node name="tlw_out_18#6" id="503">
+            <position x="7185.34" y="-1014.85" z="42449.8" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tlw_out_18#6" meshFile="tlw_out_18.mesh" castShadows="true" />
+        </node>
+        <node name="tlw_out_18#7" id="352">
+            <position x="8396.78" y="-1014.85" z="50574" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tlw_out_18#7" meshFile="tlw_out_18.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb2#2" id="331">
+            <position x="4192.42" y="213.904" z="-21546" />
+            <rotation qw="0.71934" qx="0" qy="0.694658" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="moscowb2#2" meshFile="moscowb2.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb1#0" id="66">
+            <position x="6563.48" y="114.698" z="-13691.7" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="moscowb1#0" meshFile="moscowb1.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb2#4" id="337">
+            <position x="22427.8" y="81.3046" z="-5963.14" />
+            <rotation qw="-1" qx="0" qy="-1.93715e-007" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="moscowb2#4" meshFile="moscowb2.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb2#3" id="775">
+            <position x="22427.8" y="81.3046" z="-14473.9" />
+            <rotation qw="-1" qx="0" qy="-1.93715e-007" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="moscowb2#3" meshFile="moscowb2.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb2#0" id="531">
+            <position x="-22205" y="81.3046" z="-4085.06" />
+            <rotation qw="0.0130895" qx="0" qy="0.999914" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="moscowb2#0" meshFile="moscowb2.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb2#1" id="644">
+            <position x="-21981.6" y="81.3046" z="-12612.6" />
+            <rotation qw="0.0130895" qx="0" qy="0.999914" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="moscowb2#1" meshFile="moscowb2.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb4#2" id="310">
+            <position x="21317" y="129.777" z="8188" />
+            <rotation qw="0.999534" qx="0" qy="-0.0305385" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="moscowb4#2" meshFile="moscowb4.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb2#5" id="963">
+            <position x="23904" y="81.3046" z="13805.6" />
+            <rotation qw="-1" qx="0" qy="-1.93715e-007" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="moscowb2#5" meshFile="moscowb2.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb2#7" id="423">
+            <position x="36228.6" y="81.3046" z="-4782.9" />
+            <rotation qw="-0.992546" qx="0" qy="0.121869" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="moscowb2#7" meshFile="moscowb7.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb2#6" id="94">
+            <position x="-22608.6" y="81.3046" z="11330.5" />
+            <rotation qw="0.0130895" qx="0" qy="0.999914" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="moscowb2#6" meshFile="moscowb2.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb7#1" id="235">
+            <position x="45659.6" y="81.3046" z="-1413.18" />
+            <rotation qw="-0.915311" qx="0" qy="-0.402747" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="moscowb7#1" meshFile="moscowb6.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb7#0" id="843">
+            <position x="54888.2" y="81.3046" z="946.716" />
+            <rotation qw="-1" qx="0" qy="-1.93715e-007" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="moscowb7#0" meshFile="moscowb7.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb2#9" id="914">
+            <position x="23615.2" y="81.3046" z="26285.8" />
+            <rotation qw="-1" qx="0" qy="-1.93715e-007" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="moscowb2#9" meshFile="moscowb7.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb2#8" id="107">
+            <position x="-32650.8" y="81.3046" z="5477.6" />
+            <rotation qw="0.0130895" qx="0" qy="0.999914" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="moscowb2#8" meshFile="moscowb3.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb6#1" id="448">
+            <position x="42971" y="81.3046" z="-14868.1" />
+            <rotation qw="-0.915311" qx="0" qy="-0.402747" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="moscowb6#1" meshFile="moscowb6.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb7#4" id="338">
+            <position x="-3673.98" y="81.3046" z="59596.8" />
+            <rotation qw="-0.182236" qx="0" qy="0.983255" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="moscowb7#4" meshFile="moscowb7.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb7#3" id="439">
+            <position x="-7878.44" y="81.3046" z="48643.8" />
+            <rotation qw="-0.182236" qx="0" qy="0.983255" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="moscowb7#3" meshFile="moscowb7.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb7#2" id="348">
+            <position x="32602.4" y="81.3046" z="30234.6" />
+            <rotation qw="-0.995805" qx="0" qy="0.0915014" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="moscowb7#2" meshFile="moscowb7.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb1#3" id="319">
+            <position x="-934.2" y="172.492" z="35544.4" />
+            <rotation qw="0.704015" qx="0" qy="0.710185" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="moscowb1#3" meshFile="moscowb1.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb1#2" id="4">
+            <position x="5517.16" y="172.492" z="35452" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="moscowb1#2" meshFile="moscowb1.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb7#5" id="91">
+            <position x="54888.2" y="81.3046" z="15234.9" />
+            <rotation qw="-1" qx="0" qy="-1.93715e-007" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="moscowb7#5" meshFile="moscowb7.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb1#1" id="590">
+            <position x="5517.16" y="172.492" z="21966" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="moscowb1#1" meshFile="moscowb1.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb4#6" id="184">
+            <position x="7442.48" y="213.904" z="-74819.4" />
+            <rotation qw="-0.00436291" qx="0" qy="0.999991" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="moscowb4#6" meshFile="moscowb4.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb4#5" id="730">
+            <position x="7584.88" y="213.904" z="-58499.8" />
+            <rotation qw="-0.00436291" qx="0" qy="0.999991" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="moscowb4#5" meshFile="moscowb4.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb4#4" id="445">
+            <position x="7694.98" y="213.904" z="-45882.6" />
+            <rotation qw="-0.00436291" qx="0" qy="0.999991" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="moscowb4#4" meshFile="moscowb4.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb4#3" id="58">
+            <position x="7812.18" y="213.904" z="-32450.2" />
+            <rotation qw="-0.00436291" qx="0" qy="0.999991" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="moscowb4#3" meshFile="moscowb4.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb5#0" id="859">
+            <position x="-28145.6" y="213.904" z="-60717.6" />
+            <rotation qw="0.130527" qx="0" qy="0.991445" qz="0" />
+            <scale x="2.51828" y="2.51828" z="2.51828" />
+            <entity name="moscowb5#0" meshFile="moscowb5.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb7#8" id="508">
+            <position x="-29727" y="213.904" z="-54816.2" />
+            <rotation qw="0.130527" qx="0" qy="0.991445" qz="0" />
+            <scale x="2.51828" y="2.51828" z="2.51828" />
+            <entity name="moscowb7#8" meshFile="moscowb5.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb7#7" id="509">
+            <position x="-21219.4" y="213.904" z="-44544" />
+            <rotation qw="0.130527" qx="0" qy="0.991445" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="moscowb7#7" meshFile="moscowb7.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb7#6" id="340">
+            <position x="-23407.2" y="213.904" z="-36379.2" />
+            <rotation qw="0.130527" qx="0" qy="0.991445" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="moscowb7#6" meshFile="moscowb7.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb7#9" id="317">
+            <position x="23402.2" y="81.3046" z="-42449.8" />
+            <rotation qw="-0.876727" qx="0" qy="-0.480989" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="moscowb7#9" meshFile="moscowb7.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb6#0" id="511">
+            <position x="-22759.4" y="206.178" z="-20375.4" />
+            <rotation qw="0.957572" qx="0" qy="-0.288196" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="moscowb6#0" meshFile="moscowb6.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb4#7" id="259">
+            <position x="12537.7" y="-890.072" z="-47817.2" />
+            <rotation qw="-0.00436291" qx="0" qy="0.999991" qz="0" />
+            <scale x="306.02" y="27.341" z="306.02" />
+            <entity name="moscowb4#7" meshFile="snow_block01.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb5#1" id="294">
+            <position x="-26679" y="213.904" z="-66191.6" />
+            <rotation qw="0.130527" qx="0" qy="0.991445" qz="0" />
+            <scale x="2.51828" y="2.51828" z="2.51828" />
+            <entity name="moscowb5#1" meshFile="moscowb5.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb4#0" id="454">
+            <position x="-2325.74" y="121.639" z="-18182.8" />
+            <rotation qw="0.678801" qx="0" qy="0.734323" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="moscowb4#0" meshFile="moscowb4.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb4#1" id="799">
+            <position x="-8165.18" y="121.639" z="-17723.2" />
+            <rotation qw="0.678801" qx="0" qy="0.734323" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="moscowb4#1" meshFile="moscowb4.mesh" castShadows="true" />
+        </node>
+        <node name="zabor01#4" id="497">
+            <position x="16865.7" y="-344.158" z="7598.9" />
+            <rotation qw="-0.681999" qx="0" qy="-0.731354" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="zabor01#4" meshFile="zabor01.mesh" castShadows="true" />
+        </node>
+        <node name="tlw_out_3#1" id="750">
+            <position x="-501.494" y="-137.857" z="2162.72" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tlw_out_3#1" meshFile="tlw_out_3.mesh" castShadows="true" />
+        </node>
+        <node name="tlwh2_road#0" id="690">
+            <position x="0" y="-2097.52" z="-470.09" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tlwh2_road#0" meshFile="tlwh2_road.mesh" castShadows="true" />
+        </node>
+        <node name="warehouse03#0" id="399">
+            <position x="3571.36" y="56.6012" z="289.994" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="27.08" y="27.08" z="27.08" />
+            <entity name="warehouse03#0" meshFile="warehouse03.mesh" castShadows="true" />
+        </node>
+        <node name="fir05_30#6" id="212">
+            <position x="-684.632" y="-641.092" z="4960.66" />
+            <rotation qw="0.999391" qx="0" qy="0.0348995" qz="0" />
+            <scale x="12.4591" y="12.4591" z="12.4591" />
+            <entity name="fir05_30#6" meshFile="fir05_30.mesh" castShadows="true" />
+        </node>
+        <node name="fir05_30#7" id="293">
+            <position x="3425.38" y="-641.092" z="4673.26" />
+            <rotation qw="0.999391" qx="0" qy="0.0348995" qz="0" />
+            <scale x="12.4591" y="12.4591" z="12.4591" />
+            <entity name="fir05_30#7" meshFile="fir05_30.mesh" castShadows="true" />
+        </node>
+        <node name="fir05_30#8" id="240">
+            <position x="2484.7" y="-641.092" z="5668.06" />
+            <rotation qw="0.665882" qx="0" qy="0.746057" qz="0" />
+            <scale x="14.8344" y="14.8344" z="14.8344" />
+            <entity name="fir05_30#8" meshFile="fir05_30.mesh" castShadows="true" />
+        </node>
+        <node name="fir05_30#5" id="958">
+            <position x="1280.97" y="-641.092" z="2669.46" />
+            <rotation qw="0.999391" qx="0" qy="0.0348995" qz="0" />
+            <scale x="12.4591" y="12.4591" z="12.4591" />
+            <entity name="fir05_30#5" meshFile="fir05_30.mesh" castShadows="true" />
+        </node>
+        <node name="warehouse03#1" id="967">
+            <position x="4547.14" y="56.6012" z="11392.7" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="27.08" y="27.08" z="27.08" />
+            <entity name="warehouse03#1" meshFile="warehouse03.mesh" castShadows="true" />
+        </node>
+        <node name="topolm01#1" id="25">
+            <position x="2289.1" y="-504.772" z="3725.66" />
+            <rotation qw="0.0523353" qx="0" qy="-0.99863" qz="0" />
+            <scale x="92.7928" y="92.7928" z="92.7928" />
+            <entity name="topolm01#1" meshFile="topolm01.mesh" castShadows="true" />
+        </node>
+        <node name="topolm01#0" id="647">
+            <position x="2230.86" y="-504.772" z="7061.62" />
+            <rotation qw="0.700909" qx="0" qy="-0.713251" qz="0" />
+            <scale x="92.7928" y="92.7928" z="92.7928" />
+            <entity name="topolm01#0" meshFile="topolm01.mesh" castShadows="true" />
+        </node>
+        <node name="tlwhtop#0" id="324">
+            <position x="16247.8" y="-516.612" z="19559.6" />
+            <rotation qw="0.00436576" qx="1.32706e-006" qy="-0.99999" qz="-0.000152279" />
+            <scale x="593.746" y="3.83152" z="686.848" />
+            <entity name="tlwhtop#0" meshFile="tlwhtop.mesh" castShadows="true" />
+        </node>
+        <node name="monitor02#0" id="96">
+            <position x="1475.11" y="-224.374" z="-2476.44" />
+            <rotation qw="-1.37836e-007" qx="0" qy="1" qz="0" />
+            <scale x="4" y="4" z="4" />
+            <entity name="monitor02#0" meshFile="monitor02.mesh" castShadows="true" />
+        </node>
+        <node name="air01#1" id="549">
+            <position x="-16296.4" y="4923.46" z="-6600.38" />
+            <rotation qw="0.0174522" qx="0" qy="0.999848" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="air01#1" meshFile="air01.mesh" castShadows="true" />
+        </node>
+        <node name="stair_rail01#11" id="663">
+            <position x="3866.78" y="-429.156" z="-4042.76" />
+            <rotation qw="-2.08616e-007" qx="0" qy="1" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="stair_rail01#11" meshFile="stair_rail01.mesh" castShadows="true" />
+        </node>
+        <node name="zabor05#20" id="381">
+            <position x="2380.22" y="-347.772" z="-5824.32" />
+            <rotation qw="1" qx="0" qy="8.9407e-008" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="zabor05#20" meshFile="zabor05.mesh" castShadows="true" />
+        </node>
+        <node name="zabor05#21" id="279">
+            <position x="951.532" y="-347.772" z="-5824.32" />
+            <rotation qw="1" qx="0" qy="8.9407e-008" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="zabor05#21" meshFile="zabor05.mesh" castShadows="true" />
+        </node>
+        <node name="zabor05#22" id="335">
+            <position x="-478.698" y="-347.772" z="-5824.32" />
+            <rotation qw="1" qx="0" qy="8.9407e-008" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="zabor05#22" meshFile="zabor05.mesh" castShadows="true" />
+        </node>
+        <node name="zabor05#23" id="735">
+            <position x="-1824.04" y="-347.772" z="-5824.32" />
+            <rotation qw="1" qx="0" qy="8.9407e-008" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="zabor05#23" meshFile="zabor05.mesh" castShadows="true" />
+        </node>
+        <node name="zabor05#24" id="389">
+            <position x="-3278.36" y="-347.772" z="-5824.32" />
+            <rotation qw="1" qx="0" qy="8.9407e-008" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="zabor05#24" meshFile="zabor05.mesh" castShadows="true" />
+        </node>
+        <node name="zabor05#25" id="196">
+            <position x="-4659.1" y="-347.772" z="-5824.32" />
+            <rotation qw="1" qx="0" qy="8.9407e-008" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="zabor05#25" meshFile="zabor05.mesh" castShadows="true" />
+        </node>
+        <node name="zabor05#26" id="939">
+            <position x="-5921.92" y="-347.772" z="-5824.32" />
+            <rotation qw="1" qx="0" qy="8.9407e-008" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="zabor05#26" meshFile="zabor05.mesh" castShadows="true" />
+        </node>
+        <node name="zabor05#27" id="275">
+            <position x="3641.26" y="-347.772" z="-5988.3" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="zabor05#27" meshFile="zabor05.mesh" castShadows="true" />
+        </node>
+        <node name="zabor05#28" id="485">
+            <position x="3679.32" y="-494.92" z="-7424.52" />
+            <rotation qw="0.559102" qx="0.432903" qy="0.559102" qz="-0.432903" />
+            <scale x="2" y="2" z="2" />
+            <entity name="zabor05#28" meshFile="zabor05.mesh" castShadows="true" />
+        </node>
+        <node name="zabor05#29" id="224">
+            <position x="3641.26" y="-347.772" z="-9158.68" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="zabor05#29" meshFile="zabor05.mesh" castShadows="true" />
+        </node>
+        <node name="air01#3" id="830">
+            <position x="-16232.4" y="4923.46" z="-8432.46" />
+            <rotation qw="0.0174522" qx="0" qy="0.999848" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="air01#3" meshFile="air01.mesh" castShadows="true" />
+        </node>
+        <node name="tlw_out_1#1" id="584">
+            <position x="49541" y="0" z="0" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tlw_out_1#1" meshFile="tlw_out_1.mesh" castShadows="true" />
+        </node>
+        <node name="fir05_30#13" id="13">
+            <position x="9007.44" y="-914.106" z="4958.66" />
+            <rotation qw="0.999391" qx="0" qy="0.0348995" qz="0" />
+            <scale x="11.2679" y="11.2679" z="11.2679" />
+            <entity name="fir05_30#13" meshFile="fir06_30.mesh" castShadows="true" />
+        </node>
+        <node name="fir06_30#0" id="655">
+            <position x="9313.36" y="-914.106" z="4252.42" />
+            <rotation qw="0.999391" qx="0" qy="0.0348995" qz="0" />
+            <scale x="11.2679" y="13.4644" z="11.2679" />
+            <entity name="fir06_30#0" meshFile="fir05_30.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb2#15" id="326">
+            <position x="25476" y="81.3046" z="-26543.2" />
+            <rotation qw="-0.876727" qx="0" qy="-0.480989" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="moscowb2#15" meshFile="moscowb7.mesh" castShadows="true" />
+        </node>
+        <node name="tlw_out_1#2" id="307">
+            <position x="0" y="0" z="45100" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tlw_out_1#2" meshFile="tlw_out_1.mesh" castShadows="true" />
+        </node>
+        <node name="trainstation01#0" id="579">
+            <position x="-0.015625" y="8390" z="8840.24" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="trainstation01#0" meshFile="trainstation01.mesh" castShadows="true" />
+        </node>
+        <node name="evevatorhl2#0" id="925">
+            <position x="15988.5" y="-498.18" z="9552.78" />
+            <rotation qw="-1.67638e-007" qx="0" qy="1" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="evevatorhl2#0" meshFile="evevatorhl2.mesh" castShadows="true" />
+        </node>
+        <node name="large_container01#4" id="288">
+            <position x="7398.94" y="-512.978" z="6453.82" />
+            <rotation qw="0.996566" qx="0" qy="0.0828082" qz="0" />
+            <scale x="6.77598" y="6.77598" z="6.77598" />
+            <entity name="large_container01#4" meshFile="large_container01.mesh" castShadows="true" />
+        </node>
+        <node name="large_hsngar#0" id="574">
+            <position x="17359.9" y="-62.4352" z="6372.54" />
+            <rotation qw="0.999991" qx="0" qy="-0.00436331" qz="0" />
+            <scale x="12.898" y="12.898" z="12.898" />
+            <entity name="large_hsngar#0" meshFile="large_hsngar.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb2#14" id="691">
+            <position x="-25719.8" y="213.904" z="-27748.2" />
+            <rotation qw="0.130527" qx="0" qy="0.991445" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="moscowb2#14" meshFile="moscowb7.mesh" castShadows="true" />
+        </node>
+        <node name="tlw_out_1#3" id="167">
+            <position x="49474.4" y="0" z="45100" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tlw_out_1#3" meshFile="tlw_out_1.mesh" castShadows="true" />
+        </node>
+        <node name="train_tlw01#2" id="713">
+            <position x="16813.7" y="493.87" z="6806.08" />
+            <rotation qw="4.0134e-007" qx="0" qy="-1" qz="0" />
+            <scale x="1.01796" y="1.01796" z="1.01796" />
+            <entity name="train_tlw01#2" meshFile="train_tlw02.mesh" castShadows="true" />
+        </node>
+        <node name="train_tlw01#0" id="813">
+            <position x="15509.5" y="493.87" z="11285.4" />
+            <rotation qw="4.0134e-007" qx="0" qy="-1" qz="0" />
+            <scale x="2.6053" y="2.6053" z="2.6053" />
+            <entity name="train_tlw01#0" meshFile="train_tlw01.mesh" castShadows="true" />
+        </node>
+        <node name="zabor05#7" id="455">
+            <position x="15287.1" y="-347.76" z="3064.66" />
+            <rotation qw="0.743145" qx="0" qy="-0.669131" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="zabor05#7" meshFile="zabor05.mesh" castShadows="true" />
+        </node>
+        <node name="zabor05#6" id="539">
+            <position x="15137.2" y="-347.76" z="1637.87" />
+            <rotation qw="0.743145" qx="0" qy="-0.669131" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="zabor05#6" meshFile="zabor05.mesh" castShadows="true" />
+        </node>
+        <node name="zabor05#5" id="553">
+            <position x="14988" y="-347.76" z="219.078" />
+            <rotation qw="0.743145" qx="0" qy="-0.669131" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="zabor05#5" meshFile="zabor05.mesh" castShadows="true" />
+        </node>
+        <node name="zabor05#4" id="673">
+            <position x="8012.46" y="-342.808" z="6150.02" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="zabor05#4" meshFile="zabor05.mesh" castShadows="true" />
+        </node>
+        <node name="zabor05#3" id="632">
+            <position x="8285.96" y="-349.184" z="7833.82" />
+            <rotation qw="0.999048" qx="0" qy="-0.0436194" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="zabor05#3" meshFile="zabor05.mesh" castShadows="true" />
+        </node>
+        <node name="zabor05#2" id="602">
+            <position x="6853.7" y="-349.184" z="7833.82" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="zabor05#2" meshFile="zabor05.mesh" castShadows="true" />
+        </node>
+        <node name="zabor05#1" id="45">
+            <position x="5422.54" y="-349.184" z="7833.82" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="zabor05#1" meshFile="zabor05.mesh" castShadows="true" />
+        </node>
+        <node name="zabor05#0" id="514">
+            <position x="3994.88" y="-349.184" z="7833.82" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="zabor05#0" meshFile="zabor05.mesh" castShadows="true" />
+        </node>
+        <node name="zabor01#3" id="454">
+            <position x="16859.1" y="-344.158" z="6865.14" />
+            <rotation qw="0.716302" qx="0" qy="-0.697791" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="zabor01#3" meshFile="zabor01.mesh" castShadows="true" />
+        </node>
+        <node name="zabor01#2" id="980">
+            <position x="16712.2" y="-344.158" z="7737.98" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="zabor01#2" meshFile="zabor01.mesh" castShadows="true" />
+        </node>
+        <node name="zabor01#1" id="684">
+            <position x="16712.2" y="-344.158" z="6690.36" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="zabor01#1" meshFile="zabor01.mesh" castShadows="true" />
+        </node>
+        <node name="zabor01#0" id="986">
+            <position x="9441.8" y="-347.492" z="6200.1" />
+            <rotation qw="0.979925" qx="0.199368" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="zabor01#0" meshFile="zabor01.mesh" castShadows="true" />
+        </node>
+        <node name="woodbox02#9" id="572">
+            <position x="5873.52" y="-405.024" z="6531.12" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="8" y="8" z="8" />
+            <entity name="woodbox02#9" meshFile="woodbox02.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#5" id="589">
+            <position x="16890.4" y="-496.124" z="17421.2" />
+            <rotation qw="-0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#5" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="woodbox02#16" id="13">
+            <position x="13248.6" y="-467.902" z="8226.56" />
+            <rotation qw="0.688355" qx="0" qy="0.725374" qz="0" />
+            <scale x="8" y="8" z="8" />
+            <entity name="woodbox02#16" meshFile="woodbox02.mesh" castShadows="true" />
+        </node>
+        <node name="woodbox02#15" id="823">
+            <position x="13205.3" y="-467.902" z="6336.02" />
+            <rotation qw="0.688355" qx="0" qy="0.725374" qz="0" />
+            <scale x="8" y="8" z="8" />
+            <entity name="woodbox02#15" meshFile="woodbox02.mesh" castShadows="true" />
+        </node>
+        <node name="woodbox02#14" id="16">
+            <position x="10485.8" y="-464.926" z="6478.56" />
+            <rotation qw="0.688355" qx="0" qy="0.725374" qz="0" />
+            <scale x="8" y="8" z="8" />
+            <entity name="woodbox02#14" meshFile="woodbox02.mesh" castShadows="true" />
+        </node>
+        <node name="woodbox02#10" id="655">
+            <position x="5754.54" y="-405.024" z="6531.12" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="8" y="8" z="8" />
+            <entity name="woodbox02#10" meshFile="woodbox02.mesh" castShadows="true" />
+        </node>
+        <node name="woodbox02#11" id="207">
+            <position x="5814.76" y="-330.378" z="6538" />
+            <rotation qw="0.746057" qx="0" qy="0.665882" qz="0" />
+            <scale x="8" y="8" z="8" />
+            <entity name="woodbox02#11" meshFile="woodbox02.mesh" castShadows="true" />
+        </node>
+        <node name="woodbox02#12" id="561">
+            <position x="10183.3" y="-464.926" z="6603.02" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="8" y="8" z="8" />
+            <entity name="woodbox02#12" meshFile="woodbox02.mesh" castShadows="true" />
+        </node>
+        <node name="woodbox02#13" id="674">
+            <position x="10292.3" y="-464.926" z="6603.02" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="8" y="8" z="8" />
+            <entity name="woodbox02#13" meshFile="woodbox02.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh01#1" id="264">
+            <position x="15540" y="1060" z="-154002" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="2200" y="20" z="44" />
+            <entity name="wire_cosh01#1" meshFile="wire_cosh01.mesh" castShadows="true" />
+        </node>
+        <node name="switchbox01#3" id="352">
+            <position x="6011.28" y="-442.424" z="6452.86" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="82.6302" y="82.6302" z="82.6302" />
+            <entity name="switchbox01#3" meshFile="switchbox01.mesh" castShadows="true" />
+        </node>
+        <node name="switchbox01#2" id="582">
+            <position x="6011.28" y="-442.424" z="6229.98" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="82.6302" y="82.6302" z="82.6302" />
+            <entity name="switchbox01#2" meshFile="switchbox01.mesh" castShadows="true" />
+        </node>
+        <node name="switchbox01#0" id="170">
+            <position x="6011.28" y="-442.424" z="6303.86" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="82.6302" y="82.6302" z="82.6302" />
+            <entity name="switchbox01#0" meshFile="switchbox01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#30" id="837">
+            <position x="13202" y="-496.124" z="4127.78" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#30" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#31" id="522">
+            <position x="13254.1" y="-496.124" z="6127.78" />
+            <rotation qw="-0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#31" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#32" id="362">
+            <position x="13254.1" y="-496.124" z="4127.78" />
+            <rotation qw="-0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#32" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#3" id="295">
+            <position x="16890.4" y="-496.124" z="14948.2" />
+            <rotation qw="-0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#3" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="couchm01#1" id="416">
+            <position x="1816.84" y="-366.342" z="-2560.82" />
+            <rotation qw="0.296541" qx="0" qy="-0.95502" qz="0" />
+            <scale x="72.0708" y="72.0708" z="72.0708" />
+            <entity name="couchm01#1" meshFile="couchm01.mesh" castShadows="true" />
+        </node>
+        <node name="switchbox01#5" id="467">
+            <position x="4699.2" y="-442.424" z="6103.5" />
+            <rotation qw="-0.700909" qx="0" qy="-0.71325" qz="0" />
+            <scale x="82.6302" y="82.6302" z="82.6302" />
+            <entity name="switchbox01#5" meshFile="switchbox01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#20" id="651">
+            <position x="11187.6" y="-491.072" z="7577.28" />
+            <rotation qw="-2.12342e-007" qx="0" qy="-1" qz="0" />
+            <scale x="40" y="40" z="40" />
+            <entity name="streetlight01#20" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#21" id="277">
+            <position x="13254.1" y="-496.124" z="8127.78" />
+            <rotation qw="-0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#21" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#22" id="830">
+            <position x="13202" y="-496.124" z="8127.78" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#22" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#23" id="124">
+            <position x="13202" y="-496.124" z="12079.4" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#23" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#24" id="492">
+            <position x="13202" y="-496.124" z="10144" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#24" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#25" id="247">
+            <position x="13202" y="-496.124" z="14042.3" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#25" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#26" id="355">
+            <position x="13254.1" y="-496.124" z="10127.8" />
+            <rotation qw="-0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#26" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#27" id="292">
+            <position x="13254.1" y="-496.124" z="12127.8" />
+            <rotation qw="-0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#27" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#28" id="231">
+            <position x="13254.1" y="-496.124" z="14127.8" />
+            <rotation qw="-0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#28" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#29" id="710">
+            <position x="13202" y="-496.124" z="6127.78" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#29" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#2" id="66">
+            <position x="16890.4" y="-496.124" z="13971.2" />
+            <rotation qw="-0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#2" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="switchbox01#4" id="126">
+            <position x="6011.28" y="-442.424" z="6540.5" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="82.6302" y="82.6302" z="82.6302" />
+            <entity name="switchbox01#4" meshFile="switchbox01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#15" id="201">
+            <position x="5392.22" y="-491.072" z="7577.28" />
+            <rotation qw="-2.12342e-007" qx="0" qy="-1" qz="0" />
+            <scale x="40" y="40" z="40" />
+            <entity name="streetlight01#15" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#16" id="56">
+            <position x="4285.38" y="-491.072" z="7577.28" />
+            <rotation qw="-2.12342e-007" qx="0" qy="-1" qz="0" />
+            <scale x="40" y="40" z="40" />
+            <entity name="streetlight01#16" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#17" id="488">
+            <position x="6333.82" y="-491.072" z="7577.28" />
+            <rotation qw="-2.12342e-007" qx="0" qy="-1" qz="0" />
+            <scale x="40" y="40" z="40" />
+            <entity name="streetlight01#17" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#18" id="808">
+            <position x="7444.34" y="-491.072" z="7577.28" />
+            <rotation qw="-2.12342e-007" qx="0" qy="-1" qz="0" />
+            <scale x="40" y="40" z="40" />
+            <entity name="streetlight01#18" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#19" id="417">
+            <position x="8836.54" y="-491.072" z="7577.28" />
+            <rotation qw="-2.12342e-007" qx="0" qy="-1" qz="0" />
+            <scale x="40" y="40" z="40" />
+            <entity name="streetlight01#19" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#1" id="788">
+            <position x="16890.4" y="-496.124" z="13242.7" />
+            <rotation qw="-0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#1" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="snow01#5" id="697">
+            <position x="15950.7" y="-503.084" z="6768.34" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="12.0517" y="4.43532" z="4.43532" />
+            <entity name="snow01#5" meshFile="snow01.mesh" castShadows="true" />
+        </node>
+        <node name="snow01#4" id="973">
+            <position x="15950.7" y="-497.206" z="7697.04" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="12.0517" y="4.43532" z="4.43532" />
+            <entity name="snow01#4" meshFile="snow01.mesh" castShadows="true" />
+        </node>
+        <node name="pipe01#8" id="929">
+            <position x="4695.32" y="20.028" z="6120.52" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="pipe01#8" meshFile="pipe01.mesh" castShadows="true" />
+        </node>
+        <node name="pipe01#7" id="485">
+            <position x="4695.32" y="-47.5512" z="6120.52" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="pipe01#7" meshFile="pipe01.mesh" castShadows="true" />
+        </node>
+        <node name="turniket1_l" id="141">
+            <position x="15913.8" y="-501.982" z="8449.4" />
+            <rotation qw="-0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="0.285014" y="0.285014" z="0.285014" />
+            <entity name="turniket1_l" meshFile="akpp74_stvorka.mesh" castShadows="true" />
+        </node>
+        <node name="trigget1" id="94">
+            <position x="1710.15" y="-282.8" z="-3484.54" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="346.186" y="247.142" z="107.546" />
+            <entity name="trigget1" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="tbh01#7" id="8">
+            <position x="15671.6" y="-466.126" z="8609.36" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tbh01#7" meshFile="tbh01.mesh" castShadows="true" />
+        </node>
+        <node name="pipe01#6" id="653">
+            <position x="4695.32" y="-119.49" z="6120.52" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="pipe01#6" meshFile="pipe01.mesh" castShadows="true" />
+        </node>
+        <node name="phl_workstation01#0" id="348">
+            <position x="4692.38" y="-301.958" z="6380.94" />
+            <rotation qw="0.704015" qx="0" qy="0.710185" qz="0" />
+            <scale x="1.10943" y="1.10943" z="1.10943" />
+            <entity name="phl_workstation01#0" meshFile="phl_workstation01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#17" id="164">
+            <position x="28654.4" y="-517.306" z="-5180.62" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tree_dec01#17" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="chair02#5" id="574">
+            <position x="5578.92" y="-399.46" z="6124.46" />
+            <rotation qw="0.649448" qx="0" qy="0.760406" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="chair02#5" meshFile="chair02.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#16" id="540">
+            <position x="28654.4" y="-517.306" z="-252.408" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tree_dec01#16" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="chair02#4" id="95">
+            <position x="5567.8" y="-399.46" z="6233.08" />
+            <rotation qw="0.69779" qx="0" qy="0.716302" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="chair02#4" meshFile="chair02.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#11" id="729">
+            <position x="21976.8" y="-550.16" z="34052.6" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tree_dec01#11" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#21" id="882">
+            <position x="11262.2" y="-507.81" z="-11252.8" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tree_dec01#21" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tlwhlabel18#0" id="89">
+            <position x="4933.48" y="75.8396" z="-3553.82" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="4.01938" y="4.01938" z="4.01938" />
+            <entity name="tlwhlabel18#0" meshFile="tlwhlabel16.mesh" castShadows="true" />
+        </node>
+        <node name="tlwhlabel08#0" id="665">
+            <position x="7773.68" y="-151.403" z="-6716.32" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="4.01938" y="4.01938" z="4.01938" />
+            <entity name="tlwhlabel08#0" meshFile="tlwhlabel08.mesh" castShadows="true" />
+        </node>
+        <node name="chair02#3" id="312">
+            <position x="5563.32" y="-399.46" z="6342.36" />
+            <rotation qw="0.659346" qx="0" qy="0.75184" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="chair02#3" meshFile="chair02.mesh" castShadows="true" />
+        </node>
+        <node name="garbage02a#8" id="193">
+            <position x="15899.6" y="652.642" z="9270.96" />
+            <rotation qw="0.779884" qx="0" qy="0.625924" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="garbage02a#8" meshFile="garbage02a.mesh" castShadows="true" />
+        </node>
+        <node name="garbage02a#5" id="328">
+            <position x="15954.1" y="652.642" z="8037.04" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="garbage02a#5" meshFile="garbage02a.mesh" castShadows="true" />
+        </node>
+        <node name="garbage02a#4" id="302">
+            <position x="16079.4" y="652.642" z="6594.14" />
+            <rotation qw="0.944089" qx="0" qy="0.329691" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="garbage02a#4" meshFile="garbage02a.mesh" castShadows="true" />
+        </node>
+        <node name="garbage02a#0" id="810">
+            <position x="16079.4" y="652.642" z="7491.26" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="garbage02a#0" meshFile="garbage02a.mesh" castShadows="true" />
+        </node>
+        <node name="garbage02a#7" id="608">
+            <position x="5270" y="-434.75" z="6325.5" />
+            <rotation qw="0.2292" qx="0" qy="0.973379" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="garbage02a#7" meshFile="garbage02a.mesh" castShadows="true" />
+        </node>
+        <node name="garbage02a#6" id="357">
+            <position x="5237.06" y="-435.63" z="6022.36" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="garbage02a#6" meshFile="garbage02a.mesh" castShadows="true" />
+        </node>
+        <node name="garbage02a#3" id="266">
+            <position x="1016.09" y="-352.498" z="-2594.86" />
+            <rotation qw="-0.760406" qx="0" qy="-0.649448" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="garbage02a#3" meshFile="garbage02a.mesh" castShadows="true" />
+        </node>
+        <node name="garbage02a#1" id="595">
+            <position x="1429.73" y="-352.498" z="-2692.62" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="garbage02a#1" meshFile="garbage02a.mesh" castShadows="true" />
+        </node>
+        <node name="garbage02a#2" id="924">
+            <position x="1159.52" y="-352.498" z="-2692.62" />
+            <rotation qw="0.386711" qx="0" qy="-0.922201" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="garbage02a#2" meshFile="garbage02a.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#10" id="256">
+            <position x="19703.4" y="-550.16" z="28454.2" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tree_dec01#10" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#20" id="837">
+            <position x="27891.6" y="-517.306" z="25493.4" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tree_dec01#20" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tlwhlabel18#1" id="684">
+            <position x="7223.14" y="181.782" z="-6698.8" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="4.01938" y="4.01938" z="4.01938" />
+            <entity name="tlwhlabel18#1" meshFile="tlwhlabel18.mesh" castShadows="true" />
+        </node>
+        <node name="tlwhlabel08#1" id="471">
+            <position x="7204.06" y="-503.974" z="-6727.9" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="4.01938" y="4.01938" z="4.01938" />
+            <entity name="tlwhlabel08#1" meshFile="tlwhlabel12.mesh" castShadows="true" />
+        </node>
+        <node name="chair02#2" id="514">
+            <position x="5555.76" y="-399.46" z="6444.38" />
+            <rotation qw="0.639439" qx="0" qy="0.768842" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="chair02#2" meshFile="chair02.mesh" castShadows="true" />
+        </node>
+        <node name="keypad01#0" id="174">
+            <position x="16140.7" y="787.14" z="4942.18" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="0.388406" y="0.388406" z="0.388406" />
+            <entity name="keypad01#0" meshFile="keypad01.mesh" castShadows="true" />
+        </node>
+        <node name="keypad01#1" id="618">
+            <position x="16191.5" y="787.14" z="4753.08" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="0.388406" y="0.388406" z="0.388406" />
+            <entity name="keypad01#1" meshFile="keypad01.mesh" castShadows="true" />
+        </node>
+        <node name="keypad01#2" id="718">
+            <position x="16191.5" y="787.14" z="9570.88" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="0.388406" y="0.388406" z="0.388406" />
+            <entity name="keypad01#2" meshFile="keypad01.mesh" castShadows="true" />
+        </node>
+        <node name="keypad01#3" id="7">
+            <position x="16188.7" y="787.14" z="9357.08" />
+            <rotation qw="-1.49012e-007" qx="0" qy="-1" qz="0" />
+            <scale x="0.388406" y="0.388406" z="0.388406" />
+            <entity name="keypad01#3" meshFile="keypad01.mesh" castShadows="true" />
+        </node>
+        <node name="keypad01#4" id="190">
+            <position x="16191.5" y="-392.826" z="4753.32" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="0.388406" y="0.388406" z="0.388406" />
+            <entity name="keypad01#4" meshFile="keypad01.mesh" castShadows="true" />
+        </node>
+        <node name="keypad01#5" id="638">
+            <position x="16191.5" y="-355.108" z="9570.88" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="0.388406" y="0.388406" z="0.388406" />
+            <entity name="keypad01#5" meshFile="keypad01.mesh" castShadows="true" />
+        </node>
+        <node name="keypad01#6" id="744">
+            <position x="6818.08" y="-379.1" z="-6040.12" />
+            <rotation qw="-1.71363e-007" qx="0" qy="1" qz="0" />
+            <scale x="0.388406" y="0.388406" z="0.388406" />
+            <entity name="keypad01#6" meshFile="keypad01.mesh" castShadows="true" />
+        </node>
+        <node name="keypad01#7" id="899">
+            <position x="6799.06" y="-353.494" z="-6679.82" />
+            <rotation qw="-1.71363e-007" qx="0" qy="1" qz="0" />
+            <scale x="0.388406" y="0.388406" z="0.388406" />
+            <entity name="keypad01#7" meshFile="keypad01.mesh" castShadows="true" />
+        </node>
+        <node name="gprops06#4" id="335">
+            <position x="15991.6" y="479.698" z="8364.02" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops06#4" meshFile="gprops06.mesh" castShadows="true" />
+        </node>
+        <node name="gprops03#3" id="143">
+            <position x="15954.4" y="845.91" z="8215.32" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="3.14" y="3.14" z="3.14" />
+            <entity name="gprops03#3" meshFile="gprops03.mesh" castShadows="true" />
+        </node>
+        <node name="gprops04#1" id="386">
+            <position x="16072.1" y="488.882" z="6262.72" />
+            <rotation qw="0.00436319" qx="0" qy="-0.999991" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops04#1" meshFile="gprops04.mesh" castShadows="true" />
+        </node>
+        <node name="gprops04#0" id="162">
+            <position x="15829.7" y="488.882" z="6252.98" />
+            <rotation qw="0.991445" qx="0" qy="-0.130526" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops04#0" meshFile="gprops04.mesh" castShadows="true" />
+        </node>
+        <node name="gprops01#2" id="956">
+            <position x="15974.1" y="807.19" z="6621" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops01#2" meshFile="gprops01.mesh" castShadows="true" />
+        </node>
+        <node name="gprops03#2" id="741">
+            <position x="15954.4" y="845.91" z="8072.16" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="3.14" y="3.14" z="3.14" />
+            <entity name="gprops03#2" meshFile="gprops03.mesh" castShadows="true" />
+        </node>
+        <node name="gprops01#0" id="441">
+            <position x="16920.5" y="-355.848" z="7110.6" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops01#0" meshFile="gprops01.mesh" castShadows="true" />
+        </node>
+        <node name="gprops01#1" id="115">
+            <position x="16920.5" y="-355.848" z="7308.3" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops01#1" meshFile="gprops01.mesh" castShadows="true" />
+        </node>
+        <node name="gprops02#0" id="867">
+            <position x="16360.7" y="-454.39" z="8582.76" />
+            <rotation qw="0.147809" qx="0" qy="-0.989016" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops02#0" meshFile="gprops02.mesh" castShadows="true" />
+        </node>
+        <node name="gprops02#1" id="447">
+            <position x="16385.2" y="-454.39" z="8836.96" />
+            <rotation qw="-0.056693" qx="0" qy="-0.998392" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops02#1" meshFile="gprops02.mesh" castShadows="true" />
+        </node>
+        <node name="gprops03#0" id="984">
+            <position x="16565.5" y="-305.152" z="6884.86" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="3.13764" y="3.13764" z="3.13764" />
+            <entity name="gprops03#0" meshFile="gprops03.mesh" castShadows="true" />
+        </node>
+        <node name="gprops03#1" id="676">
+            <position x="16274.9" y="-305.152" z="6884.86" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="3.13764" y="3.13764" z="3.13764" />
+            <entity name="gprops03#1" meshFile="gprops03.mesh" castShadows="true" />
+        </node>
+        <node name="gprops05#0" id="232">
+            <position x="16184.8" y="-423.716" z="8725.98" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="3.52412" y="3.52412" z="3.52412" />
+            <entity name="gprops05#0" meshFile="gprops05.mesh" castShadows="true" />
+        </node>
+        <node name="gprops06#0" id="255">
+            <position x="8362.84" y="-672.834" z="6319.18" />
+            <rotation qw="0.71934" qx="0" qy="-0.694658" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops06#0" meshFile="gprops06.mesh" castShadows="true" />
+        </node>
+        <node name="gprops06#1" id="475">
+            <position x="8585.1" y="-672.834" z="6311.42" />
+            <rotation qw="0.71934" qx="0" qy="-0.694658" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops06#1" meshFile="gprops06.mesh" castShadows="true" />
+        </node>
+        <node name="gprops06#2" id="396">
+            <position x="8844.04" y="-672.834" z="6302.38" />
+            <rotation qw="0.691513" qx="0" qy="-0.722364" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops06#2" meshFile="gprops06.mesh" castShadows="true" />
+        </node>
+        <node name="gprops06#3" id="235">
+            <position x="9118.3" y="-672.834" z="6292.8" />
+            <rotation qw="0.691513" qx="0" qy="-0.722364" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops06#3" meshFile="gprops06.mesh" castShadows="true" />
+        </node>
+        <node name="gprops07#1" id="12">
+            <position x="15551.8" y="-797.582" z="7624.82" />
+            <rotation qw="0.71934" qx="0" qy="0.694658" qz="0" />
+            <scale x="3.59632" y="3.59632" z="3.59632" />
+            <entity name="gprops07#1" meshFile="gprops07.mesh" castShadows="true" />
+        </node>
+        <node name="gprops07#2" id="890">
+            <position x="16385.4" y="-795.204" z="7634.54" />
+            <rotation qw="0.71934" qx="0" qy="0.694658" qz="0" />
+            <scale x="3.59632" y="3.59632" z="3.59632" />
+            <entity name="gprops07#2" meshFile="gprops07.mesh" castShadows="true" />
+        </node>
+        <node name="gprops08#0" id="229">
+            <position x="15787.4" y="-660.554" z="8366.6" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops08#0" meshFile="gprops08.mesh" castShadows="true" />
+        </node>
+        <node name="gprops08#2" id="429">
+            <position x="16064.1" y="-660.554" z="8366.6" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops08#2" meshFile="gprops08.mesh" castShadows="true" />
+        </node>
+        <node name="gprops08#3" id="529">
+            <position x="16207.5" y="-660.554" z="8366.6" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops08#3" meshFile="gprops08.mesh" castShadows="true" />
+        </node>
+        <node name="gprops09#0" id="138">
+            <position x="11972.4" y="-700.78" z="6614.6" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.45088" y="2.45088" z="2.45088" />
+            <entity name="gprops09#0" meshFile="gprops09.mesh" castShadows="true" />
+        </node>
+        <node name="gprops09#1" id="929">
+            <position x="14388.4" y="-691.84" z="6438.4" />
+            <rotation qw="-0.0741087" qx="0" qy="0.99725" qz="0" />
+            <scale x="2.45088" y="2.45088" z="2.45088" />
+            <entity name="gprops09#1" meshFile="gprops09.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#13" id="839">
+            <position x="15514.2" y="508.776" z="-41471" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="123.431" y="123.431" z="244" />
+            <entity name="rails_trainz01#13" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#23" id="308">
+            <position x="16452.7" y="508.776" z="-29506.2" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="123.431" y="123.431" z="244" />
+            <entity name="rails_trainz01#23" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#33" id="312">
+            <position x="15538.8" y="508.776" z="28438.2" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="123.431" y="123.431" z="440" />
+            <entity name="rails_trainz01#33" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#43" id="511">
+            <position x="14468" y="508.776" z="1144.03" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="123.431" y="123.431" z="123.431" />
+            <entity name="rails_trainz01#43" meshFile="rails_trainz03.mesh" castShadows="true" />
+        </node>
+        <node name="garbage01b#8" id="788">
+            <position x="16158.9" y="656.15" z="9276.5" />
+            <rotation qw="0.241922" qx="0" qy="0.970296" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="garbage01b#8" meshFile="garbage01b.mesh" castShadows="true" />
+        </node>
+        <node name="garbage01b#6" id="674">
+            <position x="16222.6" y="-421.534" z="8706.74" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="garbage01b#6" meshFile="garbage01b.mesh" castShadows="true" />
+        </node>
+        <node name="garbage01b#5" id="992">
+            <position x="15774.3" y="656.15" z="9276.5" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="garbage01b#5" meshFile="garbage01b.mesh" castShadows="true" />
+        </node>
+        <node name="garbage01b#4" id="573">
+            <position x="15827.6" y="652.95" z="7146.88" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="garbage01b#4" meshFile="garbage01b.mesh" castShadows="true" />
+        </node>
+        <node name="garbage01b#1" id="536">
+            <position x="15834.4" y="652.95" z="6521.14" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="garbage01b#1" meshFile="garbage01b.mesh" castShadows="true" />
+        </node>
+        <node name="garbage01b#0" id="369">
+            <position x="16300.3" y="652.95" z="6897.34" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="garbage01b#0" meshFile="garbage01b.mesh" castShadows="true" />
+        </node>
+        <node name="garbage01b#7" id="789">
+            <position x="5234.62" y="-430.282" z="5867.62" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="garbage01b#7" meshFile="garbage01b.mesh" castShadows="true" />
+        </node>
+        <node name="garbage01b#2" id="304">
+            <position x="1551.25" y="-356.134" z="-2680.92" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="garbage01b#2" meshFile="garbage01b.mesh" castShadows="true" />
+        </node>
+        <node name="garbage01b#3" id="528">
+            <position x="1854.4" y="-356.134" z="-2680.92" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="garbage01b#3" meshFile="garbage01b.mesh" castShadows="true" />
+        </node>
+        <node name="couch01a#0" id="878">
+            <position x="15789.8" y="686.988" z="6741.68" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="couch01a#0" meshFile="couch01a.mesh" castShadows="true" />
+        </node>
+        <node name="couch01a#3" id="698">
+            <position x="1191.67" y="-320.786" z="-3253.36" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="couch01a#3" meshFile="couch01a.mesh" castShadows="true" />
+        </node>
+        <node name="carpte01#1" id="834">
+            <position x="16037" y="646.6" z="6265.28" />
+            <rotation qw="0.544639" qx="0" qy="0.838671" qz="0" />
+            <scale x="71.8812" y="2" z="68.055" />
+            <entity name="carpte01#1" meshFile="carpte01.mesh" castShadows="true" />
+        </node>
+        <node name="carpte01#0" id="116">
+            <position x="15996.1" y="646.6" z="5063.2" />
+            <rotation qw="0.806445" qx="0" qy="0.59131" qz="0" />
+            <scale x="71.8812" y="2" z="68.055" />
+            <entity name="carpte01#0" meshFile="carpte01.mesh" castShadows="true" />
+        </node>
+        <node name="carpte01#4" id="607">
+            <position x="1705.93" y="-360.26" z="-2600.1" />
+            <rotation qw="0.870356" qx="0" qy="0.492424" qz="0" />
+            <scale x="49.2812" y="7.22478" z="49.2812" />
+            <entity name="carpte01#4" meshFile="carpte01.mesh" castShadows="true" />
+        </node>
+        <node name="carpte01#5" id="960">
+            <position x="1364.21" y="-360.26" z="-2634.9" />
+            <rotation qw="0.92554" qx="0" qy="-0.378649" qz="0" />
+            <scale x="49.2812" y="7.22478" z="49.2812" />
+            <entity name="carpte01#5" meshFile="carpte01.mesh" castShadows="true" />
+        </node>
+        <node name="carpte01#6" id="267">
+            <position x="1001.66" y="-360.26" z="-2671.14" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="49.2812" y="7.22478" z="49.2812" />
+            <entity name="carpte01#6" meshFile="carpte01.mesh" castShadows="true" />
+        </node>
+        <node name="box#2" id="715">
+            <position x="5172.54" y="-372.756" z="6700.9" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="346.186" y="392.942" z="53.957" />
+            <entity name="box#2" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="box#1" id="580">
+            <position x="6197.74" y="-372.754" z="-2895.04" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="346.186" y="247.142" z="608.162" />
+            <entity name="box#1" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="box#0" id="865">
+            <position x="6900.34" y="-372.754" z="-6614.78" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="346.186" y="247.142" z="107.546" />
+            <entity name="box#0" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="butilka01#8" id="619">
+            <position x="16048.5" y="652.016" z="8405.62" />
+            <rotation qw="0.659956" qx="0.595049" qy="-0.351209" qz="0.295005" />
+            <scale x="100" y="100" z="100" />
+            <entity name="butilka01#8" meshFile="butilka01.mesh" castShadows="true" />
+        </node>
+        <node name="Sector1" id="93">
+            <position x="1678.12" y="13.4315" z="-2539" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="1890.71" y="867.966" z="1194.8" />
+            <entity name="Sector1" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="Sector2" id="514">
+            <position x="1678.12" y="-83.0438" z="-8963.9" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="13644.6" y="867.966" z="10649" />
+            <entity name="Sector2" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="Sector3" id="420">
+            <position x="6009.62" y="-85.4338" z="-4682.32" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="4085.64" y="867.966" z="5136.3" />
+            <entity name="Sector3" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="Sector4" id="439">
+            <position x="6765.6" y="-133.561" z="925.98" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="3521.48" y="867.966" z="5136.3" />
+            <entity name="Sector4" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="Sector5" id="527">
+            <position x="9550.82" y="-133.561" z="7494.88" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="17503.3" y="867.966" z="6007.38" />
+            <entity name="Sector5" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#0" id="135">
+            <position x="16032.8" y="673.058" z="6007.52" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops10#0" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#1" id="306">
+            <position x="16031.9" y="673.308" z="5927.08" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops10#1" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#2" id="258">
+            <position x="16031.9" y="673.308" z="5847.08" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops10#2" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#3" id="371">
+            <position x="16031.9" y="673.308" z="5767.16" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops10#3" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#4" id="429">
+            <position x="16031.9" y="673.308" z="5687.08" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops10#4" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#5" id="985">
+            <position x="16031.9" y="673.308" z="5607.08" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops10#5" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#6" id="910">
+            <position x="16031.9" y="673.308" z="5527.08" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops10#6" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#7" id="694">
+            <position x="16031.9" y="673.308" z="5447.08" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops10#7" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#8" id="185">
+            <position x="16031.9" y="673.308" z="5367.08" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops10#8" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#9" id="686">
+            <position x="15927.3" y="673.204" z="6007.52" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops10#9" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#10" id="59">
+            <position x="15926.5" y="673.308" z="5927.08" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops10#10" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#20" id="150">
+            <position x="15907.2" y="672.836" z="7082.42" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops10#20" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#30" id="435">
+            <position x="16010.1" y="672.836" z="6922.42" />
+            <rotation qw="-1" qx="0" qy="-3.25841e-007" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops10#30" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#40" id="201">
+            <position x="16010.1" y="672.836" z="7742.88" />
+            <rotation qw="-1" qx="0" qy="-3.25841e-007" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops10#40" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#11" id="751">
+            <position x="15926.5" y="673.308" z="5847.08" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops10#11" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#21" id="651">
+            <position x="15907.2" y="672.836" z="7163.92" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops10#21" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#31" id="811">
+            <position x="16010.1" y="672.836" z="7002.74" />
+            <rotation qw="-1" qx="0" qy="-3.25841e-007" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops10#31" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#41" id="827">
+            <position x="16010.1" y="672.836" z="7825.28" />
+            <rotation qw="-1" qx="0" qy="-3.25841e-007" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops10#41" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#12" id="286">
+            <position x="15926.5" y="673.308" z="5767.08" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops10#12" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#22" id="92">
+            <position x="15907.2" y="672.836" z="7246.3" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops10#22" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#32" id="250">
+            <position x="16010.1" y="672.836" z="7084.9" />
+            <rotation qw="-1" qx="0" qy="-3.25841e-007" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops10#32" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#13" id="803">
+            <position x="15926.5" y="673.308" z="5686.84" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops10#13" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#23" id="180">
+            <position x="15907.2" y="672.836" z="7328.94" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops10#23" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#33" id="862">
+            <position x="16010.1" y="672.836" z="7168.44" />
+            <rotation qw="-1" qx="0" qy="-3.25841e-007" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops10#33" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#14" id="567">
+            <position x="15926.5" y="673.308" z="5606.26" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops10#14" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#24" id="81">
+            <position x="15907.2" y="672.836" z="7411.24" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops10#24" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#34" id="305">
+            <position x="16010.1" y="672.836" z="7251.6" />
+            <rotation qw="-1" qx="0" qy="-3.25841e-007" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops10#34" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#15" id="889">
+            <position x="15926.5" y="673.308" z="5524.16" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops10#15" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#25" id="915">
+            <position x="15907.2" y="672.836" z="7494.58" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops10#25" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#35" id="955">
+            <position x="16010.1" y="672.836" z="7336.2" />
+            <rotation qw="-1" qx="0" qy="-3.25841e-007" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops10#35" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#16" id="989">
+            <position x="15926.5" y="673.308" z="5440.14" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops10#16" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#26" id="12">
+            <position x="15907.2" y="672.836" z="7578.64" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops10#26" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#36" id="591">
+            <position x="16010.1" y="672.836" z="7418.62" />
+            <rotation qw="-1" qx="0" qy="-3.25841e-007" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops10#36" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#17" id="135">
+            <position x="15926.5" y="673.308" z="5356.94" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops10#17" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#27" id="284">
+            <position x="15907.2" y="672.836" z="7659.88" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops10#27" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#37" id="378">
+            <position x="16010.1" y="672.836" z="7500.32" />
+            <rotation qw="-1" qx="0" qy="-3.25841e-007" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops10#37" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#18" id="348">
+            <position x="15907.2" y="672.836" z="6922.42" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops10#18" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#28" id="591">
+            <position x="15907.2" y="672.836" z="7746.24" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops10#28" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#38" id="987">
+            <position x="16010.1" y="672.836" z="7580.76" />
+            <rotation qw="-1" qx="0" qy="-3.25841e-007" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops10#38" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#19" id="676">
+            <position x="15907.2" y="672.836" z="7002.42" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops10#19" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#29" id="755">
+            <position x="15907.2" y="672.836" z="7829.68" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops10#29" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#39" id="963">
+            <position x="16010.1" y="672.836" z="7662.86" />
+            <rotation qw="-1" qx="0" qy="-3.25841e-007" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops10#39" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="cagebulb01#4" id="68">
+            <position x="15979.8" y="908.834" z="9729.02" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="cagebulb01#4" meshFile="cagebulb01.mesh" castShadows="true" />
+        </node>
+        <node name="cagebulb01#1" id="305">
+            <position x="15831.3" y="906.494" z="4940.56" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="cagebulb01#1" meshFile="cagebulb01.mesh" castShadows="true" />
+        </node>
+        <node name="cagebulb01#0" id="382">
+            <position x="16134.9" y="906.494" z="4940.56" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="cagebulb01#0" meshFile="cagebulb01.mesh" castShadows="true" />
+        </node>
+        <node name="cagebulb01#2" id="84">
+            <position x="15815.2" y="908.834" z="9359.62" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="cagebulb01#2" meshFile="cagebulb01.mesh" castShadows="true" />
+        </node>
+        <node name="cagebulb01#3" id="926">
+            <position x="16142.5" y="908.834" z="9359.62" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="cagebulb01#3" meshFile="cagebulb01.mesh" castShadows="true" />
+        </node>
+        <node name="snow01#0" id="939">
+            <position x="16179.6" y="646.972" z="3394.7" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="17.6597" y="6.47104" z="4.35236" />
+            <entity name="snow01#0" meshFile="snow01.mesh" castShadows="true" />
+        </node>
+        <node name="monitor02#1" id="46">
+            <position x="15988" y="908.4" z="6641.32" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="6" y="6" z="6" />
+            <entity name="monitor02#1" meshFile="monitor02.mesh" castShadows="true" />
+        </node>
+        <node name="monitor02#2" id="205">
+            <position x="15985" y="908.364" z="6604.2" />
+            <rotation qw="0.00436318" qx="0" qy="0.999991" qz="0" />
+            <scale x="6" y="6" z="6" />
+            <entity name="monitor02#2" meshFile="monitor02.mesh" castShadows="true" />
+        </node>
+        <node name="cafe_table01#0" id="1">
+            <position x="15972.4" y="641.618" z="6263.96" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="94.6552" y="94.6552" z="94.6552" />
+            <entity name="cafe_table01#0" meshFile="cafe_table01.mesh" castShadows="true" />
+        </node>
+        <node name="box#3" id="100">
+            <position x="15985.1" y="923.582" z="6603.54" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="180.8" y="101.909" z="2" />
+            <entity name="box#3" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="box#4" id="583">
+            <position x="15989.1" y="-504.428" z="9564.72" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="388.136" y="35.5622" z="296.83" />
+            <entity name="box#4" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="box#5" id="79">
+            <position x="15989.1" y="-504.428" z="4757.08" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="388.136" y="35.5622" z="296.83" />
+            <entity name="box#5" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="butilka01#0" id="440">
+            <position x="16232.1" y="-428.612" z="8618.04" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="100" y="100" z="100" />
+            <entity name="butilka01#0" meshFile="butilka01.mesh" castShadows="true" />
+        </node>
+        <node name="pipe01#10" id="401">
+            <position x="16497.8" y="224.752" z="9290.16" />
+            <rotation qw="-0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="pipe01#10" meshFile="pipe01.mesh" castShadows="true" />
+        </node>
+        <node name="butilka01#1" id="369">
+            <position x="16198.8" y="-428.612" z="8643.86" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="100" y="100" z="100" />
+            <entity name="butilka01#1" meshFile="butilka01.mesh" castShadows="true" />
+        </node>
+        <node name="butilka01#2" id="165">
+            <position x="16226.5" y="-428.612" z="8662.66" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="100" y="100" z="100" />
+            <entity name="butilka01#2" meshFile="butilka01.mesh" castShadows="true" />
+        </node>
+        <node name="butilka01#3" id="63">
+            <position x="16195.6" y="-428.612" z="8669.82" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="100" y="100" z="100" />
+            <entity name="butilka01#3" meshFile="butilka01.mesh" castShadows="true" />
+        </node>
+        <node name="monitor02#3" id="62">
+            <position x="15978" y="-148.854" z="9345.54" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="5.0588" y="5.0588" z="5.0588" />
+            <entity name="monitor02#3" meshFile="monitor02.mesh" castShadows="true" />
+        </node>
+        <node name="hummer02#0" id="17">
+            <position x="15137.4" y="-355.418" z="6970.04" />
+            <rotation qw="0.694235" qx="-0.0251046" qy="0.718902" qz="-0.0242432" />
+            <scale x="2" y="2" z="2" />
+            <entity name="hummer02#0" meshFile="hummer02.mesh" castShadows="true" />
+        </node>
+        <node name="butilka01#7" id="821">
+            <position x="16035.2" y="649.626" z="8319.88" />
+            <rotation qw="0.588758" qx="0.386007" qy="-0.38939" qz="-0.593918" />
+            <scale x="100" y="100" z="100" />
+            <entity name="butilka01#7" meshFile="butilka01.mesh" castShadows="true" />
+        </node>
+        <node name="train_tlw02#2" id="391">
+            <position x="15011" y="493.87" z="13325.6" />
+            <rotation qw="4.0134e-007" qx="0" qy="-1" qz="0" />
+            <scale x="1.01796" y="1.01796" z="1.01796" />
+            <entity name="train_tlw02#2" meshFile="train_tlw01_nm_doors.mesh" castShadows="true" />
+        </node>
+        <node name="blastdemo01#0" id="306">
+            <position x="16220.1" y="-523.678" z="7787.44" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="3.86908" y="4.60336" z="4.60336" />
+            <entity name="blastdemo01#0" meshFile="blastdemo01.mesh" castShadows="true" />
+        </node>
+        <node name="train_tlw02#3" id="583">
+            <position x="16819.1" y="493.87" z="6730.94" />
+            <rotation qw="4.0134e-007" qx="0" qy="-1" qz="0" />
+            <scale x="2.6053" y="2.6053" z="2.8053" />
+            <entity name="train_tlw02#3" meshFile="train_tlw01_nm_doors2.mesh" castShadows="true" />
+        </node>
+        <node name="blastdemo01#1" id="216">
+            <position x="15679.1" y="-523.678" z="7834" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="3.86908" y="4.60336" z="4.60336" />
+            <entity name="blastdemo01#1" meshFile="blastdemo01.mesh" castShadows="true" />
+        </node>
+        <node name="door03_anim01#0" id="584">
+            <position x="5321.52" y="-447.934" z="6691.2" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="3.48184" y="2.63066" z="2" />
+            <entity name="door03_anim01#0" meshFile="door03_anim01.mesh" castShadows="true" />
+        </node>
+        <node name="train_tlw02#0" id="165">
+            <position x="15509.5" y="493.87" z="13325.6" />
+            <rotation qw="4.0134e-007" qx="0" qy="-1" qz="0" />
+            <scale x="1.01796" y="1.01796" z="1.01796" />
+            <entity name="train_tlw02#0" meshFile="train_tlw02.mesh" castShadows="true" />
+        </node>
+        <node name="blastdemo01#2" id="112">
+            <position x="5339.36" y="-444.606" z="5668.6" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.6499" y="3.47888" z="2" />
+            <entity name="blastdemo01#2" meshFile="blastdemo01.mesh" castShadows="true" />
+        </node>
+        <node name="door03_anim01#2" id="411">
+            <position x="6950.36" y="-487.656" z="-6034.26" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.04842" y="2.44374" z="2" />
+            <entity name="door03_anim01#2" meshFile="door03_anim01.mesh" castShadows="true" />
+        </node>
+        <node name="door03_anim01#1" id="703">
+            <position x="6938.62" y="-494.692" z="-6676.38" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.04842" y="2.44374" z="2" />
+            <entity name="door03_anim01#1" meshFile="door03_anim01.mesh" castShadows="true" />
+        </node>
+        <node name="turniket1" id="815">
+            <position x="15939.7" y="-501.982" z="8424.08" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="0.285014" y="0.285014" z="0.285014" />
+            <entity name="turniket1" meshFile="akpp74.mesh" castShadows="true" />
+        </node>
+        <node name="computeh#1" id="335">
+            <position x="16100.5" y="652.98" z="6595.42" />
+            <rotation qw="0.491198" qx="-0.491198" qy="-0.50865" qz="-0.50865" />
+            <scale x="2" y="2" z="2" />
+            <entity name="computeh#1" meshFile="computeh.mesh" castShadows="true" />
+        </node>
+        <node name="computeh#0" id="999">
+            <position x="16060.1" y="652.98" z="6695.18" />
+            <rotation qw="0.694697" qx="-0.694697" qy="0.131892" qz="0.131892" />
+            <scale x="2" y="2" z="2" />
+            <entity name="computeh#0" meshFile="computeh.mesh" castShadows="true" />
+        </node>
+        <node name="forester01#2" id="33">
+            <position x="12778.3" y="-526.338" z="6812.4" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="forester01#2" meshFile="bm21_main.mesh" castShadows="true" />
+        </node>
+        <node name="forester01#1" id="58">
+            <position x="12778.3" y="-422.968" z="6248.96" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="forester01#1" meshFile="forester01.mesh" castShadows="true" />
+        </node>
+        <node name="forester01#0" id="1000">
+            <position x="14292.6" y="-431.118" z="5878.66" />
+            <rotation qw="0.725374" qx="0" qy="0.688355" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="forester01#0" meshFile="forester01.mesh" castShadows="true" />
+        </node>
+        <node name="large_container01#0" id="94">
+            <position x="15672.5" y="646.78" z="7228.72" />
+            <rotation qw="0.66262" qx="0" qy="0.748956" qz="0" />
+            <scale x="5.05384" y="5.05384" z="5.05384" />
+            <entity name="large_container01#0" meshFile="large_container01.mesh" castShadows="true" />
+        </node>
+        <node name="parts04#0" id="662">
+            <position x="16056.9" y="678.964" z="6358.9" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="parts04#0" meshFile="parts04.mesh" castShadows="true" />
+        </node>
+        <node name="pipe01#1" id="626">
+            <position x="15404.7" y="323.872" z="9290.16" />
+            <rotation qw="-0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="pipe01#1" meshFile="pipe01.mesh" castShadows="true" />
+        </node>
+        <node name="pipe01#2" id="454">
+            <position x="16499.5" y="327.858" z="8268.84" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="pipe01#2" meshFile="pipe01.mesh" castShadows="true" />
+        </node>
+        <node name="pipe01#3" id="176">
+            <position x="16497.8" y="327.858" z="9290.16" />
+            <rotation qw="-0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="pipe01#3" meshFile="pipe01.mesh" castShadows="true" />
+        </node>
+        <node name="pipe01#4" id="528">
+            <position x="15404.7" y="224.752" z="8275.3" />
+            <rotation qw="-0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="pipe01#4" meshFile="pipe01.mesh" castShadows="true" />
+        </node>
+        <node name="train_elevator" id="908">
+            <position x="15966.7" y="795.768" z="9303.36" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="389.118" y="369.724" z="64.718" />
+            <entity name="train_elevator" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="pipe01#5" id="798">
+            <position x="15404.7" y="224.752" z="9290.16" />
+            <rotation qw="-0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="pipe01#5" meshFile="pipe01.mesh" castShadows="true" />
+        </node>
+        <node name="pipe01#9" id="477">
+            <position x="16499.5" y="224.118" z="8268.84" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="pipe01#9" meshFile="pipe01.mesh" castShadows="true" />
+        </node>
+        <node name="tlwhlabel06#0" id="174">
+            <position x="7819.38" y="326.184" z="6167.44" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="4.3874" y="4.3874" z="4.3874" />
+            <entity name="tlwhlabel06#0" meshFile="tlwhlabel09.mesh" castShadows="true" />
+        </node>
+        <node name="tlwhlabel16#0" id="533">
+            <position x="6705.36" y="672.098" z="6159.42" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="4.3874" y="4.3874" z="4.3874" />
+            <entity name="tlwhlabel16#0" meshFile="tlwhlabel18.mesh" castShadows="true" />
+        </node>
+        <node name="train_tlw02#1" id="434">
+            <position x="15512.4" y="493.87" z="13325.6" />
+            <rotation qw="4.0134e-007" qx="0" qy="-1" qz="0" />
+            <scale x="2.6053" y="2.6053" z="2.6053" />
+            <entity name="train_tlw02#1" meshFile="train_tlw01_nm_doors.mesh" castShadows="true" />
+        </node>
+        <node name="blastdemo01#3" id="891">
+            <position x="15845.2" y="-523.678" z="9414.46" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="1.93178" y="3.03618" z="3.03618" />
+            <entity name="blastdemo01#3" meshFile="blastdemo01.mesh" castShadows="true" />
+        </node>
+        <node name="blastdemo01#4" id="453">
+            <position x="16116" y="-523.678" z="9385.18" />
+            <rotation qw="-1" qx="0" qy="-2.90573e-007" qz="0" />
+            <scale x="1.93178" y="3.03618" z="3.03618" />
+            <entity name="blastdemo01#4" meshFile="blastdemo01.mesh" castShadows="true" />
+        </node>
+        <node name="blastdemo01#5" id="284">
+            <position x="16116" y="641.144" z="9385.18" />
+            <rotation qw="-1" qx="0" qy="-2.90573e-007" qz="0" />
+            <scale x="1.93178" y="3.03618" z="3.03618" />
+            <entity name="blastdemo01#5" meshFile="blastdemo01.mesh" castShadows="true" />
+        </node>
+        <node name="blastdemo01#6" id="298">
+            <position x="15841.6" y="641.144" z="9414.46" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="1.93178" y="3.03618" z="3.03618" />
+            <entity name="blastdemo01#6" meshFile="blastdemo01.mesh" castShadows="true" />
+        </node>
+        <node name="blastdemo01#7" id="162">
+            <position x="16116" y="641.144" z="4910.24" />
+            <rotation qw="-1" qx="0" qy="-2.90573e-007" qz="0" />
+            <scale x="1.93178" y="3.03618" z="3.03618" />
+            <entity name="blastdemo01#7" meshFile="blastdemo01.mesh" castShadows="true" />
+        </node>
+        <node name="blastdemo01#8" id="798">
+            <position x="15843.6" y="641.144" z="4938.54" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="1.93178" y="3.03618" z="3.03618" />
+            <entity name="blastdemo01#8" meshFile="blastdemo01.mesh" castShadows="true" />
+        </node>
+        <node name="snow01#1" id="379">
+            <position x="16129.5" y="641.492" z="9828.14" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="10.6302" y="6.47104" z="4.35236" />
+            <entity name="snow01#1" meshFile="snow01.mesh" castShadows="true" />
+        </node>
+        <node name="woodbox02#0" id="400">
+            <position x="13205.3" y="-394.738" z="6336.02" />
+            <rotation qw="0.688355" qx="0" qy="0.725374" qz="0" />
+            <scale x="8" y="8" z="8" />
+            <entity name="woodbox02#0" meshFile="woodbox02.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh01#0" id="950">
+            <position x="16420" y="1060" z="-154002" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="2200" y="20" z="44" />
+            <entity name="wire_cosh01#0" meshFile="wire_cosh01.mesh" castShadows="true" />
+        </node>
+        <node name="butilka01#4" id="686">
+            <position x="15993" y="649.994" z="8490.12" />
+            <rotation qw="0.592104" qx="-0.380854" qy="0.384192" qz="-0.597294" />
+            <scale x="100" y="100" z="100" />
+            <entity name="butilka01#4" meshFile="butilka01.mesh" castShadows="true" />
+        </node>
+        <node name="butilka01#5" id="426">
+            <position x="15968.5" y="645.08" z="8499.78" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="100" y="100" z="100" />
+            <entity name="butilka01#5" meshFile="butilka01.mesh" castShadows="true" />
+        </node>
+        <node name="butilka01#6" id="755">
+            <position x="15956.3" y="645.08" z="8485.1" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="100" y="100" z="100" />
+            <entity name="butilka01#6" meshFile="butilka01.mesh" castShadows="true" />
+        </node>
+        <node name="large_container01#1" id="773">
+            <position x="15672.5" y="829.084" z="7228.72" />
+            <rotation qw="0.71934" qx="0" qy="0.694659" qz="0" />
+            <scale x="5.05384" y="5.05384" z="5.05384" />
+            <entity name="large_container01#1" meshFile="large_container01.mesh" castShadows="true" />
+        </node>
+        <node name="er9m_1" id="658">
+            <position x="16459.5" y="488.046" z="-7090.72" />
+            <rotation qw="4.0134e-007" qx="0" qy="-1" qz="0" />
+            <scale x="2.6053" y="2.6053" z="2.6053" />
+            <entity name="er9m_1" meshFile="train_tlw01.mesh" castShadows="true" />
+        </node>
+        <node name="er9m_2" id="269">
+            <position x="16459.5" y="488.046" z="-5048.12" />
+            <rotation qw="4.0134e-007" qx="0" qy="-1" qz="0" />
+            <scale x="1.01796" y="1.01796" z="1.01796" />
+            <entity name="er9m_2" meshFile="train_tlw02.mesh" castShadows="true" />
+        </node>
+        <node name="ladder03#0" id="175">
+            <position x="1191.3" y="-376.894" z="-2339.38" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="ladder03#0" meshFile="ladder03.mesh" castShadows="true" />
+        </node>
+        <node name="er9m_3" id="706">
+            <position x="16459.5" y="488.046" z="-2996.06" />
+            <rotation qw="-1" qx="0" qy="-2.38419e-007" qz="0" />
+            <scale x="2.6053" y="2.6053" z="2.6053" />
+            <entity name="er9m_3" meshFile="train_tlw01.mesh" castShadows="true" />
+        </node>
+        <node name="elevdoor01#0" id="713">
+            <position x="1284.18" y="-235.418" z="-2444.16" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="elevdoor01#0" meshFile="elevdoor01.mesh" castShadows="true" />
+        </node>
+        <node name="elevdoor01#1" id="392">
+            <position x="1221.77" y="-235.418" z="-2444.66" />
+            <rotation qw="-1.78814e-007" qx="0" qy="1" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="elevdoor01#1" meshFile="elevdoor01.mesh" castShadows="true" />
+        </node>
+        <node name="elevator_out" id="531">
+            <position x="1241.94" y="-240.794" z="-2530.44" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="238.952" y="252.03" z="108.61" />
+            <entity name="elevator_out" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="transition" id="705">
+            <position x="6862.26" y="-390.412" z="-6380.58" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="238.952" y="252.03" z="108.61" />
+            <entity name="transition" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="enter_station" id="430">
+            <position x="11098.9" y="-240.83" z="7234.42" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="238.952" y="688.11" z="1703.28" />
+            <entity name="enter_station" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="tlwhlabel07#0" id="415">
+            <position x="5286.72" y="181.782" z="-3553.82" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="4.01938" y="4.01938" z="4.01938" />
+            <entity name="tlwhlabel07#0" meshFile="tlwhlabel18.mesh" castShadows="true" />
+        </node>
+        <node name="train_tlw01#3" id="203">
+            <position x="15509.5" y="493.87" z="15401.3" />
+            <rotation qw="-1" qx="0" qy="-2.38419e-007" qz="0" />
+            <scale x="2.6053" y="2.6053" z="2.6053" />
+            <entity name="train_tlw01#3" meshFile="train_tlw01.mesh" castShadows="true" />
+        </node>
+        <node name="open_blast_doors" id="660">
+            <position x="15399.3" y="-240.83" z="7234.42" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="238.952" y="688.11" z="1703.28" />
+            <entity name="open_blast_doors" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="akpp74#0" id="214">
+            <position x="15813.2" y="-501.982" z="8424.08" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="0.285014" y="0.285014" z="0.285014" />
+            <entity name="akpp74#0" meshFile="akpp74.mesh" castShadows="true" />
+        </node>
+        <node name="akpp74#1" id="442">
+            <position x="16071.8" y="-501.982" z="8424.08" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="0.285014" y="0.285014" z="0.285014" />
+            <entity name="akpp74#1" meshFile="akpp74.mesh" castShadows="true" />
+        </node>
+        <node name="akpp74#2" id="767">
+            <position x="16222.5" y="-501.982" z="8424.08" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="0.285014" y="0.285014" z="0.285014" />
+            <entity name="akpp74#2" meshFile="akpp74.mesh" castShadows="true" />
+        </node>
+        <node name="tlwh2_pods01#0" id="269">
+            <position x="2055.48" y="-24.4504" z="13.8899" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tlwh2_pods01#0" meshFile="tlwh2_pods01.mesh" castShadows="true" />
+        </node>
+        <node name="tlwh2_pods01#1" id="687">
+            <position x="-1868.53" y="-24.4504" z="13.8899" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tlwh2_pods01#1" meshFile="tlwh2_pods01.mesh" castShadows="true" />
+        </node>
+        <node name="tlwh2_pods01#2" id="305">
+            <position x="-3918.92" y="-24.4504" z="13.8899" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tlwh2_pods01#2" meshFile="tlwh2_pods01.mesh" castShadows="true" />
+        </node>
+        <node name="tlwh2_pods01#3" id="579">
+            <position x="-5630.22" y="-24.4504" z="13.8899" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tlwh2_pods01#3" meshFile="tlwh2_pods01.mesh" castShadows="true" />
+        </node>
+        <node name="tlwh2_pods01#4" id="309">
+            <position x="1532.36" y="-24.4504" z="11476" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tlwh2_pods01#4" meshFile="tlwh2_pods01.mesh" castShadows="true" />
+        </node>
+        <node name="tlwh2_pods01#5" id="362">
+            <position x="-249.618" y="-24.4504" z="11476" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tlwh2_pods01#5" meshFile="tlwh2_pods01.mesh" castShadows="true" />
+        </node>
+        <node name="tlwh2_pods01#6" id="852">
+            <position x="-2081.3" y="-24.4504" z="11476" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tlwh2_pods01#6" meshFile="tlwh2_pods01.mesh" castShadows="true" />
+        </node>
+        <node name="tlwh2_pods01#7" id="760">
+            <position x="-3823.24" y="-24.4504" z="11476" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tlwh2_pods01#7" meshFile="tlwh2_pods01.mesh" castShadows="true" />
+        </node>
+        <node name="tlwh2_pods01#8" id="316">
+            <position x="2055.48" y="-24.4504" z="13.8899" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tlwh2_pods01#8" meshFile="podesd_tlw01.mesh" castShadows="true" />
+        </node>
+        <node name="akpp74#3" id="2">
+            <position x="6964.12" y="-501.982" z="-6474.56" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="0.285014" y="0.285014" z="0.285014" />
+            <entity name="akpp74#3" meshFile="akpp74.mesh" castShadows="true" />
+        </node>
+        <node name="antennae01#0" id="511">
+            <position x="5230.6" y="-480.33" z="-5587.46" />
+            <rotation qw="-0.143493" qx="0" qy="0.989651" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="antennae01#0" meshFile="antennae01.mesh" castShadows="true" />
+        </node>
+        <node name="antennae01#1" id="627">
+            <position x="19150.8" y="-480.33" z="-10356" />
+            <rotation qw="-0.422618" qx="0" qy="0.906308" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="antennae01#1" meshFile="antennae01.mesh" castShadows="true" />
+        </node>
+        <node name="antennae01#2" id="706">
+            <position x="20887.8" y="-480.33" z="130.398" />
+            <rotation qw="-0.801254" qx="0" qy="0.598324" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="antennae01#2" meshFile="antennae01.mesh" castShadows="true" />
+        </node>
+        <node name="adressbox2#0" id="981">
+            <position x="11865.9" y="366.564" z="7972.82" />
+            <rotation qw="-8.9407e-008" qx="0" qy="1" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="adressbox2#0" meshFile="adressbox9.mesh" castShadows="true" />
+        </node>
+        <node name="adressbox1#1" id="324">
+            <position x="11269.7" y="-90.3904" z="6264.9" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="adressbox1#1" meshFile="adressbox2.mesh" castShadows="true" />
+        </node>
+        <node name="adressbox1#0" id="524">
+            <position x="4250.76" y="-65.3626" z="-3560.38" />
+            <rotation qw="-8.9407e-008" qx="0" qy="1" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="adressbox1#0" meshFile="adressbox1.mesh" castShadows="true" />
+        </node>
+        <node name="adressbox2#1" id="429">
+            <position x="7932.52" y="82.2124" z="6167.44" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="4.3874" y="4.3874" z="4.3874" />
+            <entity name="adressbox2#1" meshFile="tlwhlabel04.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#0" id="859">
+            <position x="11580.5" y="-507.81" z="14286.1" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tree_dec01#0" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#1" id="745">
+            <position x="9934.92" y="-527.698" z="18022" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tree_dec01#1" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#2" id="122">
+            <position x="9934.92" y="-572.032" z="23017.4" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tree_dec01#2" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#3" id="964">
+            <position x="11443.9" y="-550.16" z="23017.4" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tree_dec01#3" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#4" id="356">
+            <position x="11443.9" y="-470.038" z="32205" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tree_dec01#4" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#5" id="987">
+            <position x="9187.38" y="-393.986" z="32205" />
+            <rotation qw="0.67559" qx="0" qy="0.737277" qz="0" />
+            <scale x="2" y="2.5177" z="2" />
+            <entity name="tree_dec01#5" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#6" id="662">
+            <position x="11272.5" y="-393.986" z="37862.6" />
+            <rotation qw="0.989651" qx="0" qy="-0.143493" qz="0" />
+            <scale x="2" y="2.5177" z="2" />
+            <entity name="tree_dec01#6" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#7" id="740">
+            <position x="13601.1" y="-511.348" z="23017.4" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="0.923218" y="0.923218" z="0.923218" />
+            <entity name="tree_dec01#7" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#8" id="879">
+            <position x="14923.8" y="-534.996" z="17624.8" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="0.923218" y="0.923218" z="0.923218" />
+            <entity name="tree_dec01#8" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#9" id="163">
+            <position x="19703.4" y="-550.16" z="24681.8" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tree_dec01#9" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#12" id="597">
+            <position x="20291.4" y="-550.16" z="15538.8" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tree_dec01#12" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#22" id="472">
+            <position x="11463.4" y="-507.81" z="-4503.36" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tree_dec01#22" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#13" id="889">
+            <position x="19370.1" y="-517.306" z="11365.2" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tree_dec01#13" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#23" id="560">
+            <position x="9912.72" y="-507.81" z="-2269.46" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tree_dec01#23" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tlwhlabel18#2" id="577">
+            <position x="6867.56" y="-151.403" z="-6716.32" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="4.01938" y="4.01938" z="4.01938" />
+            <entity name="tlwhlabel18#2" meshFile="tlwhlabel08.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#14" id="383">
+            <position x="19331.9" y="-517.306" z="4105.46" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tree_dec01#14" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#24" id="922">
+            <position x="9912.72" y="-507.81" z="-13305.6" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tree_dec01#24" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#15" id="845">
+            <position x="28654.4" y="-517.306" z="4105.46" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tree_dec01#15" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#25" id="450">
+            <position x="4321.2" y="-507.81" z="-17730.1" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tree_dec01#25" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#18" id="897">
+            <position x="19370.1" y="-517.306" z="12201.3" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tree_dec01#18" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#19" id="702">
+            <position x="21692" y="-517.306" z="12201.3" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tree_dec01#19" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb2#10" id="293">
+            <position x="7852.16" y="213.904" z="-27869" />
+            <rotation qw="-0.00436291" qx="0" qy="0.999991" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="moscowb2#10" meshFile="moscowb4.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb2#11" id="545">
+            <position x="3544.04" y="213.904" z="-37404.2" />
+            <rotation qw="0.71934" qx="0" qy="0.694658" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="moscowb2#11" meshFile="moscowb2.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb2#12" id="897">
+            <position x="3956.6" y="213.904" z="-49218.2" />
+            <rotation qw="0.71934" qx="0" qy="0.694658" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="moscowb2#12" meshFile="moscowb2.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb2#13" id="970">
+            <position x="4358.86" y="213.904" z="-60736.8" />
+            <rotation qw="0.71934" qx="0" qy="0.694658" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="moscowb2#13" meshFile="moscowb2.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#0" id="756">
+            <position x="15534.4" y="508.776" z="-4012.76" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="123.431" y="123.431" z="123.431" />
+            <entity name="rails_trainz01#0" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#1" id="214">
+            <position x="16452.7" y="508.776" z="-4023.86" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="123.431" y="123.431" z="123.431" />
+            <entity name="rails_trainz01#1" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#2" id="817">
+            <position x="15514.2" y="508.776" z="-6569.4" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="123.431" y="123.431" z="123.431" />
+            <entity name="rails_trainz01#2" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#3" id="46">
+            <position x="15514.2" y="508.776" z="-9150.44" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="123.431" y="123.431" z="123.431" />
+            <entity name="rails_trainz01#3" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#4" id="712">
+            <position x="15514.2" y="508.776" z="-11734.6" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="123.431" y="123.431" z="123.431" />
+            <entity name="rails_trainz01#4" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#5" id="347">
+            <position x="15514.2" y="508.776" z="-14318.4" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="123.431" y="123.431" z="123.431" />
+            <entity name="rails_trainz01#5" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#6" id="715">
+            <position x="15514.2" y="508.776" z="-16886.1" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="123.431" y="123.431" z="123.431" />
+            <entity name="rails_trainz01#6" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#7" id="186">
+            <position x="15514.2" y="508.776" z="-19461.8" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="123.431" y="123.431" z="123.431" />
+            <entity name="rails_trainz01#7" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#8" id="952">
+            <position x="15514.2" y="508.776" z="-22039.8" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="123.431" y="123.431" z="123.431" />
+            <entity name="rails_trainz01#8" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#9" id="624">
+            <position x="15514.2" y="508.776" z="-24584.2" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="123.431" y="123.431" z="123.431" />
+            <entity name="rails_trainz01#9" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz03#0" id="388">
+            <position x="16204.9" y="508.776" z="1172.7" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="123.431" y="123.431" z="123.431" />
+            <entity name="rails_trainz03#0" meshFile="rails_trainz02.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz02#0" id="236">
+            <position x="14859.6" y="508.776" z="8839.88" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="123.431" y="123.431" z="123.431" />
+            <entity name="rails_trainz02#0" meshFile="rails_trainz02.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz03#1" id="148">
+            <position x="15826.6" y="508.776" z="8847.98" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="123.431" y="123.431" z="123.431" />
+            <entity name="rails_trainz03#1" meshFile="rails_trainz03.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#10" id="528">
+            <position x="15514.2" y="508.776" z="-29542" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="123.431" y="123.431" z="244" />
+            <entity name="rails_trainz01#10" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#20" id="214">
+            <position x="16452.7" y="508.776" z="-19426" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="123.431" y="123.431" z="123.431" />
+            <entity name="rails_trainz01#20" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#30" id="529">
+            <position x="15538.8" y="508.776" z="20731.8" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="123.431" y="123.431" z="123.431" />
+            <entity name="rails_trainz01#30" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#40" id="429">
+            <position x="16452.7" y="508.776" z="29392.4" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="123.431" y="123.431" z="440" />
+            <entity name="rails_trainz01#40" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#50" id="468">
+            <position x="15538.8" y="508.776" z="11339.7" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="123.431" y="123.431" z="123.431" />
+            <entity name="rails_trainz01#50" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#11" id="470">
+            <position x="15514.2" y="508.776" z="-34564.4" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="123.431" y="123.431" z="244" />
+            <entity name="rails_trainz01#11" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#21" id="713">
+            <position x="16452.7" y="508.776" z="-22004" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="123.431" y="123.431" z="123.431" />
+            <entity name="rails_trainz01#21" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#31" id="581">
+            <position x="15538.8" y="508.776" z="23275.4" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="123.431" y="123.431" z="123.431" />
+            <entity name="rails_trainz01#31" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#41" id="534">
+            <position x="16064.6" y="508.776" z="-3000" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="4" y="4" z="4" />
+            <entity name="rails_trainz01#41" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#12" id="98">
+            <position x="15514.2" y="508.776" z="-38755.8" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="123.431" y="123.431" z="244" />
+            <entity name="rails_trainz01#12" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#22" id="232">
+            <position x="16452.7" y="508.776" z="-24548.4" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="123.431" y="123.431" z="123.431" />
+            <entity name="rails_trainz01#22" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#32" id="522">
+            <position x="15538.8" y="508.776" z="25862.8" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="123.431" y="123.431" z="123.431" />
+            <entity name="rails_trainz01#32" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#42" id="529">
+            <position x="16452.7" y="508.776" z="11351.2" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="123.431" y="123.431" z="123.431" />
+            <entity name="rails_trainz01#42" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#14" id="407">
+            <position x="15514.2" y="508.776" z="-42740.2" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="123.431" y="123.431" z="244" />
+            <entity name="rails_trainz01#14" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#24" id="106">
+            <position x="16470.3" y="508.776" z="-34528.6" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="123.431" y="123.431" z="244" />
+            <entity name="rails_trainz01#24" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#34" id="295">
+            <position x="16452.7" y="508.776" z="13954.2" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="123.431" y="123.431" z="123.431" />
+            <entity name="rails_trainz01#34" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#44" id="551">
+            <position x="15532.2" y="508.776" z="-1452.02" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="123.431" y="123.431" z="123.431" />
+            <entity name="rails_trainz01#44" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#15" id="483">
+            <position x="16452.7" y="508.776" z="-6533.58" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="123.431" y="123.431" z="123.431" />
+            <entity name="rails_trainz01#15" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#25" id="543">
+            <position x="16452.7" y="508.776" z="-38720" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="123.431" y="123.431" z="244" />
+            <entity name="rails_trainz01#25" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#35" id="788">
+            <position x="16452.7" y="508.776" z="16533.7" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="123.431" y="123.431" z="123.431" />
+            <entity name="rails_trainz01#35" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#45" id="947">
+            <position x="16453" y="508.776" z="-1440.76" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="123.431" y="123.431" z="123.431" />
+            <entity name="rails_trainz01#45" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#16" id="894">
+            <position x="16452.7" y="508.776" z="-9114.62" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="123.431" y="123.431" z="123.431" />
+            <entity name="rails_trainz01#16" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#26" id="552">
+            <position x="16452.7" y="508.776" z="-42494.8" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="123.431" y="123.431" z="244" />
+            <entity name="rails_trainz01#26" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#36" id="72">
+            <position x="16452.7" y="508.776" z="19100.4" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="123.431" y="123.431" z="123.431" />
+            <entity name="rails_trainz01#36" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#46" id="136">
+            <position x="16889.9" y="508.776" z="3673.82" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="123.431" y="123.431" z="123.431" />
+            <entity name="rails_trainz01#46" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#17" id="854">
+            <position x="16452.7" y="508.776" z="-11698.8" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="123.431" y="123.431" z="123.431" />
+            <entity name="rails_trainz01#17" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#27" id="929">
+            <position x="15538.8" y="508.776" z="13000" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="123.431" y="123.431" z="123.431" />
+            <entity name="rails_trainz01#27" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#37" id="988">
+            <position x="16452.7" y="508.776" z="21686" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="123.431" y="123.431" z="123.431" />
+            <entity name="rails_trainz01#37" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#47" id="425">
+            <position x="16889.9" y="508.776" z="6249.14" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="123.431" y="123.431" z="123.431" />
+            <entity name="rails_trainz01#47" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#18" id="403">
+            <position x="16452.7" y="508.776" z="-14282.6" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="123.431" y="123.431" z="123.431" />
+            <entity name="rails_trainz01#18" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#28" id="183">
+            <position x="15538.8" y="508.776" z="15579.5" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="123.431" y="123.431" z="123.431" />
+            <entity name="rails_trainz01#28" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#38" id="945">
+            <position x="16452.7" y="508.776" z="24229.6" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="123.431" y="123.431" z="123.431" />
+            <entity name="rails_trainz01#38" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#48" id="787">
+            <position x="15100.4" y="508.776" z="3673.82" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="123.431" y="123.431" z="123.431" />
+            <entity name="rails_trainz01#48" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#19" id="192">
+            <position x="16452.7" y="508.776" z="-16850.3" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="123.431" y="123.431" z="123.431" />
+            <entity name="rails_trainz01#19" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#29" id="307">
+            <position x="15538.8" y="508.776" z="18146.1" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="123.431" y="123.431" z="123.431" />
+            <entity name="rails_trainz01#29" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#39" id="157">
+            <position x="16452.7" y="508.776" z="26817" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="123.431" y="123.431" z="123.431" />
+            <entity name="rails_trainz01#39" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#49" id="552">
+            <position x="15100.4" y="508.776" z="6241.08" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="123.431" y="123.431" z="123.431" />
+            <entity name="rails_trainz01#49" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="ostankino_tower01#0" id="780">
+            <position x="27615.2" y="-2989.98" z="273110" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="ostankino_tower01#0" meshFile="ostankino_tower01.mesh" castShadows="true" />
+        </node>
+        <node name="bmp_metro01#1" id="335">
+            <position x="12662.2" y="-493.774" z="892.166" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="2.09424" y="1.7809" z="1.37172" />
+            <entity name="bmp_metro01#1" meshFile="door_metal_tlwh2.mesh" castShadows="true" />
+        </node>
+        <node name="door_metal_tlwh2#0" id="218">
+            <position x="3824.84" y="-486.478" z="7107.36" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.09424" y="1.7809" z="1.48631" />
+            <entity name="door_metal_tlwh2#0" meshFile="door_metal_tlwh2.mesh" castShadows="true" />
+        </node>
+        <node name="door_metal_tlwh2#1" id="157">
+            <position x="13859.8" y="-493.774" z="892.166" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="2.09424" y="1.7809" z="1.37172" />
+            <entity name="door_metal_tlwh2#1" meshFile="door_metal_tlwh2.mesh" castShadows="true" />
+        </node>
+        <node name="zabor05#8" id="816">
+            <position x="15356.7" y="-347.76" z="10209.6" />
+            <rotation qw="0.743145" qx="0" qy="-0.669131" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="zabor05#8" meshFile="zabor05.mesh" castShadows="true" />
+        </node>
+        <node name="zabor05#9" id="609">
+            <position x="15433" y="-347.76" z="11671.5" />
+            <rotation qw="0.67559" qx="0" qy="-0.737277" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="zabor05#9" meshFile="zabor05.mesh" castShadows="true" />
+        </node>
+        <node name="zabor05#10" id="319">
+            <position x="15309" y="-347.76" z="13088.5" />
+            <rotation qw="0.67559" qx="0" qy="-0.737277" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="zabor05#10" meshFile="zabor05.mesh" castShadows="true" />
+        </node>
+        <node name="zabor05#11" id="359">
+            <position x="15177.3" y="-347.76" z="14594.1" />
+            <rotation qw="0.67559" qx="0" qy="-0.737277" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="zabor05#11" meshFile="zabor05.mesh" castShadows="true" />
+        </node>
+        <node name="zabor05#12" id="633">
+            <position x="15049.2" y="-347.76" z="16058.6" />
+            <rotation qw="0.67559" qx="0" qy="-0.737277" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="zabor05#12" meshFile="zabor05.mesh" castShadows="true" />
+        </node>
+        <node name="zabor05#13" id="302">
+            <position x="12149.7" y="-347.76" z="8038.56" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="zabor05#13" meshFile="zabor05.mesh" castShadows="true" />
+        </node>
+        <node name="zabor05#14" id="939">
+            <position x="12149.7" y="-347.76" z="9466.3" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="zabor05#14" meshFile="zabor05.mesh" castShadows="true" />
+        </node>
+        <node name="zabor05#15" id="889">
+            <position x="12149.7" y="-347.76" z="10899.7" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="zabor05#15" meshFile="zabor05.mesh" castShadows="true" />
+        </node>
+        <node name="zabor05#16" id="928">
+            <position x="12149.7" y="-347.76" z="12282" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="zabor05#16" meshFile="zabor05.mesh" castShadows="true" />
+        </node>
+        <node name="zabor05#17" id="969">
+            <position x="12149.7" y="-347.76" z="13747.2" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="zabor05#17" meshFile="zabor05.mesh" castShadows="true" />
+        </node>
+        <node name="zabor05#18" id="287">
+            <position x="12149.7" y="-347.76" z="14977" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="zabor05#18" meshFile="zabor05.mesh" castShadows="true" />
+        </node>
+        <node name="zabor05#19" id="441">
+            <position x="12149.7" y="-347.76" z="16560.3" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="zabor05#19" meshFile="zabor05.mesh" castShadows="true" />
+        </node>
+        <node name="stair_rail01#10" id="512">
+            <position x="3516.72" y="-429.156" z="-4042.76" />
+            <rotation qw="-2.08616e-007" qx="0" qy="1" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="stair_rail01#10" meshFile="stair_rail01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#0" id="660">
+            <position x="16890.4" y="-496.124" z="12410.6" />
+            <rotation qw="-0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#0" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#4" id="347">
+            <position x="16890.4" y="-496.124" z="16209.7" />
+            <rotation qw="-0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#4" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="streetlight01#6" id="787">
+            <position x="16890.4" y="-496.124" z="10659.6" />
+            <rotation qw="-0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#6" meshFile="streetlight01.mesh" castShadows="true" />
+        </node>
+        <node name="snow_block01#1" id="423">
+            <position x="-31207.2" y="-890.072" z="-47435.4" />
+            <rotation qw="-0.00436291" qx="0" qy="0.999991" qz="0" />
+            <scale x="306.02" y="27.341" z="306.02" />
+            <entity name="snow_block01#1" meshFile="snow_block01.mesh" castShadows="true" />
+        </node>
+        <node name="snow_block01#0" id="549">
+            <position x="12196.4" y="-843.594" z="-86930.2" />
+            <rotation qw="-0.00436291" qx="0" qy="0.999991" qz="0" />
+            <scale x="306.02" y="27.341" z="306.02" />
+            <entity name="snow_block01#0" meshFile="snow_block01.mesh" castShadows="true" />
+        </node>
+        <node name="train_tlw01_nm_doors2#0" id="188">
+            <position x="16817.5" y="493.87" z="8642.98" />
+            <rotation qw="-1" qx="0" qy="-2.38419e-007" qz="0" />
+            <scale x="2.6053" y="2.6053" z="2.8053" />
+            <entity name="train_tlw01_nm_doors2#0" meshFile="train_tlw01_nm_doors2.mesh" castShadows="true" />
+        </node>
+        <node name="train_tlw01_nm_doors2#1" id="638">
+            <position x="16819.1" y="493.87" z="4984.56" />
+            <rotation qw="4.0134e-007" qx="0" qy="-1" qz="0" />
+            <scale x="2.6053" y="2.6053" z="2.8053" />
+            <entity name="train_tlw01_nm_doors2#1" meshFile="train_tlw01_nm_doors2.mesh" castShadows="true" />
+        </node>
+        <node name="train_tlw01_nm_doors2#2" id="329">
+            <position x="16817.5" y="493.87" z="6899.16" />
+            <rotation qw="-1" qx="0" qy="-2.38419e-007" qz="0" />
+            <scale x="2.6053" y="2.6053" z="2.8053" />
+            <entity name="train_tlw01_nm_doors2#2" meshFile="train_tlw01_nm_doors2.mesh" castShadows="true" />
+        </node>
+        <node name="stair_rail01#9" id="749">
+            <position x="-4168.22" y="-429.156" z="-4046.52" />
+            <rotation qw="-2.08616e-007" qx="0" qy="1" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="stair_rail01#9" meshFile="stair_rail01.mesh" castShadows="true" />
+        </node>
+        <node name="stair_rail01#8" id="541">
+            <position x="-3807.56" y="-429.156" z="-4051.72" />
+            <rotation qw="-2.08616e-007" qx="0" qy="1" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="stair_rail01#8" meshFile="stair_rail01.mesh" castShadows="true" />
+        </node>
+        <node name="stair_rail01#7" id="470">
+            <position x="-2453.8" y="-429.156" z="-4051.72" />
+            <rotation qw="-2.08616e-007" qx="0" qy="1" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="stair_rail01#7" meshFile="stair_rail01.mesh" castShadows="true" />
+        </node>
+        <node name="stair_rail01#6" id="626">
+            <position x="-2111.12" y="-429.156" z="-4051.72" />
+            <rotation qw="-2.08616e-007" qx="0" qy="1" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="stair_rail01#6" meshFile="stair_rail01.mesh" castShadows="true" />
+        </node>
+        <node name="stair_rail01#5" id="14">
+            <position x="-402.588" y="-429.156" z="-4051.72" />
+            <rotation qw="-2.08616e-007" qx="0" qy="1" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="stair_rail01#5" meshFile="stair_rail01.mesh" castShadows="true" />
+        </node>
+        <node name="stair_rail01#4" id="299">
+            <position x="-56.6652" y="-429.156" z="-4051.72" />
+            <rotation qw="-2.08616e-007" qx="0" qy="1" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="stair_rail01#4" meshFile="stair_rail01.mesh" castShadows="true" />
+        </node>
+        <node name="stair_rail01#3" id="345">
+            <position x="1462.81" y="-429.156" z="-4060.7" />
+            <rotation qw="-2.08616e-007" qx="0" qy="1" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="stair_rail01#3" meshFile="stair_rail01.mesh" castShadows="true" />
+        </node>
+        <node name="stair_rail01#2" id="963">
+            <position x="1815.36" y="-429.156" z="-4060.7" />
+            <rotation qw="-2.08616e-007" qx="0" qy="1" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="stair_rail01#2" meshFile="stair_rail01.mesh" castShadows="true" />
+        </node>
+        <node name="stair_rail01#1" id="427">
+            <position x="1245.01" y="-269.792" z="-2986.02" />
+            <rotation qw="0.991608" qx="0.00835351" qy="-0.095481" qz="0.0867545" />
+            <scale x="2" y="2" z="2" />
+            <entity name="stair_rail01#1" meshFile="stair_rail01.mesh" castShadows="true" />
+        </node>
+        <node name="stair_rail01#0" id="877">
+            <position x="1243.99" y="-128.444" z="-3183.7" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="stair_rail01#0" meshFile="stair_rail01.mesh" castShadows="true" />
+        </node>
+        <node name="tlwhlabel12#0" id="415">
+            <position x="5268.88" y="-256.366" z="-3553.82" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="4.01938" y="4.01938" z="4.01938" />
+            <entity name="tlwhlabel12#0" meshFile="tlwhlabel07.mesh" castShadows="true" />
+        </node>
+        <node name="tlw_out_4#1" id="55">
+            <position x="-1522.27" y="0" z="4949.64" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tlw_out_4#1" meshFile="tlw_out_4.mesh" castShadows="true" />
+        </node>
+        <node name="tlwhlabel04#0" id="684">
+            <position x="11469" y="780.928" z="6327.76" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="6.58998" y="6.58998" z="6.58998" />
+            <entity name="tlwhlabel04#0" meshFile="tlwhlabel05.mesh" castShadows="true" />
+        </node>
+        <node name="tlwhlabel14#0" id="996">
+            <position x="7116.44" y="562.148" z="6166.74" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="4.3874" y="4.3874" z="4.3874" />
+            <entity name="tlwhlabel14#0" meshFile="tlwhlabel16.mesh" castShadows="true" />
+        </node>
+        <node name="tlwhlabel04#1" id="83">
+            <position x="7943.92" y="202.648" z="6167.44" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="4.3874" y="4.3874" z="4.3874" />
+            <entity name="tlwhlabel04#1" meshFile="tlwhlabel06.mesh" castShadows="true" />
+        </node>
+        <node name="tlwhlabel09#0" id="29">
+            <position x="7274.78" y="326.184" z="6167.44" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="4.3874" y="4.3874" z="4.3874" />
+            <entity name="tlwhlabel09#0" meshFile="tlwhlabel10.mesh" castShadows="true" />
+        </node>
+        <node name="tlwhlabel10#0" id="969">
+            <position x="7282.82" y="495.786" z="6167.44" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="4.3874" y="3.1976" z="4.3874" />
+            <entity name="tlwhlabel10#0" meshFile="tlwhlabel14.mesh" castShadows="true" />
+        </node>
+        <node name="tlwhlabel04#2" id="536">
+            <position x="10235.1" y="556.968" z="6101.72" />
+            <rotation qw="0.999991" qx="0" qy="-0.00436334" qz="0" />
+            <scale x="8.2875" y="8.2875" z="8.2875" />
+            <entity name="tlwhlabel04#2" meshFile="tlwhlabel02.mesh" castShadows="true" />
+        </node>
+        <node name="doorm01#6" id="351">
+            <position x="-4364.1" y="-426.162" z="-3593.16" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="115.437" y="125.354" z="140" />
+            <entity name="doorm01#6" meshFile="doorm01.mesh" castShadows="true" />
+        </node>
+        <node name="akpp74_stvorka#4_1l" id="512">
+            <position x="16046.6" y="-501.982" z="8449.4" />
+            <rotation qw="-0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="0.285014" y="0.285014" z="0.285014" />
+            <entity name="akpp74_stvorka#4_1l" meshFile="akpp74_stvorka.mesh" castShadows="true" />
+        </node>
+        <node name="akpp74_stvorka#2_0l" id="671">
+            <position x="15788.6" y="-501.982" z="8449.4" />
+            <rotation qw="-0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="0.285014" y="0.285014" z="0.285014" />
+            <entity name="akpp74_stvorka#2_0l" meshFile="akpp74_stvorka.mesh" castShadows="true" />
+        </node>
+        <node name="akpp74#1_1r" id="475">
+            <position x="16064.3" y="-501.982" z="8424.08" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="0.285014" y="0.285014" z="0.285014" />
+            <entity name="akpp74#1_1r" meshFile="akpp74_stvorka.mesh" castShadows="true" />
+        </node>
+        <node name="akpp74_stvorka#0_2r" id="143">
+            <position x="16213.3" y="-501.982" z="8424.08" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="0.285014" y="0.285014" z="0.285014" />
+            <entity name="akpp74_stvorka#0_2r" meshFile="akpp74_stvorka.mesh" castShadows="true" />
+        </node>
+        <node name="turniket1_r" id="286">
+            <position x="15934.6" y="-501.982" z="8424.08" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="0.285014" y="0.285014" z="0.285014" />
+            <entity name="turniket1_r" meshFile="akpp74_stvorka.mesh" castShadows="true" />
+        </node>
+        <node name="radar01tm#0" id="553">
+            <position x="1198.23" y="2597.64" z="-1925.71" />
+            <rotation qw="0.961262" qx="0" qy="-0.275637" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="radar01tm#0" meshFile="radar01tm.mesh" castShadows="true" />
+        </node>
+        <node name="radar01tm#1" id="178">
+            <position x="6658.42" y="2597.64" z="3642.82" />
+            <rotation qw="0.961262" qx="0" qy="-0.275637" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="radar01tm#1" meshFile="radar01tm.mesh" castShadows="true" />
+        </node>
+        <node name="radar01tm#2" id="340">
+            <position x="2039.88" y="2597.64" z="8887.02" />
+            <rotation qw="0.961262" qx="0" qy="-0.275637" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="radar01tm#2" meshFile="radar01tm.mesh" castShadows="true" />
+        </node>
+        <node name="radar01tm#3" id="886">
+            <position x="-65.4516" y="2597.64" z="8974" />
+            <rotation qw="0.961262" qx="0" qy="-0.275637" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="radar01tm#3" meshFile="radar01tm.mesh" castShadows="true" />
+        </node>
+        <node name="radar01tm#4" id="617">
+            <position x="-2497.28" y="2597.64" z="4486.34" />
+            <rotation qw="0.961262" qx="0" qy="-0.275637" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="radar01tm#4" meshFile="radar01tm.mesh" castShadows="true" />
+        </node>
+        <node name="hach_rsy" id="736">
+            <position x="5218.72" y="-390.412" z="-2270.02" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="281.112" y="347.246" z="108.61" />
+            <entity name="hach_rsy" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="podesd_tlw01#3" id="973">
+            <position x="-5622.36" y="-23.9858" z="-3.3479" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="podesd_tlw01#3" meshFile="podesd_tlw01.mesh" castShadows="true" />
+        </node>
+        <node name="podesd_tlw01#2" id="830">
+            <position x="-3901.56" y="-23.9858" z="-3.3479" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="podesd_tlw01#2" meshFile="podesd_tlw01.mesh" castShadows="true" />
+        </node>
+        <node name="podesd_tlw01#1" id="279">
+            <position x="-1864.64" y="-23.9858" z="-3.3479" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="podesd_tlw01#1" meshFile="podesd_tlw01.mesh" castShadows="true" />
+        </node>
+        <node name="podesd_tlw01#0" id="93">
+            <position x="1.83374" y="-0.111105" z="-3.3479" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="podesd_tlw01#0" meshFile="podesd_tlw01.mesh" castShadows="true" />
+        </node>
+        <node name="door_pod01" id="665">
+            <position x="3721.96" y="-426.162" z="-3564.86" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="135.361" y="125.354" z="140" />
+            <entity name="door_pod01" meshFile="doorm01.mesh" castShadows="true" />
+        </node>
+        <node name="doorm01#0" id="356">
+            <position x="-196.761" y="-426.162" z="-3579.94" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="135.361" y="125.354" z="140" />
+            <entity name="doorm01#0" meshFile="doorm01.mesh" castShadows="true" />
+        </node>
+        <node name="doorm01#1" id="393">
+            <position x="-2237.84" y="-426.162" z="-3579.94" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="135.361" y="125.354" z="140" />
+            <entity name="doorm01#1" meshFile="doorm01.mesh" castShadows="true" />
+        </node>
+        <node name="doorm01#2" id="888">
+            <position x="-3949.86" y="-426.162" z="-3579.94" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="135.361" y="125.354" z="140" />
+            <entity name="doorm01#2" meshFile="doorm01.mesh" castShadows="true" />
+        </node>
+        <node name="doorm01#3" id="480">
+            <position x="3311.46" y="-426.162" z="-3564.86" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="115.437" y="125.354" z="140" />
+            <entity name="doorm01#3" meshFile="doorm01.mesh" castShadows="true" />
+        </node>
+        <node name="doorm01#4" id="851">
+            <position x="-607.446" y="-426.162" z="-3593.16" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="115.437" y="125.354" z="140" />
+            <entity name="doorm01#4" meshFile="doorm01.mesh" castShadows="true" />
+        </node>
+        <node name="doorm01#5" id="452">
+            <position x="-2643.18" y="-426.162" z="-3593.16" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="115.437" y="125.354" z="140" />
+            <entity name="doorm01#5" meshFile="doorm01.mesh" castShadows="true" />
+        </node>
+        <node name="glass_blockt01#0" id="897">
+            <position x="1236.96" y="-26.521" z="-3537.24" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="3.70528" y="2.4548" z="0.3247" />
+            <entity name="glass_blockt01#0" meshFile="glass_blockt01.mesh" castShadows="true" />
+        </node>
+        <node name="debris01#2" id="722">
+            <position x="1676.95" y="-380.582" z="-3536.12" />
+            <rotation qw="0.887011" qx="0" qy="0.461749" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="debris01#2" meshFile="debris01.mesh" castShadows="true" />
+        </node>
+        <node name="debris01#3" id="688">
+            <position x="1243.43" y="-352.152" z="-2896.44" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="debris01#3" meshFile="debris01.mesh" castShadows="true" />
+        </node>
+        <node name="debris04#6" id="265">
+            <position x="89.4108" y="192.247" z="-5229.02" />
+            <rotation qw="0.263031" qx="0" qy="-0.964787" qz="0" />
+            <scale x="6" y="2" z="6" />
+            <entity name="debris04#6" meshFile="debris04.mesh" castShadows="true" />
+        </node>
+        <node name="debris04#5" id="858">
+            <position x="434.666" y="192.247" z="-5082" />
+            <rotation qw="0.173648" qx="0" qy="-0.984808" qz="0" />
+            <scale x="6" y="2" z="6" />
+            <entity name="debris04#5" meshFile="debris04.mesh" castShadows="true" />
+        </node>
+        <node name="debris03#5" id="983">
+            <position x="1611.64" y="78.4566" z="-3222.78" />
+            <rotation qw="-0.329691" qx="0" qy="-0.944089" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="debris03#5" meshFile="debris03.mesh" castShadows="true" />
+        </node>
+        <node name="debris03#4" id="325">
+            <position x="1484.09" y="78.4566" z="-3152.42" />
+            <rotation qw="-0.329691" qx="0" qy="-0.944089" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="debris03#4" meshFile="debris03.mesh" castShadows="true" />
+        </node>
+        <node name="debris06#0" id="116">
+            <position x="1475.44" y="-72.5774" z="-3418.7" />
+            <rotation qw="0.0651286" qx="-0.00598447" qy="-0.993673" qz="-0.0913057" />
+            <scale x="2" y="2" z="2" />
+            <entity name="debris06#0" meshFile="debris06.mesh" castShadows="true" />
+        </node>
+        <node name="debris03#3" id="326">
+            <position x="1578.67" y="-325.86" z="-3056.86" />
+            <rotation qw="0.0654029" qx="0" qy="-0.997859" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="debris03#3" meshFile="debris06.mesh" castShadows="true" />
+        </node>
+        <node name="debris03#2" id="713">
+            <position x="1198.4" y="-249.262" z="-3692.02" />
+            <rotation qw="0.0654029" qx="0" qy="-0.997859" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="debris03#2" meshFile="debris03.mesh" castShadows="true" />
+        </node>
+        <node name="debris04#4" id="869">
+            <position x="1198.4" y="17.2328" z="-3692.02" />
+            <rotation qw="0.173648" qx="0" qy="-0.984808" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="debris04#4" meshFile="debris03.mesh" castShadows="true" />
+        </node>
+        <node name="debris04#3" id="409">
+            <position x="900.946" y="10.4903" z="-4054.52" />
+            <rotation qw="0.173648" qx="0" qy="-0.984808" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="debris04#3" meshFile="debris04.mesh" castShadows="true" />
+        </node>
+        <node name="debris04#2" id="426">
+            <position x="1077.43" y="10.4903" z="-4118.74" />
+            <rotation qw="0.173648" qx="0" qy="-0.984808" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="debris04#2" meshFile="debris04.mesh" castShadows="true" />
+        </node>
+        <node name="debris04#1" id="335">
+            <position x="1077.43" y="-296.788" z="-4118.74" />
+            <rotation qw="0.173648" qx="0" qy="-0.984808" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="debris04#1" meshFile="debris04.mesh" castShadows="true" />
+        </node>
+        <node name="debris04#0" id="265">
+            <position x="1057.55" y="-268.65" z="-3781.56" />
+            <rotation qw="0.173648" qx="0" qy="-0.984808" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="debris04#0" meshFile="debris04.mesh" castShadows="true" />
+        </node>
+        <node name="debris03#1" id="208">
+            <position x="1607.76" y="-296.788" z="-4311.78" />
+            <rotation qw="0.173648" qx="0" qy="-0.984808" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="debris03#1" meshFile="debris04.mesh" castShadows="true" />
+        </node>
+        <node name="debris03#0" id="595">
+            <position x="1382.67" y="-279.62" z="-4060.8" />
+            <rotation qw="0.173648" qx="0" qy="-0.984808" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="debris03#0" meshFile="debris03.mesh" castShadows="true" />
+        </node>
+        <node name="debris01#0" id="588">
+            <position x="1694.03" y="-380.582" z="-3344.84" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="debris01#0" meshFile="debris01.mesh" castShadows="true" />
+        </node>
+        <node name="debris01#1" id="523">
+            <position x="1763.32" y="-279.62" z="-3100.48" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="debris01#1" meshFile="debris03.mesh" castShadows="true" />
+        </node>
+        <node name="debris03#7" id="875">
+            <position x="2182.82" y="-279.62" z="-3094.9" />
+            <rotation qw="0.173648" qx="0" qy="-0.984808" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="debris03#7" meshFile="debris03.mesh" castShadows="true" />
+        </node>
+        <node name="debris03#6" id="593">
+            <position x="2204.64" y="-279.62" z="-2242.58" />
+            <rotation qw="0.96005" qx="0" qy="0.279829" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="debris03#6" meshFile="debris03.mesh" castShadows="true" />
+        </node>
+        <node name="air01#0" id="439">
+            <position x="891.844" y="2126.38" z="-6941.18" />
+            <rotation qw="0.014511" qx="-0.00969592" qy="0.831343" qz="0.555486" />
+            <scale x="2" y="2" z="2" />
+            <entity name="air01#0" meshFile="air01.mesh" castShadows="true" />
+        </node>
+        <node name="postboxes01#0" id="466">
+            <position x="1556.8" y="-388.156" z="-3284.96" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="postboxes01#0" meshFile="postboxes01.mesh" castShadows="true" />
+        </node>
+        <node name="postboxes01#1" id="445">
+            <position x="1556.8" y="-332.206" z="-3284.96" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="postboxes01#1" meshFile="postboxes01.mesh" castShadows="true" />
+        </node>
+        <node name="postboxes01#2" id="155">
+            <position x="1556.8" y="-278.488" z="-3284.96" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="postboxes01#2" meshFile="postboxes01.mesh" castShadows="true" />
+        </node>
+        <node name="postboxes01#3" id="836">
+            <position x="1868.6" y="-284.048" z="-3171.12" />
+            <rotation qw="-0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="postboxes01#3" meshFile="postboxes01.mesh" castShadows="true" />
+        </node>
+        <node name="postboxes01#4" id="805">
+            <position x="1868.6" y="-337.766" z="-3171.12" />
+            <rotation qw="-0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="postboxes01#4" meshFile="postboxes01.mesh" castShadows="true" />
+        </node>
+        <node name="stair_rail01#12" id="61">
+            <position x="1670.79" y="-368.14" z="-2999.74" />
+            <rotation qw="-2.08545e-007" qx="5.46093e-009" qy="0.999657" qz="0.026177" />
+            <scale x="2" y="2" z="2" />
+            <entity name="stair_rail01#12" meshFile="stair_rail01.mesh" castShadows="true" />
+        </node>
+        <node name="stair_rail01#13" id="731">
+            <position x="1877.85" y="-368.14" z="-2999.74" />
+            <rotation qw="-2.08545e-007" qx="5.46093e-009" qy="0.999657" qz="0.026177" />
+            <scale x="2" y="2" z="2" />
+            <entity name="stair_rail01#13" meshFile="stair_rail01.mesh" castShadows="true" />
+        </node>
+        <node name="home_sound" id="651">
+            <position x="1704.85" y="-249.378" z="-2769.46" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="60" y="60" z="60" />
+            <entity name="home_sound" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="elevator_sound" id="11">
+            <position x="1248.17" y="-249.378" z="-2350.52" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="60" y="60" z="60" />
+            <entity name="elevator_sound" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="city_sound" id="362">
+            <position x="2109.02" y="-217.18" z="-8419.52" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="60" y="60" z="60" />
+            <entity name="city_sound" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="check_centre" id="539">
+            <position x="6885.56" y="-309.992" z="-6318.68" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="60" y="60" z="60" />
+            <entity name="check_centre" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="market_sound" id="15">
+            <position x="6885.56" y="-427.8" z="-4582.4" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="60" y="60" z="60" />
+            <entity name="market_sound" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="electr_mach_small" id="474">
+            <position x="6765.34" y="-427.514" z="-3319.52" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="60" y="60" z="60" />
+            <entity name="electr_mach_small" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="hall_sound" id="266">
+            <position x="6038.7" y="-427.514" z="-2862.96" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="60" y="60" z="60" />
+            <entity name="hall_sound" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="50hertz" id="288">
+            <position x="5172.22" y="-427.514" z="-2835.84" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="60" y="60" z="60" />
+            <entity name="50hertz" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="calcuation_clicking" id="330">
+            <position x="5245.56" y="-364.838" z="6249.14" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="60" y="60" z="60" />
+            <entity name="calcuation_clicking" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="city_siound2" id="287">
+            <position x="7255.16" y="-328.27" z="7303.46" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="60" y="60" z="60" />
+            <entity name="city_siound2" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="street_ambience" id="6">
+            <position x="13073.8" y="-328.27" z="7303.46" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="60" y="60" z="60" />
+            <entity name="street_ambience" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="vokzal_sound" id="941">
+            <position x="15691.2" y="1133.46" z="7357.12" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="60" y="60" z="60" />
+            <entity name="vokzal_sound" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#0" id="199">
+            <position x="16064.6" y="508.776" z="0" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="4" y="4" z="4" />
+            <entity name="rzd_pylon01#0" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#1" id="750">
+            <position x="16064.6" y="508.776" z="-6000" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="4" y="4" z="4" />
+            <entity name="rzd_pylon01#1" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#10" id="656">
+            <position x="15888.6" y="508.776" z="0" />
+            <rotation qw="-0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="4" y="4" z="4" />
+            <entity name="rzd_pylon01#10" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#11" id="987">
+            <position x="15888.6" y="508.776" z="-3000" />
+            <rotation qw="-0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="4" y="4" z="4" />
+            <entity name="rzd_pylon01#11" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#12" id="664">
+            <position x="15888.6" y="508.776" z="-6000" />
+            <rotation qw="-0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="4" y="4" z="4" />
+            <entity name="rzd_pylon01#12" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#13" id="769">
+            <position x="15888.6" y="508.776" z="-9000" />
+            <rotation qw="-0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="4" y="4" z="4" />
+            <entity name="rzd_pylon01#13" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#14" id="88">
+            <position x="15888.6" y="508.776" z="-12000" />
+            <rotation qw="-0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="4" y="4" z="4" />
+            <entity name="rzd_pylon01#14" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#15" id="560">
+            <position x="15888.6" y="508.776" z="-15000" />
+            <rotation qw="-0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="4" y="4" z="4" />
+            <entity name="rzd_pylon01#15" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#16" id="73">
+            <position x="15888.6" y="508.776" z="-18000" />
+            <rotation qw="-0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="4" y="4" z="4" />
+            <entity name="rzd_pylon01#16" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#17" id="806">
+            <position x="15888.6" y="508.776" z="-21000" />
+            <rotation qw="-0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="4" y="4" z="4" />
+            <entity name="rzd_pylon01#17" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#18" id="475">
+            <position x="15888.6" y="508.776" z="-24000" />
+            <rotation qw="-0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="4" y="4" z="4" />
+            <entity name="rzd_pylon01#18" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#19" id="262">
+            <position x="15888.6" y="508.776" z="-27000" />
+            <rotation qw="-0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="4" y="4" z="4" />
+            <entity name="rzd_pylon01#19" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#2" id="412">
+            <position x="16064.6" y="508.776" z="-9000" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="4" y="4" z="4" />
+            <entity name="rzd_pylon01#2" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#20" id="604">
+            <position x="15888.6" y="508.776" z="-30000" />
+            <rotation qw="-0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="4" y="4" z="4" />
+            <entity name="rzd_pylon01#20" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#21" id="334">
+            <position x="15888.6" y="508.776" z="12000" />
+            <rotation qw="-0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="4" y="4" z="4" />
+            <entity name="rzd_pylon01#21" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#22" id="974">
+            <position x="16064.6" y="508.776" z="12000" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="4" y="4" z="4" />
+            <entity name="rzd_pylon01#22" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#23" id="199">
+            <position x="16064.6" y="508.776" z="15000" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="4" y="4" z="4" />
+            <entity name="rzd_pylon01#23" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#24" id="287">
+            <position x="16064.6" y="508.776" z="18000" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="4" y="4" z="4" />
+            <entity name="rzd_pylon01#24" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#25" id="41">
+            <position x="16064.6" y="508.776" z="21000" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="4" y="4" z="4" />
+            <entity name="rzd_pylon01#25" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#26" id="252">
+            <position x="16064.6" y="508.776" z="24000" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="4" y="4" z="4" />
+            <entity name="rzd_pylon01#26" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#27" id="691">
+            <position x="16064.6" y="508.776" z="27000" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="4" y="4" z="4" />
+            <entity name="rzd_pylon01#27" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#28" id="517">
+            <position x="16064.6" y="508.776" z="30000" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="4" y="4" z="4" />
+            <entity name="rzd_pylon01#28" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#29" id="903">
+            <position x="15888.6" y="508.776" z="15000" />
+            <rotation qw="-0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="4" y="4" z="4" />
+            <entity name="rzd_pylon01#29" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#35" id="229">
+            <position x="16064.6" y="508.776" z="1742.3" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="4" y="4" z="4" />
+            <entity name="rzd_pylon01#35" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#34" id="606">
+            <position x="15888.6" y="508.776" z="1763.14" />
+            <rotation qw="-0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="4" y="4" z="4" />
+            <entity name="rzd_pylon01#34" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#3" id="527">
+            <position x="16064.6" y="508.776" z="-12000" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="4" y="4" z="4" />
+            <entity name="rzd_pylon01#3" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#30" id="540">
+            <position x="15888.6" y="508.776" z="18000" />
+            <rotation qw="-0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="4" y="4" z="4" />
+            <entity name="rzd_pylon01#30" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#31" id="446">
+            <position x="15888.6" y="508.776" z="21000" />
+            <rotation qw="-0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="4" y="4" z="4" />
+            <entity name="rzd_pylon01#31" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#32" id="532">
+            <position x="15888.6" y="508.776" z="24000" />
+            <rotation qw="-0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="4" y="4" z="4" />
+            <entity name="rzd_pylon01#32" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#33" id="580">
+            <position x="15888.6" y="508.776" z="30000" />
+            <rotation qw="-0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="4" y="4" z="4" />
+            <entity name="rzd_pylon01#33" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#36" id="160">
+            <position x="16355.3" y="1480.31" z="1742.3" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="4" y="4" z="4" />
+            <entity name="rzd_pylon01#36" meshFile="wire_cosh02.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#4" id="710">
+            <position x="16064.6" y="508.776" z="-15000" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="4" y="4" z="4" />
+            <entity name="rzd_pylon01#4" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#5" id="249">
+            <position x="16064.6" y="508.776" z="-18000" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="4" y="4" z="4" />
+            <entity name="rzd_pylon01#5" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#6" id="258">
+            <position x="16064.6" y="508.776" z="-21000" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="4" y="4" z="4" />
+            <entity name="rzd_pylon01#6" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#7" id="220">
+            <position x="16064.6" y="508.776" z="-24000" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="4" y="4" z="4" />
+            <entity name="rzd_pylon01#7" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#8" id="319">
+            <position x="16064.6" y="508.776" z="-27000" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="4" y="4" z="4" />
+            <entity name="rzd_pylon01#8" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#9" id="74">
+            <position x="16064.6" y="508.776" z="-30000" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="4" y="4" z="4" />
+            <entity name="rzd_pylon01#9" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh02#0" id="854">
+            <position x="16444.2" y="1060" z="-154002" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="2200" y="20" z="44" />
+            <entity name="wire_cosh02#0" meshFile="wire_cosh01.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh01#2" id="450">
+            <position x="15520" y="1060" z="-154002" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="2200" y="20" z="44" />
+            <entity name="wire_cosh01#2" meshFile="wire_cosh01.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh01#3" id="33">
+            <position x="16444" y="1060" z="166000" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="2200" y="20" z="44" />
+            <entity name="wire_cosh01#3" meshFile="wire_cosh01.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh01#4" id="716">
+            <position x="15540" y="1060" z="166000" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="2200" y="20" z="44" />
+            <entity name="wire_cosh01#4" meshFile="wire_cosh01.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh01#5" id="254">
+            <position x="16420" y="1060" z="166000" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="2200" y="20" z="44" />
+            <entity name="wire_cosh01#5" meshFile="wire_cosh01.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh01#6" id="442">
+            <position x="15520" y="1060" z="166000" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="2200" y="20" z="44" />
+            <entity name="wire_cosh01#6" meshFile="wire_cosh01.mesh" castShadows="true" />
+        </node>
+        <node name="paid_turniket_test" id="864">
+            <position x="16029.3" y="-240.83" z="8520.64" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="539.63" y="688.11" z="111.523" />
+            <entity name="paid_turniket_test" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="nyasha_welcome" id="333">
+            <position x="5802.44" y="-215.704" z="-1400.86" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="126.586" y="347.246" z="238.368" />
+            <entity name="nyasha_welcome" meshFile="box.mesh" castShadows="true" />
+        </node>
+    </nodes>
+    <aiNodes />
+</scene>

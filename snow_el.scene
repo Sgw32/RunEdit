@@ -1,0 +1,123 @@
+<scene formatVersion="1.0">
+    <environment>
+        <skyBox material="Examples/MorningSkyBox" />
+        <fog mode="none" />
+    </environment>
+    <nodes>
+        <node name="tree_dec01#60" id="714">
+            <position x="-34977.4" y="-1971.88" z="-25860.5" />
+            <rotation qw="0.313164" qx="0" qy="0.949699" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="tree_dec01#60" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#59" id="18">
+            <position x="-25462.1" y="-3923.5" z="-61246.3" />
+            <rotation qw="0.313164" qx="0" qy="0.949699" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="tree_dec01#59" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="snow_kucha01#2" id="375">
+            <position x="-27319.6" y="-1971.52" z="-1569.78" />
+            <rotation qw="-0.625924" qx="0" qy="0.779884" qz="0" />
+            <scale x="2" y="1.36428" z="2" />
+            <entity name="snow_kucha01#2" meshFile="snow_kucha01.mesh" castShadows="true" />
+        </node>
+        <node name="snow_kucha01#3" id="369">
+            <position x="-25884.5" y="-1971.52" z="-1615.84" />
+            <rotation qw="-0.625924" qx="0" qy="0.779884" qz="0" />
+            <scale x="2" y="1.36428" z="2" />
+            <entity name="snow_kucha01#3" meshFile="snow_kucha01.mesh" castShadows="true" />
+        </node>
+        <node name="snow_kucha01#4" id="975">
+            <position x="-24281.9" y="-1972.14" z="-1407.26" />
+            <rotation qw="-0.716303" qx="0" qy="0.69779" qz="0" />
+            <scale x="2" y="1.36428" z="2" />
+            <entity name="snow_kucha01#4" meshFile="snow_kucha01.mesh" castShadows="true" />
+        </node>
+        <node name="snow_kucha01#5" id="675">
+            <position x="-22542.9" y="-1971.52" z="-1478.21" />
+            <rotation qw="-0.716303" qx="0" qy="0.69779" qz="0" />
+            <scale x="2" y="1.36428" z="2" />
+            <entity name="snow_kucha01#5" meshFile="snow_kucha01.mesh" castShadows="true" />
+        </node>
+        <node name="snow_kucha01#6" id="551">
+            <position x="-20785.3" y="-1971.52" z="-1585.19" />
+            <rotation qw="-0.716303" qx="0" qy="0.69779" qz="0" />
+            <scale x="2" y="1.36428" z="2" />
+            <entity name="snow_kucha01#6" meshFile="snow_kucha01.mesh" castShadows="true" />
+        </node>
+        <node name="snow_kucha01#7" id="400">
+            <position x="-18744" y="-1971.52" z="-1554.09" />
+            <rotation qw="-0.716303" qx="0" qy="0.69779" qz="0" />
+            <scale x="2" y="1.36428" z="2" />
+            <entity name="snow_kucha01#7" meshFile="snow_kucha01.mesh" castShadows="true" />
+        </node>
+        <node name="snow_kucha01#8" id="516">
+            <position x="-24258.1" y="-1971.52" z="-2217.19" />
+            <rotation qw="-0.716303" qx="0" qy="0.69779" qz="0" />
+            <scale x="3.10412" y="3.10412" z="3.10412" />
+            <entity name="snow_kucha01#8" meshFile="snow_kucha01.mesh" castShadows="true" />
+        </node>
+        <node name="snow_kucha01#9" id="300">
+            <position x="-21275.1" y="-1971.52" z="-2303.29" />
+            <rotation qw="-0.716303" qx="0" qy="0.69779" qz="0" />
+            <scale x="3.10412" y="3.10412" z="3.10412" />
+            <entity name="snow_kucha01#9" meshFile="snow_kucha01.mesh" castShadows="true" />
+        </node>
+        <node name="snow_kucha01#10" id="111">
+            <position x="-19680.3" y="-1971.52" z="-4990.55" />
+            <rotation qw="-0.716303" qx="0" qy="0.69779" qz="0" />
+            <scale x="3.10412" y="3.10412" z="3.10412" />
+            <entity name="snow_kucha01#10" meshFile="snow_kucha01.mesh" castShadows="true" />
+        </node>
+        <node name="snow_kucha01#11" id="734">
+            <position x="-22118.6" y="-1971.52" z="-3918.02" />
+            <rotation qw="-0.716303" qx="0" qy="0.69779" qz="0" />
+            <scale x="3.10412" y="3.10412" z="3.10412" />
+            <entity name="snow_kucha01#11" meshFile="snow_kucha01.mesh" castShadows="true" />
+        </node>
+        <node name="snow_kucha01#12" id="230">
+            <position x="1896.71" y="-1971.52" z="-11017.3" />
+            <rotation qw="-0.716303" qx="0" qy="0.69779" qz="0" />
+            <scale x="3.10412" y="3.10412" z="3.10412" />
+            <entity name="snow_kucha01#12" meshFile="snow_kucha01.mesh" castShadows="true" />
+        </node>
+        <node name="snow_kucha01#13" id="886">
+            <position x="-11192.9" y="-1971.52" z="-2396.68" />
+            <rotation qw="-0.716303" qx="0" qy="0.69779" qz="0" />
+            <scale x="3.10412" y="3.10412" z="3.10412" />
+            <entity name="snow_kucha01#13" meshFile="snow_kucha01.mesh" castShadows="true" />
+        </node>
+        <node name="snow_kucha01#14" id="758">
+            <position x="-11269.3" y="-1971.52" z="-5315.89" />
+            <rotation qw="-0.619095" qx="0" qy="0.785316" qz="0" />
+            <scale x="7.95449" y="7.95449" z="7.95449" />
+            <entity name="snow_kucha01#14" meshFile="snow_kucha01.mesh" castShadows="true" />
+        </node>
+        <node name="snow_kucha01#15" id="47">
+            <position x="-12515" y="-1971.52" z="3644.4" />
+            <rotation qw="-0.619095" qx="0" qy="0.785316" qz="0" />
+            <scale x="7.95449" y="7.95449" z="7.95449" />
+            <entity name="snow_kucha01#15" meshFile="snow_kucha01.mesh" castShadows="true" />
+        </node>
+        <node name="snow_kucha01#16" id="340">
+            <position x="-4486.17" y="-1971.52" z="5571.93" />
+            <rotation qw="0.258818" qx="0" qy="0.965926" qz="0" />
+            <scale x="7.95449" y="7.95449" z="7.95449" />
+            <entity name="snow_kucha01#16" meshFile="snow_kucha01.mesh" castShadows="true" />
+        </node>
+        <node name="snow_kucha01#17" id="870">
+            <position x="-5896.43" y="-1759.08" z="4757.71" />
+            <rotation qw="0.258818" qx="0" qy="0.965926" qz="0" />
+            <scale x="7.95449" y="7.95449" z="7.95449" />
+            <entity name="snow_kucha01#17" meshFile="snow_kucha01.mesh" castShadows="true" />
+        </node>
+        <node name="snow_kucha01#18" id="936">
+            <position x="-27.6177" y="-1759.08" z="8146.06" />
+            <rotation qw="0.258818" qx="0" qy="0.965926" qz="0" />
+            <scale x="7.95449" y="7.95449" z="7.95449" />
+            <entity name="snow_kucha01#18" meshFile="snow_kucha01.mesh" castShadows="true" />
+        </node>
+    </nodes>
+    <aiNodes />
+</scene>

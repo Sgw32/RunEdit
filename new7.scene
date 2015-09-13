@@ -1,0 +1,3127 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<scene formatVersion="1.0.0" generator="Ogitor SceneBuilder 0.4.4">
+    <resourceLocations>
+        <resourceLocation type="FileSystem" name="../../../../Program Files/Ogitor/Projects" />
+        <resourceLocation type="FileSystem" name="../../../../Program Files/Ogitor/Projects/tlw_home" />
+        <resourceLocation type="FileSystem" name="../../../../Program Files/Ogitor/Projects/SampleScene3/Materials" />
+        <resourceLocation type="FileSystem" name="D:/Run3v0.72/run3/models/prep" />
+        <resourceLocation type="FileSystem" name="D:/Run3v0.72/run3/mats/tlw_home" />
+        <resourceLocation type="FileSystem" name="../../../../Program Files/Ogitor/Projects/SampleScene3/Models" />
+        <resourceLocation type="FileSystem" name="D:/Run3v0.72/run3/mats/models_s5" />
+        <resourceLocation type="FileSystem" name="D:/Run3v0.72/run3/mats/door" />
+        <resourceLocation type="FileSystem" name="D:/Run3v0.72/run3/mats/roaxh" />
+        <resourceLocation type="FileSystem" name="D:/Run3v0.72/run3/models/gilman_01" />
+        <resourceLocation type="FileSystem" name="D:/Run3v0.72/run3/models/themask" />
+        <resourceLocation type="FileSystem" name="D:/Run3v0.72/run3/models/military" />
+        <resourceLocation type="FileSystem" name="D:/Run3v0.72/run3/mats/gilman" />
+        <resourceLocation type="FileSystem" name="D:/ex_mus/export" />
+        <resourceLocation type="FileSystem" name="D:/ex_mus/dnpp" />
+    </resourceLocations>
+    <environment>
+        <scenemanager name="SceneManager" id="235328224" type="OctreeSceneManager" />
+        <colourAmbient r="0.384314" g="0.301961" b="0.172549" a="1" />
+        <fog mode="none" start="0" end="1000" density="0">
+            <colour r="0.5" g="0.5" b="0.5" a="1" />
+        </fog>
+        <viewport name="Viewport1" id="2000000002" index="1">
+            <colour r="0" g="0" b="0" a="1" />
+        </viewport>
+        <camera name="intViewCamera1" viewMode="0" polyMode="3" fov="1">
+            <clipping near="1" far="300000" />
+            <position x="1297.42" y="-6299.87" z="-7062.97" />
+            <rotation qw="-0.69199" qx="0.105838" qy="0.706216" qz="0.106028" />
+        </camera>
+    </environment>
+    <nodes>
+        <node name="tlw_home02#0" id="855342272">
+            <position x="1.5791" y="-0.0390625" z="0.184082" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity name="tlw_home02#0" meshFile="tlw_home02.mesh" castShadows="false">
+                <subentity index="0" materialName="TLW_HOME01material_13" />
+                <subentity index="1" materialName="TLW_HOME01material_12" />
+                <subentity index="2" materialName="TLW_HOME01material_19" />
+                <subentity index="3" materialName="TLW_HOME01material_0" />
+                <subentity index="4" materialName="TLW_HOME01material_1" />
+                <subentity index="5" materialName="TLW_HOME01material_2" />
+                <subentity index="6" materialName="TLW_HOME01material_3" />
+                <subentity index="7" materialName="TLW_HOME01material_0" />
+                <subentity index="8" materialName="TLW_HOME01material_4" />
+                <subentity index="9" materialName="TLW_HOME01material_5" />
+                <subentity index="10" materialName="TLW_HOME01material_6" />
+                <subentity index="11" materialName="TLW_HOME01material_7" />
+                <subentity index="12" materialName="TLW_HOME01material_8" />
+                <subentity index="13" materialName="TLW_HOME01material_7" />
+                <subentity index="14" materialName="TLW_HOME01material_7" />
+                <subentity index="15" materialName="TLW_HOME01material_9" />
+                <subentity index="16" materialName="TLW_HOME01material_5" />
+                <subentity index="17" materialName="TLW_HOME01material_7" />
+                <subentity index="18" materialName="TLW_HOME01material_6" />
+                <subentity index="19" materialName="TLW_HOME01material_5" />
+                <subentity index="20" materialName="TLW_HOME01material_7" />
+                <subentity index="21" materialName="TLW_HOME01material_9" />
+                <subentity index="22" materialName="TLW_HOME01material_5" />
+                <subentity index="23" materialName="TLW_HOME01material_10" />
+                <subentity index="24" materialName="TLW_HOME01material_5" />
+                <subentity index="25" materialName="TLW_HOME01material_7" />
+                <subentity index="26" materialName="TLW_HOME01material_5" />
+                <subentity index="27" materialName="TLW_HOME01material_5" />
+                <subentity index="28" materialName="TLW_HOME01material_7" />
+                <subentity index="29" materialName="TLW_HOME01material_5" />
+                <subentity index="30" materialName="TLW_HOME01material_7" />
+                <subentity index="31" materialName="TLW_HOME01material_6" />
+                <subentity index="32" materialName="TLW_HOME01material_9" />
+                <subentity index="33" materialName="TLW_HOME01material_10" />
+                <subentity index="34" materialName="TLW_HOME01material_6" />
+                <subentity index="35" materialName="TLW_HOME01material_9" />
+                <subentity index="36" materialName="TLW_HOME01material_6" />
+                <subentity index="37" materialName="TLW_HOME01material_9" />
+                <subentity index="38" materialName="TLW_HOME01material_5" />
+                <subentity index="39" materialName="TLW_HOME01material_6" />
+                <subentity index="40" materialName="TLW_HOME01material_5" />
+                <subentity index="41" materialName="TLW_HOME01material_6" />
+                <subentity index="42" materialName="TLW_HOME01material_5" />
+                <subentity index="43" materialName="TLW_HOME01material_6" />
+                <subentity index="44" materialName="TLW_HOME01material_5" />
+                <subentity index="45" materialName="TLW_HOME01material_6" />
+                <subentity index="46" materialName="TLW_HOME01material_6" />
+                <subentity index="47" materialName="TLW_HOME01material_7" />
+                <subentity index="48" materialName="TLW_HOME01material_5" />
+                <subentity index="49" materialName="TLW_HOME01material_9" />
+                <subentity index="50" materialName="TLW_HOME01material_7" />
+                <subentity index="51" materialName="TLW_HOME01material_9" />
+                <subentity index="52" materialName="TLW_HOME01material_5" />
+                <subentity index="53" materialName="TLW_HOME01material_5" />
+                <subentity index="54" materialName="TLW_HOME01material_7" />
+                <subentity index="55" materialName="TLW_HOME01material_5" />
+                <subentity index="56" materialName="TLW_HOME01material_7" />
+                <subentity index="57" materialName="TLW_HOME01material_5" />
+                <subentity index="58" materialName="TLW_HOME01material_7" />
+                <subentity index="59" materialName="TLW_HOME01material_5" />
+                <subentity index="60" materialName="TLW_HOME01material_7" />
+                <subentity index="61" materialName="TLW_HOME01material_7" />
+                <subentity index="62" materialName="TLW_HOME01material_11" />
+                <subentity index="63" materialName="TLW_HOME01material_5" />
+                <subentity index="64" materialName="TLW_HOME01material_6" />
+                <subentity index="65" materialName="TLW_HOME01material_12" />
+                <subentity index="66" materialName="TLW_HOME01material_9" />
+                <subentity index="67" materialName="TLW_HOME01material_6" />
+                <subentity index="68" materialName="TLW_HOME01material_9" />
+                <subentity index="69" materialName="TLW_HOME01material_12" />
+                <subentity index="70" materialName="TLW_HOME01material_13" />
+                <subentity index="71" materialName="TLW_HOME01material_6" />
+                <subentity index="72" materialName="TLW_HOME01material_12" />
+                <subentity index="73" materialName="TLW_HOME01material_14" />
+                <subentity index="74" materialName="TLW_HOME01material_6" />
+                <subentity index="75" materialName="TLW_HOME01material_15" />
+                <subentity index="76" materialName="TLW_HOME01material_9" />
+                <subentity index="77" materialName="TLW_HOME01material_7" />
+                <subentity index="78" materialName="TLW_HOME01material_6" />
+                <subentity index="79" materialName="TLW_HOME01material_15" />
+                <subentity index="80" materialName="TLW_HOME01material_7" />
+                <subentity index="81" materialName="TLW_HOME01material_6" />
+                <subentity index="82" materialName="TLW_HOME01material_15" />
+                <subentity index="83" materialName="TLW_HOME01material_15" />
+                <subentity index="84" materialName="TLW_HOME01material_6" />
+                <subentity index="85" materialName="TLW_HOME01material_5" />
+                <subentity index="86" materialName="TLW_HOME01material_7" />
+                <subentity index="87" materialName="TLW_HOME01material_15" />
+                <subentity index="88" materialName="TLW_HOME01material_5" />
+                <subentity index="89" materialName="TLW_HOME01material_6" />
+                <subentity index="90" materialName="TLW_HOME01material_7" />
+                <subentity index="91" materialName="TLW_HOME01material_15" />
+                <subentity index="92" materialName="TLW_HOME01material_5" />
+                <subentity index="93" materialName="TLW_HOME01material_7" />
+                <subentity index="94" materialName="TLW_HOME01material_15" />
+                <subentity index="95" materialName="TLW_HOME01material_5" />
+                <subentity index="96" materialName="TLW_HOME01material_7" />
+                <subentity index="97" materialName="TLW_HOME01material_15" />
+                <subentity index="98" materialName="TLW_HOME01material_5" />
+                <subentity index="99" materialName="TLW_HOME01material_16" />
+                <subentity index="100" materialName="TLW_HOME01material_16" />
+                <subentity index="101" materialName="TLW_HOME01material_5" />
+                <subentity index="102" materialName="TLW_HOME01material_16" />
+                <subentity index="103" materialName="TLW_HOME01material_5" />
+                <subentity index="104" materialName="TLW_HOME01material_16" />
+                <subentity index="105" materialName="TLW_HOME01material_5" />
+                <subentity index="106" materialName="TLW_HOME01material_10" />
+                <subentity index="107" materialName="TLW_HOME01material_6" />
+                <subentity index="108" materialName="TLW_HOME01material_7" />
+                <subentity index="109" materialName="TLW_HOME01material_9" />
+                <subentity index="110" materialName="TLW_HOME01material_10" />
+                <subentity index="111" materialName="TLW_HOME01material_4" />
+                <subentity index="112" materialName="TLW_HOME01material_17" />
+                <subentity index="113" materialName="TLW_HOME01material_13" />
+                <subentity index="114" materialName="TLW_HOME01material_6" />
+                <subentity index="115" materialName="TLW_HOME01material_10" />
+                <subentity index="116" materialName="TLW_HOME01material_7" />
+                <subentity index="117" materialName="TLW_HOME01material_6" />
+                <subentity index="118" materialName="TLW_HOME01material_10" />
+                <subentity index="119" materialName="TLW_HOME01material_4" />
+                <subentity index="120" materialName="TLW_HOME01material_18" />
+                <subentity index="121" materialName="TLW_HOME01material_9" />
+                <subentity index="122" materialName="TLW_HOME01material_6" />
+                <subentity index="123" materialName="TLW_HOME01material_5" />
+                <subentity index="124" materialName="TLW_HOME01material_6" />
+                <subentity index="125" materialName="TLW_HOME01material_9" />
+                <subentity index="126" materialName="TLW_HOME01material_12" />
+                <subentity index="127" materialName="TLW_HOME01material_10" />
+                <subentity index="128" materialName="TLW_HOME01material_5" />
+                <subentity index="129" materialName="TLW_HOME01material_7" />
+                <subentity index="130" materialName="TLW_HOME01material_5" />
+                <subentity index="131" materialName="TLW_HOME01material_7" />
+                <subentity index="132" materialName="TLW_HOME01material_5" />
+                <subentity index="133" materialName="TLW_HOME01material_7" />
+                <subentity index="134" materialName="TLW_HOME01material_13" />
+                <subentity index="135" materialName="TLW_HOME01material_6" />
+                <subentity index="136" materialName="TLW_HOME01material_19" />
+                <subentity index="137" materialName="TLW_HOME01material_5" />
+                <subentity index="138" materialName="TLW_HOME01material_7" />
+                <subentity index="139" materialName="TLW_HOME01material_5" />
+                <subentity index="140" materialName="TLW_HOME01material_7" />
+                <subentity index="141" materialName="TLW_HOME01material_5" />
+                <subentity index="142" materialName="TLW_HOME01material_7" />
+                <subentity index="143" materialName="TLW_HOME01material_13" />
+                <subentity index="144" materialName="TLW_HOME01material_6" />
+                <subentity index="145" materialName="TLW_HOME01material_19" />
+                <subentity index="146" materialName="TLW_HOME01material_5" />
+                <subentity index="147" materialName="TLW_HOME01material_7" />
+                <subentity index="148" materialName="TLW_HOME01material_5" />
+                <subentity index="149" materialName="TLW_HOME01material_7" />
+                <subentity index="150" materialName="TLW_HOME01material_5" />
+                <subentity index="151" materialName="TLW_HOME01material_7" />
+                <subentity index="152" materialName="TLW_HOME01material_13" />
+                <subentity index="153" materialName="TLW_HOME01material_6" />
+                <subentity index="154" materialName="TLW_HOME01material_19" />
+                <subentity index="155" materialName="TLW_HOME01material_5" />
+                <subentity index="156" materialName="TLW_HOME01material_7" />
+                <subentity index="157" materialName="TLW_HOME01material_5" />
+                <subentity index="158" materialName="TLW_HOME01material_7" />
+                <subentity index="159" materialName="TLW_HOME01material_5" />
+                <subentity index="160" materialName="TLW_HOME01material_7" />
+                <subentity index="161" materialName="TLW_HOME01material_13" />
+                <subentity index="162" materialName="TLW_HOME01material_6" />
+                <subentity index="163" materialName="TLW_HOME01material_19" />
+                <subentity index="164" materialName="TLW_HOME01material_5" />
+                <subentity index="165" materialName="TLW_HOME01material_7" />
+                <subentity index="166" materialName="TLW_HOME01material_5" />
+                <subentity index="167" materialName="TLW_HOME01material_7" />
+                <subentity index="168" materialName="TLW_HOME01material_5" />
+                <subentity index="169" materialName="TLW_HOME01material_7" />
+                <subentity index="170" materialName="TLW_HOME01material_13" />
+                <subentity index="171" materialName="TLW_HOME01material_6" />
+                <subentity index="172" materialName="TLW_HOME01material_19" />
+                <subentity index="173" materialName="TLW_HOME01material_5" />
+                <subentity index="174" materialName="TLW_HOME01material_7" />
+                <subentity index="175" materialName="TLW_HOME01material_5" />
+                <subentity index="176" materialName="TLW_HOME01material_7" />
+                <subentity index="177" materialName="TLW_HOME01material_5" />
+                <subentity index="178" materialName="TLW_HOME01material_7" />
+                <subentity index="179" materialName="TLW_HOME01material_13" />
+                <subentity index="180" materialName="TLW_HOME01material_6" />
+                <subentity index="181" materialName="TLW_HOME01material_19" />
+                <subentity index="182" materialName="TLW_HOME01material_5" />
+                <subentity index="183" materialName="TLW_HOME01material_7" />
+                <subentity index="184" materialName="TLW_HOME01material_5" />
+                <subentity index="185" materialName="TLW_HOME01material_7" />
+                <subentity index="186" materialName="TLW_HOME01material_5" />
+                <subentity index="187" materialName="TLW_HOME01material_7" />
+                <subentity index="188" materialName="TLW_HOME01material_13" />
+                <subentity index="189" materialName="TLW_HOME01material_6" />
+                <subentity index="190" materialName="TLW_HOME01material_19" />
+                <subentity index="191" materialName="TLW_HOME01material_5" />
+                <subentity index="192" materialName="TLW_HOME01material_7" />
+                <subentity index="193" materialName="TLW_HOME01material_5" />
+                <subentity index="194" materialName="TLW_HOME01material_7" />
+                <subentity index="195" materialName="TLW_HOME01material_5" />
+                <subentity index="196" materialName="TLW_HOME01material_7" />
+                <subentity index="197" materialName="TLW_HOME01material_13" />
+                <subentity index="198" materialName="TLW_HOME01material_6" />
+                <subentity index="199" materialName="TLW_HOME01material_19" />
+                <subentity index="200" materialName="TLW_HOME01material_9" />
+                <subentity index="201" materialName="TLW_HOME01material_12" />
+                <subentity index="202" materialName="TLW_HOME01material_10" />
+                <subentity index="203" materialName="TLW_HOME01material_6" />
+                <subentity index="204" materialName="TLW_HOME01material_9" />
+                <subentity index="205" materialName="TLW_HOME01material_12" />
+                <subentity index="206" materialName="TLW_HOME01material_6" />
+                <subentity index="207" materialName="TLW_HOME01material_10" />
+                <subentity index="208" materialName="TLW_HOME01material_9" />
+                <subentity index="209" materialName="TLW_HOME01material_12" />
+                <subentity index="210" materialName="TLW_HOME01material_6" />
+                <subentity index="211" materialName="TLW_HOME01material_10" />
+                <subentity index="212" materialName="TLW_HOME01material_9" />
+                <subentity index="213" materialName="TLW_HOME01material_12" />
+                <subentity index="214" materialName="TLW_HOME01material_6" />
+                <subentity index="215" materialName="TLW_HOME01material_0" />
+                <subentity index="216" materialName="TLW_HOME01material_4" />
+                <subentity index="217" materialName="TLW_HOME01material_11" />
+                <subentity index="218" materialName="TLW_HOME01material_10" />
+                <subentity index="219" materialName="TLW_HOME01material_20" />
+                <subentity index="220" materialName="TLW_HOME01material_12" />
+                <subentity index="221" materialName="TLW_HOME01material_6" />
+                <subentity index="222" materialName="TLW_HOME01material_6" />
+                <subentity index="223" materialName="TLW_HOME01material_21" />
+                <subentity index="224" materialName="TLW_HOME01material_12" />
+                <subentity index="225" materialName="TLW_HOME01material_10" />
+                <subentity index="226" materialName="TLW_HOME01material_10" />
+                <subentity index="227" materialName="TLW_HOME01material_6" />
+                <subentity index="228" materialName="TLW_HOME01material_21" />
+                <subentity index="229" materialName="TLW_HOME01material_12" />
+                <subentity index="230" materialName="TLW_HOME01material_12" />
+                <subentity index="231" materialName="TLW_HOME01material_20" />
+                <subentity index="232" materialName="TLW_HOME01material_6" />
+                <subentity index="233" materialName="TLW_HOME01material_10" />
+                <subentity index="234" materialName="TLW_HOME01material_12" />
+                <subentity index="235" materialName="TLW_HOME01material_20" />
+                <subentity index="236" materialName="TLW_HOME01material_6" />
+                <subentity index="237" materialName="TLW_HOME01material_10" />
+                <subentity index="238" materialName="TLW_HOME01material_12" />
+                <subentity index="239" materialName="TLW_HOME01material_20" />
+                <subentity index="240" materialName="TLW_HOME01material_10" />
+                <subentity index="241" materialName="TLW_HOME01material_6" />
+                <subentity index="242" materialName="TLW_HOME01material_12" />
+                <subentity index="243" materialName="TLW_HOME01material_9" />
+                <subentity index="244" materialName="TLW_HOME01material_6" />
+                <subentity index="245" materialName="TLW_HOME01material_6" />
+                <subentity index="246" materialName="TLW_HOME01material_22" />
+                <subentity index="247" materialName="TLW_HOME01material_20" />
+                <subentity index="248" materialName="TLW_HOME01material_11" />
+                <subentity index="249" materialName="TLW_HOME01material_12" />
+                <subentity index="250" materialName="TLW_HOME01material_12" />
+                <subentity index="251" materialName="TLW_HOME01material_6" />
+                <subentity index="252" materialName="TLW_HOME01material_11" />
+                <subentity index="253" materialName="TLW_HOME01material_12" />
+                <subentity index="254" materialName="TLW_HOME01material_11" />
+                <subentity index="255" materialName="TLW_HOME01material_6" />
+                <subentity index="256" materialName="TLW_HOME01material_12" />
+                <subentity index="257" materialName="TLW_HOME01material_11" />
+                <subentity index="258" materialName="TLW_HOME01material_6" />
+                <subentity index="259" materialName="TLW_HOME01material_12" />
+                <subentity index="260" materialName="TLW_HOME01material_11" />
+                <subentity index="261" materialName="TLW_HOME01material_6" />
+                <subentity index="262" materialName="TLW_HOME01material_11" />
+                <subentity index="263" materialName="TLW_HOME01material_12" />
+                <subentity index="264" materialName="TLW_HOME01material_6" />
+                <subentity index="265" materialName="TLW_HOME01material_24" />
+                <subentity index="266" materialName="TLW_HOME01material_25" />
+                <subentity index="267" materialName="TLW_HOME01material_26" />
+                <subentity index="268" materialName="TLW_HOME01material_19" />
+                <subentity index="269" materialName="TLW_HOME01material_27" />
+                <subentity index="270" materialName="TLW_HOME01material_4" />
+                <subentity index="271" materialName="TLW_HOME01material_24" />
+                <subentity index="272" materialName="TLW_HOME01material_25" />
+                <subentity index="273" materialName="TLW_HOME01material_26" />
+                <subentity index="274" materialName="TLW_HOME01material_27" />
+                <subentity index="275" materialName="TLW_HOME01material_24" />
+                <subentity index="276" materialName="TLW_HOME01material_25" />
+                <subentity index="277" materialName="TLW_HOME01material_26" />
+                <subentity index="278" materialName="TLW_HOME01material_27" />
+                <subentity index="279" materialName="TLW_HOME01material_24" />
+                <subentity index="280" materialName="TLW_HOME01material_25" />
+                <subentity index="281" materialName="TLW_HOME01material_26" />
+                <subentity index="282" materialName="TLW_HOME01material_27" />
+                <subentity index="283" materialName="TLW_HOME01material_24" />
+                <subentity index="284" materialName="TLW_HOME01material_25" />
+                <subentity index="285" materialName="TLW_HOME01material_26" />
+                <subentity index="286" materialName="TLW_HOME01material_27" />
+                <subentity index="287" materialName="TLW_HOME01material_24" />
+                <subentity index="288" materialName="TLW_HOME01material_25" />
+                <subentity index="289" materialName="TLW_HOME01material_26" />
+                <subentity index="290" materialName="TLW_HOME01material_27" />
+                <subentity index="291" materialName="TLW_HOME01material_24" />
+                <subentity index="292" materialName="TLW_HOME01material_25" />
+                <subentity index="293" materialName="TLW_HOME01material_26" />
+                <subentity index="294" materialName="TLW_HOME01material_27" />
+                <subentity index="295" materialName="TLW_HOME01material_24" />
+                <subentity index="296" materialName="TLW_HOME01material_4" />
+                <subentity index="297" materialName="TLW_HOME01material_4" />
+                <subentity index="298" materialName="TLW_HOME01material_25" />
+                <subentity index="299" materialName="TLW_HOME01material_26" />
+                <subentity index="300" materialName="TLW_HOME01material_27" />
+                <subentity index="301" materialName="TLW_HOME01material_4" />
+                <subentity index="302" materialName="TLW_HOME01material_25" />
+                <subentity index="303" materialName="TLW_HOME01material_26" />
+                <subentity index="304" materialName="TLW_HOME01material_27" />
+                <subentity index="305" materialName="TLW_HOME01material_4" />
+                <subentity index="306" materialName="TLW_HOME01material_25" />
+                <subentity index="307" materialName="TLW_HOME01material_26" />
+                <subentity index="308" materialName="TLW_HOME01material_27" />
+                <subentity index="309" materialName="TLW_HOME01material_4" />
+                <subentity index="310" materialName="TLW_HOME01material_25" />
+                <subentity index="311" materialName="TLW_HOME01material_26" />
+                <subentity index="312" materialName="TLW_HOME01material_27" />
+                <subentity index="313" materialName="TLW_HOME01material_4" />
+                <subentity index="314" materialName="TLW_HOME01material_25" />
+                <subentity index="315" materialName="TLW_HOME01material_26" />
+                <subentity index="316" materialName="TLW_HOME01material_27" />
+                <subentity index="317" materialName="TLW_HOME01material_4" />
+                <subentity index="318" materialName="TLW_HOME01material_25" />
+                <subentity index="319" materialName="TLW_HOME01material_26" />
+                <subentity index="320" materialName="TLW_HOME01material_27" />
+                <subentity index="321" materialName="TLW_HOME01material_4" />
+                <subentity index="322" materialName="TLW_HOME01material_25" />
+                <subentity index="323" materialName="TLW_HOME01material_26" />
+                <subentity index="324" materialName="TLW_HOME01material_19" />
+                <subentity index="325" materialName="TLW_HOME01material_27" />
+                <subentity index="326" materialName="TLW_HOME01material_4" />
+                <subentity index="327" materialName="TLW_HOME01material_25" />
+                <subentity index="328" materialName="TLW_HOME01material_26" />
+                <subentity index="329" materialName="TLW_HOME01material_27" />
+                <subentity index="330" materialName="TLW_HOME01material_4" />
+                <subentity index="331" materialName="TLW_HOME01material_25" />
+                <subentity index="332" materialName="TLW_HOME01material_26" />
+                <subentity index="333" materialName="TLW_HOME01material_27" />
+                <subentity index="334" materialName="TLW_HOME01material_4" />
+                <subentity index="335" materialName="TLW_HOME01material_25" />
+                <subentity index="336" materialName="TLW_HOME01material_26" />
+                <subentity index="337" materialName="TLW_HOME01material_27" />
+                <subentity index="338" materialName="TLW_HOME01material_4" />
+                <subentity index="339" materialName="TLW_HOME01material_25" />
+                <subentity index="340" materialName="TLW_HOME01material_26" />
+                <subentity index="341" materialName="TLW_HOME01material_27" />
+                <subentity index="342" materialName="TLW_HOME01material_4" />
+                <subentity index="343" materialName="TLW_HOME01material_25" />
+                <subentity index="344" materialName="TLW_HOME01material_26" />
+                <subentity index="345" materialName="TLW_HOME01material_27" />
+                <subentity index="346" materialName="TLW_HOME01material_4" />
+                <subentity index="347" materialName="TLW_HOME01material_25" />
+                <subentity index="348" materialName="TLW_HOME01material_26" />
+                <subentity index="349" materialName="TLW_HOME01material_27" />
+                <subentity index="350" materialName="TLW_HOME01material_4" />
+                <subentity index="351" materialName="TLW_HOME01material_25" />
+                <subentity index="352" materialName="TLW_HOME01material_26" />
+                <subentity index="353" materialName="TLW_HOME01material_27" />
+                <subentity index="354" materialName="TLW_HOME01material_4" />
+                <subentity index="355" materialName="TLW_HOME01material_25" />
+                <subentity index="356" materialName="TLW_HOME01material_26" />
+                <subentity index="357" materialName="TLW_HOME01material_27" />
+                <subentity index="358" materialName="TLW_HOME01material_4" />
+                <subentity index="359" materialName="TLW_HOME01material_25" />
+                <subentity index="360" materialName="TLW_HOME01material_26" />
+                <subentity index="361" materialName="TLW_HOME01material_27" />
+                <subentity index="362" materialName="TLW_HOME01material_4" />
+                <subentity index="363" materialName="TLW_HOME01material_25" />
+                <subentity index="364" materialName="TLW_HOME01material_26" />
+                <subentity index="365" materialName="TLW_HOME01material_27" />
+                <subentity index="366" materialName="TLW_HOME01material_4" />
+                <subentity index="367" materialName="TLW_HOME01material_25" />
+                <subentity index="368" materialName="TLW_HOME01material_26" />
+                <subentity index="369" materialName="TLW_HOME01material_27" />
+                <subentity index="370" materialName="TLW_HOME01material_4" />
+                <subentity index="371" materialName="TLW_HOME01material_25" />
+                <subentity index="372" materialName="TLW_HOME01material_26" />
+                <subentity index="373" materialName="TLW_HOME01material_27" />
+                <subentity index="374" materialName="TLW_HOME01material_4" />
+                <subentity index="375" materialName="TLW_HOME01material_11" />
+                <subentity index="376" materialName="TLW_HOME01material_12" />
+                <subentity index="377" materialName="TLW_HOME01material_4" />
+                <subentity index="378" materialName="TLW_HOME01material_20" />
+                <subentity index="379" materialName="TLW_HOME01material_24" />
+                <subentity index="380" materialName="TLW_HOME01material_10" />
+                <subentity index="381" materialName="TLW_HOME01material_6" />
+                <subentity index="382" materialName="TLW_HOME01material_21" />
+                <subentity index="383" materialName="TLW_HOME01material_20" />
+                <subentity index="384" materialName="TLW_HOME01material_4" />
+                <subentity index="385" materialName="TLW_HOME01material_24" />
+                <subentity index="386" materialName="TLW_HOME01material_36" />
+                <subentity index="387" materialName="TLW_HOME01material_5" />
+                <subentity index="388" materialName="TLW_HOME01material_20" />
+                <subentity index="389" materialName="TLW_HOME01material_9" />
+                <subentity index="390" materialName="TLW_HOME01material_5" />
+                <subentity index="391" materialName="TLW_HOME01material_20" />
+                <subentity index="392" materialName="TLW_HOME01material_9" />
+                <subentity index="393" materialName="TLW_HOME01material_10" />
+                <subentity index="394" materialName="TLW_HOME01material_5" />
+                <subentity index="395" materialName="TLW_HOME01material_20" />
+                <subentity index="396" materialName="TLW_HOME01material_9" />
+                <subentity index="397" materialName="TLW_HOME01material_37" />
+                <subentity index="398" materialName="TLW_HOME01material_10" />
+                <subentity index="399" materialName="TLW_HOME01material_24" />
+                <subentity index="400" materialName="TLW_HOME01material_4" />
+                <subentity index="401" materialName="TLW_HOME01material_37" />
+                <subentity index="402" materialName="TLW_HOME01material_10" />
+                <subentity index="403" materialName="TLW_HOME01material_4" />
+                <subentity index="404" materialName="TLW_HOME01material_4" />
+                <subentity index="405" materialName="TLW_HOME01material_24" />
+                <subentity index="406" materialName="TLW_HOME01material_10" />
+                <subentity index="407" materialName="TLW_HOME01material_10" />
+                <subentity index="408" materialName="TLW_HOME01material_6" />
+                <subentity index="409" materialName="TLW_HOME01material_21" />
+                <subentity index="410" materialName="TLW_HOME01material_20" />
+                <subentity index="411" materialName="TLW_HOME01material_20" />
+                <subentity index="412" materialName="TLW_HOME01material_9" />
+                <subentity index="413" materialName="TLW_HOME01material_5" />
+                <subentity index="414" materialName="TLW_HOME01material_20" />
+                <subentity index="415" materialName="TLW_HOME01material_9" />
+                <subentity index="416" materialName="TLW_HOME01material_5" />
+                <subentity index="417" materialName="TLW_HOME01material_10" />
+                <subentity index="418" materialName="TLW_HOME01material_20" />
+                <subentity index="419" materialName="TLW_HOME01material_9" />
+                <subentity index="420" materialName="TLW_HOME01material_5" />
+                <subentity index="421" materialName="TLW_HOME01material_4" />
+                <subentity index="422" materialName="TLW_HOME01material_21" />
+                <subentity index="423" materialName="TLW_HOME01material_5" />
+                <subentity index="424" materialName="TLW_HOME01material_24" />
+                <subentity index="425" materialName="TLW_HOME01material_38" />
+                <subentity index="426" materialName="TLW_HOME01material_4" />
+                <subentity index="427" materialName="TLW_HOME01material_10" />
+                <subentity index="428" materialName="TLW_HOME01material_21" />
+                <subentity index="429" materialName="TLW_HOME01material_12" />
+                <subentity index="430" materialName="TLW_HOME01material_6" />
+                <subentity index="431" materialName="TLW_HOME01material_4" />
+                <subentity index="432" materialName="TLW_HOME01material_20" />
+                <subentity index="433" materialName="TLW_HOME01material_9" />
+                <subentity index="434" materialName="TLW_HOME01material_5" />
+                <subentity index="435" materialName="TLW_HOME01material_37" />
+                <subentity index="436" materialName="TLW_HOME01material_21" />
+                <subentity index="437" materialName="TLW_HOME01material_4" />
+                <subentity index="438" materialName="TLW_HOME01material_20" />
+                <subentity index="439" materialName="TLW_HOME01material_5" />
+                <subentity index="440" materialName="TLW_HOME01material_21" />
+                <subentity index="441" materialName="TLW_HOME01material_9" />
+                <subentity index="442" materialName="TLW_HOME01material_5" />
+                <subentity index="443" materialName="TLW_HOME01material_5" />
+                <subentity index="444" materialName="TLW_HOME01material_21" />
+                <subentity index="445" materialName="TLW_HOME01material_5" />
+                <subentity index="446" materialName="TLW_HOME01material_21" />
+                <subentity index="447" materialName="TLW_HOME01material_5" />
+                <subentity index="448" materialName="TLW_HOME01material_21" />
+                <subentity index="449" materialName="TLW_HOME01material_16" />
+                <subentity index="450" materialName="TLW_HOME01material_5" />
+                <subentity index="451" materialName="TLW_HOME01material_5" />
+                <subentity index="452" materialName="TLW_HOME01material_21" />
+                <subentity index="453" materialName="TLW_HOME01material_5" />
+                <subentity index="454" materialName="TLW_HOME01material_37" />
+                <subentity index="455" materialName="TLW_HOME01material_5" />
+                <subentity index="456" materialName="TLW_HOME01material_37" />
+                <subentity index="457" materialName="TLW_HOME01material_5" />
+                <subentity index="458" materialName="TLW_HOME01material_37" />
+                <subentity index="459" materialName="TLW_HOME01material_16" />
+                <subentity index="460" materialName="TLW_HOME01material_5" />
+                <subentity index="461" materialName="TLW_HOME01material_5" />
+                <subentity index="462" materialName="TLW_HOME01material_37" />
+                <subentity index="463" materialName="TLW_HOME01material_5" />
+                <subentity index="464" materialName="TLW_HOME01material_11" />
+                <subentity index="465" materialName="TLW_HOME01material_5" />
+                <subentity index="466" materialName="TLW_HOME01material_11" />
+                <subentity index="467" materialName="TLW_HOME01material_5" />
+                <subentity index="468" materialName="TLW_HOME01material_11" />
+                <subentity index="469" materialName="TLW_HOME01material_5" />
+                <subentity index="470" materialName="TLW_HOME01material_11" />
+                <subentity index="471" materialName="TLW_HOME01material_16" />
+                <subentity index="472" materialName="TLW_HOME01material_5" />
+                <subentity index="473" materialName="TLW_HOME01material_38" />
+                <subentity index="474" materialName="TLW_HOME01material_11" />
+                <subentity index="475" materialName="TLW_HOME01material_37" />
+                <subentity index="476" materialName="TLW_HOME01material_9" />
+                <subentity index="477" materialName="TLW_HOME01material_5" />
+                <subentity index="478" materialName="TLW_HOME01material_39" />
+                <subentity index="479" materialName="TLW_HOME01material_4" />
+                <subentity index="480" materialName="TLW_HOME01material_39" />
+                <subentity index="481" materialName="TLW_HOME01material_6" />
+                <subentity index="482" materialName="TLW_HOME01material_20" />
+                <subentity index="483" materialName="TLW_HOME01material_37" />
+                <subentity index="484" materialName="TLW_HOME01material_22" />
+                <subentity index="485" materialName="TLW_HOME01material_39" />
+                <subentity index="486" materialName="TLW_HOME01material_20" />
+                <subentity index="487" materialName="TLW_HOME01material_6" />
+                <subentity index="488" materialName="TLW_HOME01material_10" />
+                <subentity index="489" materialName="TLW_HOME01material_40" />
+                <subentity index="490" materialName="TLW_HOME01material_10" />
+                <subentity index="491" materialName="TLW_HOME01material_40" />
+                <subentity index="492" materialName="TLW_HOME01material_6" />
+                <subentity index="493" materialName="TLW_HOME01material_13" />
+                <subentity index="494" materialName="TLW_HOME01material_12" />
+                <subentity index="495" materialName="TLW_HOME01material_41" />
+                <subentity index="496" materialName="TLW_HOME01material_6" />
+                <subentity index="497" materialName="TLW_HOME01material_20" />
+                <subentity index="498" materialName="TLW_HOME01material_37" />
+                <subentity index="499" materialName="TLW_HOME01material_39" />
+                <subentity index="500" materialName="TLW_HOME01material_6" />
+                <subentity index="501" materialName="TLW_HOME01material_38" />
+                <subentity index="502" materialName="TLW_HOME01material_5" />
+                <subentity index="503" materialName="TLW_HOME01material_6" />
+                <subentity index="504" materialName="TLW_HOME01material_22" />
+                <subentity index="505" materialName="TLW_HOME01material_38" />
+                <subentity index="506" materialName="TLW_HOME01material_15" />
+                <subentity index="507" materialName="TLW_HOME01material_22" />
+                <subentity index="508" materialName="TLW_HOME01material_5" />
+                <subentity index="509" materialName="TLW_HOME01material_6" />
+                <subentity index="510" materialName="TLW_HOME01material_15" />
+                <subentity index="511" materialName="TLW_HOME01material_22" />
+                <subentity index="512" materialName="TLW_HOME01material_4" />
+                <subentity index="513" materialName="TLW_HOME01material_5" />
+                <subentity index="514" materialName="TLW_HOME01material_6" />
+                <subentity index="515" materialName="TLW_HOME01material_22" />
+                <subentity index="516" materialName="TLW_HOME01material_11" />
+                <subentity index="517" materialName="TLW_HOME01material_38" />
+                <subentity index="518" materialName="TLW_HOME01material_11" />
+                <subentity index="519" materialName="TLW_HOME01material_22" />
+                <subentity index="520" materialName="TLW_HOME01material_6" />
+                <subentity index="521" materialName="TLW_HOME01material_10" />
+                <subentity index="522" materialName="TLW_HOME01material_6" />
+                <subentity index="523" materialName="TLW_HOME01material_22" />
+                <subentity index="524" materialName="TLW_HOME01material_10" />
+                <subentity index="525" materialName="TLW_HOME01material_15" />
+                <subentity index="526" materialName="TLW_HOME01material_22" />
+                <subentity index="527" materialName="TLW_HOME01material_5" />
+                <subentity index="528" materialName="TLW_HOME01material_4" />
+                <subentity index="529" materialName="TLW_HOME01material_15" />
+                <subentity index="530" materialName="TLW_HOME01material_22" />
+                <subentity index="531" materialName="TLW_HOME01material_5" />
+                <subentity index="532" materialName="TLW_HOME01material_10" />
+                <subentity index="533" materialName="TLW_HOME01material_40" />
+                <subentity index="534" materialName="TLW_HOME01material_10" />
+                <subentity index="535" materialName="TLW_HOME01material_40" />
+                <subentity index="536" materialName="TLW_HOME01material_10" />
+                <subentity index="537" materialName="TLW_HOME01material_40" />
+                <subentity index="538" materialName="TLW_HOME01material_10" />
+                <subentity index="539" materialName="TLW_HOME01material_40" />
+                <subentity index="540" materialName="TLW_HOME01material_10" />
+                <subentity index="541" materialName="TLW_HOME01material_40" />
+                <subentity index="542" materialName="TLW_HOME01material_10" />
+                <subentity index="543" materialName="TLW_HOME01material_40" />
+                <subentity index="544" materialName="TLW_HOME01material_22" />
+                <subentity index="545" materialName="TLW_HOME01material_6" />
+                <subentity index="546" materialName="TLW_HOME01material_20" />
+                <subentity index="547" materialName="TLW_HOME01material_6" />
+                <subentity index="548" materialName="TLW_HOME01material_20" />
+                <subentity index="549" materialName="TLW_HOME01material_10" />
+                <subentity index="550" materialName="TLW_HOME01material_10" />
+                <subentity index="551" materialName="TLW_HOME01material_40" />
+                <subentity index="552" materialName="TLW_HOME01material_10" />
+                <subentity index="553" materialName="TLW_HOME01material_40" />
+                <subentity index="554" materialName="TLW_HOME01material_6" />
+                <subentity index="555" materialName="TLW_HOME01material_20" />
+                <subentity index="556" materialName="TLW_HOME01material_6" />
+                <subentity index="557" materialName="TLW_HOME01material_20" />
+                <subentity index="558" materialName="TLW_HOME01material_10" />
+                <subentity index="559" materialName="TLW_HOME01material_22" />
+                <subentity index="560" materialName="TLW_HOME01material_6" />
+                <subentity index="561" materialName="TLW_HOME01material_20" />
+                <subentity index="562" materialName="TLW_HOME01material_6" />
+                <subentity index="563" materialName="TLW_HOME01material_13" />
+                <subentity index="564" materialName="TLW_HOME01material_43" />
+                <subentity index="565" materialName="TLW_HOME01material_6" />
+                <subentity index="566" materialName="TLW_HOME01material_13" />
+                <subentity index="567" materialName="TLW_HOME01material_39" />
+                <subentity index="568" materialName="TLW_HOME01material_6" />
+                <subentity index="569" materialName="TLW_HOME01material_13" />
+                <subentity index="570" materialName="TLW_HOME01material_12" />
+                <subentity index="571" materialName="TLW_HOME01material_43" />
+                <subentity index="572" materialName="TLW_HOME01material_24" />
+                <subentity index="573" materialName="TLW_HOME01material_4" />
+                <subentity index="574" materialName="TLW_HOME01material_24" />
+                <subentity index="575" materialName="TLW_HOME01material_4" />
+                <subentity index="576" materialName="TLW_HOME01material_39" />
+                <subentity index="577" materialName="TLW_HOME01material_4" />
+                <subentity index="578" materialName="TLW_HOME01material_44" />
+                <subentity index="579" materialName="TLW_HOME01material_44" />
+                <subentity index="580" materialName="TLW_HOME01material_4" />
+                <subentity index="581" materialName="TLW_HOME01material_3" />
+                <subentity index="582" materialName="TLW_HOME01material_2" />
+            </entity>
+        </node>
+        <node name="tlw_home01#0" id="345988320">
+            <position x="0" y="0" z="0" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity name="tlw_home01#0" meshFile="tlw_home01.mesh" castShadows="true">
+                <subentity index="0" materialName="TLW_HOME01material_32" />
+                <subentity index="1" materialName="TLW_HOME01material_4" />
+                <subentity index="2" materialName="TLW_HOME01material_23" />
+                <subentity index="3" materialName="TLW_HOME01material_28" />
+                <subentity index="4" materialName="TLW_HOME01material_29" />
+                <subentity index="5" materialName="TLW_HOME01material_4" />
+                <subentity index="6" materialName="TLW_HOME01material_28" />
+                <subentity index="7" materialName="TLW_HOME01material_29" />
+                <subentity index="8" materialName="TLW_HOME01material_4" />
+                <subentity index="9" materialName="TLW_HOME01material_28" />
+                <subentity index="10" materialName="TLW_HOME01material_29" />
+                <subentity index="11" materialName="TLW_HOME01material_4" />
+                <subentity index="12" materialName="TLW_HOME01material_28" />
+                <subentity index="13" materialName="TLW_HOME01material_29" />
+                <subentity index="14" materialName="TLW_HOME01material_4" />
+                <subentity index="15" materialName="TLW_HOME01material_30" />
+                <subentity index="16" materialName="TLW_HOME01material_31" />
+                <subentity index="17" materialName="TLW_HOME01material_4" />
+                <subentity index="18" materialName="TLW_HOME01material_31" />
+                <subentity index="19" materialName="TLW_HOME01material_4" />
+                <subentity index="20" materialName="TLW_HOME01material_31" />
+                <subentity index="21" materialName="TLW_HOME01material_4" />
+                <subentity index="22" materialName="TLW_HOME01material_31" />
+                <subentity index="23" materialName="TLW_HOME01material_4" />
+                <subentity index="24" materialName="TLW_HOME01material_31" />
+                <subentity index="25" materialName="TLW_HOME01material_31" />
+                <subentity index="26" materialName="TLW_HOME01material_4" />
+                <subentity index="27" materialName="TLW_HOME01material_31" />
+                <subentity index="28" materialName="TLW_HOME01material_4" />
+                <subentity index="29" materialName="TLW_HOME01material_31" />
+                <subentity index="30" materialName="TLW_HOME01material_4" />
+                <subentity index="31" materialName="TLW_HOME01material_31" />
+                <subentity index="32" materialName="TLW_HOME01material_4" />
+                <subentity index="33" materialName="TLW_HOME01material_31" />
+                <subentity index="34" materialName="TLW_HOME01material_4" />
+                <subentity index="35" materialName="TLW_HOME01material_31" />
+                <subentity index="36" materialName="TLW_HOME01material_4" />
+                <subentity index="37" materialName="TLW_HOME01material_31" />
+                <subentity index="38" materialName="TLW_HOME01material_4" />
+                <subentity index="39" materialName="TLW_HOME01material_28" />
+                <subentity index="40" materialName="TLW_HOME01material_29" />
+                <subentity index="41" materialName="TLW_HOME01material_4" />
+                <subentity index="42" materialName="TLW_HOME01material_28" />
+                <subentity index="43" materialName="TLW_HOME01material_29" />
+                <subentity index="44" materialName="TLW_HOME01material_4" />
+                <subentity index="45" materialName="TLW_HOME01material_28" />
+                <subentity index="46" materialName="TLW_HOME01material_29" />
+                <subentity index="47" materialName="TLW_HOME01material_4" />
+                <subentity index="48" materialName="TLW_HOME01material_28" />
+                <subentity index="49" materialName="TLW_HOME01material_29" />
+                <subentity index="50" materialName="TLW_HOME01material_4" />
+                <subentity index="51" materialName="TLW_HOME01material_30" />
+                <subentity index="52" materialName="TLW_HOME01material_31" />
+                <subentity index="53" materialName="TLW_HOME01material_4" />
+                <subentity index="54" materialName="TLW_HOME01material_31" />
+                <subentity index="55" materialName="TLW_HOME01material_4" />
+                <subentity index="56" materialName="TLW_HOME01material_31" />
+                <subentity index="57" materialName="TLW_HOME01material_4" />
+                <subentity index="58" materialName="TLW_HOME01material_31" />
+                <subentity index="59" materialName="TLW_HOME01material_4" />
+                <subentity index="60" materialName="TLW_HOME01material_31" />
+                <subentity index="61" materialName="TLW_HOME01material_4" />
+                <subentity index="62" materialName="TLW_HOME01material_31" />
+                <subentity index="63" materialName="TLW_HOME01material_4" />
+                <subentity index="64" materialName="TLW_HOME01material_31" />
+                <subentity index="65" materialName="TLW_HOME01material_4" />
+                <subentity index="66" materialName="TLW_HOME01material_31" />
+                <subentity index="67" materialName="TLW_HOME01material_4" />
+                <subentity index="68" materialName="TLW_HOME01material_31" />
+                <subentity index="69" materialName="TLW_HOME01material_4" />
+                <subentity index="70" materialName="TLW_HOME01material_28" />
+                <subentity index="71" materialName="TLW_HOME01material_29" />
+                <subentity index="72" materialName="TLW_HOME01material_4" />
+                <subentity index="73" materialName="TLW_HOME01material_29" />
+                <subentity index="74" materialName="TLW_HOME01material_28" />
+                <subentity index="75" materialName="TLW_HOME01material_4" />
+                <subentity index="76" materialName="TLW_HOME01material_29" />
+                <subentity index="77" materialName="TLW_HOME01material_28" />
+                <subentity index="78" materialName="TLW_HOME01material_4" />
+                <subentity index="79" materialName="TLW_HOME01material_29" />
+                <subentity index="80" materialName="TLW_HOME01material_28" />
+                <subentity index="81" materialName="TLW_HOME01material_4" />
+                <subentity index="82" materialName="TLW_HOME01material_30" />
+                <subentity index="83" materialName="TLW_HOME01material_31" />
+                <subentity index="84" materialName="TLW_HOME01material_4" />
+                <subentity index="85" materialName="TLW_HOME01material_31" />
+                <subentity index="86" materialName="TLW_HOME01material_4" />
+                <subentity index="87" materialName="TLW_HOME01material_31" />
+                <subentity index="88" materialName="TLW_HOME01material_4" />
+                <subentity index="89" materialName="TLW_HOME01material_31" />
+                <subentity index="90" materialName="TLW_HOME01material_4" />
+                <subentity index="91" materialName="TLW_HOME01material_31" />
+                <subentity index="92" materialName="TLW_HOME01material_4" />
+                <subentity index="93" materialName="TLW_HOME01material_31" />
+                <subentity index="94" materialName="TLW_HOME01material_4" />
+                <subentity index="95" materialName="TLW_HOME01material_31" />
+                <subentity index="96" materialName="TLW_HOME01material_4" />
+                <subentity index="97" materialName="TLW_HOME01material_31" />
+                <subentity index="98" materialName="TLW_HOME01material_4" />
+                <subentity index="99" materialName="TLW_HOME01material_31" />
+                <subentity index="100" materialName="TLW_HOME01material_4" />
+                <subentity index="101" materialName="TLW_HOME01material_31" />
+                <subentity index="102" materialName="TLW_HOME01material_4" />
+                <subentity index="103" materialName="TLW_HOME01material_31" />
+                <subentity index="104" materialName="TLW_HOME01material_4" />
+                <subentity index="105" materialName="TLW_HOME01material_31" />
+                <subentity index="106" materialName="TLW_HOME01material_4" />
+                <subentity index="107" materialName="TLW_HOME01material_4" />
+                <subentity index="108" materialName="TLW_HOME01material_32" />
+                <subentity index="109" materialName="TLW_HOME01material_32" />
+                <subentity index="110" materialName="TLW_HOME01material_33" />
+                <subentity index="111" materialName="TLW_HOME01material_4" />
+                <subentity index="112" materialName="TLW_HOME01material_33" />
+                <subentity index="113" materialName="TLW_HOME01material_4" />
+                <subentity index="114" materialName="TLW_HOME01material_32" />
+                <subentity index="115" materialName="TLW_HOME01material_34" />
+                <subentity index="116" materialName="TLW_HOME01material_4" />
+                <subentity index="117" materialName="TLW_HOME01material_33" />
+                <subentity index="118" materialName="TLW_HOME01material_4" />
+                <subentity index="119" materialName="TLW_HOME01material_33" />
+                <subentity index="120" materialName="TLW_HOME01material_4" />
+                <subentity index="121" materialName="TLW_HOME01material_32" />
+                <subentity index="122" materialName="TLW_HOME01material_33" />
+                <subentity index="123" materialName="TLW_HOME01material_4" />
+                <subentity index="124" materialName="TLW_HOME01material_4" />
+                <subentity index="125" materialName="TLW_HOME01material_33" />
+                <subentity index="126" materialName="TLW_HOME01material_32" />
+                <subentity index="127" materialName="TLW_HOME01material_33" />
+                <subentity index="128" materialName="TLW_HOME01material_4" />
+                <subentity index="129" materialName="TLW_HOME01material_34" />
+                <subentity index="130" materialName="TLW_HOME01material_4" />
+                <subentity index="131" materialName="TLW_HOME01material_4" />
+                <subentity index="132" materialName="TLW_HOME01material_33" />
+                <subentity index="133" materialName="TLW_HOME01material_32" />
+                <subentity index="134" materialName="TLW_HOME01material_32" />
+                <subentity index="135" materialName="TLW_HOME01material_4" />
+                <subentity index="136" materialName="TLW_HOME01material_4" />
+                <subentity index="137" materialName="TLW_HOME01material_32" />
+                <subentity index="138" materialName="TLW_HOME01material_32" />
+                <subentity index="139" materialName="TLW_HOME01material_4" />
+                <subentity index="140" materialName="TLW_HOME01material_32" />
+                <subentity index="141" materialName="TLW_HOME01material_4" />
+                <subentity index="142" materialName="TLW_HOME01material_32" />
+                <subentity index="143" materialName="TLW_HOME01material_4" />
+                <subentity index="144" materialName="TLW_HOME01material_4" />
+                <subentity index="145" materialName="TLW_HOME01material_32" />
+                <subentity index="146" materialName="TLW_HOME01material_32" />
+                <subentity index="147" materialName="TLW_HOME01material_4" />
+                <subentity index="148" materialName="TLW_HOME01material_32" />
+                <subentity index="149" materialName="TLW_HOME01material_4" />
+                <subentity index="150" materialName="TLW_HOME01material_4" />
+                <subentity index="151" materialName="TLW_HOME01material_32" />
+                <subentity index="152" materialName="TLW_HOME01material_32" />
+                <subentity index="153" materialName="TLW_HOME01material_4" />
+                <subentity index="154" materialName="TLW_HOME01material_34" />
+                <subentity index="155" materialName="TLW_HOME01material_4" />
+                <subentity index="156" materialName="TLW_HOME01material_32" />
+                <subentity index="157" materialName="TLW_HOME01material_4" />
+                <subentity index="158" materialName="TLW_HOME01material_31" />
+                <subentity index="159" materialName="TLW_HOME01material_31" />
+                <subentity index="160" materialName="TLW_HOME01material_4" />
+                <subentity index="161" materialName="TLW_HOME01material_31" />
+                <subentity index="162" materialName="TLW_HOME01material_4" />
+                <subentity index="163" materialName="TLW_HOME01material_32" />
+                <subentity index="164" materialName="TLW_HOME01material_4" />
+                <subentity index="165" materialName="TLW_HOME01material_31" />
+                <subentity index="166" materialName="TLW_HOME01material_31" />
+                <subentity index="167" materialName="TLW_HOME01material_4" />
+                <subentity index="168" materialName="TLW_HOME01material_31" />
+                <subentity index="169" materialName="TLW_HOME01material_4" />
+                <subentity index="170" materialName="TLW_HOME01material_4" />
+                <subentity index="171" materialName="TLW_HOME01material_32" />
+                <subentity index="172" materialName="TLW_HOME01material_35" />
+                <subentity index="173" materialName="TLW_HOME01material_32" />
+                <subentity index="174" materialName="TLW_HOME01material_35" />
+                <subentity index="175" materialName="TLW_HOME01material_35" />
+                <subentity index="176" materialName="TLW_HOME01material_32" />
+                <subentity index="177" materialName="TLW_HOME01material_35" />
+                <subentity index="178" materialName="TLW_HOME01material_4" />
+                <subentity index="179" materialName="TLW_HOME01material_32" />
+                <subentity index="180" materialName="TLW_HOME01material_35" />
+                <subentity index="181" materialName="TLW_HOME01material_32" />
+                <subentity index="182" materialName="TLW_HOME01material_4" />
+                <subentity index="183" materialName="TLW_HOME01material_35" />
+                <subentity index="184" materialName="TLW_HOME01material_33" />
+                <subentity index="185" materialName="TLW_HOME01material_32" />
+                <subentity index="186" materialName="TLW_HOME01material_35" />
+                <subentity index="187" materialName="TLW_HOME01material_33" />
+                <subentity index="188" materialName="TLW_HOME01material_34" />
+                <subentity index="189" materialName="TLW_HOME01material_32" />
+                <subentity index="190" materialName="TLW_HOME01material_35" />
+                <subentity index="191" materialName="TLW_HOME01material_4" />
+                <subentity index="192" materialName="TLW_HOME01material_32" />
+                <subentity index="193" materialName="TLW_HOME01material_33" />
+                <subentity index="194" materialName="TLW_HOME01material_4" />
+                <subentity index="195" materialName="TLW_HOME01material_33" />
+                <subentity index="196" materialName="TLW_HOME01material_4" />
+                <subentity index="197" materialName="TLW_HOME01material_32" />
+                <subentity index="198" materialName="TLW_HOME01material_34" />
+                <subentity index="199" materialName="TLW_HOME01material_4" />
+                <subentity index="200" materialName="TLW_HOME01material_33" />
+                <subentity index="201" materialName="TLW_HOME01material_4" />
+                <subentity index="202" materialName="TLW_HOME01material_33" />
+                <subentity index="203" materialName="TLW_HOME01material_4" />
+                <subentity index="204" materialName="TLW_HOME01material_32" />
+                <subentity index="205" materialName="TLW_HOME01material_33" />
+                <subentity index="206" materialName="TLW_HOME01material_4" />
+                <subentity index="207" materialName="TLW_HOME01material_4" />
+                <subentity index="208" materialName="TLW_HOME01material_33" />
+                <subentity index="209" materialName="TLW_HOME01material_32" />
+                <subentity index="210" materialName="TLW_HOME01material_33" />
+                <subentity index="211" materialName="TLW_HOME01material_4" />
+                <subentity index="212" materialName="TLW_HOME01material_34" />
+                <subentity index="213" materialName="TLW_HOME01material_4" />
+                <subentity index="214" materialName="TLW_HOME01material_4" />
+                <subentity index="215" materialName="TLW_HOME01material_33" />
+                <subentity index="216" materialName="TLW_HOME01material_32" />
+                <subentity index="217" materialName="TLW_HOME01material_32" />
+                <subentity index="218" materialName="TLW_HOME01material_4" />
+                <subentity index="219" materialName="TLW_HOME01material_4" />
+                <subentity index="220" materialName="TLW_HOME01material_32" />
+                <subentity index="221" materialName="TLW_HOME01material_32" />
+                <subentity index="222" materialName="TLW_HOME01material_4" />
+                <subentity index="223" materialName="TLW_HOME01material_32" />
+                <subentity index="224" materialName="TLW_HOME01material_4" />
+                <subentity index="225" materialName="TLW_HOME01material_32" />
+                <subentity index="226" materialName="TLW_HOME01material_4" />
+                <subentity index="227" materialName="TLW_HOME01material_4" />
+                <subentity index="228" materialName="TLW_HOME01material_32" />
+                <subentity index="229" materialName="TLW_HOME01material_32" />
+                <subentity index="230" materialName="TLW_HOME01material_4" />
+                <subentity index="231" materialName="TLW_HOME01material_32" />
+                <subentity index="232" materialName="TLW_HOME01material_4" />
+                <subentity index="233" materialName="TLW_HOME01material_4" />
+                <subentity index="234" materialName="TLW_HOME01material_32" />
+                <subentity index="235" materialName="TLW_HOME01material_32" />
+                <subentity index="236" materialName="TLW_HOME01material_4" />
+                <subentity index="237" materialName="TLW_HOME01material_34" />
+                <subentity index="238" materialName="TLW_HOME01material_4" />
+                <subentity index="239" materialName="TLW_HOME01material_32" />
+                <subentity index="240" materialName="TLW_HOME01material_4" />
+                <subentity index="241" materialName="TLW_HOME01material_31" />
+                <subentity index="242" materialName="TLW_HOME01material_31" />
+                <subentity index="243" materialName="TLW_HOME01material_4" />
+                <subentity index="244" materialName="TLW_HOME01material_31" />
+                <subentity index="245" materialName="TLW_HOME01material_4" />
+                <subentity index="246" materialName="TLW_HOME01material_32" />
+                <subentity index="247" materialName="TLW_HOME01material_4" />
+                <subentity index="248" materialName="TLW_HOME01material_31" />
+                <subentity index="249" materialName="TLW_HOME01material_31" />
+                <subentity index="250" materialName="TLW_HOME01material_4" />
+                <subentity index="251" materialName="TLW_HOME01material_31" />
+                <subentity index="252" materialName="TLW_HOME01material_4" />
+                <subentity index="253" materialName="TLW_HOME01material_4" />
+                <subentity index="254" materialName="TLW_HOME01material_32" />
+                <subentity index="255" materialName="TLW_HOME01material_35" />
+                <subentity index="256" materialName="TLW_HOME01material_32" />
+                <subentity index="257" materialName="TLW_HOME01material_35" />
+                <subentity index="258" materialName="TLW_HOME01material_35" />
+                <subentity index="259" materialName="TLW_HOME01material_32" />
+                <subentity index="260" materialName="TLW_HOME01material_35" />
+                <subentity index="261" materialName="TLW_HOME01material_4" />
+                <subentity index="262" materialName="TLW_HOME01material_32" />
+                <subentity index="263" materialName="TLW_HOME01material_35" />
+                <subentity index="264" materialName="TLW_HOME01material_32" />
+                <subentity index="265" materialName="TLW_HOME01material_4" />
+                <subentity index="266" materialName="TLW_HOME01material_35" />
+                <subentity index="267" materialName="TLW_HOME01material_33" />
+                <subentity index="268" materialName="TLW_HOME01material_32" />
+                <subentity index="269" materialName="TLW_HOME01material_35" />
+                <subentity index="270" materialName="TLW_HOME01material_33" />
+                <subentity index="271" materialName="TLW_HOME01material_34" />
+                <subentity index="272" materialName="TLW_HOME01material_32" />
+                <subentity index="273" materialName="TLW_HOME01material_35" />
+                <subentity index="274" materialName="TLW_HOME01material_4" />
+                <subentity index="275" materialName="TLW_HOME01material_32" />
+                <subentity index="276" materialName="TLW_HOME01material_33" />
+                <subentity index="277" materialName="TLW_HOME01material_4" />
+                <subentity index="278" materialName="TLW_HOME01material_33" />
+                <subentity index="279" materialName="TLW_HOME01material_4" />
+                <subentity index="280" materialName="TLW_HOME01material_32" />
+                <subentity index="281" materialName="TLW_HOME01material_34" />
+                <subentity index="282" materialName="TLW_HOME01material_4" />
+                <subentity index="283" materialName="TLW_HOME01material_33" />
+                <subentity index="284" materialName="TLW_HOME01material_4" />
+                <subentity index="285" materialName="TLW_HOME01material_33" />
+                <subentity index="286" materialName="TLW_HOME01material_4" />
+                <subentity index="287" materialName="TLW_HOME01material_32" />
+                <subentity index="288" materialName="TLW_HOME01material_33" />
+                <subentity index="289" materialName="TLW_HOME01material_4" />
+                <subentity index="290" materialName="TLW_HOME01material_4" />
+                <subentity index="291" materialName="TLW_HOME01material_33" />
+                <subentity index="292" materialName="TLW_HOME01material_32" />
+                <subentity index="293" materialName="TLW_HOME01material_33" />
+                <subentity index="294" materialName="TLW_HOME01material_4" />
+                <subentity index="295" materialName="TLW_HOME01material_34" />
+                <subentity index="296" materialName="TLW_HOME01material_4" />
+                <subentity index="297" materialName="TLW_HOME01material_4" />
+                <subentity index="298" materialName="TLW_HOME01material_33" />
+                <subentity index="299" materialName="TLW_HOME01material_32" />
+                <subentity index="300" materialName="TLW_HOME01material_4" />
+                <subentity index="301" materialName="TLW_HOME01material_32" />
+                <subentity index="302" materialName="TLW_HOME01material_32" />
+                <subentity index="303" materialName="TLW_HOME01material_4" />
+                <subentity index="304" materialName="TLW_HOME01material_32" />
+                <subentity index="305" materialName="TLW_HOME01material_4" />
+                <subentity index="306" materialName="TLW_HOME01material_32" />
+                <subentity index="307" materialName="TLW_HOME01material_4" />
+                <subentity index="308" materialName="TLW_HOME01material_4" />
+                <subentity index="309" materialName="TLW_HOME01material_32" />
+                <subentity index="310" materialName="TLW_HOME01material_32" />
+                <subentity index="311" materialName="TLW_HOME01material_4" />
+                <subentity index="312" materialName="TLW_HOME01material_32" />
+                <subentity index="313" materialName="TLW_HOME01material_4" />
+                <subentity index="314" materialName="TLW_HOME01material_4" />
+                <subentity index="315" materialName="TLW_HOME01material_32" />
+                <subentity index="316" materialName="TLW_HOME01material_32" />
+                <subentity index="317" materialName="TLW_HOME01material_4" />
+                <subentity index="318" materialName="TLW_HOME01material_34" />
+                <subentity index="319" materialName="TLW_HOME01material_4" />
+                <subentity index="320" materialName="TLW_HOME01material_32" />
+                <subentity index="321" materialName="TLW_HOME01material_4" />
+                <subentity index="322" materialName="TLW_HOME01material_31" />
+                <subentity index="323" materialName="TLW_HOME01material_31" />
+                <subentity index="324" materialName="TLW_HOME01material_4" />
+                <subentity index="325" materialName="TLW_HOME01material_31" />
+                <subentity index="326" materialName="TLW_HOME01material_4" />
+                <subentity index="327" materialName="TLW_HOME01material_32" />
+                <subentity index="328" materialName="TLW_HOME01material_4" />
+                <subentity index="329" materialName="TLW_HOME01material_31" />
+                <subentity index="330" materialName="TLW_HOME01material_31" />
+                <subentity index="331" materialName="TLW_HOME01material_4" />
+                <subentity index="332" materialName="TLW_HOME01material_31" />
+                <subentity index="333" materialName="TLW_HOME01material_4" />
+                <subentity index="334" materialName="TLW_HOME01material_4" />
+                <subentity index="335" materialName="TLW_HOME01material_32" />
+                <subentity index="336" materialName="TLW_HOME01material_35" />
+                <subentity index="337" materialName="TLW_HOME01material_32" />
+                <subentity index="338" materialName="TLW_HOME01material_35" />
+                <subentity index="339" materialName="TLW_HOME01material_35" />
+                <subentity index="340" materialName="TLW_HOME01material_32" />
+                <subentity index="341" materialName="TLW_HOME01material_35" />
+                <subentity index="342" materialName="TLW_HOME01material_4" />
+                <subentity index="343" materialName="TLW_HOME01material_32" />
+                <subentity index="344" materialName="TLW_HOME01material_35" />
+                <subentity index="345" materialName="TLW_HOME01material_35" />
+                <subentity index="346" materialName="TLW_HOME01material_4" />
+                <subentity index="347" materialName="TLW_HOME01material_32" />
+                <subentity index="348" materialName="TLW_HOME01material_33" />
+                <subentity index="349" materialName="TLW_HOME01material_32" />
+                <subentity index="350" materialName="TLW_HOME01material_35" />
+                <subentity index="351" materialName="TLW_HOME01material_33" />
+                <subentity index="352" materialName="TLW_HOME01material_34" />
+                <subentity index="353" materialName="TLW_HOME01material_32" />
+                <subentity index="354" materialName="TLW_HOME01material_35" />
+                <subentity index="355" materialName="TLW_HOME01material_42" />
+                <subentity index="356" materialName="TLW_HOME01material_32" />
+                <subentity index="357" materialName="TLW_HOME01material_4" />
+                <subentity index="358" materialName="TLW_HOME01material_4" />
+                <subentity index="359" materialName="TLW_HOME01material_33" />
+                <subentity index="360" materialName="TLW_HOME01material_32" />
+                <subentity index="361" materialName="TLW_HOME01material_33" />
+                <subentity index="362" materialName="TLW_HOME01material_4" />
+                <subentity index="363" materialName="TLW_HOME01material_4" />
+                <subentity index="364" materialName="TLW_HOME01material_34" />
+                <subentity index="365" materialName="TLW_HOME01material_4" />
+                <subentity index="366" materialName="TLW_HOME01material_33" />
+                <subentity index="367" materialName="TLW_HOME01material_33" />
+                <subentity index="368" materialName="TLW_HOME01material_32" />
+                <subentity index="369" materialName="TLW_HOME01material_4" />
+                <subentity index="370" materialName="TLW_HOME01material_32" />
+                <subentity index="371" materialName="TLW_HOME01material_4" />
+                <subentity index="372" materialName="TLW_HOME01material_32" />
+                <subentity index="373" materialName="TLW_HOME01material_4" />
+                <subentity index="374" materialName="TLW_HOME01material_32" />
+                <subentity index="375" materialName="TLW_HOME01material_33" />
+                <subentity index="376" materialName="TLW_HOME01material_4" />
+                <subentity index="377" materialName="TLW_HOME01material_33" />
+                <subentity index="378" materialName="TLW_HOME01material_32" />
+                <subentity index="379" materialName="TLW_HOME01material_4" />
+                <subentity index="380" materialName="TLW_HOME01material_32" />
+                <subentity index="381" materialName="TLW_HOME01material_4" />
+                <subentity index="382" materialName="TLW_HOME01material_4" />
+                <subentity index="383" materialName="TLW_HOME01material_34" />
+                <subentity index="384" materialName="TLW_HOME01material_4" />
+                <subentity index="385" materialName="TLW_HOME01material_32" />
+                <subentity index="386" materialName="TLW_HOME01material_31" />
+                <subentity index="387" materialName="TLW_HOME01material_31" />
+                <subentity index="388" materialName="TLW_HOME01material_4" />
+                <subentity index="389" materialName="TLW_HOME01material_31" />
+                <subentity index="390" materialName="TLW_HOME01material_4" />
+                <subentity index="391" materialName="TLW_HOME01material_32" />
+                <subentity index="392" materialName="TLW_HOME01material_31" />
+                <subentity index="393" materialName="TLW_HOME01material_31" />
+                <subentity index="394" materialName="TLW_HOME01material_4" />
+                <subentity index="395" materialName="TLW_HOME01material_31" />
+                <subentity index="396" materialName="TLW_HOME01material_4" />
+                <subentity index="397" materialName="TLW_HOME01material_32" />
+                <subentity index="398" materialName="TLW_HOME01material_35" />
+                <subentity index="399" materialName="TLW_HOME01material_4" />
+                <subentity index="400" materialName="TLW_HOME01material_32" />
+                <subentity index="401" materialName="TLW_HOME01material_35" />
+                <subentity index="402" materialName="TLW_HOME01material_32" />
+                <subentity index="403" materialName="TLW_HOME01material_35" />
+                <subentity index="404" materialName="TLW_HOME01material_35" />
+                <subentity index="405" materialName="TLW_HOME01material_32" />
+                <subentity index="406" materialName="TLW_HOME01material_35" />
+                <subentity index="407" materialName="TLW_HOME01material_32" />
+                <subentity index="408" materialName="TLW_HOME01material_4" />
+                <subentity index="409" materialName="TLW_HOME01material_32" />
+                <subentity index="410" materialName="TLW_HOME01material_33" />
+                <subentity index="411" materialName="TLW_HOME01material_35" />
+                <subentity index="412" materialName="TLW_HOME01material_32" />
+                <subentity index="413" materialName="TLW_HOME01material_34" />
+                <subentity index="414" materialName="TLW_HOME01material_33" />
+                <subentity index="415" materialName="TLW_HOME01material_35" />
+                <subentity index="416" materialName="TLW_HOME01material_2" />
+                <subentity index="417" materialName="TLW_HOME01material_45" />
+                <subentity index="418" materialName="TLW_HOME01material_46" />
+                <subentity index="419" materialName="TLW_HOME01material_47" />
+                <subentity index="420" materialName="TLW_HOME01material_48" />
+                <subentity index="421" materialName="TLW_HOME01material_49" />
+                <subentity index="422" materialName="TLW_HOME01material_30" />
+                <subentity index="423" materialName="TLW_HOME01material_49" />
+                <subentity index="424" materialName="TLW_HOME01material_50" />
+                <subentity index="425" materialName="TLW_HOME01material_51" />
+                <subentity index="426" materialName="TLW_HOME01material_50" />
+                <subentity index="427" materialName="TLW_HOME01material_51" />
+                <subentity index="428" materialName="TLW_HOME01material_50" />
+                <subentity index="429" materialName="TLW_HOME01material_51" />
+                <subentity index="430" materialName="TLW_HOME01material_51" />
+                <subentity index="431" materialName="TLW_HOME01material_2" />
+                <subentity index="432" materialName="TLW_HOME01material_45" />
+                <subentity index="433" materialName="TLW_HOME01material_2" />
+                <subentity index="434" materialName="TLW_HOME01material_45" />
+                <subentity index="435" materialName="TLW_HOME01material_33" />
+                <subentity index="436" materialName="TLW_HOME01material_30" />
+                <subentity index="437" materialName="TLW_HOME01material_33" />
+                <subentity index="438" materialName="TLW_HOME01material_30" />
+                <subentity index="439" materialName="TLW_HOME01material_33" />
+                <subentity index="440" materialName="TLW_HOME01material_30" />
+                <subentity index="441" materialName="TLW_HOME01material_33" />
+                <subentity index="442" materialName="TLW_HOME01material_30" />
+            </entity>
+        </node>
+        <node name="amiga1000#0" id="464033920">
+            <position x="988.556" y="-6364.65" z="-7023.51" />
+            <rotation qw="0.0697563" qx="0" qy="0.997564" qz="0" />
+            <scale x="0.771669" y="0.771669" z="0.771669" />
+            <entity name="amiga1000#0" meshFile="amiga1000.mesh" castShadows="false">
+                <subentity index="0" materialName="AMIGA100001-Default" />
+                <subentity index="1" materialName="AMIGA1000AmigaMon" />
+            </entity>
+        </node>
+        <node name="picture_rama01#0" id="484939136">
+            <position x="597.244" y="-6321.73" z="-7451.76" />
+            <rotation qw="0.71325" qx="0" qy="-0.700909" qz="0" />
+            <scale x="70" y="70" z="70" />
+            <entity name="picture_rama01#0" meshFile="picture_rama01.mesh" castShadows="false">
+                <subentity index="0" materialName="F/m/unpack/content/textures/wm/wm_vdnh_02.512" />
+                <subentity index="1" materialName="F/m/unpack/content/textures/wm/wm_vdnh_02.512" />
+            </entity>
+        </node>
+        <node name="bathroomsink01tm#0" id="104800560">
+            <position x="1516.37" y="-6461.55" z="-7558.11" />
+            <rotation qw="-1.49012e-007" qx="0" qy="-1" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="bathroomsink01tm#0" meshFile="bathroomsink01tm.mesh" castShadows="false">
+                <subentity index="0" materialName="BaseWhite" />
+                <subentity index="1" materialName="BaseWhite" />
+            </entity>
+        </node>
+        <node name="garbage01b#0" id="733085120">
+            <position x="928.269" y="-6451.52" z="-7121.6" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="garbage01b#0" meshFile="garbage01b.mesh" castShadows="false">
+                <subentity index="0" materialName="GARBAGE01BB01-Default" />
+            </entity>
+        </node>
+        <node name="garbage01b#1" id="191351056">
+            <position x="693" y="-6444" z="-7235" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="3" z="2" />
+            <entity name="garbage01b#1" meshFile="tbh01.mesh" castShadows="false">
+                <subentity index="0" materialName="TBH0101-Default" />
+            </entity>
+        </node>
+        <node name="garbage01b#4" id="632038336">
+            <position x="1207.48" y="-6450.43" z="-8384.02" />
+            <rotation qw="-0.728371" qx="0" qy="0.685183" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="garbage01b#4" meshFile="garbage01b.mesh" castShadows="false">
+                <subentity index="0" materialName="GARBAGE01BB01-Default" />
+            </entity>
+        </node>
+        <node name="garbage01b#3" id="694021376">
+            <position x="2014.7" y="-6447.78" z="-7801.31" />
+            <rotation qw="-0.949699" qx="0" qy="0.313164" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="garbage01b#3" meshFile="garbage01b.mesh" castShadows="false">
+                <subentity index="0" materialName="GARBAGE01BB01-Default" />
+            </entity>
+        </node>
+        <node name="garbage01b#2" id="393566688">
+            <position x="2345.74" y="-6447.78" z="-7879.59" />
+            <rotation qw="-0.0566929" qx="0" qy="0.998392" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="garbage01b#2" meshFile="garbage01b.mesh" castShadows="false">
+                <subentity index="0" materialName="GARBAGE01BB01-Default" />
+            </entity>
+        </node>
+        <node name="streetlight01#3" id="532151232">
+            <position x="3500" y="-9654.64" z="3407.64" />
+            <rotation qw="-1.22935e-007" qx="0" qy="1" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#3" meshFile="streetlight01.mesh" castShadows="false">
+                <subentity index="0" materialName="STREETLIGHT01" />
+            </entity>
+        </node>
+        <node name="butilka01#1" id="151554912">
+            <position x="184.759" y="-6455.67" z="-7499.81" />
+            <rotation qw="0.951056" qx="0" qy="0.309017" qz="0" />
+            <scale x="86" y="86" z="86" />
+            <entity name="butilka01#1" meshFile="couchm01.mesh" castShadows="false">
+                <subentity index="0" materialName="COUCH01M" />
+            </entity>
+        </node>
+        <node name="couchm01#1" id="35096288">
+            <position x="1005.55" y="-6455.67" z="-7092.59" />
+            <rotation qw="0.746057" qx="0" qy="0.665882" qz="0" />
+            <scale x="86" y="86" z="86" />
+            <entity name="couchm01#1" meshFile="table01_metro.mesh" castShadows="false">
+                <subentity index="0" materialName="STOL01MET" />
+            </entity>
+        </node>
+        <node name="couchm01#0" id="989989952">
+            <position x="998.551" y="-6364.69" z="-7149.59" />
+            <rotation qw="0.788011" qx="0" qy="0.615662" qz="0" />
+            <scale x="86" y="86" z="86" />
+            <entity name="couchm01#0" meshFile="foto01.mesh" castShadows="false">
+                <subentity index="0" materialName="FOTO01" />
+            </entity>
+        </node>
+        <node name="gun10_c#5" id="634723968">
+            <position x="1488.14" y="-6374.97" z="-7923.26" />
+            <rotation qw="0.608761" qx="0" qy="0" qz="-0.793353" />
+            <scale x="0.671934" y="0.671934" z="0.268741" />
+            <entity name="gun10_c#5" meshFile="gun9_c.mesh" castShadows="false">
+                <subentity index="0" materialName="GUNS_HOME01-Default" />
+            </entity>
+        </node>
+        <node name="computeh#0" id="911557376">
+            <position x="991.717" y="-6345.07" z="-7114.87" />
+            <rotation qw="0.0958456" qx="0" qy="0.995396" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="computeh#0" meshFile="computeh.mesh" castShadows="false">
+                <subentity index="0" materialName="COMPUTEH01-Default" />
+            </entity>
+        </node>
+        <node name="streetlight01#2" id="919980480">
+            <position x="2500" y="-9654.64" z="3407.64" />
+            <rotation qw="-1.22935e-007" qx="0" qy="1" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#2" meshFile="streetlight01.mesh" castShadows="false">
+                <subentity index="0" materialName="STREETLIGHT01" />
+            </entity>
+        </node>
+        <node name="butilka01#0" id="92623672">
+            <position x="812" y="-6456" z="-7258" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="86" y="86" z="86" />
+            <entity name="butilka01#0" meshFile="butilka01.mesh" castShadows="false">
+                <subentity index="0" materialName="BUTIKAM01" />
+            </entity>
+        </node>
+        <node name="foto02#0" id="751548800">
+            <position x="901" y="-6358" z="-6820" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="72" y="86" z="86" />
+            <entity name="foto02#0" meshFile="windowm01.mesh" castShadows="false">
+                <subentity index="0" materialName="WINDOWM01T1" />
+            </entity>
+        </node>
+        <node name="windowm01#0" id="345561088">
+            <position x="794.394" y="-6358" z="-6820" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="72" y="86" z="86" />
+            <entity name="windowm01#0" meshFile="windowm01.mesh" castShadows="false">
+                <subentity index="0" materialName="WINDOWM01T1" />
+            </entity>
+        </node>
+        <node name="air01#2" id="73885312">
+            <position x="13511.9" y="3.66272" z="-322.79" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="air01#2" meshFile="air01.mesh" castShadows="false">
+                <subentity index="0" materialName="ALLMILmaterial_4" />
+                <subentity index="1" materialName="ALLMILmaterial_14" />
+                <subentity index="2" materialName="ALLMILNoMaterial" />
+                <subentity index="3" materialName="ALLMILmaterial_1" />
+                <subentity index="4" materialName="ALLMILmaterial_13" />
+            </entity>
+        </node>
+        <node name="windowm01#1" id="982970624">
+            <position x="272.958" y="-6358" z="-6820" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="72" y="86" z="86" />
+            <entity name="windowm01#1" meshFile="windowm01.mesh" castShadows="false">
+                <subentity index="0" materialName="WINDOWM01T1" />
+            </entity>
+        </node>
+        <node name="kreslo01#0" id="65950496">
+            <position x="1001.19" y="-6357" z="-7157.33" />
+            <rotation qw="0.0828077" qx="0" qy="0.996566" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="kreslo01#0" meshFile="reciever01.mesh" castShadows="false">
+                <subentity index="0" materialName="RECIEVER0101-Default" />
+            </entity>
+        </node>
+        <node name="windowm01#2" id="567278016">
+            <position x="379.021" y="-6358" z="-6820" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="72" y="86" z="86" />
+            <entity name="windowm01#2" meshFile="windowm01.mesh" castShadows="false">
+                <subentity index="0" materialName="WINDOWM01T1" />
+            </entity>
+        </node>
+        <node name="air01#0" id="572588288">
+            <position x="13511.9" y="-957.308" z="-2474.85" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="air01#0" meshFile="air01.mesh" castShadows="false">
+                <subentity index="0" materialName="ALLMILmaterial_4" />
+                <subentity index="1" materialName="ALLMILmaterial_14" />
+                <subentity index="2" materialName="ALLMILNoMaterial" />
+                <subentity index="3" materialName="ALLMILmaterial_1" />
+                <subentity index="4" materialName="ALLMILmaterial_13" />
+            </entity>
+        </node>
+        <node name="fridge_tm#0" id="963042112">
+            <position x="1183.32" y="-6422.42" z="-6927.02" />
+            <rotation qw="-0.0479783" qx="0" qy="-0.998848" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="fridge_tm#0" meshFile="fridge_tm.mesh" castShadows="false">
+                <subentity index="0" materialName="TheMASK08-Default" />
+            </entity>
+        </node>
+        <node name="table01_metro#0" id="769066432">
+            <position x="985.653" y="-6365.18" z="-7085.37" />
+            <rotation qw="0.746057" qx="0" qy="0.665882" qz="0" />
+            <scale x="86" y="86" z="86" />
+            <entity name="table01_metro#0" meshFile="monitorm01.mesh" castShadows="false">
+                <subentity index="0" materialName="MONITORM01" />
+            </entity>
+        </node>
+        <node name="table01_metro#1" id="624774912">
+            <position x="978.8" y="-6379.69" z="-7327.75" />
+            <rotation qw="0.746057" qx="0" qy="0.665882" qz="0" />
+            <scale x="12" y="12" z="12" />
+            <entity name="table01_metro#1" meshFile="control_board01.mesh" castShadows="false">
+                <subentity index="0" materialName="CONTROLBeq02" />
+                <subentity index="1" materialName="CONTROLBCB02" />
+                <subentity index="2" materialName="CONTROLBMETALBLUE" />
+                <subentity index="3" materialName="CONTROLBCB03" />
+                <subentity index="4" materialName="CONTROLBCBB02" />
+            </entity>
+        </node>
+        <node name="box#0" id="949583424">
+            <position x="1761.39" y="-6360.22" z="-7668.44" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="298.583" y="309.627" z="30.5114" />
+            <entity name="box#0" meshFile="box.mesh" castShadows="false">
+                <subentity index="0" materialName="BaseWhite" />
+            </entity>
+        </node>
+        <node name="pot_01#0" id="290292064">
+            <position x="1639.47" y="-6417.8" z="-7160.1" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="109.242" y="109.242" z="109.242" />
+            <entity name="pot_01#0" meshFile="pot_01.mesh" castShadows="false">
+                <subentity index="0" materialName="POT01" />
+            </entity>
+        </node>
+        <node name="table01_metro#2" id="80385752">
+            <position x="622.242" y="-6457.69" z="-6995.54" />
+            <rotation qw="-6.10948e-007" qx="0" qy="1" qz="0" />
+            <scale x="70" y="70" z="70" />
+            <entity name="table01_metro#2" meshFile="skaf01.mesh" castShadows="false">
+                <subentity index="0" materialName="SKAF02" />
+                <subentity index="1" materialName="SKAF03" />
+                <userData>
+                    <property type="7" name="type" data="" />
+                </userData>
+            </entity>
+        </node>
+        <node name="skaf01#0" id="820001856">
+            <position x="843.697" y="-6458.01" z="-7110.93" />
+            <rotation qw="-6.10948e-007" qx="0" qy="1" qz="0" />
+            <scale x="70" y="70" z="70" />
+            <entity name="skaf01#0" meshFile="carpte01.mesh" castShadows="false">
+                <subentity index="0" materialName="cARPT" />
+            </entity>
+        </node>
+        <node name="table01_metro#3" id="408978560">
+            <position x="906.314" y="-6455.67" z="-7103.9" />
+            <rotation qw="0.746057" qx="0" qy="0.665882" qz="0" />
+            <scale x="86" y="86" z="86" />
+            <entity name="table01_metro#3" meshFile="kreslo01.mesh" castShadows="false">
+                <subentity index="0" materialName="MKRESLOM01" />
+            </entity>
+        </node>
+        <node name="streetlight01#0" id="924802368">
+            <position x="500" y="-9654.64" z="3407.64" />
+            <rotation qw="-1.22935e-007" qx="0" qy="1" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#0" meshFile="streetlight01.mesh" castShadows="false">
+                <subentity index="0" materialName="STREETLIGHT01" />
+            </entity>
+        </node>
+        <node name="butilka01#2" id="229438160">
+            <position x="783.071" y="-6456" z="-7193.72" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="86" y="86" z="86" />
+            <entity name="butilka01#2" meshFile="butilka01.mesh" castShadows="false">
+                <subentity index="0" materialName="BUTIKAM01" />
+            </entity>
+        </node>
+        <node name="streetlight01#1" id="653859072">
+            <position x="1500" y="-9654.64" z="3407.64" />
+            <rotation qw="-1.22935e-007" qx="0" qy="1" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#1" meshFile="streetlight01.mesh" castShadows="false">
+                <subentity index="0" materialName="STREETLIGHT01" />
+            </entity>
+        </node>
+        <node name="butilka01#3" id="249549856">
+            <position x="856.618" y="-6456" z="-7193.72" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="86" y="86" z="86" />
+            <entity name="butilka01#3" meshFile="butilka01.mesh" castShadows="false">
+                <subentity index="0" materialName="BUTIKAM01" />
+            </entity>
+        </node>
+        <node name="toilet01s#0" id="471724608">
+            <position x="1396.36" y="-6312.52" z="-7406.26" />
+            <rotation qw="0.00872642" qx="0" qy="-0.999962" qz="0" />
+            <scale x="3.04366" y="3.04366" z="3.04366" />
+            <entity name="toilet01s#0" meshFile="toilet01s.mesh" castShadows="false">
+                <subentity index="0" materialName="TOILET01SINK" />
+            </entity>
+        </node>
+        <node name="lamp_gilman_01#0" id="496902368">
+            <position x="1243.8" y="-6153.92" z="-8045.17" />
+            <rotation qw="-0.00872665" qx="0" qy="0.999962" qz="0" />
+            <scale x="100" y="100" z="100" />
+            <entity name="lamp_gilman_01#0" meshFile="lamp_gilman_01.mesh" castShadows="false">
+                <subentity index="0" materialName="LAMP01LOWPOLY" />
+            </entity>
+        </node>
+        <node name="lamp_gilman_01#1" id="808038592">
+            <position x="950.284" y="-6153.92" z="-8230.74" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="100" y="100" z="100" />
+            <entity name="lamp_gilman_01#1" meshFile="lamp_gilman_01.mesh" castShadows="false">
+                <subentity index="0" materialName="LAMP01LOWPOLY" />
+            </entity>
+        </node>
+        <node name="lamp_gilman_01#2" id="51240580">
+            <position x="1463.41" y="-6200.35" z="-7423.01" />
+            <rotation qw="-0.00872665" qx="0" qy="0.999962" qz="0" />
+            <scale x="100" y="100" z="100" />
+            <entity name="lamp_gilman_01#2" meshFile="lamp_gilman_01.mesh" castShadows="false">
+                <subentity index="0" materialName="LAMP01LOWPOLY" />
+            </entity>
+        </node>
+        <node name="lamp_gilman_01#3" id="855098112">
+            <position x="1520.81" y="-6216.18" z="-7544.91" />
+            <rotation qw="-0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="100" y="100" z="100" />
+            <entity name="lamp_gilman_01#3" meshFile="lamp_gilman_01.mesh" castShadows="false">
+                <subentity index="0" materialName="LAMP01LOWPOLY" />
+            </entity>
+        </node>
+        <node name="lamp_gilman_01#4" id="87343976">
+            <position x="2234.84" y="-6153.92" z="-8046.42" />
+            <rotation qw="-0.00872665" qx="0" qy="0.999962" qz="0" />
+            <scale x="100" y="100" z="100" />
+            <entity name="lamp_gilman_01#4" meshFile="lamp_gilman_01.mesh" castShadows="false">
+                <subentity index="0" materialName="LAMP01LOWPOLY" />
+            </entity>
+        </node>
+        <node name="lamp_gilman_01#5" id="614520704">
+            <position x="2504.07" y="-6153.92" z="-8230.74" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="100" y="100" z="100" />
+            <entity name="lamp_gilman_01#5" meshFile="lamp_gilman_01.mesh" castShadows="false">
+                <subentity index="0" materialName="LAMP01LOWPOLY" />
+            </entity>
+        </node>
+        <node name="lamp_gilman_01#6" id="654896704">
+            <position x="1262.05" y="-6298.47" z="-7349.88" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="lamp_gilman_01#6" meshFile="shelfbathroom01.mesh" castShadows="false">
+                <subentity index="0" materialName="BathroomShelves1_d.bmp" />
+            </entity>
+        </node>
+        <node name="lamp_gilman_01#7" id="782158848">
+            <position x="1548.17" y="-6383.61" z="-7514.75" />
+            <rotation qw="-0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="lamp_gilman_01#7" meshFile="metla01.mesh" castShadows="false">
+                <subentity index="0" materialName="tx_dh_broom_straw_01_d.bmp" />
+            </entity>
+        </node>
+        <node name="catmagn01#0" id="367534400">
+            <position x="691.729" y="-6389.09" z="-7229.96" />
+            <rotation qw="-0.130526" qx="0" qy="0.991445" qz="0" />
+            <scale x="0.7" y="0.7" z="0.7" />
+            <entity name="catmagn01#0" meshFile="catmagn01.mesh" castShadows="false">
+                <subentity index="0" materialName="CATMAGN01-Default" />
+            </entity>
+        </node>
+        <node name="filecab01#1" id="314065984">
+            <position x="994.619" y="-6431.6" z="-7548.08" />
+            <rotation qw="-0.12187" qx="0" qy="0.992546" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="filecab01#1" meshFile="filecab01.mesh" castShadows="false">
+                <subentity index="0" materialName="filecab0101-Default" />
+            </entity>
+        </node>
+        <node name="coffeemug01#2" id="906521792">
+            <position x="501.229" y="-6381.69" z="-7643.69" />
+            <rotation qw="0.848048" qx="0" qy="0.529919" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="coffeemug01#2" meshFile="coffeemug01.mesh" castShadows="false">
+                <subentity index="0" materialName="COFFEEMUG01-Default" />
+            </entity>
+        </node>
+        <node name="reciever02#0" id="201971504">
+            <position x="1002.27" y="-6344.14" z="-7158.29" />
+            <rotation qw="-0.12187" qx="0" qy="-0.992546" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="reciever02#0" meshFile="reciever02.mesh" castShadows="false">
+                <subentity index="0" materialName="RECIEVER0101-Default" />
+            </entity>
+        </node>
+        <node name="reciever02#1" id="149113424">
+            <position x="1002.27" y="-6334.85" z="-7158.29" />
+            <rotation qw="-0.12187" qx="0" qy="-0.992546" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="reciever02#1" meshFile="reciever03.mesh" castShadows="false">
+                <subentity index="0" materialName="COMPUTEH01-Default" />
+            </entity>
+        </node>
+        <node name="reciever03#0" id="112186048">
+            <position x="473.256" y="-6425.64" z="-7578.7" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="reciever03#0" meshFile="reciever03.mesh" castShadows="false">
+                <subentity index="0" materialName="COMPUTEH01-Default" />
+            </entity>
+        </node>
+        <node name="reciever02#2" id="612048704">
+            <position x="542.878" y="-6263.96" z="-7345.1" />
+            <rotation qw="-0.0130898" qx="0" qy="0.999914" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="reciever02#2" meshFile="reciever02.mesh" castShadows="false">
+                <subentity index="0" materialName="RECIEVER0101-Default" />
+            </entity>
+        </node>
+        <node name="reciever02#3" id="298745696">
+            <position x="542.878" y="-6251.79" z="-7345.1" />
+            <rotation qw="-0.0130898" qx="0" qy="0.999914" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="reciever02#3" meshFile="reciever01.mesh" castShadows="false">
+                <subentity index="0" materialName="RECIEVER0101-Default" />
+            </entity>
+        </node>
+        <node name="reciever01#0" id="465559872">
+            <position x="543.068" y="-6240.99" z="-7337.84" />
+            <rotation qw="-0.0130898" qx="0" qy="0.999914" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="reciever01#0" meshFile="reciever03.mesh" castShadows="false">
+                <subentity index="0" materialName="COMPUTEH01-Default" />
+            </entity>
+        </node>
+        <node name="tube01s#0" id="954802112">
+            <position x="1394.09" y="-6430.13" z="-7683.12" />
+            <rotation qw="0.0261768" qx="0" qy="0.999657" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tube01s#0" meshFile="tube01s.mesh" castShadows="false">
+                <subentity index="0" materialName="BATHTUBE_1" />
+            </entity>
+        </node>
+        <node name="compm01#1" id="553209024">
+            <position x="1009.74" y="-6364.66" z="-6990.12" />
+            <rotation qw="0.707107" qx="0.707107" qy="0" qz="0" />
+            <scale x="60" y="60" z="60" />
+            <entity name="compm01#1" meshFile="compm01.mesh" castShadows="false">
+                <subentity index="0" materialName="COMPMCOMPm01" />
+            </entity>
+        </node>
+        <node name="chair02#0" id="153508096">
+            <position x="917.902" y="-6406.29" z="-7348.07" />
+            <rotation qw="0.594823" qx="0" qy="-0.803857" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity name="chair02#0" meshFile="chair02.mesh" castShadows="false">
+                <subentity index="0" materialName="CHAIT101-Default" />
+            </entity>
+        </node>
+        <node name="compm01#0" id="454329056">
+            <position x="1036.13" y="-6364.66" z="-7063.15" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="60" y="60" z="60" />
+            <entity name="compm01#0" meshFile="compm01.mesh" castShadows="false">
+                <subentity index="0" materialName="COMPMCOMPm01" />
+            </entity>
+        </node>
+        <node name="streetlight01#5" id="863246592">
+            <position x="-1500" y="-9654.64" z="3407.64" />
+            <rotation qw="-1.22935e-007" qx="0" qy="1" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#5" meshFile="streetlight01.mesh" castShadows="false">
+                <subentity index="0" materialName="STREETLIGHT01" />
+            </entity>
+        </node>
+        <node name="large_hsngar#0" id="727866496">
+            <position x="4736.74" y="-9180.27" z="-5006.8" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="15" y="15" z="15" />
+            <entity name="large_hsngar#0" meshFile="large_hsngar.mesh" castShadows="false">
+                <subentity index="0" materialName="HARBOR" />
+            </entity>
+        </node>
+        <node name="switchbox01#3" id="313882848">
+            <position x="2073.12" y="-6460.87" z="-8472.54" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="122.389" y="122.389" z="122.389" />
+            <entity name="switchbox01#3" meshFile="switchbox01.mesh" castShadows="false">
+                <subentity index="0" materialName="SWITCHBOX01" />
+            </entity>
+        </node>
+        <node name="gun10_c#3" id="252723776">
+            <position x="1495.37" y="-6350.29" z="-7923.64" />
+            <rotation qw="0.608761" qx="0" qy="0" qz="-0.793353" />
+            <scale x="0.508857" y="0.508857" z="0.508857" />
+            <entity name="gun10_c#3" meshFile="gun6_c.mesh" castShadows="false">
+                <subentity index="0" materialName="GUNS_HOME01-Default" />
+            </entity>
+        </node>
+        <node name="pipe02#0" id="951719680">
+            <position x="1512.44" y="-6263.56" z="-7395.5" />
+            <rotation qw="-0.0218151" qx="0" qy="0.999762" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="pipe02#0" meshFile="pipe02.mesh" castShadows="false">
+                <subentity index="0" materialName="PIPE0101-Default" />
+            </entity>
+        </node>
+        <node name="gun10_c#2" id="517014080">
+            <position x="1466.98" y="-6469.56" z="-7888.68" />
+            <rotation qw="0.608761" qx="0" qy="0" qz="-0.793353" />
+            <scale x="1" y="1" z="1" />
+            <entity name="gun10_c#2" meshFile="gun1_c.mesh" castShadows="false">
+                <subentity index="0" materialName="GUNS_HOME01-Default" />
+            </entity>
+        </node>
+        <node name="switchbox01#2" id="323038432">
+            <position x="1973.92" y="-6460.87" z="-8472.54" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="122.389" y="122.389" z="122.389" />
+            <entity name="switchbox01#2" meshFile="switchbox01.mesh" castShadows="false">
+                <subentity index="0" materialName="SWITCHBOX01" />
+            </entity>
+        </node>
+        <node name="streetlight01#4" id="395184192">
+            <position x="-500" y="-9654.64" z="3407.64" />
+            <rotation qw="-1.22935e-007" qx="0" qy="1" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#4" meshFile="streetlight01.mesh" castShadows="false">
+                <subentity index="0" materialName="STREETLIGHT01" />
+            </entity>
+        </node>
+        <node name="butilka01#6" id="739432960">
+            <position x="973.378" y="-6364.92" z="-7099.18" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="86" y="86" z="86" />
+            <entity name="butilka01#6" meshFile="butilka01.mesh" castShadows="false">
+                <subentity index="0" materialName="BUTIKAM01" />
+            </entity>
+        </node>
+        <node name="streetlight01#6" id="747337280">
+            <position x="-2500" y="-9654.64" z="3407.64" />
+            <rotation qw="-1.22935e-007" qx="0" qy="1" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="streetlight01#6" meshFile="streetlight01.mesh" castShadows="false">
+                <subentity index="0" materialName="STREETLIGHT01" />
+            </entity>
+        </node>
+        <node name="butilka01#4" id="733695488">
+            <position x="971.546" y="-6364.92" z="-7166.19" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="86" y="86" z="86" />
+            <entity name="butilka01#4" meshFile="butilka01.mesh" castShadows="false">
+                <subentity index="0" materialName="BUTIKAM01" />
+            </entity>
+        </node>
+        <node name="gun10_c#0" id="491897344">
+            <position x="1468.21" y="-6362.63" z="-7843.65" />
+            <rotation qw="0.608761" qx="0" qy="0" qz="-0.793353" />
+            <scale x="1" y="1" z="1" />
+            <entity name="gun10_c#0" meshFile="gun10_c.mesh" castShadows="false">
+                <subentity index="0" materialName="GUNS_HOME01-Default" />
+            </entity>
+        </node>
+        <node name="switchbox01#0" id="315012064">
+            <position x="1251.33" y="-6460.87" z="-8472.54" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="122.389" y="122.389" z="122.389" />
+            <entity name="switchbox01#0" meshFile="switchbox01.mesh" castShadows="false">
+                <subentity index="0" materialName="SWITCHBOX01" />
+            </entity>
+        </node>
+        <node name="tumba01#0" id="727683392">
+            <position x="1656.78" y="-6457.62" z="-6929.9" />
+            <rotation qw="0.976296" qx="0" qy="-0.21644" qz="0" />
+            <scale x="125.1" y="125.1" z="125.1" />
+            <entity name="tumba01#0" meshFile="tumba01.mesh" castShadows="false">
+                <subentity index="0" materialName="TUMBAM01" />
+                <subentity index="1" materialName="TUMBAM01" />
+            </entity>
+        </node>
+        <node name="bed01#0" id="966612736">
+            <position x="172.298" y="-6459.51" z="-7799.96" />
+            <rotation qw="-0.0130898" qx="0" qy="0.999914" qz="0" />
+            <scale x="13" y="13" z="13" />
+            <entity name="bed01#0" meshFile="bed01.mesh" castShadows="false">
+                <subentity index="0" materialName="BEDHP0101-Default" />
+            </entity>
+        </node>
+        <node name="monitor02#0" id="999694848">
+            <position x="1093.1" y="-6279.83" z="-7326.07" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="5.92299" y="5.92299" z="5.92299" />
+            <entity name="monitor02#0" meshFile="monitor02.mesh" castShadows="false">
+                <subentity index="0" materialName="ANIM_SCREEN" />
+                <subentity index="1" materialName="BLACK" />
+                <subentity index="2" materialName="BLACK" />
+                <subentity index="3" materialName="MetalBare0085M" />
+            </entity>
+        </node>
+        <node name="blok2#0" id="426557216">
+            <position x="962.954" y="-6460.01" z="-7004.3" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="blok2#0" meshFile="blok1.mesh" castShadows="false">
+                <subentity index="0" materialName="CAO_EQUIP0101-Default" />
+            </entity>
+        </node>
+        <node name="toilet01s#1" id="380108032">
+            <position x="1648.24" y="-6338.68" z="-7324.04" />
+            <rotation qw="0.999391" qx="0" qy="0.0348995" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity name="toilet01s#1" meshFile="toilet01s.mesh" castShadows="false">
+                <subentity index="0" materialName="TOILET01SINK" />
+            </entity>
+        </node>
+        <node name="floor_clock01tm#0" id="821680384">
+            <position x="-2678.94" y="-6460.62" z="-6270.07" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="floor_clock01tm#0" meshFile="floor_clock02tm.mesh" castShadows="false">
+                <subentity index="0" materialName="themask3OBJ_Clock_Grandfather.bmp" />
+                <subentity index="1" materialName="themask3Generic_Glass.bmp" />
+                <subentity index="2" materialName="themask3Generic_Glass.bmp" />
+            </entity>
+        </node>
+        <node name="couch01a#0" id="252082880">
+            <position x="2683.02" y="-6417.37" z="-7578.15" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="couch01a#0" meshFile="couch01a.mesh" castShadows="false">
+                <subentity index="0" materialName="FRCOUCH01" />
+            </entity>
+        </node>
+        <node name="filecab01#0" id="739188800">
+            <position x="1021.76" y="-6431.6" z="-7624.72" />
+            <rotation qw="0.169349" qx="0" qy="0.985556" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="filecab01#0" meshFile="filecab01.mesh" castShadows="false">
+                <subentity index="0" materialName="filecab0101-Default" />
+            </entity>
+        </node>
+        <node name="coffeemug01#0" id="902279744">
+            <position x="970.599" y="-6359.22" z="-7078.51" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="1.8817" y="1.8817" z="1.8817" />
+            <entity name="coffeemug01#0" meshFile="coffeemug01.mesh" castShadows="false">
+                <subentity index="0" materialName="COFFEEMUG01-Default" />
+            </entity>
+        </node>
+        <node name="filecab01#3" id="453718688">
+            <position x="994.619" y="-6371.75" z="-7548.08" />
+            <rotation qw="0.199367" qx="0" qy="0.979925" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="filecab01#3" meshFile="filecab01.mesh" castShadows="false">
+                <subentity index="0" materialName="filecab0101-Default" />
+            </entity>
+        </node>
+        <node name="gun10_c#1" id="834681216">
+            <position x="1473.24" y="-6398.03" z="-7946.32" />
+            <rotation qw="0.608761" qx="0" qy="0" qz="-0.793353" />
+            <scale x="1" y="1" z="1" />
+            <entity name="gun10_c#1" meshFile="gun10_c.mesh" castShadows="false">
+                <subentity index="0" materialName="GUNS_HOME01-Default" />
+            </entity>
+        </node>
+        <node name="switchbox01#1" id="154881440">
+            <position x="1352.19" y="-6460.87" z="-8472.54" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="122.389" y="122.389" z="122.389" />
+            <entity name="switchbox01#1" meshFile="switchbox01.mesh" castShadows="false">
+                <subentity index="0" materialName="SWITCHBOX01" />
+            </entity>
+        </node>
+        <node name="butilka01#5" id="736381120">
+            <position x="973.378" y="-6364.92" z="-7152.23" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="86" y="86" z="86" />
+            <entity name="butilka01#5" meshFile="butilka01.mesh" castShadows="false">
+                <subentity index="0" materialName="BUTIKAM01" />
+            </entity>
+        </node>
+        <node name="dead_rastenie01#0" id="695760960">
+            <position x="70.7771" y="-6382.76" z="-6870.32" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="dead_rastenie01#0" meshFile="dead_rastenie01.mesh" castShadows="false">
+                <subentity index="0" materialName="DPROP_GEN_PottedPlant_01_L.bmp" />
+            </entity>
+        </node>
+        <node name="doorm01#0" id="232428960">
+            <position x="931.417" y="-6457.92" z="-8233.86" />
+            <rotation qw="-0.713251" qx="0" qy="0.700909" qz="0" />
+            <scale x="109.331" y="117.544" z="104.616" />
+            <entity name="doorm01#0" meshFile="doorm01.mesh" castShadows="false">
+                <subentity index="0" materialName="DOORM012" />
+                <subentity index="1" materialName="DOORM011" />
+                <subentity index="2" materialName="DOORM013" />
+            </entity>
+        </node>
+        <node name="garbage02a#0" id="720908224">
+            <position x="1658.83" y="-6450.05" z="-8072.9" />
+            <rotation qw="0.763232" qx="0" qy="0.646124" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="garbage02a#0" meshFile="garbage02a.mesh" castShadows="false">
+                <subentity index="0" materialName="GARBAGE0201-Default" />
+            </entity>
+        </node>
+        <node name="garbage02a#1" id="584612544">
+            <position x="995.5" y="-6447.78" z="-8246.55" />
+            <rotation qw="-0.0566929" qx="0" qy="0.998392" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="garbage02a#1" meshFile="garbage01b.mesh" castShadows="false">
+                <subentity index="0" materialName="GARBAGE01BB01-Default" />
+            </entity>
+        </node>
+        <node name="garbage02a#2" id="367503872">
+            <position x="2736.56" y="-6450.83" z="-8193.47" />
+            <rotation qw="-0.544639" qx="0" qy="0.83867" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="garbage02a#2" meshFile="garbage02a.mesh" castShadows="false">
+                <subentity index="0" materialName="GARBAGE0201-Default" />
+            </entity>
+        </node>
+        <node name="garbage02a#3" id="340983296">
+            <position x="1586.95" y="-6441.95" z="-7636.98" />
+            <rotation qw="0.763232" qx="0" qy="0.646124" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="garbage02a#3" meshFile="garbage02a.mesh" castShadows="false">
+                <subentity index="0" materialName="GARBAGE0201-Default" />
+            </entity>
+        </node>
+        <node name="garbage02a#4" id="802392640">
+            <position x="1823.4" y="-6441.95" z="-7597.42" />
+            <rotation qw="0.763232" qx="0" qy="0.646124" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="garbage02a#4" meshFile="garbage01b.mesh" castShadows="false">
+                <subentity index="0" materialName="GARBAGE01BB01-Default" />
+            </entity>
+        </node>
+        <node name="garbage02a#5" id="895718272">
+            <position x="2617.68" y="-6447.83" z="-7926.46" />
+            <rotation qw="-0.710186" qx="0" qy="0.704015" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="garbage02a#5" meshFile="garbage02a.mesh" castShadows="false">
+                <subentity index="0" materialName="GARBAGE0201-Default" />
+            </entity>
+        </node>
+        <node name="pipe01#0" id="225562304">
+            <position x="1517.98" y="-6284.3" z="-7323.22" />
+            <rotation qw="0.502177" qx="-0.497814" qy="0.497814" qz="-0.502177" />
+            <scale x="2" y="2" z="2" />
+            <entity name="pipe01#0" meshFile="pipe01.mesh" castShadows="false">
+                <subentity index="0" materialName="PIPE0101-Default" />
+            </entity>
+        </node>
+        <node name="sofa012#0" id="657307712">
+            <position x="683.676" y="-6462.1" z="-7616.58" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.99359" y="2.99359" z="2.99359" />
+            <entity name="sofa012#0" meshFile="sofa012.mesh" castShadows="false">
+                <subentity index="0" materialName="TheMASK09-Default" />
+            </entity>
+        </node>
+        <node name="sofa013#0" id="229926448">
+            <position x="1790.91" y="-6548.02" z="-9012.78" />
+            <rotation qw="0.990268" qx="-0.139173" qy="0" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="sofa013#0" meshFile="sofa013.mesh" castShadows="false">
+                <subentity index="0" materialName="theMsk201-Default" />
+            </entity>
+        </node>
+        <node name="carpte01#0" id="657612864">
+            <position x="78.5647" y="-6286.06" z="-7796.14" />
+            <rotation qw="0.707107" qx="0" qy="0" qz="-0.707107" />
+            <scale x="90.2826" y="90.2826" z="90.2826" />
+            <entity name="carpte01#0" meshFile="carpte01.mesh" castShadows="false">
+                <subentity index="0" materialName="cARPT" />
+            </entity>
+        </node>
+        <node name="carpte01#1" id="785363328">
+            <position x="2644.68" y="-6286.06" z="-7478.38" />
+            <rotation qw="0.707107" qx="0" qy="0" qz="-0.707107" />
+            <scale x="90.2826" y="90.2826" z="90.2826" />
+            <entity name="carpte01#1" meshFile="carpte01.mesh" castShadows="false">
+                <subentity index="0" materialName="cARPT" />
+            </entity>
+        </node>
+        <node name="table_tm02#0" id="426221504">
+            <position x="514.406" y="-6435.48" z="-7629.39" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="table_tm02#0" meshFile="table_tm02.mesh" castShadows="false">
+                <subentity index="0" materialName="theMsk202-Default" />
+            </entity>
+        </node>
+        <node name="table_tm01#0" id="173924976">
+            <position x="1307.14" y="-6417.25" z="-7010.79" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="3" z="2" />
+            <entity name="table_tm01#0" meshFile="table_tm01.mesh" castShadows="false">
+                <subentity index="0" materialName="TheMASK01-Default" />
+            </entity>
+        </node>
+        <node name="microwave_tm01#0" id="743278336">
+            <position x="1189.42" y="-6254.75" z="-6902.39" />
+            <rotation qw="0.665882" qx="0" qy="0.746057" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="microwave_tm01#0" meshFile="microwave_tm01.mesh" castShadows="false">
+                <subentity index="0" materialName="TheMASK05-Default" />
+            </entity>
+        </node>
+        <node name="microwave_tm01#1" id="199621568">
+            <position x="514.309" y="-6421.08" z="-7742.31" />
+            <rotation qw="0.165048" qx="0" qy="-0.986286" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="microwave_tm01#1" meshFile="microwave_tm01.mesh" castShadows="false">
+                <subentity index="0" materialName="TheMASK05-Default" />
+            </entity>
+        </node>
+        <node name="curtain02_tm#1" id="386761056">
+            <position x="1318.06" y="-6448.65" z="-6853.12" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="4.46964" y="4.46964" z="6.04029" />
+            <entity name="curtain02_tm#1" meshFile="curtain02_tm.mesh" castShadows="false">
+                <subentity index="0" materialName="theMsk2Curtains_1_D.bmp" />
+            </entity>
+        </node>
+        <node name="curtain02_tm#0" id="225104528">
+            <position x="335.344" y="-6448.65" z="-6853.12" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="4.46964" y="4.46964" z="6.04029" />
+            <entity name="curtain02_tm#0" meshFile="curtain02_tm.mesh" castShadows="false">
+                <subentity index="0" materialName="theMsk2Curtains_1_D.bmp" />
+            </entity>
+        </node>
+        <node name="tableprops01_tm#0" id="195989856">
+            <position x="495.856" y="-6471.86" z="-7681.56" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="tableprops01_tm#0" meshFile="tableprops01_tm.mesh" castShadows="false">
+                <subentity index="0" materialName="theMsk211-Default" />
+            </entity>
+        </node>
+        <node name="sofa014#0" id="197851488">
+            <position x="963.241" y="-6460.51" z="-7958.34" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="sofa014#0" meshFile="sofa014.mesh" castShadows="false">
+                <subentity index="0" materialName="theMsk2Abnd_Decor_Cabinet_02_mrA.smd" />
+            </entity>
+        </node>
+        <node name="tableprops01_tm#1" id="286080512">
+            <position x="1338.08" y="-6392.26" z="-7401.36" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="2.85194" y="2.85194" z="2.85194" />
+            <entity name="tableprops01_tm#1" meshFile="fridge_tm2.mesh" castShadows="false">
+                <subentity index="0" materialName="theMsk205-Default" />
+            </entity>
+        </node>
+        <node name="books_tm#0" id="379131424">
+            <position x="624.047" y="-6371.66" z="-7008.77" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="books_tm#0" meshFile="books_tm.mesh" castShadows="false">
+                <subentity index="0" materialName="theMsk2tx_books_01_d.bmp" />
+            </entity>
+        </node>
+        <node name="royal_chair01tm#0" id="891537216">
+            <position x="1275.8" y="-6458.25" z="-7468.3" />
+            <rotation qw="0.994056" qx="0" qy="-0.108867" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="royal_chair01tm#0" meshFile="royal_chair01tm.mesh" castShadows="false">
+                <subentity index="0" materialName="theMsk210-Default" />
+            </entity>
+        </node>
+        <node name="air01#1" id="543443072">
+            <position x="13511.9" y="-957.308" z="870.68" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="air01#1" meshFile="air01.mesh" castShadows="false">
+                <subentity index="0" materialName="ALLMILmaterial_4" />
+                <subentity index="1" materialName="ALLMILmaterial_14" />
+                <subentity index="2" materialName="ALLMILNoMaterial" />
+                <subentity index="3" materialName="ALLMILmaterial_1" />
+                <subentity index="4" materialName="ALLMILmaterial_13" />
+            </entity>
+        </node>
+        <node name="windowm01#3" id="9155554">
+            <position x="1275.05" y="-6358" z="-6820" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="72" y="86" z="86" />
+            <entity name="windowm01#3" meshFile="windowm01.mesh" castShadows="false">
+                <subentity index="0" materialName="WINDOWM01T1" />
+            </entity>
+        </node>
+        <node name="windowm01#4" id="507858528">
+            <position x="1378.11" y="-6358" z="-6820" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="72" y="86" z="86" />
+            <entity name="windowm01#4" meshFile="windowm01.mesh" castShadows="false">
+                <subentity index="0" materialName="WINDOWM01T1" />
+            </entity>
+        </node>
+        <node name="monitorm01#0" id="53651540">
+            <position x="532.961" y="-6387.22" z="-7689.26" />
+            <rotation qw="0.704015" qx="0" qy="0.710185" qz="0" />
+            <scale x="70" y="70" z="70" />
+            <entity name="monitorm01#0" meshFile="monitorm01.mesh" castShadows="false">
+                <subentity index="0" materialName="MONITORM01" />
+            </entity>
+        </node>
+        <node name="parts02#0" id="731559232">
+            <position x="511.273" y="-6424.92" z="-7585.42" />
+            <rotation qw="0.707107" qx="0.707107" qy="0" qz="0" />
+            <scale x="1" y="1" z="1" />
+            <entity name="parts02#0" meshFile="parts02.mesh" castShadows="false">
+                <subentity index="0" materialName="SERVERS_PHOL_H" />
+            </entity>
+        </node>
+        <node name="filecab01#2" id="997283904">
+            <position x="543.397" y="-6303.2" z="-7192.78" />
+            <rotation qw="-0.70091" qx="0" qy="0.71325" qz="0" />
+            <scale x="1.63086" y="1.63086" z="1.63086" />
+            <entity name="filecab01#2" meshFile="filecab01.mesh" castShadows="false">
+                <subentity index="0" materialName="filecab0101-Default" />
+            </entity>
+        </node>
+        <node name="coffeemug01#1" id="718894016">
+            <position x="512.308" y="-6381.69" z="-7656.63" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="coffeemug01#1" meshFile="coffeemug01.mesh" castShadows="false">
+                <subentity index="0" materialName="COFFEEMUG01-Default" />
+            </entity>
+        </node>
+        <node name="doorm01#1" id="964110272">
+            <position x="2214.59" y="-6457.92" z="-8036.55" />
+            <rotation qw="-1" qx="0" qy="-6.44475e-007" qz="0" />
+            <scale x="109.331" y="117.544" z="104.616" />
+            <entity name="doorm01#1" meshFile="doorm01.mesh" castShadows="false">
+                <subentity index="0" materialName="DOORM012" />
+                <subentity index="1" materialName="DOORM011" />
+                <subentity index="2" materialName="DOORM013" />
+            </entity>
+        </node>
+        <node name="windowm01#5" id="921506432">
+            <position x="1784.3" y="-6498.25" z="-9305.25" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="72" y="83.0018" z="86" />
+            <entity name="windowm01#5" meshFile="windowm01.mesh" castShadows="false">
+                <subentity index="0" materialName="WINDOWM01T1" />
+            </entity>
+        </node>
+        <node name="windowm01#6" id="58229316">
+            <position x="1683.69" y="-6498.25" z="-9305.25" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="72" y="83.0018" z="86" />
+            <entity name="windowm01#6" meshFile="windowm01.mesh" castShadows="false">
+                <subentity index="0" materialName="WINDOWM01T1" />
+            </entity>
+        </node>
+        <node name="diff_radiator01tm#1" id="21057772">
+            <position x="804.327" y="-6457.76" z="-6842.87" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="diff_radiator01tm#1" meshFile="diff_radiator01tm.mesh" castShadows="false">
+                <subentity index="0" materialName="themask3DIFF_radiator_ed.bmp" />
+            </entity>
+        </node>
+        <node name="curtain03_tm#0" id="761314752">
+            <position x="905.28" y="-6517.04" z="-6884.35" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="1.66522" y="1.66522" z="1.66522" />
+            <entity name="curtain03_tm#0" meshFile="curtain03_tm.mesh" castShadows="false">
+                <subentity index="0" materialName="themask3Curtain_Regent_Corridor_01_D.bmp" />
+            </entity>
+        </node>
+        <node name="curtain03_tm#1" id="573351232">
+            <position x="430.532" y="-6517.04" z="-6884.35" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="1.66522" y="1.66522" z="1.26556" />
+            <entity name="curtain03_tm#1" meshFile="curtain03_tm.mesh" castShadows="false">
+                <subentity index="0" materialName="themask3Curtain_Regent_Corridor_01_D.bmp" />
+            </entity>
+        </node>
+        <node name="snow_kucha01#0" id="604724288">
+            <position x="2696.97" y="-6421.51" z="-6858.11" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.24546" y="2.24546" z="2.24546" />
+            <entity name="snow_kucha01#0" meshFile="snow_kucha02.mesh" castShadows="false">
+                <subentity index="0" materialName="themask3Plane_01.bmp" />
+            </entity>
+        </node>
+        <node name="snow_kucha03#0" id="851222272">
+            <position x="1977.13" y="-6469.3" z="-7037.74" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="snow_kucha03#0" meshFile="snow_kucha03.mesh" castShadows="false">
+                <subentity index="0" materialName="themask3Snow01.bmp" />
+            </entity>
+        </node>
+        <node name="snow_kucha02#0" id="152653584">
+            <position x="2284.58" y="-6421.51" z="-6858.11" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.24546" y="2.24546" z="2.24546" />
+            <entity name="snow_kucha02#0" meshFile="snow_kucha02.mesh" castShadows="false">
+                <subentity index="0" materialName="themask3Plane_01.bmp" />
+            </entity>
+        </node>
+        <node name="tvset01tm#0" id="662800960">
+            <position x="498.728" y="-6376.23" z="-7675.22" />
+            <rotation qw="-0.0261771" qx="0" qy="0.999657" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tvset01tm#0" meshFile="tvset01tm.mesh" castShadows="false">
+                <subentity index="0" materialName="themask3tx_tv_02_d.bmp" />
+                <subentity index="1" materialName="themask3tx_tv_noiseb.bmp" />
+                <subentity index="2" materialName="themask3ANIM_SCREEN" />
+            </entity>
+        </node>
+        <node name="zip_box01tm#0" id="491500576">
+            <position x="524.401" y="-6458.92" z="-7466.96" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="zip_box01tm#0" meshFile="rest01tm.mesh" castShadows="false">
+                <subentity index="0" materialName="themask3tx_cafe_table_01_d.bmp" />
+            </entity>
+        </node>
+        <node name="debriswall01#0" id="106418040">
+            <position x="1891.69" y="-6455.57" z="-7720.24" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="debriswall01#0" meshFile="debriswall01.mesh" castShadows="false">
+                <subentity index="0" materialName="themask3ab_destro_wall_mrA_D.bmp" />
+            </entity>
+        </node>
+        <node name="debriswall01#1" id="210638752">
+            <position x="1891.69" y="-6235.42" z="-7720.24" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="debriswall01#1" meshFile="debriswall01.mesh" castShadows="false">
+                <subentity index="0" materialName="themask3ab_destro_wall_mrA_D.bmp" />
+            </entity>
+        </node>
+        <node name="debriswall01#2" id="38575396">
+            <position x="1597.41" y="-6235.42" z="-7720.24" />
+            <rotation qw="-0.177944" qx="0" qy="-0.984041" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="debriswall01#2" meshFile="debriswall01.mesh" castShadows="false">
+                <subentity index="0" materialName="themask3ab_destro_wall_mrA_D.bmp" />
+            </entity>
+        </node>
+        <node name="debriswall01#3" id="247688224">
+            <position x="1584.44" y="-6470.33" z="-7684.46" />
+            <rotation qw="-0.177944" qx="0" qy="-0.984041" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="debriswall01#3" meshFile="debriswall01.mesh" castShadows="false">
+                <subentity index="0" materialName="themask3ab_destro_wall_mrA_D.bmp" />
+            </entity>
+        </node>
+        <node name="debriswall01#4" id="822351744">
+            <position x="3034.47" y="-6512.4" z="-8004.81" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="debriswall01#4" meshFile="debriswall01.mesh" castShadows="false">
+                <subentity index="0" materialName="themask3ab_destro_wall_mrA_D.bmp" />
+            </entity>
+        </node>
+        <node name="debriswall01#5" id="263618880">
+            <position x="3040.96" y="-6280.92" z="-7998.34" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="debriswall01#5" meshFile="debriswall01.mesh" castShadows="false">
+                <subentity index="0" materialName="themask3ab_destro_wall_mrA_D.bmp" />
+            </entity>
+        </node>
+        <node name="debriswall01#6" id="351603744">
+            <position x="2811.34" y="-6471.19" z="-8025.06" />
+            <rotation qw="0.763232" qx="0" qy="0.646124" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="debriswall01#6" meshFile="debriswall01.mesh" castShadows="false">
+                <subentity index="0" materialName="themask3ab_destro_wall_mrA_D.bmp" />
+            </entity>
+        </node>
+        <node name="debriswall01#7" id="476546528">
+            <position x="2811.34" y="-6235.64" z="-8025.06" />
+            <rotation qw="0.763232" qx="0" qy="0.646124" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="debriswall01#7" meshFile="debriswall01.mesh" castShadows="false">
+                <subentity index="0" materialName="themask3ab_destro_wall_mrA_D.bmp" />
+            </entity>
+        </node>
+        <node name="ice_rock01#0" id="592211648">
+            <position x="2276.78" y="-6462.43" z="-6917.3" />
+            <rotation qw="0.731354" qx="0" qy="0.681998" qz="0" />
+            <scale x="0.391665" y="0.391665" z="0.391665" />
+            <entity name="ice_rock01#0" meshFile="ice_rock01.mesh" castShadows="false">
+                <subentity index="0" materialName="themask3Ice_01.bmp" />
+            </entity>
+        </node>
+        <node name="ice_rock01#1" id="49623096">
+            <position x="2593.31" y="-6462.43" z="-6895.17" />
+            <rotation qw="0.529919" qx="0" qy="0.848048" qz="0" />
+            <scale x="0.770646" y="0.770646" z="0.770646" />
+            <entity name="ice_rock01#1" meshFile="ice_rock01.mesh" castShadows="false">
+                <subentity index="0" materialName="themask3Ice_01.bmp" />
+            </entity>
+        </node>
+        <node name="foto03#0" id="900051904">
+            <position x="542.075" y="-6327.24" z="-7353.69" />
+            <rotation qw="0.977231" qx="0" qy="0.212178" qz="0" />
+            <scale x="60" y="60" z="60" />
+            <entity name="foto03#0" meshFile="foto03.mesh" castShadows="false">
+                <subentity index="0" materialName="FOTO01" />
+            </entity>
+        </node>
+        <node name="bookstand01tm#1" id="806878848">
+            <position x="525.956" y="-6335.04" z="-7076.51" />
+            <rotation qw="0.00872632" qx="0" qy="0.999962" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="bookstand01tm#1" meshFile="bookcase01.mesh" castShadows="false">
+                <subentity index="0" materialName="themask3DPROP_Bookcase_01.bmp" />
+            </entity>
+        </node>
+        <node name="blok1#0" id="374980928">
+            <position x="984.185" y="-6459.81" z="-7048.16" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="blok1#0" meshFile="blok2.mesh" castShadows="false">
+                <subentity index="0" materialName="CAO_EQUIP0101-Default" />
+            </entity>
+        </node>
+        <node name="desk_clock01tm#0" id="227301872">
+            <position x="488.836" y="-6391.94" z="-7569.7" />
+            <rotation qw="0.104528" qx="0" qy="0.994522" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="desk_clock01tm#0" meshFile="desk_clock01tm.mesh" castShadows="false">
+                <subentity index="0" materialName="themask3tx_desk_clock_01_d.bmp" />
+            </entity>
+        </node>
+        <node name="gun7_c#1" id="290353088">
+            <position x="1485.9" y="-6328.77" z="-7904.71" />
+            <rotation qw="0.659346" qx="0" qy="0" qz="-0.75184" />
+            <scale x="1" y="1" z="0.518813" />
+            <entity name="gun7_c#1" meshFile="gun7_c.mesh" castShadows="false">
+                <subentity index="0" materialName="GUNS_HOME01-Default" />
+            </entity>
+        </node>
+        <node name="books_tm02#0" id="576036864">
+            <position x="607.017" y="-6302.48" z="-7000.36" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="books_tm02#0" meshFile="books_tm02.mesh" castShadows="false">
+                <subentity index="0" materialName="themask3tx_books_shelf_05_d.bmp" />
+            </entity>
+        </node>
+        <node name="stove_01tm#0" id="61006500">
+            <position x="1573.94" y="-6455.23" z="-6946.4" />
+            <rotation qw="-1.63913e-007" qx="0" qy="-1" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="stove_01tm#0" meshFile="stove_01tm.mesh" castShadows="false">
+                <subentity index="0" materialName="themask3Stove_zrA_D.bmp" />
+            </entity>
+        </node>
+        <node name="food01tm#0" id="737998592">
+            <position x="1288.27" y="-6374.28" z="-7067.49" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="food01tm#0" meshFile="food01tm.mesh" castShadows="false">
+                <subentity index="0" materialName="themask3bar_plateoffood_twA_D_Dup.bmp" />
+            </entity>
+        </node>
+        <node name="apple01tm#0" id="943998528">
+            <position x="1281.21" y="-6369.6" z="-7048.68" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="apple01tm#0" meshFile="apple01tm.mesh" castShadows="false">
+                <subentity index="0" materialName="themask3Apple_01.bmp" />
+            </entity>
+        </node>
+        <node name="picturetm01#0" id="322122880">
+            <position x="568.463" y="-6343.8" z="-7678.58" />
+            <rotation qw="-1.78814e-007" qx="0" qy="1" qz="0" />
+            <scale x="3.19364" y="3.19364" z="3.19364" />
+            <entity name="picturetm01#0" meshFile="picturetm01.mesh" castShadows="false">
+                <subentity index="0" materialName="themask3ob_landshaft01.bmp" />
+            </entity>
+        </node>
+        <node name="bookstand01tm#0" id="374248480">
+            <position x="529.519" y="-6461.89" z="-7280.62" />
+            <rotation qw="0.00872632" qx="0" qy="0.999962" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="bookstand01tm#0" meshFile="bookstand01tm.mesh" castShadows="false">
+                <subentity index="0" materialName="themask3ob_bookstand01.bmp" />
+            </entity>
+        </node>
+        <node name="blok1#1" id="194067200">
+            <position x="962.954" y="-6429.79" z="-7004.3" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="blok1#1" meshFile="blok1.mesh" castShadows="false">
+                <subentity index="0" materialName="CAO_EQUIP0101-Default" />
+            </entity>
+        </node>
+        <node name="snow_bush01#0" id="505050848">
+            <position x="2468.46" y="-6439.73" z="-6887.88" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="snow_bush01#0" meshFile="snow_bush01.mesh" castShadows="false">
+                <subentity index="0" materialName="themask3Foliage_WNT_SnowBush_01.bmp" />
+            </entity>
+        </node>
+        <node name="silo01#0" id="437421792">
+            <position x="527.369" y="-6327.34" z="-7360.25" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="0.04" y="0.04" z="0.04" />
+            <entity name="silo01#0" meshFile="silo01.mesh" castShadows="false">
+                <subentity index="0" materialName="HARBOR" />
+            </entity>
+        </node>
+        <node name="snow_bush01#1" id="357097088">
+            <position x="2591.96" y="-6439.73" z="-7040.15" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="snow_bush01#1" meshFile="snow_bush01.mesh" castShadows="false">
+                <subentity index="0" materialName="themask3Foliage_WNT_SnowBush_01.bmp" />
+            </entity>
+        </node>
+        <node name="tvset01tm#1" id="81423384">
+            <position x="1283.29" y="-6312.44" z="-7271.18" />
+            <rotation qw="0.522498" qx="0" qy="-0.85264" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tvset01tm#1" meshFile="tvset01tm.mesh" castShadows="false">
+                <subentity index="0" materialName="themask3tx_tv_02_d.bmp" />
+                <subentity index="1" materialName="themask3tx_tv_noiseb.bmp" />
+                <subentity index="2" materialName="themask3ANIM_SCREEN" />
+            </entity>
+        </node>
+        <node name="hangl02tm#0" id="500900256">
+            <position x="1273.9" y="-6138.99" z="-7050.68" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="hangl02tm#0" meshFile="hangl02tm.mesh" castShadows="false">
+                <subentity index="0" materialName="themask3DPROP_GEN_HangingLamp_01.bmp" />
+            </entity>
+        </node>
+        <node name="sofa014#1" id="492538208">
+            <position x="212.2" y="-6460.58" z="-7347.61" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="sofa014#1" meshFile="sofa014.mesh" castShadows="false">
+                <subentity index="0" materialName="theMsk2Abnd_Decor_Cabinet_02_mrA.smd" />
+            </entity>
+        </node>
+        <node name="pot_01#1" id="217566464">
+            <position x="1406.4" y="-6438.78" z="-8472.25" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="61.5221" y="61.5221" z="61.5221" />
+            <entity name="pot_01#1" meshFile="pot_01.mesh" castShadows="false">
+                <subentity index="0" materialName="POT01" />
+            </entity>
+        </node>
+        <node name="pot_01#2" id="168919952">
+            <position x="1463.39" y="-6438.78" z="-8472.25" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="61.5221" y="61.5221" z="61.5221" />
+            <entity name="pot_01#2" meshFile="pot_01.mesh" castShadows="false">
+                <subentity index="0" materialName="POT01" />
+            </entity>
+        </node>
+        <node name="hangl01tm#0" id="798181120">
+            <position x="1722.74" y="-6122.95" z="-8271.56" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="hangl01tm#0" meshFile="hangl01tm.mesh" castShadows="false">
+                <subentity index="0" materialName="themask3DPROP_HangingLight_01.bmp" />
+            </entity>
+        </node>
+        <node name="hangl01tm#1" id="842097216">
+            <position x="2007.07" y="-6122.95" z="-8271.56" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="hangl01tm#1" meshFile="hangl01tm.mesh" castShadows="false">
+                <subentity index="0" materialName="themask3DPROP_HangingLight_01.bmp" />
+            </entity>
+        </node>
+        <node name="hangl01tm#2" id="684011328">
+            <position x="1318.88" y="-6122.95" z="-8271.56" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="hangl01tm#2" meshFile="hangl01tm.mesh" castShadows="false">
+                <subentity index="0" materialName="themask3DPROP_HangingLight_01.bmp" />
+            </entity>
+        </node>
+        <node name="radar01#0" id="32105472">
+            <position x="554.358" y="-6324.69" z="-7373.24" />
+            <rotation qw="0.944089" qx="0" qy="-0.329691" qz="0" />
+            <scale x="0.3" y="0.3" z="0.3" />
+            <entity name="radar01#0" meshFile="radar01.mesh" castShadows="false">
+                <subentity index="0" materialName="HARBOR" />
+            </entity>
+        </node>
+        <node name="royal_chair01tm#1" id="171788688">
+            <position x="968.507" y="-6458.25" z="-6800.36" />
+            <rotation qw="0.580703" qx="0" qy="0.814115" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="royal_chair01tm#1" meshFile="royal_chair01tm.mesh" castShadows="false">
+                <subentity index="0" materialName="theMsk210-Default" />
+            </entity>
+        </node>
+        <node name="pipe01#1" id="797418112">
+            <position x="1478.7" y="-6284.3" z="-7323.56" />
+            <rotation qw="0.502177" qx="-0.497814" qy="0.497814" qz="-0.502177" />
+            <scale x="2" y="2" z="2" />
+            <entity name="pipe01#1" meshFile="pipe01.mesh" castShadows="false">
+                <subentity index="0" materialName="PIPE0101-Default" />
+            </entity>
+        </node>
+        <node name="pipe01#2" id="81484424">
+            <position x="1479.75" y="-6284.3" z="-7443.96" />
+            <rotation qw="0.502177" qx="-0.497814" qy="0.497814" qz="-0.502177" />
+            <scale x="2" y="2" z="2" />
+            <entity name="pipe01#2" meshFile="pipe01.mesh" castShadows="false">
+                <subentity index="0" materialName="PIPE0101-Default" />
+            </entity>
+        </node>
+        <node name="diff_radiator01tm#0" id="107638784">
+            <position x="1312.98" y="-6458.21" z="-6842.91" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="diff_radiator01tm#0" meshFile="diff_radiator01tm.mesh" castShadows="false">
+                <subentity index="0" materialName="themask3DIFF_radiator_ed.bmp" />
+            </entity>
+        </node>
+        <node name="diff_radiator01tm#2" id="654011648">
+            <position x="872.338" y="-6457.76" z="-6842.87" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="diff_radiator01tm#2" meshFile="diff_radiator01tm.mesh" castShadows="false">
+                <subentity index="0" materialName="themask3DIFF_radiator_ed.bmp" />
+            </entity>
+        </node>
+        <node name="diff_radiator01tm#3" id="755821376">
+            <position x="371.328" y="-6460.33" z="-6842.87" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="diff_radiator01tm#3" meshFile="diff_radiator01tm.mesh" castShadows="false">
+                <subentity index="0" materialName="themask3DIFF_radiator_ed.bmp" />
+            </entity>
+        </node>
+        <node name="diff_radiator01tm#4" id="150883504">
+            <position x="303.599" y="-6460.33" z="-6842.87" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="diff_radiator01tm#4" meshFile="diff_radiator01tm.mesh" castShadows="false">
+                <subentity index="0" materialName="themask3DIFF_radiator_ed.bmp" />
+            </entity>
+        </node>
+        <node name="blok1#2" id="842158272">
+            <position x="962.954" y="-6398.92" z="-6956.09" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="blok1#2" meshFile="blok3.mesh" castShadows="false">
+                <subentity index="0" materialName="CAO_EQUIP0101-Default" />
+            </entity>
+        </node>
+        <node name="blok3#0" id="123325296">
+            <position x="962.954" y="-6398.92" z="-7060.94" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="1.32611" z="2" />
+            <entity name="blok3#0" meshFile="blok5.mesh" castShadows="false">
+                <subentity index="0" materialName="CAO_EQUIP0101-Default" />
+            </entity>
+        </node>
+        <node name="compm01#2" id="113773000">
+            <position x="1009.74" y="-6349.2" z="-6990.12" />
+            <rotation qw="0.705788" qx="0.705788" qy="0.0431678" qz="-0.0431678" />
+            <scale x="60" y="60" z="60" />
+            <entity name="compm01#2" meshFile="compm01.mesh" castShadows="false">
+                <subentity index="0" materialName="COMPMCOMPm01" />
+            </entity>
+        </node>
+        <node name="elevator_ussr01#0" id="316873664">
+            <position x="1729.47" y="-6547.36" z="-7839.22" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="1.65765" y="1.34718" z="1.65765" />
+            <entity name="elevator_ussr01#0" meshFile="elevator_ussr01.mesh" castShadows="false">
+                <subentity index="0" materialName="TLW_ELEVATOR_USSR01-Default" />
+            </entity>
+        </node>
+        <node name="compm01#3" id="931516480">
+            <position x="1016.22" y="-6352.54" z="-6937.32" />
+            <rotation qw="0.704416" qx="0.704416" qy="-0.0616284" qz="0.0616284" />
+            <scale x="60" y="60" z="60" />
+            <entity name="compm01#3" meshFile="compm01.mesh" castShadows="false">
+                <subentity index="0" materialName="COMPMCOMPm01" />
+            </entity>
+        </node>
+        <node name="chair02#1" id="740745216">
+            <position x="480.279" y="-6406.29" z="-7421.18" />
+            <rotation qw="0.806445" qx="0" qy="-0.59131" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity name="chair02#1" meshFile="chair02.mesh" castShadows="false">
+                <subentity index="0" materialName="CHAIT101-Default" />
+            </entity>
+        </node>
+        <node name="chair02#2" id="614703808">
+            <position x="465.013" y="-6406.29" z="-7310.21" />
+            <rotation qw="0.67559" qx="0" qy="-0.737277" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity name="chair02#2" meshFile="chair02.mesh" castShadows="false">
+                <subentity index="0" materialName="CHAIT101-Default" />
+            </entity>
+        </node>
+        <node name="doorm01#2" id="661000384">
+            <position x="2936.14" y="-6457.92" z="-8494.55" />
+            <rotation qw="-1" qx="0" qy="-6.44475e-007" qz="0" />
+            <scale x="109.331" y="124.408" z="104.616" />
+            <entity name="doorm01#2" meshFile="doorm01.mesh" castShadows="false">
+                <subentity index="0" materialName="DOORM012" />
+                <subentity index="1" materialName="DOORM011" />
+                <subentity index="2" materialName="DOORM013" />
+            </entity>
+        </node>
+        <node name="bookstand01tm#2" id="789635904">
+            <position x="3364.31" y="-6459.83" z="-8244.67" />
+            <rotation qw="0.99863" qx="0" qy="0.052336" qz="0" />
+            <scale x="3" y="4" z="4" />
+            <entity name="bookstand01tm#2" meshFile="bookstand01tm.mesh" castShadows="false">
+                <subentity index="0" materialName="themask3ob_bookstand01.bmp" />
+            </entity>
+        </node>
+        <node name="skaf01#1" id="811059904">
+            <position x="2197.77" y="-6457" z="-7947.54" />
+            <rotation qw="0.652604" qx="-0.0165262" qy="0.757385" qz="-0.0142399" />
+            <scale x="70" y="70" z="70" />
+            <entity name="skaf01#1" meshFile="skaf01.mesh" castShadows="false">
+                <subentity index="0" materialName="SKAF02" />
+                <subentity index="1" materialName="SKAF03" />
+                <userData>
+                    <property type="7" name="type" data="" />
+                </userData>
+            </entity>
+        </node>
+        <node name="curtain01_tm#0" id="828638528">
+            <position x="1336.7" y="-6407.61" z="-7633.26" />
+            <rotation qw="0.734322" qx="0" qy="0.678801" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="curtain01_tm#0" meshFile="curtain01_tm.mesh" castShadows="false">
+                <subentity index="0" materialName="theMsk2DL_Curtains_D.bmp" />
+            </entity>
+        </node>
+        <node name="curtain01_tm#1" id="154087968">
+            <position x="1457.99" y="-6407.61" z="-7622.53" />
+            <rotation qw="0.734322" qx="0" qy="0.678801" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="curtain01_tm#1" meshFile="curtain01_tm.mesh" castShadows="false">
+                <subentity index="0" materialName="theMsk2DL_Curtains_D.bmp" />
+            </entity>
+        </node>
+        <node name="apple01tm#1" id="172795808">
+            <position x="1305.24" y="-6369.6" z="-7057.48" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="apple01tm#1" meshFile="apple01tm.mesh" castShadows="false">
+                <subentity index="0" materialName="themask3Apple_01.bmp" />
+            </entity>
+        </node>
+        <node name="gprops02#0" id="643330176">
+            <position x="136.703" y="-6410" z="-7163.94" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops02#0" meshFile="gprops02.mesh" castShadows="false">
+                <subentity index="0" materialName="GPROPSmaterial_5" />
+            </entity>
+        </node>
+        <node name="hangl02tm#1" id="381725504">
+            <position x="332.837" y="-6110.68" z="-7208.01" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="hangl02tm#1" meshFile="hangl02tm.mesh" castShadows="false">
+                <subentity index="0" materialName="themask3DPROP_GEN_HangingLamp_01.bmp" />
+            </entity>
+        </node>
+        <node name="hangl02tm#2" id="238502144">
+            <position x="332.837" y="-6120.5" z="-7552.02" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="hangl02tm#2" meshFile="hangl02tm.mesh" castShadows="false">
+                <subentity index="0" materialName="themask3DPROP_GEN_HangingLamp_01.bmp" />
+            </entity>
+        </node>
+        <node name="parts04#0" id="651966912">
+            <position x="521.897" y="-6423.42" z="-6981.72" />
+            <rotation qw="-0.156435" qx="0" qy="-0.987688" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="parts04#0" meshFile="parts04.mesh" castShadows="false">
+                <subentity index="0" materialName="SERVERS_PHOL_H" />
+            </entity>
+        </node>
+        <node name="parts04#1" id="143223360">
+            <position x="510.482" y="-6423.42" z="-6946.59" />
+            <rotation qw="-0.156435" qx="0" qy="-0.987688" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="parts04#1" meshFile="parts02.mesh" castShadows="false">
+                <subentity index="0" materialName="SERVERS_PHOL_H" />
+            </entity>
+        </node>
+        <node name="parts02#1" id="143009744">
+            <position x="559.151" y="-6250.03" z="-7221.03" />
+            <rotation qw="0.0697565" qx="0" qy="-0.997564" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="parts02#1" meshFile="parts01.mesh" castShadows="false">
+                <subentity index="0" materialName="SERVERS_PHOL_H" />
+            </entity>
+        </node>
+        <node name="bookcase01#1" id="219733264">
+            <position x="1501.26" y="-6337.03" z="-7869.19" />
+            <rotation qw="0.0348993" qx="0" qy="0.999391" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="bookcase01#1" meshFile="bookstand02tm.mesh" castShadows="false">
+                <subentity index="0" materialName="themask3Bookshelves_D.bmp" />
+            </entity>
+        </node>
+        <node name="bookcase01#0" id="790368384">
+            <position x="951.294" y="-6335.04" z="-7764.96" />
+            <rotation qw="0.71934" qx="0" qy="0.694659" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="bookcase01#0" meshFile="bookcase01.mesh" castShadows="false">
+                <subentity index="0" materialName="themask3DPROP_Bookcase_01.bmp" />
+            </entity>
+        </node>
+        <node name="reciever_cart01#0" id="716605120">
+            <position x="147.912" y="-6389.04" z="-7015.98" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="reciever_cart01#0" meshFile="reciever_cart01.mesh" castShadows="false">
+                <subentity index="0" materialName="RECIEVER0101-Default" />
+            </entity>
+        </node>
+        <node name="ladder02#0" id="168980992">
+            <position x="1688.75" y="-6534.6" z="-7824.06" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="ladder02#0" meshFile="ladder02.mesh" castShadows="false">
+                <subentity index="0" materialName="LADDERS1Metalladder002.bmp" />
+            </entity>
+        </node>
+        <node name="ladder02#1" id="949339264">
+            <position x="1679" y="-10020" z="-7832.04" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="ladder02#1" meshFile="ladder03.mesh" castShadows="false">
+                <subentity index="0" materialName="LADDERS1Metalladder002.bmp" />
+            </entity>
+        </node>
+        <node name="radar01tm#0" id="869350272">
+            <position x="550.711" y="-6324.65" z="-7374.01" />
+            <rotation qw="0.279829" qx="0" qy="-0.96005" qz="0" />
+            <scale x="0.0235676" y="0.0235676" z="0.0235676" />
+            <entity name="radar01tm#0" meshFile="radar01tm.mesh" castShadows="false">
+                <subentity index="0" materialName="themask3T_HU_Deco_SM_Radar_dish_D.bmp" />
+            </entity>
+        </node>
+        <node name="forester01#0" id="902127168">
+            <position x="537.773" y="-6325.51" z="-7385.02" />
+            <rotation qw="0.426569" qx="0" qy="0.904455" qz="0" />
+            <scale x="0.05" y="0.05" z="0.05" />
+            <entity name="forester01#0" meshFile="forester01.mesh" castShadows="false">
+                <subentity index="0" materialName="FORESTER" />
+            </entity>
+        </node>
+        <node name="forester01#1" id="265938288">
+            <position x="535.17" y="-6325.51" z="-7376.28" />
+            <rotation qw="0.279829" qx="0" qy="0.96005" qz="0" />
+            <scale x="0.05" y="0.05" z="0.05" />
+            <entity name="forester01#1" meshFile="forester01.mesh" castShadows="false">
+                <subentity index="0" materialName="FORESTER" />
+            </entity>
+        </node>
+        <node name="forester01#2" id="597216704">
+            <position x="544.687" y="-6327.55" z="-7366.22" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="0.04" y="0.04" z="0.04" />
+            <entity name="forester01#2" meshFile="chme3.mesh" castShadows="false">
+                <subentity index="0" materialName="CHME3train_engine_bottom.bmp" />
+                <subentity index="1" materialName="CHME3train_engine_top.bmp" />
+            </entity>
+        </node>
+        <node name="zip_box01tm#1" id="301400800">
+            <position x="434.476" y="-6456.96" z="-6998.34" />
+            <rotation qw="0.685183" qx="0" qy="0.728371" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="zip_box01tm#1" meshFile="zip_box01tm.mesh" castShadows="false">
+                <subentity index="0" materialName="themask3abnd_crate_fcE.bmp" />
+            </entity>
+        </node>
+        <node name="tableprops01_tm#2" id="30884732">
+            <position x="540.594" y="-6384.1" z="-7326.61" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tableprops01_tm#2" meshFile="tableprops01_tm.mesh" castShadows="false">
+                <subentity index="0" materialName="theMsk211-Default" />
+            </entity>
+        </node>
+        <node name="tbh01#0" id="487350080">
+            <position x="465.104" y="-6424.4" z="-7169.36" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tbh01#0" meshFile="tbh01.mesh" castShadows="false">
+                <subentity index="0" materialName="TBH0101-Default" />
+            </entity>
+        </node>
+        <node name="c1_91#0" id="572405184">
+            <position x="505.951" y="-6397.28" z="-7540.57" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="0.108834" y="0.108834" z="0.108834" />
+            <entity name="c1_91#0" meshFile="c1_91.mesh" castShadows="false">
+                <subentity index="0" materialName="BUILDP0201-Default" />
+            </entity>
+        </node>
+        <node name="filecab01#4" id="567583232">
+            <position x="944.619" y="-6438.45" z="-7624.79" />
+            <rotation qw="0.121305" qx="0.11817" qy="0.705956" qz="-0.687712" />
+            <scale x="2" y="2" z="2" />
+            <entity name="filecab01#4" meshFile="filecab01.mesh" castShadows="false">
+                <subentity index="0" materialName="filecab0101-Default" />
+            </entity>
+        </node>
+        <node name="foto03#1" id="976043008">
+            <position x="546.419" y="-6269" z="-7381.25" />
+            <rotation qw="0.977231" qx="0" qy="0.212178" qz="0" />
+            <scale x="60" y="60" z="60" />
+            <entity name="foto03#1" meshFile="foto04.mesh" castShadows="false">
+                <subentity index="0" materialName="FOTO01" />
+            </entity>
+        </node>
+        <node name="sofa014#2" id="56154056">
+            <position x="851.234" y="-6460.51" z="-7958.34" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="sofa014#2" meshFile="sofa014.mesh" castShadows="false">
+                <subentity index="0" materialName="theMsk2Abnd_Decor_Cabinet_02_mrA.smd" />
+            </entity>
+        </node>
+        <node name="door01hl#5" id="87435528">
+            <position x="2713.14" y="-6447.8" z="-8167.71" />
+            <rotation qw="0.531631" qx="0.531631" qy="0.466228" qz="-0.466228" />
+            <scale x="2.72107" y="2.72107" z="2.72107" />
+            <entity name="door01hl#5" meshFile="door01hl.mesh" castShadows="false">
+                <subentity index="0" materialName="RUN3DOOR_MATERIAL" />
+            </entity>
+        </node>
+        <node name="door01hl#4" id="391186272">
+            <position x="1267.44" y="-6322.73" z="-7445.92" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="2.87803" y="2.6529" z="2.61232" />
+            <entity name="door01hl#4" meshFile="door01hl.mesh" castShadows="false">
+                <subentity index="0" materialName="RUN3DOOR_MATERIAL4" />
+            </entity>
+        </node>
+        <node name="door01hl#3" id="605944960">
+            <position x="1267.44" y="-6322.73" z="-7648.16" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="2.87803" y="2.6529" z="2.61232" />
+            <entity name="door01hl#3" meshFile="door01hl.mesh" castShadows="false">
+                <subentity index="0" materialName="RUN3DOOR_MATERIAL4" />
+            </entity>
+        </node>
+        <node name="door01hl#2" id="545365760">
+            <position x="587.456" y="-6322.73" z="-7954.99" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="2.87803" y="2.6529" z="2.61232" />
+            <entity name="door01hl#2" meshFile="door01hl.mesh" castShadows="false">
+                <subentity index="0" materialName="RUN3DOOR_MATERIAL6" />
+            </entity>
+        </node>
+        <node name="door01hl#1" id="109378336">
+            <position x="719.633" y="-6322.73" z="-7723.74" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.93448" y="2.61232" z="2.61232" />
+            <entity name="door01hl#1" meshFile="door01hl.mesh" castShadows="false">
+                <subentity index="0" materialName="RUN3DOOR_MATERIAL4" />
+            </entity>
+        </node>
+        <node name="door01hl#0" id="921292800">
+            <position x="1183.15" y="-6322.73" z="-8018.93" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.61232" y="2.61232" z="2.61232" />
+            <entity name="door01hl#0" meshFile="door01hl.mesh" castShadows="false">
+                <subentity index="0" materialName="RUN3DOOR_MATERIAL5" />
+            </entity>
+        </node>
+        <node name="door01hl#6" id="917996736">
+            <position x="2891.74" y="-6450.17" z="-7839.74" />
+            <rotation qw="0.698401" qx="0.698401" qy="0.110616" qz="-0.110616" />
+            <scale x="2.61232" y="2.61232" z="2.61232" />
+            <entity name="door01hl#6" meshFile="door01hl.mesh" castShadows="false">
+                <subentity index="0" materialName="RUN3DOOR_MATERIAL" />
+            </entity>
+        </node>
+        <node name="door01hl#7" id="378215872">
+            <position x="2770.46" y="-6322.73" z="-7689.94" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.93448" y="2.61232" z="2.61232" />
+            <entity name="door01hl#7" meshFile="door01hl.mesh" castShadows="false">
+                <subentity index="0" materialName="RUN3DOOR_MATERIAL" />
+            </entity>
+        </node>
+        <node name="door01hl#8" id="437726976">
+            <position x="2120.67" y="-6322.46" z="-7490.58" />
+            <rotation qw="0.798567" qx="0.0104538" qy="0.601763" qz="-0.00787752" />
+            <scale x="2.93448" y="2.61232" z="2.61232" />
+            <entity name="door01hl#8" meshFile="door01hl.mesh" castShadows="false">
+                <subentity index="0" materialName="RUN3DOOR_MATERIAL" />
+            </entity>
+        </node>
+        <node name="buxlo01#0" id="941068800">
+            <position x="1201.4" y="-6421" z="-6863" />
+            <rotation qw="0.731354" qx="0" qy="0.681998" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="buxlo01#0" meshFile="buxlo01.mesh" castShadows="false">
+                <subentity index="0" materialName="SodaCase_d_Can.bmp" />
+                <subentity index="1" materialName="SodaCase_d.bmp" />
+            </entity>
+        </node>
+        <node name="odealo01#0" id="698507648">
+            <position x="138.603" y="-6437.63" z="-7811.77" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="3.51765" y="3.51765" z="3.51765" />
+            <entity name="odealo01#0" meshFile="odealo01.mesh" castShadows="false">
+                <subentity index="0" materialName="tx_cloth_wrinkles_01_d.bmp" />
+            </entity>
+        </node>
+        <node name="nosok01#0" id="131626336">
+            <position x="171.945" y="-6459.07" z="-8009.58" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="nosok01#0" meshFile="nosok01.mesh" castShadows="false">
+                <subentity index="0" materialName="tx_clothes_dirty_01_d.bmp" />
+            </entity>
+        </node>
+        <node name="nosok01#1" id="900601216">
+            <position x="247.725" y="-6459.07" z="-8119.98" />
+            <rotation qw="0.932008" qx="0" qy="-0.362438" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="nosok01#1" meshFile="nosok01.mesh" castShadows="false">
+                <subentity index="0" materialName="tx_clothes_dirty_01_d.bmp" />
+            </entity>
+        </node>
+        <node name="nosok01#2" id="630176704">
+            <position x="345.395" y="-6459.07" z="-8068.58" />
+            <rotation qw="0.932008" qx="0" qy="-0.362438" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="nosok01#2" meshFile="djinsi01.mesh" castShadows="false">
+                <subentity index="0" materialName="tx_clothes_dirty_01_d.bmp" />
+            </entity>
+        </node>
+        <node name="buxlo01#1" id="398602240">
+            <position x="1222.76" y="-6392.01" z="-6929.86" />
+            <rotation qw="0.731354" qx="0" qy="0.681998" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="buxlo01#1" meshFile="supp01.mesh" castShadows="false">
+                <subentity index="0" materialName="props_nyamka.bmp" />
+                <subentity index="1" materialName="metal34_koteloks.bmp" />
+            </entity>
+        </node>
+        <node name="supp01#0" id="259163168">
+            <position x="1200.62" y="-6389.88" z="-6898.84" />
+            <rotation qw="0.731354" qx="0" qy="0.681998" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="supp01#0" meshFile="kukisi01.mesh" castShadows="false">
+                <subentity index="0" materialName="tx_cookie_bowl_01_d.bmp" />
+            </entity>
+        </node>
+        <node name="supp01#1" id="521439264">
+            <position x="1145.4" y="-6364.07" z="-6940.06" />
+            <rotation qw="0.731354" qx="0" qy="0.681998" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="supp01#1" meshFile="hrenkakayato01.mesh" castShadows="false">
+                <subentity index="0" materialName="TX_Acc_CupToto_D.bmp" />
+                <subentity index="1" materialName="TX_Acc_CupToto_D_soup.bmp" />
+            </entity>
+        </node>
+        <node name="toster01#0" id="189275808">
+            <position x="1402.6" y="-6373.63" z="-7001.41" />
+            <rotation qw="0.880891" qx="0" qy="-0.47332" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="toster01#0" meshFile="toster01.mesh" castShadows="false">
+                <subentity index="0" materialName="TX_Acc_Toaster_D_Toast.bmp" />
+                <subentity index="1" materialName="TX_Acc_Toaster_D.bmp" />
+            </entity>
+        </node>
+        <node name="toster01#1" id="779656320">
+            <position x="1397.98" y="-6373.63" z="-6998.35" />
+            <rotation qw="0.880891" qx="0" qy="-0.47332" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="toster01#1" meshFile="toster01.mesh" castShadows="false">
+                <subentity index="0" materialName="TX_Acc_Toaster_D_Toast.bmp" />
+                <subentity index="1" materialName="TX_Acc_Toaster_D.bmp" />
+            </entity>
+        </node>
+        <node name="toster01#2" id="645558080">
+            <position x="1393.6" y="-6373.63" z="-6995.46" />
+            <rotation qw="0.882948" qx="0" qy="-0.469471" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="toster01#2" meshFile="toster01.mesh" castShadows="false">
+                <subentity index="0" materialName="TX_Acc_Toaster_D_Toast.bmp" />
+                <subentity index="1" materialName="TX_Acc_Toaster_D.bmp" />
+            </entity>
+        </node>
+        <node name="pot_01#3" id="190252400">
+            <position x="942.9" y="-6346.65" z="-8331.55" />
+            <rotation qw="0.971342" qx="0" qy="0.237686" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="pot_01#3" meshFile="dead_rastenie01.mesh" castShadows="false">
+                <subentity index="0" materialName="DPROP_GEN_PottedPlant_01_L.bmp" />
+            </entity>
+        </node>
+        <node name="floor_clock02tm#0" id="620380288">
+            <position x="90.9783" y="-6313.94" z="-7336.11" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="floor_clock02tm#0" meshFile="floor_clock202tm.mesh" castShadows="false">
+                <subentity index="0" materialName="themask3OBJ_Clock_Grandfather.bmp" />
+            </entity>
+        </node>
+        <node name="picturetm01#1" id="63539536">
+            <position x="386.39" y="-6343.8" z="-8006.5" />
+            <rotation qw="-0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="3.19364" y="3.19364" z="3.19364" />
+            <entity name="picturetm01#1" meshFile="picturetm01.mesh" castShadows="false">
+                <subentity index="0" materialName="themask3ob_landshaft01_1.bmp" />
+            </entity>
+        </node>
+        <node name="foto04#0" id="104678488">
+            <position x="493.278" y="-6387.85" z="-7155.75" />
+            <rotation qw="0.977231" qx="0" qy="0.212178" qz="0" />
+            <scale x="60" y="60" z="60" />
+            <entity name="foto04#0" meshFile="foto04.mesh" castShadows="false">
+                <subentity index="0" materialName="FOTO02" />
+            </entity>
+        </node>
+        <node name="foto04#1" id="890163904">
+            <position x="477.905" y="-6387.85" z="-7189.49" />
+            <rotation qw="0.988362" qx="0" qy="-0.152123" qz="0" />
+            <scale x="60" y="60" z="60" />
+            <entity name="foto04#1" meshFile="foto01.mesh" castShadows="false">
+                <subentity index="0" materialName="FOTO02" />
+            </entity>
+        </node>
+        <node name="foto01#0" id="109927672">
+            <position x="464.19" y="-6387.85" z="-7145.99" />
+            <rotation qw="0.988362" qx="0" qy="-0.152123" qz="0" />
+            <scale x="60" y="60" z="60" />
+            <entity name="foto01#0" meshFile="foto02.mesh" castShadows="false">
+                <subentity index="0" materialName="FOTO02" />
+            </entity>
+        </node>
+        <node name="foto02#1" id="743125696">
+            <position x="464.627" y="-6387.85" z="-7169.9" />
+            <rotation qw="0.801254" qx="0" qy="0.598325" qz="0" />
+            <scale x="60" y="60" z="60" />
+            <entity name="foto02#1" meshFile="foto03.mesh" castShadows="false">
+                <subentity index="0" materialName="FOTO02" />
+            </entity>
+        </node>
+        <node name="box#1" id="144474624">
+            <position x="2127.18" y="-6782.32" z="-6281.02" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="10000" y="3000" z="1000" />
+            <entity name="box#1" meshFile="box.mesh" castShadows="false">
+                <subentity index="0" materialName="BaseWhite" />
+            </entity>
+        </node>
+        <node name="gun1_c#0" id="846980224">
+            <position x="1465.28" y="-6458.41" z="-7780.25" />
+            <rotation qw="0.608761" qx="0" qy="0" qz="-0.793353" />
+            <scale x="1.14084" y="1.14084" z="1.14084" />
+            <entity name="gun1_c#0" meshFile="gun2_c.mesh" castShadows="false">
+                <subentity index="0" materialName="GUNS_HOME01-Default" />
+            </entity>
+        </node>
+        <node name="gun2_c#0" id="456099136">
+            <position x="1469.63" y="-6390.18" z="-7780.25" />
+            <rotation qw="0.608182" qx="0.0265538" qy="-0.0346056" qz="-0.792598" />
+            <scale x="1" y="1" z="1" />
+            <entity name="gun2_c#0" meshFile="gun3_c.mesh" castShadows="false">
+                <subentity index="0" materialName="GUNS_HOME01-Default" />
+            </entity>
+        </node>
+        <node name="gun3_c#0" id="297799616">
+            <position x="1475.46" y="-6350.96" z="-7887.72" />
+            <rotation qw="0.608182" qx="0.0265538" qy="-0.0346056" qz="-0.792598" />
+            <scale x="1" y="1" z="1" />
+            <entity name="gun3_c#0" meshFile="gun3_c.mesh" castShadows="false">
+                <subentity index="0" materialName="GUNS_HOME01-Default" />
+            </entity>
+        </node>
+        <node name="gun3_c#1" id="839442112">
+            <position x="1482.37" y="-6448.37" z="-7884.93" />
+            <rotation qw="0.608182" qx="0.0265538" qy="-0.0346056" qz="-0.792598" />
+            <scale x="1" y="1" z="1" />
+            <entity name="gun3_c#1" meshFile="gun4_c.mesh" castShadows="false">
+                <subentity index="0" materialName="GUNS_HOME01-Default" />
+            </entity>
+        </node>
+        <node name="tvputin01" id="802880960">
+            <position x="1333.95" y="-6309.17" z="-7220.47" />
+            <rotation qw="0.522498" qx="0" qy="-0.85264" qz="0" />
+            <scale x="1.32227" y="34.6014" z="43.1419" />
+            <entity name="tvputin01" meshFile="box.mesh" castShadows="false">
+                <subentity index="0" materialName="BaseWhite" />
+            </entity>
+        </node>
+        <node name="gun4_c#0" id="397656160">
+            <position x="1473.5" y="-6445.99" z="-7780.02" />
+            <rotation qw="0.608182" qx="0.0265538" qy="-0.0346056" qz="-0.792598" />
+            <scale x="1" y="1" z="1" />
+            <entity name="gun4_c#0" meshFile="gun4_c.mesh" castShadows="false">
+                <subentity index="0" materialName="GUNS_HOME01-Default" />
+            </entity>
+        </node>
+        <node name="gun10_c#4" id="852626176">
+            <position x="1490.33" y="-6295.08" z="-7877.74" />
+            <rotation qw="0.659346" qx="0" qy="0" qz="-0.75184" />
+            <scale x="1" y="1" z="0.518813" />
+            <entity name="gun10_c#4" meshFile="gun7_c.mesh" castShadows="false">
+                <subentity index="0" materialName="GUNS_HOME01-Default" />
+            </entity>
+        </node>
+        <node name="gun7_c#0" id="454512160">
+            <position x="1490.33" y="-6295.08" z="-7855.68" />
+            <rotation qw="0.659346" qx="0" qy="0" qz="-0.75184" />
+            <scale x="1" y="1" z="0.518813" />
+            <entity name="gun7_c#0" meshFile="gun7_c.mesh" castShadows="false">
+                <subentity index="0" materialName="GUNS_HOME01-Default" />
+            </entity>
+        </node>
+        <node name="gun7_c#2" id="160191648">
+            <position x="1543.98" y="-6319.91" z="-7827.38" />
+            <rotation qw="0.368701" qx="0.546622" qy="-0.623304" qz="-0.420424" />
+            <scale x="1.63499" y="1.63499" z="0.848257" />
+            <entity name="gun7_c#2" meshFile="gun8_c.mesh" castShadows="false">
+                <subentity index="0" materialName="GUNS_HOME01-Default" />
+            </entity>
+        </node>
+        <node name="scope_screen01#0" id="27466660">
+            <position x="473.867" y="-6377.81" z="-7543.56" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="0.0947474" y="0.0947474" z="0.0947474" />
+            <entity name="scope_screen01#0" meshFile="scope_screen01.mesh" castShadows="false">
+                <subentity index="0" materialName="SCOPE_MATERIAL01" />
+            </entity>
+        </node>
+        <node name="stair_rail01#0" id="662984064">
+            <position x="1703.19" y="-6335.32" z="-8707.6" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.11432" y="2.04535" z="2.11431" />
+            <entity name="stair_rail01#0" meshFile="stair_rail01.mesh" castShadows="false">
+                <subentity index="0" materialName="HandrailMetal001a.bmp" />
+            </entity>
+        </node>
+        <node name="stair_rail01#1" id="994628736">
+            <position x="1703.19" y="-6203.26" z="-8912.49" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.11432" y="2.04535" z="2.11431" />
+            <entity name="stair_rail01#1" meshFile="stair_rail01.mesh" castShadows="false">
+                <subentity index="0" materialName="HandrailMetal001a.bmp" />
+            </entity>
+        </node>
+        <node name="stair_rail01#2" id="14252145">
+            <position x="1739.53" y="-6468.67" z="-8707.6" />
+            <rotation qw="-1.78814e-007" qx="0" qy="-1" qz="0" />
+            <scale x="2.11432" y="2.04535" z="2.11431" />
+            <entity name="stair_rail01#2" meshFile="stair_rail01.mesh" castShadows="false">
+                <subentity index="0" materialName="HandrailMetal001a.bmp" />
+            </entity>
+        </node>
+        <node name="stair_rail01#3" id="504135264">
+            <position x="1739.53" y="-6570.66" z="-8922.33" />
+            <rotation qw="-1.78814e-007" qx="0" qy="-1" qz="0" />
+            <scale x="2.11432" y="2.04535" z="2.11431" />
+            <entity name="stair_rail01#3" meshFile="stair_rail01.mesh" castShadows="false">
+                <subentity index="0" materialName="HandrailMetal001a.bmp" />
+            </entity>
+        </node>
+        <node name="box#2" id="905117952">
+            <position x="481.401" y="-6373.76" z="-7606.19" />
+            <rotation qw="0.999657" qx="0" qy="0.026177" qz="0" />
+            <scale x="1" y="35.5787" z="42.3357" />
+            <entity name="box#2" meshFile="box.mesh" castShadows="false">
+                <subentity index="0" materialName="BaseWhite" />
+            </entity>
+        </node>
+        <node name="phone_ring" id="361339136">
+            <position x="678.953" y="-6314.43" z="-7875.02" />
+            <rotation qw="0.999657" qx="0" qy="0.026177" qz="0" />
+            <scale x="200" y="300" z="259.692" />
+            <entity name="phone_ring" meshFile="box.mesh" castShadows="false">
+                <subentity index="0" materialName="BaseWhite" />
+            </entity>
+        </node>
+        <node name="phone_tag" id="752220224">
+            <position x="767.956" y="-6314.43" z="-7574.28" />
+            <rotation qw="0.999657" qx="0" qy="0.026177" qz="0" />
+            <scale x="200" y="300" z="259.692" />
+            <entity name="phone_tag" meshFile="box.mesh" castShadows="false">
+                <subentity index="0" materialName="BaseWhite" />
+            </entity>
+        </node>
+        <node name="box#3" id="48432876">
+            <position x="1089.33" y="-6265.06" z="-7326.37" />
+            <rotation qw="1" qx="0" qy="5.7742e-008" qz="0" />
+            <scale x="1" y="95.2269" z="179.735" />
+            <entity name="box#3" meshFile="box.mesh" castShadows="false">
+                <subentity index="0" materialName="BaseWhite" />
+            </entity>
+        </node>
+        <node name="flyby" id="894619584">
+            <position x="351.219" y="-6314.43" z="-6931.35" />
+            <rotation qw="0.999657" qx="0" qy="0.026177" qz="0" />
+            <scale x="200" y="300" z="259.692" />
+            <entity name="flyby" meshFile="box.mesh" castShadows="false">
+                <subentity index="0" materialName="BaseWhite" />
+            </entity>
+        </node>
+        <node name="box#4" id="425153344">
+            <position x="1223.53" y="-6314.43" z="-8160.23" />
+            <rotation qw="0.999657" qx="0" qy="0.026177" qz="0" />
+            <scale x="200" y="300" z="259.692" />
+            <entity name="box#4" meshFile="box.mesh" castShadows="false">
+                <subentity index="0" materialName="BaseWhite" />
+            </entity>
+        </node>
+        <node name="eattrig" id="568742912">
+            <position x="1192.17" y="-6314.43" z="-7164.58" />
+            <rotation qw="0.999657" qx="0" qy="0.026177" qz="0" />
+            <scale x="132.274" y="300" z="259.692" />
+            <entity name="eattrig" meshFile="box.mesh" castShadows="false">
+                <subentity index="0" materialName="BaseWhite" />
+            </entity>
+        </node>
+    </nodes>
+</scene>

@@ -1,0 +1,225 @@
+<scene formatVersion="1.0">
+    <environment>
+        <skyBox material="Examples/MorningSkyBox" />
+        <fog mode="none" />
+    </environment>
+    <nodes>
+        <node name="rails_trainz01#13" id="798">
+            <position x="-26733.1" y="551.474" z="-3992.34" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="127" y="127" z="127" />
+            <nocollide name="rails_trainz01#13" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#0" id="403">
+            <position x="-1500" y="536.673" z="-4572.69" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="4.31" y="4.31253" z="4.31253" />
+            <nocollide name="rzd_pylon01#0" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#1" id="66">
+            <position x="-3500" y="536.673" z="-4572.69" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="4.31253" y="4.31253" z="4.31253" />
+            <nocollide name="rzd_pylon01#1" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#10" id="194">
+            <position x="-21500" y="536.673" z="-4572.69" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="5" y="4.31253" z="4.31253" />
+            <nocollide name="rzd_pylon01#10" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#11" id="289">
+            <position x="-23500" y="536.673" z="-4572.69" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="5" y="4.31253" z="4.31253" />
+            <nocollide name="rzd_pylon01#11" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#12" id="543">
+            <position x="-25500" y="536.673" z="-4572.69" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="5" y="4.31253" z="4.31253" />
+            <nocollide name="rzd_pylon01#12" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#13" id="448">
+            <position x="-27500" y="536.673" z="-4572.69" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="5" y="4.31253" z="4.31253" />
+            <nocollide name="rzd_pylon01#13" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#14" id="880">
+            <position x="-17500" y="536.673" z="-4336.72" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="5" y="4.31253" z="4.31253" />
+            <nocollide name="rzd_pylon01#14" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#15" id="941">
+            <position x="-19500" y="536.673" z="-4336.72" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="5" y="4.31253" z="4.31253" />
+            <nocollide name="rzd_pylon01#15" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#16" id="532">
+            <position x="-21500" y="536.673" z="-4336.72" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="5" y="4.31253" z="4.31253" />
+            <nocollide name="rzd_pylon01#16" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#17" id="604">
+            <position x="-23500" y="536.673" z="-4336.72" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="5" y="4.31253" z="4.31253" />
+            <nocollide name="rzd_pylon01#17" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#18" id="340">
+            <position x="-25500" y="536.673" z="-4336.72" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="5" y="4.31253" z="4.31253" />
+            <nocollide name="rzd_pylon01#18" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#19" id="23">
+            <position x="-27500" y="536.673" z="-4336.72" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="5" y="4.31253" z="4.31253" />
+            <nocollide name="rzd_pylon01#19" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#2" id="219">
+            <position x="-5500" y="536.673" z="-4572.69" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="5" y="4.31253" z="4.31253" />
+            <nocollide name="rzd_pylon01#2" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#3" id="156">
+            <position x="-7500" y="536.673" z="-4572.69" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="5" y="4.31253" z="4.31253" />
+            <nocollide name="rzd_pylon01#3" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#4" id="599">
+            <position x="-7500" y="536.673" z="-4336.72" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="5" y="4.31253" z="4.31253" />
+            <nocollide name="rzd_pylon01#4" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#5" id="259">
+            <position x="-5500" y="536.673" z="-4336.72" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="5" y="4.31253" z="4.31253" />
+            <nocollide name="rzd_pylon01#5" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#6" id="420">
+            <position x="-3500" y="536.673" z="-4336.72" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="5" y="4.31253" z="4.31253" />
+            <nocollide name="rzd_pylon01#6" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#7" id="478">
+            <position x="-1500" y="536.673" z="-4336.72" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="4.31253" y="4.31253" z="4.31253" />
+            <nocollide name="rzd_pylon01#7" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#8" id="895">
+            <position x="-17500" y="536.673" z="-4572.69" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="5" y="4.31253" z="4.31253" />
+            <nocollide name="rzd_pylon01#8" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#9" id="531">
+            <position x="-19500" y="536.673" z="-4572.69" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="5" y="4.31253" z="4.31253" />
+            <nocollide name="rzd_pylon01#9" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#0" id="803">
+            <position x="-2181.17" y="551.474" z="-4903.01" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="127" y="127" z="127" />
+            <nocollide name="rails_trainz01#0" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#1" id="454">
+            <position x="-4835.37" y="551.474" z="-4903.01" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="127" y="127" z="127" />
+            <nocollide name="rails_trainz01#1" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#2" id="301">
+            <position x="-7488.48" y="551.474" z="-4903.01" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="127" y="127" z="127" />
+            <nocollide name="rails_trainz01#2" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#3" id="697">
+            <position x="-32137.9" y="551.474" z="-4903.01" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="127" y="127" z="127" />
+            <nocollide name="rails_trainz01#3" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#4" id="479">
+            <position x="-29491.2" y="551.474" z="-4903.01" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="127" y="127" z="127" />
+            <nocollide name="rails_trainz01#4" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#5" id="44">
+            <position x="-26861.2" y="551.474" z="-4903.01" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="127" y="127" z="127" />
+            <nocollide name="rails_trainz01#5" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#6" id="863">
+            <position x="-24203.3" y="551.474" z="-4903.01" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="127" y="127" z="127" />
+            <nocollide name="rails_trainz01#6" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#7" id="600">
+            <position x="-21544.1" y="551.474" z="-4903.01" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="127" y="127" z="127" />
+            <nocollide name="rails_trainz01#7" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#8" id="39">
+            <position x="-7488.48" y="551.474" z="-3992.34" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="127" y="127" z="127" />
+            <nocollide name="rails_trainz01#8" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#9" id="764">
+            <position x="-4835.37" y="551.474" z="-3992.34" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="127" y="127" z="127" />
+            <nocollide name="rails_trainz01#9" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#10" id="422">
+            <position x="-2181.17" y="551.474" z="-3992.34" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="127" y="127" z="127" />
+            <nocollide name="rails_trainz01#10" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#11" id="5">
+            <position x="-21500" y="551.474" z="-3992.34" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="127" y="127" z="127" />
+            <nocollide name="rails_trainz01#11" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#12" id="637">
+            <position x="-24157.6" y="551.474" z="-3992.34" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="127" y="127" z="127" />
+            <nocollide name="rails_trainz01#12" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#14" id="738">
+            <position x="-29307.6" y="551.474" z="-3992.34" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="127" y="127" z="127" />
+            <nocollide name="rails_trainz01#14" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#15" id="328">
+            <position x="-31824.7" y="551.474" z="-3992.34" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="127" y="127" z="127" />
+            <nocollide name="rails_trainz01#15" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+    </nodes>
+    <aiNodes />
+</scene>

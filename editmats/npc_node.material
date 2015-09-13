@@ -1,0 +1,47 @@
+
+material NPC_NODE
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588235 0.588235 0.588235 1
+			diffuse 0.588235 0.588235 0.588235 1
+			specular 0 0 0 10 0
+			lighting off
+			scene_blend alpha_blend
+			depth_write off
+			texture_unit
+			{
+				texture npc_node.png
+			}
+		}
+
+	}
+
+}
+
+material PLAYER_IND
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588235 0.588235 0.588235 1
+			diffuse 0.588235 0.588235 0.588235 1
+			specular 0 0 0 10 0
+			lighting off
+			texture_unit
+			{
+				texture plysize.jpg
+			}
+		}
+
+	}
+
+}
+
+
+
+
+

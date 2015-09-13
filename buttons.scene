@@ -1,0 +1,57 @@
+<scene formatVersion="1.0">
+    <environment>
+        <skyBox material="Examples/MorningSkyBox" />
+        <fog mode="none" />
+    </environment>
+    <nodes>
+        <node name="keypad01#0" id="201">
+            <position x="16140.7" y="787.14" z="4942.18" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="0.388406" y="0.388406" z="0.388406" />
+            <entity name="keypad01#0" meshFile="keypad01.mesh" castShadows="true" />
+        </node>
+        <node name="keypad01#1" id="475">
+            <position x="16191.5" y="787.14" z="4753.08" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="0.388406" y="0.388406" z="0.388406" />
+            <entity name="keypad01#1" meshFile="keypad01.mesh" castShadows="true" />
+        </node>
+        <node name="keypad01#2" id="851">
+            <position x="16191.5" y="787.14" z="9570.88" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="0.388406" y="0.388406" z="0.388406" />
+            <entity name="keypad01#2" meshFile="keypad01.mesh" castShadows="true" />
+        </node>
+        <node name="keypad01#3" id="980">
+            <position x="16188.7" y="787.14" z="9357.08" />
+            <rotation qw="-1.49012e-007" qx="0" qy="-1" qz="0" />
+            <scale x="0.388406" y="0.388406" z="0.388406" />
+            <entity name="keypad01#3" meshFile="keypad01.mesh" castShadows="true" />
+        </node>
+        <node name="keypad01#4" id="821">
+            <position x="16191.5" y="-392.826" z="4753.32" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="0.388406" y="0.388406" z="0.388406" />
+            <entity name="keypad01#4" meshFile="keypad01.mesh" castShadows="true" />
+        </node>
+        <node name="keypad01#5" id="161">
+            <position x="16191.5" y="-355.108" z="9570.88" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="0.388406" y="0.388406" z="0.388406" />
+            <entity name="keypad01#5" meshFile="keypad01.mesh" castShadows="true" />
+        </node>
+        <node name="keypad01#6" id="837">
+            <position x="6831.32" y="-379.1" z="-6040.12" />
+            <rotation qw="-1.71363e-007" qx="0" qy="1" qz="0" />
+            <scale x="0.388406" y="0.388406" z="0.388406" />
+            <entity name="keypad01#6" meshFile="keypad01.mesh" castShadows="true" />
+        </node>
+        <node name="keypad01#7" id="867">
+            <position x="6822" y="-379.1" z="-6679.82" />
+            <rotation qw="-1.71363e-007" qx="0" qy="1" qz="0" />
+            <scale x="0.388406" y="0.388406" z="0.388406" />
+            <entity name="keypad01#7" meshFile="keypad01.mesh" castShadows="true" />
+        </node>
+    </nodes>
+    <aiNodes />
+</scene>

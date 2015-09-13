@@ -1,0 +1,123 @@
+<scene formatVersion="1.0">
+    <environment>
+        <skyBox material="Examples/MorningSkyBox" />
+        <fog mode="none" />
+    </environment>
+    <nodes>
+        <node name="tlwhlabel08#0" id="878">
+            <position x="9717.1" y="-189.254" z="-8395.4" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="5.02423" y="5.02423" z="5.02423" />
+            <nocollide run3batcher="true" name="tlwhlabel08#0" meshFile="tlwhlabel08.mesh" castShadows="true" />
+        </node>
+        <node name="tlwhlabel18#0" id="989">
+            <position x="6166.85" y="94.7995" z="-4442.27" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="5.02423" y="5.02423" z="5.02423" />
+            <nocollide run3batcher="true" name="tlwhlabel18#0" meshFile="tlwhlabel16.mesh" castShadows="true" />
+        </node>
+        <node name="tlwhlabel08#1" id="610">
+            <position x="9005.08" y="-629.968" z="-8409.88" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="5.02423" y="5.02423" z="5.02423" />
+            <nocollide run3batcher="true" name="tlwhlabel08#1" meshFile="tlwhlabel12.mesh" castShadows="true" />
+        </node>
+        <node name="tlwhlabel18#1" id="72">
+            <position x="9028.92" y="227.228" z="-8373.5" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="5.02423" y="5.02423" z="5.02423" />
+            <nocollide run3batcher="true" name="tlwhlabel18#1" meshFile="tlwhlabel18.mesh" castShadows="true" />
+        </node>
+        <node name="tlwhlabel16#0" id="243">
+            <position x="8381.7" y="840.123" z="7699.27" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="5.48425" y="5.48425" z="5.48425" />
+            <nocollide run3batcher="true" name="tlwhlabel16#0" meshFile="tlwhlabel18.mesh" castShadows="true" />
+        </node>
+        <node name="tlwhlabel06#0" id="480">
+            <position x="9774.22" y="407.73" z="7709.3" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="5.48425" y="5.48425" z="5.48425" />
+            <nocollide run3batcher="true" name="tlwhlabel06#0" meshFile="tlwhlabel09.mesh" castShadows="true" />
+        </node>
+        <node name="tlwhlabel07#0" id="861">
+            <position x="6608.4" y="227.228" z="-4442.27" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="5.02423" y="5.02423" z="5.02423" />
+            <nocollide run3batcher="true" name="tlwhlabel07#0" meshFile="tlwhlabel18.mesh" castShadows="true" />
+        </node>
+        <node name="tlwhlabel18#2" id="789">
+            <position x="8584.45" y="-189.254" z="-8395.4" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="5.02423" y="5.02423" z="5.02423" />
+            <nocollide run3batcher="true" name="tlwhlabel18#2" meshFile="tlwhlabel08.mesh" castShadows="true" />
+        </node>
+        <node name="ostankino_tower01#0" id="117">
+            <position x="34519" y="-3737.48" z="341388" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <nocollide run3batcher="true" name="ostankino_tower01#0" meshFile="ostankino_tower01.mesh" castShadows="true" />
+        </node>
+        <node name="stair_rail01#0" id="271">
+            <position x="1554.98" y="-160.555" z="-3979.63" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <nocollide run3batcher="true" name="stair_rail01#0" meshFile="stair_rail01.mesh" castShadows="true" />
+        </node>
+        <node name="stair_rail01#1" id="384">
+            <position x="1554.98" y="-330.003" z="-3732.52" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <nocollide run3batcher="true" name="stair_rail01#1" meshFile="stair_rail01.mesh" castShadows="true" />
+        </node>
+        <node name="tlwhlabel12#0" id="669">
+            <position x="6586.1" y="-320.457" z="-4442.27" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="5.02423" y="5.02423" z="5.02423" />
+            <nocollide run3batcher="true" name="tlwhlabel12#0" meshFile="tlwhlabel07.mesh" castShadows="true" />
+        </node>
+        <node name="tlw_out_4#1" id="291">
+            <position x="-1902.83" y="0" z="6187.05" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <nocollide run3batcher="true" name="tlw_out_4#1" meshFile="tlw_out_4.mesh" castShadows="true" />
+        </node>
+        <node name="tlwhlabel14#0" id="408">
+            <position x="8895.55" y="702.685" z="7708.43" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="5.48425" y="5.48425" z="5.48425" />
+            <nocollide run3batcher="true" name="tlwhlabel14#0" meshFile="tlwhlabel16.mesh" castShadows="true" />
+        </node>
+        <node name="tlwhlabel04#0" id="329">
+            <position x="14336.2" y="976.16" z="7909.7" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="8.23748" y="8.23748" z="8.23748" />
+            <nocollide run3batcher="true" name="tlwhlabel04#0" meshFile="tlwhlabel05.mesh" castShadows="true" />
+        </node>
+        <node name="tlwhlabel04#1" id="837">
+            <position x="9929.9" y="253.31" z="7709.3" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="5.48425" y="5.48425" z="5.48425" />
+            <nocollide run3batcher="true" name="tlwhlabel04#1" meshFile="tlwhlabel06.mesh" castShadows="true" />
+        </node>
+        <node name="tlwhlabel09#0" id="393">
+            <position x="9093.47" y="407.73" z="7709.3" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="5.48425" y="5.48425" z="5.48425" />
+            <nocollide run3batcher="true" name="tlwhlabel09#0" meshFile="tlwhlabel10.mesh" castShadows="true" />
+        </node>
+        <node name="tlwhlabel10#0" id="904">
+            <position x="9103.52" y="619.733" z="7709.3" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="5.48425" y="3.997" z="5.48425" />
+            <nocollide run3batcher="true" name="tlwhlabel10#0" meshFile="tlwhlabel14.mesh" castShadows="true" />
+        </node>
+        <node name="tlwhlabel04#2" id="971">
+            <position x="12793.8" y="696.21" z="7627.15" />
+            <rotation qw="0.999991" qx="0" qy="-0.00436334" qz="0" />
+            <scale x="10.3594" y="10.3594" z="10.3594" />
+            <nocollide run3batcher="true" name="tlwhlabel04#2" meshFile="tlwhlabel02.mesh" castShadows="true" />
+        </node>
+    </nodes>
+    <aiNodes />
+</scene>

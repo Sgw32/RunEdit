@@ -1,0 +1,189 @@
+<scene formatVersion="1.0">
+    <environment>
+        <skyBox material="Examples/MorningSkyBox" />
+        <fog mode="none" />
+    </environment>
+    <nodes>
+        <node name="stair_rail01#11" id="688">
+            <position x="3866.78" y="-429.156" z="-4042.76" />
+            <rotation qw="-2.08616e-007" qx="0" qy="1" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="stair_rail01#11" meshFile="stair_rail01.mesh" castShadows="true" />
+        </node>
+        <node name="stair_rail01#10" id="977">
+            <position x="3516.72" y="-429.156" z="-4042.76" />
+            <rotation qw="-2.08616e-007" qx="0" qy="1" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="stair_rail01#10" meshFile="stair_rail01.mesh" castShadows="true" />
+        </node>
+        <node name="stair_rail01#9" id="300">
+            <position x="-4168.22" y="-429.156" z="-4046.52" />
+            <rotation qw="-2.08616e-007" qx="0" qy="1" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="stair_rail01#9" meshFile="stair_rail01.mesh" castShadows="true" />
+        </node>
+        <node name="stair_rail01#8" id="238">
+            <position x="-3807.56" y="-429.156" z="-4051.72" />
+            <rotation qw="-2.08616e-007" qx="0" qy="1" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="stair_rail01#8" meshFile="stair_rail01.mesh" castShadows="true" />
+        </node>
+        <node name="stair_rail01#7" id="269">
+            <position x="-2453.8" y="-429.156" z="-4051.72" />
+            <rotation qw="-2.08616e-007" qx="0" qy="1" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="stair_rail01#7" meshFile="stair_rail01.mesh" castShadows="true" />
+        </node>
+        <node name="stair_rail01#6" id="124">
+            <position x="-2111.12" y="-429.156" z="-4051.72" />
+            <rotation qw="-2.08616e-007" qx="0" qy="1" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="stair_rail01#6" meshFile="stair_rail01.mesh" castShadows="true" />
+        </node>
+        <node name="stair_rail01#5" id="979">
+            <position x="-402.588" y="-429.156" z="-4051.72" />
+            <rotation qw="-2.08616e-007" qx="0" qy="1" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="stair_rail01#5" meshFile="stair_rail01.mesh" castShadows="true" />
+        </node>
+        <node name="stair_rail01#4" id="266">
+            <position x="-56.6652" y="-429.156" z="-4051.72" />
+            <rotation qw="-2.08616e-007" qx="0" qy="1" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="stair_rail01#4" meshFile="stair_rail01.mesh" castShadows="true" />
+        </node>
+        <node name="stair_rail01#3" id="724">
+            <position x="1462.81" y="-429.156" z="-4060.7" />
+            <rotation qw="-2.08616e-007" qx="0" qy="1" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="stair_rail01#3" meshFile="stair_rail01.mesh" castShadows="true" />
+        </node>
+        <node name="stair_rail01#2" id="231">
+            <position x="1815.36" y="-429.156" z="-4060.7" />
+            <rotation qw="-2.08616e-007" qx="0" qy="1" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="stair_rail01#2" meshFile="stair_rail01.mesh" castShadows="true" />
+        </node>
+        <node name="glass_blockt01#0" id="572">
+            <position x="1236.96" y="-26.521" z="-3537.24" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="3.70528" y="2.4548" z="0.3247" />
+            <entity name="glass_blockt01#0" meshFile="glass_blockt01.mesh" castShadows="true" />
+        </node>
+        <node name="debris01#0" id="385">
+            <position x="1694.03" y="-380.582" z="-3344.84" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="debris01#0" meshFile="debris01.mesh" castShadows="true" />
+        </node>
+        <node name="debris01#1" id="836">
+            <position x="1763.32" y="-279.62" z="-3100.48" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="debris01#1" meshFile="debris03.mesh" castShadows="true" />
+        </node>
+        <node name="debris03#0" id="684">
+            <position x="1382.67" y="-279.62" z="-4060.8" />
+            <rotation qw="0.173648" qx="0" qy="-0.984808" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="debris03#0" meshFile="debris03.mesh" castShadows="true" />
+        </node>
+        <node name="debris03#1" id="399">
+            <position x="1607.76" y="-296.788" z="-4311.78" />
+            <rotation qw="0.173648" qx="0" qy="-0.984808" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="debris03#1" meshFile="debris04.mesh" castShadows="true" />
+        </node>
+        <node name="debris04#0" id="659">
+            <position x="1057.54" y="-268.65" z="-3781.56" />
+            <rotation qw="0.173648" qx="0" qy="-0.984808" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="debris04#0" meshFile="debris04.mesh" castShadows="true" />
+        </node>
+        <node name="debris04#1" id="584">
+            <position x="1077.43" y="-296.788" z="-4118.74" />
+            <rotation qw="0.173648" qx="0" qy="-0.984808" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="debris04#1" meshFile="debris04.mesh" castShadows="true" />
+        </node>
+        <node name="debris04#2" id="184">
+            <position x="1077.43" y="10.4903" z="-4118.74" />
+            <rotation qw="0.173648" qx="0" qy="-0.984808" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="debris04#2" meshFile="debris04.mesh" castShadows="true" />
+        </node>
+        <node name="debris04#3" id="925">
+            <position x="900.944" y="10.4903" z="-4054.52" />
+            <rotation qw="0.173648" qx="0" qy="-0.984808" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="debris04#3" meshFile="debris04.mesh" castShadows="true" />
+        </node>
+        <node name="debris04#4" id="454">
+            <position x="1198.4" y="17.2328" z="-3692.02" />
+            <rotation qw="0.173648" qx="0" qy="-0.984808" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="debris04#4" meshFile="debris03.mesh" castShadows="true" />
+        </node>
+        <node name="debris03#2" id="710">
+            <position x="1198.4" y="-249.262" z="-3692.02" />
+            <rotation qw="0.0654029" qx="0" qy="-0.997859" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="debris03#2" meshFile="debris03.mesh" castShadows="true" />
+        </node>
+        <node name="debris03#3" id="740">
+            <position x="1578.67" y="-325.86" z="-3056.86" />
+            <rotation qw="0.0654029" qx="0" qy="-0.997859" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="debris03#3" meshFile="debris06.mesh" castShadows="true" />
+        </node>
+        <node name="debris06#0" id="407">
+            <position x="1475.44" y="-72.5774" z="-3418.7" />
+            <rotation qw="0.0651286" qx="-0.00598447" qy="-0.993673" qz="-0.0913057" />
+            <scale x="2" y="2" z="2" />
+            <entity name="debris06#0" meshFile="debris06.mesh" castShadows="true" />
+        </node>
+        <node name="debris03#4" id="314">
+            <position x="1484.09" y="78.4566" z="-3152.42" />
+            <rotation qw="-0.329691" qx="0" qy="-0.944089" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="debris03#4" meshFile="debris03.mesh" castShadows="true" />
+        </node>
+        <node name="debris03#5" id="273">
+            <position x="1611.65" y="78.4566" z="-3222.78" />
+            <rotation qw="-0.329691" qx="0" qy="-0.944089" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="debris03#5" meshFile="debris03.mesh" castShadows="true" />
+        </node>
+        <node name="debris04#5" id="430">
+            <position x="434.666" y="192.247" z="-5082" />
+            <rotation qw="0.173648" qx="0" qy="-0.984808" qz="0" />
+            <scale x="6" y="2" z="6" />
+            <entity name="debris04#5" meshFile="debris04.mesh" castShadows="true" />
+        </node>
+        <node name="debris04#6" id="236">
+            <position x="89.4104" y="192.247" z="-5229.02" />
+            <rotation qw="0.263031" qx="0" qy="-0.964787" qz="0" />
+            <scale x="6" y="2" z="6" />
+            <entity name="debris04#6" meshFile="debris04.mesh" castShadows="true" />
+        </node>
+        <node name="debris01#2" id="859">
+            <position x="1676.95" y="-380.582" z="-3536.12" />
+            <rotation qw="0.887011" qx="0" qy="0.461749" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="debris01#2" meshFile="debris01.mesh" castShadows="true" />
+        </node>
+        <node name="debris01#3" id="189">
+            <position x="1243.42" y="-352.152" z="-2896.44" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="debris01#3" meshFile="debris01.mesh" castShadows="true" />
+        </node>
+        <node name="air01#0" id="942">
+            <position x="891.84" y="2126.38" z="-6941.18" />
+            <rotation qw="0.014511" qx="-0.00969592" qy="0.831343" qz="0.555486" />
+            <scale x="2" y="2" z="2" />
+            <entity name="air01#0" meshFile="air01.mesh" castShadows="true" />
+        </node>
+    </nodes>
+    <aiNodes />
+</scene>

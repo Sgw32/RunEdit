@@ -1,0 +1,159 @@
+<scene formatVersion="1.0">
+    <environment>
+        <skyBox material="Examples/MorningSkyBox" />
+        <fog mode="none" />
+    </environment>
+    <nodes>
+        <node name="moscowb7#5" id="431">
+            <position x="68610.3" y="101.631" z="19043.7" />
+            <rotation qw="-1" qx="0" qy="-1.93715e-007" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <nocollide run3batcher="true" name="moscowb7#5" meshFile="moscowb7.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#17" id="787">
+            <position x="35818" y="-646.633" z="-6475.78" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <nocollide run3batcher="true" name="tree_dec01#17" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#16" id="14">
+            <position x="35818" y="-646.633" z="-315.51" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <nocollide run3batcher="true" name="tree_dec01#16" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#11" id="763">
+            <position x="27471" y="-687.7" z="42565.8" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <nocollide run3batcher="true" name="tree_dec01#11" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#10" id="51">
+            <position x="24629.2" y="-687.7" z="35567.8" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <nocollide run3batcher="true" name="tree_dec01#10" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#20" id="635">
+            <position x="34864.5" y="-646.633" z="31866.8" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <nocollide run3batcher="true" name="tree_dec01#20" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="antennae01#0" id="896">
+            <position x="6538.25" y="-600.412" z="-6984.33" />
+            <rotation qw="-0.143493" qx="0" qy="0.989651" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <nocollide run3batcher="true" name="antennae01#0" meshFile="antennae01.mesh" castShadows="true" />
+        </node>
+        <node name="antennae01#1" id="453">
+            <position x="23938.5" y="-600.412" z="-12945" />
+            <rotation qw="-0.422618" qx="0" qy="0.906308" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <nocollide run3batcher="true" name="antennae01#1" meshFile="antennae01.mesh" castShadows="true" />
+        </node>
+        <node name="antennae01#2" id="482">
+            <position x="26109.8" y="-600.412" z="162.998" />
+            <rotation qw="-0.801254" qx="0" qy="0.598324" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <nocollide run3batcher="true" name="antennae01#2" meshFile="antennae01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#0" id="449">
+            <position x="14475.6" y="-634.763" z="17857.7" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <nocollide run3batcher="true" name="tree_dec01#0" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#1" id="864">
+            <position x="12418.7" y="-659.622" z="22527.5" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <nocollide run3batcher="true" name="tree_dec01#1" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#2" id="162">
+            <position x="12418.7" y="-715.04" z="28771.8" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <nocollide run3batcher="true" name="tree_dec01#2" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#3" id="768">
+            <position x="14304.8" y="-687.7" z="28771.8" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <nocollide run3batcher="true" name="tree_dec01#3" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#4" id="366">
+            <position x="14304.8" y="-587.547" z="40256.3" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <nocollide run3batcher="true" name="tree_dec01#4" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#5" id="438">
+            <position x="11484.2" y="-492.482" z="40256.3" />
+            <rotation qw="0.67559" qx="0" qy="0.737277" qz="0" />
+            <scale x="2.5" y="3.14713" z="2.5" />
+            <nocollide run3batcher="true" name="tree_dec01#5" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#6" id="60">
+            <position x="14090.6" y="-492.482" z="47328.3" />
+            <rotation qw="0.989651" qx="0" qy="-0.143493" qz="0" />
+            <scale x="2.5" y="3.14713" z="2.5" />
+            <nocollide run3batcher="true" name="tree_dec01#6" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#7" id="47">
+            <position x="17001.4" y="-639.185" z="28771.8" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="1.15402" y="1.15402" z="1.15402" />
+            <nocollide run3batcher="true" name="tree_dec01#7" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#8" id="338">
+            <position x="18654.8" y="-668.745" z="22031" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="1.15402" y="1.15402" z="1.15402" />
+            <nocollide run3batcher="true" name="tree_dec01#8" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#9" id="663">
+            <position x="24629.2" y="-687.7" z="30852.3" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <nocollide run3batcher="true" name="tree_dec01#9" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#12" id="536">
+            <position x="25364.3" y="-687.7" z="19423.6" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <nocollide run3batcher="true" name="tree_dec01#12" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#13" id="509">
+            <position x="24212.6" y="-646.633" z="14206.5" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <nocollide run3batcher="true" name="tree_dec01#13" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#14" id="810">
+            <position x="24164.9" y="-646.633" z="5131.83" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <nocollide run3batcher="true" name="tree_dec01#14" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#15" id="871">
+            <position x="35818" y="-646.633" z="5131.83" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <nocollide run3batcher="true" name="tree_dec01#15" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#18" id="79">
+            <position x="24212.6" y="-646.633" z="15251.6" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <nocollide run3batcher="true" name="tree_dec01#18" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#19" id="74">
+            <position x="27115" y="-646.633" z="15251.6" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <nocollide run3batcher="true" name="tree_dec01#19" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+    </nodes>
+    <aiNodes />
+</scene>

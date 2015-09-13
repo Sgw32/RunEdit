@@ -1,0 +1,99 @@
+<scene formatVersion="1.0">
+    <environment>
+        <skyBox material="Examples/MorningSkyBox" />
+        <fog mode="none" />
+    </environment>
+    <nodes>
+        <node name="tlw_stations01_1#0" id="918">
+            <position x="-6459" y="-6459" z="-7799" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="tlw_stations01_1#0" meshFile="tlw_stations01_1.mesh" castShadows="true" />
+        </node>
+        <node name="couch01a#1" id="805">
+            <position x="-3654.7" y="-14975.1" z="-25470.8" />
+            <rotation qw="0.771625" qx="0" qy="0.636078" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="couch01a#1" meshFile="chair02.mesh" castShadows="true" />
+        </node>
+        <node name="chair02#0" id="232">
+            <position x="-3768.14" y="-14975.1" z="-25745.3" />
+            <rotation qw="0.771625" qx="0" qy="0.636078" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="chair02#0" meshFile="chair02.mesh" castShadows="true" />
+        </node>
+        <node name="amiga1000#0" id="283">
+            <position x="-3742.93" y="-14933.7" z="-25479.7" />
+            <rotation qw="0.691513" qx="0" qy="-0.722364" qz="0" />
+            <scale x="1" y="1" z="1" />
+            <entity name="amiga1000#0" meshFile="amiga1000.mesh" castShadows="true" />
+        </node>
+        <node name="table01_metro#0" id="687">
+            <position x="-3742.01" y="-15018.3" z="-25480.4" />
+            <rotation qw="0.760406" qx="0" qy="0.649448" qz="0" />
+            <scale x="80" y="80" z="80" />
+            <entity name="table01_metro#0" meshFile="table01_metro.mesh" castShadows="true" />
+        </node>
+        <node name="table01_metro#1" id="366">
+            <position x="-3822.98" y="-15018.3" z="-25755.3" />
+            <rotation qw="0.760406" qx="0" qy="0.649448" qz="0" />
+            <scale x="80" y="80" z="80" />
+            <entity name="table01_metro#1" meshFile="table01_metro.mesh" castShadows="true" />
+        </node>
+        <node name="amiga1000#1" id="92">
+            <position x="-3835.25" y="-14933.7" z="-25749.6" />
+            <rotation qw="0.691513" qx="0" qy="-0.722364" qz="0" />
+            <scale x="1" y="1" z="1" />
+            <entity name="amiga1000#1" meshFile="amiga1000.mesh" castShadows="true" />
+        </node>
+        <node name="c1_91#0" id="35">
+            <position x="-3729.45" y="-14931.7" z="-25543.1" />
+            <rotation qw="-0.104529" qx="0" qy="-0.994522" qz="0" />
+            <scale x="0.118794" y="0.118794" z="0.118794" />
+            <entity name="c1_91#0" meshFile="c1_91.mesh" castShadows="true" />
+        </node>
+        <node name="box#8" id="7">
+            <position x="-4708.93" y="-14982.3" z="-25465.6" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="box#8" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="box#10" id="110">
+            <position x="-4962.39" y="-14982.3" z="-25984.1" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="box#10" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="box#11" id="619">
+            <position x="-4808.53" y="-14982.3" z="-26214.2" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="box#11" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="box#12" id="78">
+            <position x="-4668.84" y="-14982.3" z="-26464.7" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="box#12" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="startup_03" id="436">
+            <position x="-13336.3" y="-13919.7" z="-23837.9" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="startup_03" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="startup_02" id="564">
+            <position x="-5277.25" y="-14838.7" z="-18732.4" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="startup_02" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="startup_01" id="570">
+            <position x="397.467" y="-13849.5" z="-6181.87" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="50" y="50" z="50" />
+            <entity name="startup_01" meshFile="box.mesh" castShadows="true" />
+        </node>
+    </nodes>
+    <aiNodes />
+</scene>

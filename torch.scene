@@ -1,0 +1,15 @@
+<scene formatVersion="1.0">
+    <environment>
+        <skyBox material="Examples/MorningSkyBox" />
+        <fog mode="none" />
+    </environment>
+    <nodes>
+        <node name="torch01#0" id="593">
+            <position x="785.414" y="-5063.8" z="-6047.06" />
+            <rotation qw="0.922201" qx="0" qy="-0.386711" qz="0" />
+            <scale x="0.137502" y="0.137502" z="0.137502" />
+            <entity name="torch01#0" meshFile="torch01.mesh" castShadows="true" />
+        </node>
+    </nodes>
+    <aiNodes />
+</scene>

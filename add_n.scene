@@ -1,0 +1,123 @@
+<scene formatVersion="1.0">
+    <environment>
+        <skyBox material="Examples/MorningSkyBox" />
+        <fog mode="none" />
+    </environment>
+    <nodes>
+        <node name="gprops09#2" id="384">
+            <position x="-12284.4" y="-427.569" z="-2599.68" />
+            <rotation qw="-6.55651e-007" qx="0" qy="-1" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="gprops09#2" meshFile="ikarus01tm.mesh" castShadows="true" />
+        </node>
+        <node name="antennae01#0" id="963">
+            <position x="-24692.2" y="-407.075" z="-1401.37" />
+            <rotation qw="0.957572" qx="0" qy="0.288196" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="antennae01#0" meshFile="antennae01.mesh" castShadows="true" />
+        </node>
+        <node name="antennae01#1" id="456">
+            <position x="-10480.4" y="-407.075" z="-27412.1" />
+            <rotation qw="0.957572" qx="0" qy="0.288196" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="antennae01#1" meshFile="antennae01.mesh" castShadows="true" />
+        </node>
+        <node name="antennae01#2" id="332">
+            <position x="2862.43" y="-407.075" z="-9016.33" />
+            <rotation qw="-0.0348996" qx="0" qy="0.999391" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="antennae01#2" meshFile="antennae01.mesh" castShadows="true" />
+        </node>
+        <node name="antennae01#3" id="65">
+            <position x="-7380.3" y="-407.075" z="9440.83" />
+            <rotation qw="-0.0348996" qx="0" qy="0.999391" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="antennae01#3" meshFile="antennae01.mesh" castShadows="true" />
+        </node>
+        <node name="antennae01#4" id="444">
+            <position x="-10697.5" y="-407.075" z="-21995.2" />
+            <rotation qw="0.957572" qx="0" qy="0.288196" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="antennae01#4" meshFile="antennae01.mesh" castShadows="true" />
+        </node>
+        <node name="antennae01#5" id="56">
+            <position x="-7070.33" y="-407.075" z="13873.6" />
+            <rotation qw="-0.0348996" qx="0" qy="0.999391" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="antennae01#5" meshFile="antennae01.mesh" castShadows="true" />
+        </node>
+        <node name="woodbox01#0" id="374">
+            <position x="-21205.8" y="-418.789" z="-1498.02" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="woodbox01#0" meshFile="woodbox01.mesh" castShadows="true" />
+        </node>
+        <node name="woodbox01#1" id="408">
+            <position x="-21205.8" y="-418.789" z="-1669.97" />
+            <rotation qw="0.945519" qx="0" qy="-0.325568" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="woodbox01#1" meshFile="woodbox01.mesh" castShadows="true" />
+        </node>
+        <node name="woodbox01#2" id="601">
+            <position x="-21069.1" y="-418.789" z="-1563.19" />
+            <rotation qw="0.945519" qx="0" qy="-0.325568" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="woodbox01#2" meshFile="woodbox01.mesh" castShadows="true" />
+        </node>
+        <node name="woodbox01#3" id="148">
+            <position x="-21320.4" y="-418.789" z="-1759.53" />
+            <rotation qw="0.492423" qx="0" qy="0.870356" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="woodbox01#3" meshFile="woodbox01.mesh" castShadows="true" />
+        </node>
+        <node name="woodbox01#4" id="126">
+            <position x="-21360.3" y="-418.789" z="-1544.74" />
+            <rotation qw="0.678801" qx="0" qy="0.734323" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="woodbox01#4" meshFile="woodbox01.mesh" castShadows="true" />
+        </node>
+        <node name="woodbox01#5" id="872">
+            <position x="-21125.1" y="-418.789" z="-1734.05" />
+            <rotation qw="0.678801" qx="0" qy="0.734323" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="woodbox01#5" meshFile="woodbox01.mesh" castShadows="true" />
+        </node>
+        <node name="woodbox01#6" id="578">
+            <position x="-21474.6" y="-418.789" z="-1665.8" />
+            <rotation qw="0.678801" qx="0" qy="0.734323" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="woodbox01#6" meshFile="woodbox01.mesh" castShadows="true" />
+        </node>
+        <node name="woodbox01#7" id="670">
+            <position x="-21320.4" y="-360.869" z="-1759.53" />
+            <rotation qw="0.300706" qx="0" qy="0.953717" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="woodbox01#7" meshFile="woodbox01.mesh" castShadows="true" />
+        </node>
+        <node name="door_metal_tlwh2#0" id="641">
+            <position x="-25686.5" y="-429.83" z="-2456.36" />
+            <rotation qw="0.990866" qx="0" qy="0.134851" qz="0" />
+            <scale x="1.5" y="1.7" z="1.41919" />
+            <entity name="door_metal_tlwh2#0" meshFile="door_metal_tlwh2.mesh" castShadows="true" />
+        </node>
+        <node name="door_metal_tlwh2#1" id="600">
+            <position x="-17961.9" y="-429.83" z="4900.52" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="1.5" y="1.63427" z="1.41919" />
+            <entity name="door_metal_tlwh2#1" meshFile="door_metal_tlwh2.mesh" castShadows="true" />
+        </node>
+        <node name="door_metal_tlwh2#2" id="951">
+            <position x="-14894.5" y="-429.83" z="1746.04" />
+            <rotation qw="1" qx="0" qy="-2.98023e-008" qz="0" />
+            <scale x="1.5" y="1.63427" z="1.41919" />
+            <entity name="door_metal_tlwh2#2" meshFile="door_metal_tlwh2.mesh" castShadows="true" />
+        </node>
+        <node name="door_metal_tlwh2#3" id="892">
+            <position x="-2077.14" y="-430.139" z="5626.58" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="1.5" y="1.63427" z="1.41731" />
+            <entity name="door_metal_tlwh2#3" meshFile="door_metal_tlwh2.mesh" castShadows="true" />
+        </node>
+    </nodes>
+    <aiNodes />
+</scene>

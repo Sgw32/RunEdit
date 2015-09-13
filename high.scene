@@ -1,0 +1,351 @@
+<scene formatVersion="1.0">
+    <environment>
+        <skyBox material="Examples/MorningSkyBox" />
+        <fog mode="none" />
+    </environment>
+    <nodes>
+        <node name="moscowb6#3" id="120">
+            <position x="-38987.8" y="-17575.1" z="-12786" />
+            <rotation qw="0.880418" qx="-0.00131831" qy="0.47389" qz="-0.0170254" />
+            <scale x="2" y="2" z="2" />
+            <entity run3batcher="true" name="moscowb6#3" meshFile="moscowb6.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb6#4" id="415">
+            <position x="-47877.4" y="-17670.2" z="-14517.4" />
+            <rotation qw="0.880418" qx="-0.00131831" qy="0.47389" qz="-0.0170254" />
+            <scale x="2" y="2" z="2" />
+            <entity run3batcher="true" name="moscowb6#4" meshFile="moscowb6.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb6#5" id="975">
+            <position x="-56990.7" y="-17094.1" z="-14763.7" />
+            <rotation qw="0.880418" qx="-0.00131831" qy="0.47389" qz="-0.0170254" />
+            <scale x="2" y="2" z="2" />
+            <entity run3batcher="true" name="moscowb6#5" meshFile="moscowb6.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb5#2" id="550">
+            <position x="-38897.1" y="-15063.4" z="-33094.9" />
+            <rotation qw="0.121869" qx="0" qy="0.992546" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity run3batcher="true" name="moscowb5#2" meshFile="moscowb2.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb2#1" id="506">
+            <position x="-49969.6" y="-15063.4" z="-34143.8" />
+            <rotation qw="0.121869" qx="0" qy="0.992546" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity run3batcher="true" name="moscowb2#1" meshFile="moscowb2.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb2#3" id="188">
+            <position x="-61112.2" y="-15063.4" z="-34777.1" />
+            <rotation qw="0.121869" qx="0" qy="0.992546" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity run3batcher="true" name="moscowb2#3" meshFile="moscowb7.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb1#4" id="713">
+            <position x="-76081.6" y="-17832" z="-16711.9" />
+            <rotation qw="0.108867" qx="0" qy="0.994056" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity run3batcher="true" name="moscowb1#4" meshFile="moscowb1.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb7#1" id="214">
+            <position x="-80001.7" y="-15063.4" z="-39486.8" />
+            <rotation qw="0.121869" qx="0" qy="0.992546" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity run3batcher="true" name="moscowb7#1" meshFile="moscowb7.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb2#5" id="406">
+            <position x="-90116.6" y="-17387.4" z="-29662.5" />
+            <rotation qw="0.121869" qx="0" qy="0.992546" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity run3batcher="true" name="moscowb2#5" meshFile="moscowb7.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb2#4" id="995">
+            <position x="-92870" y="-17387.4" z="-18619.2" />
+            <rotation qw="0.121869" qx="0" qy="0.992546" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity run3batcher="true" name="moscowb2#4" meshFile="moscowb2.mesh" castShadows="true" />
+        </node>
+        <node name="moscowb7#2" id="530">
+            <position x="-82086.1" y="-15953.1" z="-31126.7" />
+            <rotation qw="0.121869" qx="0" qy="0.992546" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity run3batcher="true" name="moscowb7#2" meshFile="moscowb7.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#40" id="768">
+            <position x="-31161.1" y="-16070.4" z="-27036.3" />
+            <rotation qw="0.999657" qx="0" qy="0.026177" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity run3batcher="true" name="tree_dec01#40" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#50" id="900">
+            <position x="-10769.8" y="-18744.1" z="-19744.5" />
+            <rotation qw="0.706939" qx="-0.0154254" qy="0.706939" qz="-0.0154254" />
+            <scale x="3" y="3" z="3" />
+            <entity run3batcher="true" name="tree_dec01#50" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#60" id="611">
+            <position x="-28961.7" y="-18560.1" z="-18277.9" />
+            <rotation qw="0.706292" qx="-0.0339256" qy="0.706292" qz="-0.0339256" />
+            <scale x="3" y="3" z="3" />
+            <entity run3batcher="true" name="tree_dec01#60" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#70" id="292">
+            <position x="-7760.24" y="-16326.9" z="-40566.6" />
+            <rotation qw="0.707107" qx="2.23517e-008" qy="0.707107" qz="2.23517e-008" />
+            <scale x="3" y="3" z="3" />
+            <entity run3batcher="true" name="tree_dec01#70" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#41" id="873">
+            <position x="-31396.7" y="-16070.4" z="-31531.7" />
+            <rotation qw="0.999657" qx="0" qy="0.026177" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity run3batcher="true" name="tree_dec01#41" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#51" id="222">
+            <position x="-18444.1" y="-18744.1" z="-19744.5" />
+            <rotation qw="0.706939" qx="-0.0154254" qy="0.706939" qz="-0.0154254" />
+            <scale x="3" y="3" z="3" />
+            <entity run3batcher="true" name="tree_dec01#51" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#61" id="388">
+            <position x="-35545.8" y="-18654.1" z="-16181.3" />
+            <rotation qw="0.706292" qx="-0.0339256" qy="0.706292" qz="-0.0339256" />
+            <scale x="3" y="3" z="3" />
+            <entity run3batcher="true" name="tree_dec01#61" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#71" id="619">
+            <position x="-15146.7" y="-16326.9" z="-39059.9" />
+            <rotation qw="0.707107" qx="2.23517e-008" qy="0.707107" qz="2.23517e-008" />
+            <scale x="3" y="3" z="3" />
+            <entity run3batcher="true" name="tree_dec01#71" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#42" id="715">
+            <position x="-37514.9" y="-16070.4" z="-29188" />
+            <rotation qw="0.999657" qx="0" qy="0.026177" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity run3batcher="true" name="tree_dec01#42" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#52" id="207">
+            <position x="-38979.2" y="-18744.1" z="-19744.5" />
+            <rotation qw="0.706939" qx="-0.0154254" qy="0.706939" qz="-0.0154254" />
+            <scale x="3" y="3" z="3" />
+            <entity run3batcher="true" name="tree_dec01#52" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#62" id="710">
+            <position x="-20231.8" y="-16343.5" z="-44685.9" />
+            <rotation qw="0.704678" qx="-0.0585542" qy="0.704678" qz="-0.0585542" />
+            <scale x="3" y="3" z="3" />
+            <entity run3batcher="true" name="tree_dec01#62" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="building08#2" id="922">
+            <position x="-54795.1" y="-15484.3" z="-10412.1" />
+            <rotation qw="0.987688" qx="0" qy="0.156434" qz="0" />
+            <scale x="20" y="20" z="20" />
+            <entity run3batcher="true" name="building08#2" meshFile="building08.mesh" castShadows="true" />
+        </node>
+        <node name="building08#3" id="224">
+            <position x="-89881.1" y="-15484.3" z="-24205.2" />
+            <rotation qw="0.681999" qx="0" qy="0.731353" qz="0" />
+            <scale x="20" y="20" z="20" />
+            <entity run3batcher="true" name="building08#3" meshFile="building08.mesh" castShadows="true" />
+        </node>
+        <node name="building08#4" id="277">
+            <position x="-89349.5" y="-15484.3" z="-16601.7" />
+            <rotation qw="0.681999" qx="0" qy="0.731353" qz="0" />
+            <scale x="20" y="20" z="20" />
+            <entity run3batcher="true" name="building08#4" meshFile="building08.mesh" castShadows="true" />
+        </node>
+        <node name="building08#5" id="899">
+            <position x="-88960.7" y="-15484.3" z="-11042.3" />
+            <rotation qw="0.681999" qx="0" qy="0.731353" qz="0" />
+            <scale x="20" y="20" z="20" />
+            <entity run3batcher="true" name="building08#5" meshFile="building08.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#64" id="548">
+            <position x="-9917.5" y="-16343.5" z="-44685.9" />
+            <rotation qw="0.704678" qx="-0.0585542" qy="0.704678" qz="-0.0585542" />
+            <scale x="3" y="3" z="3" />
+            <entity run3batcher="true" name="tree_dec01#64" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#54" id="803">
+            <position x="-39161.4" y="-17085.8" z="-24141.6" />
+            <rotation qw="0.706939" qx="-0.0154254" qy="0.706939" qz="-0.0154254" />
+            <scale x="3" y="3" z="3" />
+            <entity run3batcher="true" name="tree_dec01#54" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#44" id="745">
+            <position x="-55475.6" y="-18070" z="-18335.8" />
+            <rotation qw="0.999657" qx="0" qy="0.026177" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity run3batcher="true" name="tree_dec01#44" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#65" id="480">
+            <position x="-8111.57" y="-16777.7" z="-43411.8" />
+            <rotation qw="0.578709" qx="-0.048087" qy="0.811319" qz="-0.0674154" />
+            <scale x="3" y="3" z="3" />
+            <entity run3batcher="true" name="tree_dec01#65" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#55" id="166">
+            <position x="-47585.8" y="-17085.8" z="-24141.6" />
+            <rotation qw="0.706939" qx="-0.0154254" qy="0.706939" qz="-0.0154254" />
+            <scale x="3" y="3" z="3" />
+            <entity run3batcher="true" name="tree_dec01#55" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#45" id="41">
+            <position x="-64570.4" y="-18070" z="-17859.1" />
+            <rotation qw="0.999657" qx="0" qy="0.026177" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity run3batcher="true" name="tree_dec01#45" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="water_pil01#0" id="821">
+            <position x="-12132.9" y="-15313.5" z="-28783.6" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="10" y="10" z="10" />
+            <entity run3batcher="true" name="water_pil01#0" meshFile="water_pil01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#63" id="167">
+            <position x="-14670.4" y="-16343.5" z="-44685.9" />
+            <rotation qw="0.704678" qx="-0.0585542" qy="0.704678" qz="-0.0585542" />
+            <scale x="3" y="3" z="3" />
+            <entity run3batcher="true" name="tree_dec01#63" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#53" id="571">
+            <position x="-38979.2" y="-16980.7" z="-21734" />
+            <rotation qw="0.706939" qx="-0.0154254" qy="0.706939" qz="-0.0154254" />
+            <scale x="3" y="3" z="3" />
+            <entity run3batcher="true" name="tree_dec01#53" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#43" id="925">
+            <position x="-43183" y="-18070" z="-18980" />
+            <rotation qw="0.999657" qx="0" qy="0.026177" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity run3batcher="true" name="tree_dec01#43" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#66" id="949">
+            <position x="-20231.8" y="-16326.9" z="-42128.9" />
+            <rotation qw="0.707107" qx="2.23517e-008" qy="0.707107" qz="2.23517e-008" />
+            <scale x="3" y="3" z="3" />
+            <entity run3batcher="true" name="tree_dec01#66" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#56" id="737">
+            <position x="-47585.8" y="-17718.1" z="-21761.1" />
+            <rotation qw="0.706939" qx="-0.0154254" qy="0.706939" qz="-0.0154254" />
+            <scale x="3" y="3" z="3" />
+            <entity run3batcher="true" name="tree_dec01#56" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#46" id="823">
+            <position x="-7748.96" y="-16651.6" z="-23922.2" />
+            <rotation qw="0.706434" qx="0.0308436" qy="0.706434" qz="0.0308436" />
+            <scale x="3" y="3" z="3" />
+            <entity run3batcher="true" name="tree_dec01#46" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#36" id="773">
+            <position x="-42171" y="-16070.4" z="-28138.8" />
+            <rotation qw="0.95502" qx="0" qy="0.296542" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity run3batcher="true" name="tree_dec01#36" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#67" id="88">
+            <position x="-15354.5" y="-16326.9" z="-42128.9" />
+            <rotation qw="0.707107" qx="2.23517e-008" qy="0.707107" qz="2.23517e-008" />
+            <scale x="3" y="3" z="3" />
+            <entity run3batcher="true" name="tree_dec01#67" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#57" id="34">
+            <position x="-48433.4" y="-16651.6" z="-23922.2" />
+            <rotation qw="0.706434" qx="0.0308436" qy="0.706434" qz="0.0308436" />
+            <scale x="3" y="3" z="3" />
+            <entity run3batcher="true" name="tree_dec01#57" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#47" id="809">
+            <position x="-13703.9" y="-16651.6" z="-23922.2" />
+            <rotation qw="0.706434" qx="0.0308436" qy="0.706434" qz="0.0308436" />
+            <scale x="3" y="3" z="3" />
+            <entity run3batcher="true" name="tree_dec01#47" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#37" id="7">
+            <position x="-44927.2" y="-16070.4" z="-27487.2" />
+            <rotation qw="0.95502" qx="0" qy="0.296542" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity run3batcher="true" name="tree_dec01#37" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#68" id="792">
+            <position x="-7581.55" y="-16326.9" z="-42128.9" />
+            <rotation qw="0.707107" qx="2.23517e-008" qy="0.707107" qz="2.23517e-008" />
+            <scale x="3" y="3" z="3" />
+            <entity run3batcher="true" name="tree_dec01#68" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#58" id="541">
+            <position x="-48433.4" y="-16826" z="-21929.1" />
+            <rotation qw="0.706434" qx="0.0308436" qy="0.706434" qz="0.0308436" />
+            <scale x="3" y="3" z="3" />
+            <entity run3batcher="true" name="tree_dec01#58" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#48" id="138">
+            <position x="-20231.8" y="-16651.6" z="-23922.2" />
+            <rotation qw="0.706434" qx="0.0308436" qy="0.706434" qz="0.0308436" />
+            <scale x="3" y="3" z="3" />
+            <entity run3batcher="true" name="tree_dec01#48" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#38" id="488">
+            <position x="-55796.5" y="-16070.4" z="-29150.9" />
+            <rotation qw="0.95502" qx="0" qy="0.296542" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity run3batcher="true" name="tree_dec01#38" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#69" id="241">
+            <position x="-4359.08" y="-16326.9" z="-44314.2" />
+            <rotation qw="0.707107" qx="2.23517e-008" qy="0.707107" qz="2.23517e-008" />
+            <scale x="3" y="3" z="3" />
+            <entity run3batcher="true" name="tree_dec01#69" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#59" id="131">
+            <position x="-48433.4" y="-16209.8" z="-27051.4" />
+            <rotation qw="0.706434" qx="0.0308436" qy="0.706434" qz="0.0308436" />
+            <scale x="3" y="3" z="3" />
+            <entity run3batcher="true" name="tree_dec01#59" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#49" id="803">
+            <position x="-20231.8" y="-16812.1" z="-22088.2" />
+            <rotation qw="0.706939" qx="-0.0154254" qy="0.706939" qz="-0.0154254" />
+            <scale x="3" y="3" z="3" />
+            <entity run3batcher="true" name="tree_dec01#49" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#39" id="342">
+            <position x="-64548.3" y="-16070.4" z="-29369" />
+            <rotation qw="0.95502" qx="0" qy="0.296542" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity run3batcher="true" name="tree_dec01#39" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="cran01#0" id="543">
+            <position x="-42278.9" y="-15934.8" z="-27731.4" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="10" y="10" z="10" />
+            <entity run3batcher="true" name="cran01#0" meshFile="cran01.mesh" castShadows="true" />
+        </node>
+        <node name="cran01#1" id="334">
+            <position x="-44646.1" y="-15934.8" z="-27349" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="10" y="10" z="10" />
+            <entity run3batcher="true" name="cran01#1" meshFile="cran01.mesh" castShadows="true" />
+        </node>
+        <node name="cran01#2" id="87">
+            <position x="-47830.4" y="-15934.8" z="-27162.6" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="10" y="10" z="10" />
+            <entity run3batcher="true" name="cran01#2" meshFile="cran01.mesh" castShadows="true" />
+        </node>
+        <node name="water_pil01#1" id="924">
+            <position x="-39594.3" y="-15313.5" z="-28783.6" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="10" y="10" z="10" />
+            <entity run3batcher="true" name="water_pil01#1" meshFile="water_pil01.mesh" castShadows="true" />
+        </node>
+        <node name="water_pil01#2" id="467">
+            <position x="-39594.3" y="-17781.4" z="-19610.2" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="10" y="10" z="10" />
+            <entity run3batcher="true" name="water_pil01#2" meshFile="water_pil01.mesh" castShadows="true" />
+        </node>
+    </nodes>
+    <aiNodes />
+</scene>

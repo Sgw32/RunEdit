@@ -1,0 +1,603 @@
+<scene formatVersion="1.0">
+    <environment>
+        <skyBox material="Examples/MorningSkyBox" />
+        <fog mode="none" />
+    </environment>
+    <nodes>
+        <node name="wire_cosh01#1" id="822">
+            <position x="19425" y="1325" z="-192503" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="2750" y="25" z="55" />
+            <nocollide run3batcher="true" name="wire_cosh01#1" meshFile="wire_cosh01.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh01#0" id="924">
+            <position x="20525" y="1325" z="-192503" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="2750" y="25" z="55" />
+            <nocollide run3batcher="true" name="wire_cosh01#0" meshFile="wire_cosh01.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh02#0" id="198">
+            <position x="20555.2" y="1325" z="-192503" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="2750" y="25" z="55" />
+            <nocollide run3batcher="true" name="wire_cosh02#0" meshFile="wire_cosh01.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh01#6" id="538">
+            <position x="19400" y="1325" z="207500" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="2750" y="25" z="55" />
+            <nocollide run3batcher="true" name="wire_cosh01#6" meshFile="wire_cosh01.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh01#5" id="698">
+            <position x="20525" y="1325" z="207500" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="2750" y="25" z="55" />
+            <nocollide run3batcher="true" name="wire_cosh01#5" meshFile="wire_cosh01.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh01#4" id="439">
+            <position x="19425" y="1325" z="207500" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="2750" y="25" z="55" />
+            <nocollide run3batcher="true" name="wire_cosh01#4" meshFile="wire_cosh01.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh01#3" id="787">
+            <position x="20555" y="1325" z="207500" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="2750" y="25" z="55" />
+            <nocollide run3batcher="true" name="wire_cosh01#3" meshFile="wire_cosh01.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh01#2" id="719">
+            <position x="19400" y="1325" z="-192503" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="2750" y="25" z="55" />
+            <nocollide run3batcher="true" name="wire_cosh01#2" meshFile="wire_cosh01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#9" id="867">
+            <position x="20080.7" y="635.97" z="-37500" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="5" y="5" z="5" />
+            <nocollide run3batcher="true" name="rzd_pylon01#9" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#8" id="429">
+            <position x="20080.7" y="635.97" z="-33750" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="5" y="5" z="5" />
+            <nocollide run3batcher="true" name="rzd_pylon01#8" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#7" id="196">
+            <position x="20080.7" y="635.97" z="-30000" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="5" y="5" z="5" />
+            <nocollide run3batcher="true" name="rzd_pylon01#7" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#6" id="56">
+            <position x="20080.7" y="635.97" z="-26250" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="5" y="5" z="5" />
+            <nocollide run3batcher="true" name="rzd_pylon01#6" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#5" id="588">
+            <position x="20080.7" y="635.97" z="-22500" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="5" y="5" z="5" />
+            <nocollide run3batcher="true" name="rzd_pylon01#5" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#4" id="708">
+            <position x="20080.7" y="635.97" z="-18750" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="5" y="5" z="5" />
+            <nocollide run3batcher="true" name="rzd_pylon01#4" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#36" id="274">
+            <position x="20444.1" y="1850.39" z="2177.87" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="5" y="5" z="5" />
+            <nocollide run3batcher="true" name="rzd_pylon01#36" meshFile="wire_cosh02.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#35" id="217">
+            <position x="20080.7" y="635.97" z="2177.87" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="5" y="5" z="5" />
+            <nocollide run3batcher="true" name="rzd_pylon01#35" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#34" id="914">
+            <position x="19860.8" y="635.97" z="2203.93" />
+            <rotation qw="-0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="5" y="5" z="5" />
+            <nocollide run3batcher="true" name="rzd_pylon01#34" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#33" id="566">
+            <position x="19860.8" y="635.97" z="37500" />
+            <rotation qw="-0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="5" y="5" z="5" />
+            <nocollide run3batcher="true" name="rzd_pylon01#33" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#32" id="722">
+            <position x="19860.8" y="635.97" z="30000" />
+            <rotation qw="-0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="5" y="5" z="5" />
+            <nocollide run3batcher="true" name="rzd_pylon01#32" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#31" id="208">
+            <position x="19860.8" y="635.97" z="26250" />
+            <rotation qw="-0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="5" y="5" z="5" />
+            <nocollide run3batcher="true" name="rzd_pylon01#31" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#30" id="100">
+            <position x="19860.8" y="635.97" z="22500" />
+            <rotation qw="-0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="5" y="5" z="5" />
+            <nocollide run3batcher="true" name="rzd_pylon01#30" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#3" id="787">
+            <position x="20080.7" y="635.97" z="-15000" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="5" y="5" z="5" />
+            <nocollide run3batcher="true" name="rzd_pylon01#3" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#29" id="77">
+            <position x="19860.8" y="635.97" z="18750" />
+            <rotation qw="-0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="5" y="5" z="5" />
+            <nocollide run3batcher="true" name="rzd_pylon01#29" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#28" id="223">
+            <position x="20080.7" y="635.97" z="37500" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="5" y="5" z="5" />
+            <nocollide run3batcher="true" name="rzd_pylon01#28" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#27" id="860">
+            <position x="20080.7" y="635.97" z="33750" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="5" y="5" z="5" />
+            <nocollide run3batcher="true" name="rzd_pylon01#27" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#26" id="371">
+            <position x="20080.7" y="635.97" z="30000" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="5" y="5" z="5" />
+            <nocollide run3batcher="true" name="rzd_pylon01#26" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#25" id="638">
+            <position x="20080.7" y="635.97" z="26250" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="5" y="5" z="5" />
+            <nocollide run3batcher="true" name="rzd_pylon01#25" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#24" id="945">
+            <position x="20080.7" y="635.97" z="22500" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="5" y="5" z="5" />
+            <nocollide run3batcher="true" name="rzd_pylon01#24" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#23" id="381">
+            <position x="20080.7" y="635.97" z="18750" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="5" y="5" z="5" />
+            <nocollide run3batcher="true" name="rzd_pylon01#23" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#22" id="558">
+            <position x="20080.7" y="635.97" z="15000" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="5" y="5" z="5" />
+            <nocollide run3batcher="true" name="rzd_pylon01#22" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#21" id="394">
+            <position x="19860.8" y="635.97" z="15000" />
+            <rotation qw="-0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="5" y="5" z="5" />
+            <nocollide run3batcher="true" name="rzd_pylon01#21" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#20" id="113">
+            <position x="19860.8" y="635.97" z="-37500" />
+            <rotation qw="-0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="5" y="5" z="5" />
+            <nocollide run3batcher="true" name="rzd_pylon01#20" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#2" id="356">
+            <position x="20080.7" y="635.97" z="-11250" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="5" y="5" z="5" />
+            <nocollide run3batcher="true" name="rzd_pylon01#2" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#19" id="550">
+            <position x="19860.8" y="635.97" z="-33750" />
+            <rotation qw="-0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="5" y="5" z="5" />
+            <nocollide run3batcher="true" name="rzd_pylon01#19" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#1" id="819">
+            <position x="20080.7" y="635.97" z="-7500" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="5" y="5" z="5" />
+            <nocollide run3batcher="true" name="rzd_pylon01#1" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#10" id="743">
+            <position x="19860.8" y="635.97" z="0" />
+            <rotation qw="-0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="5" y="5" z="5" />
+            <nocollide run3batcher="true" name="rzd_pylon01#10" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#11" id="324">
+            <position x="19860.8" y="635.97" z="-3750" />
+            <rotation qw="-0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="5" y="5" z="5" />
+            <nocollide run3batcher="true" name="rzd_pylon01#11" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#12" id="968">
+            <position x="19860.8" y="635.97" z="-7500" />
+            <rotation qw="-0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="5" y="5" z="5" />
+            <nocollide run3batcher="true" name="rzd_pylon01#12" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#13" id="989">
+            <position x="19860.8" y="635.97" z="-11250" />
+            <rotation qw="-0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="5" y="5" z="5" />
+            <nocollide run3batcher="true" name="rzd_pylon01#13" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#14" id="972">
+            <position x="19860.8" y="635.97" z="-15000" />
+            <rotation qw="-0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="5" y="5" z="5" />
+            <nocollide run3batcher="true" name="rzd_pylon01#14" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#15" id="789">
+            <position x="19860.8" y="635.97" z="-18750" />
+            <rotation qw="-0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="5" y="5" z="5" />
+            <nocollide run3batcher="true" name="rzd_pylon01#15" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#16" id="567">
+            <position x="19860.8" y="635.97" z="-22500" />
+            <rotation qw="-0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="5" y="5" z="5" />
+            <nocollide run3batcher="true" name="rzd_pylon01#16" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#17" id="277">
+            <position x="19860.8" y="635.97" z="-26250" />
+            <rotation qw="-0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="5" y="5" z="5" />
+            <nocollide run3batcher="true" name="rzd_pylon01#17" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#18" id="752">
+            <position x="19860.8" y="635.97" z="-30000" />
+            <rotation qw="-0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="5" y="5" z="5" />
+            <nocollide run3batcher="true" name="rzd_pylon01#18" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rzd_pylon01#0" id="829">
+            <position x="20080.7" y="635.97" z="0" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="5" y="5" z="5" />
+            <nocollide run3batcher="true" name="rzd_pylon01#0" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#19" id="833">
+            <position x="20565.9" y="635.97" z="-21062.9" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="154.289" y="154.289" z="154.289" />
+            <nocollide run3batcher="true" name="rails_trainz01#19" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#29" id="982">
+            <position x="19423.6" y="635.97" z="22682.7" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="154.289" y="154.289" z="154.289" />
+            <nocollide run3batcher="true" name="rails_trainz01#29" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#39" id="218">
+            <position x="20565.9" y="635.97" z="33521.3" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="154.289" y="154.289" z="154.289" />
+            <nocollide run3batcher="true" name="rails_trainz01#39" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#49" id="722">
+            <position x="18875.5" y="635.97" z="7801.35" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="154.289" y="154.289" z="154.289" />
+            <nocollide run3batcher="true" name="rails_trainz01#49" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#18" id="814">
+            <position x="20565.9" y="635.97" z="-17853.3" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="154.289" y="154.289" z="154.289" />
+            <nocollide run3batcher="true" name="rails_trainz01#18" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#28" id="550">
+            <position x="19423.6" y="635.97" z="19474.4" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="154.289" y="154.289" z="154.289" />
+            <nocollide run3batcher="true" name="rails_trainz01#28" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#38" id="112">
+            <position x="20565.9" y="635.97" z="30287" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="154.289" y="154.289" z="154.289" />
+            <nocollide run3batcher="true" name="rails_trainz01#38" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#48" id="62">
+            <position x="18875.5" y="635.97" z="4592.27" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="154.289" y="154.289" z="154.289" />
+            <nocollide run3batcher="true" name="rails_trainz01#48" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#17" id="710">
+            <position x="20565.9" y="635.97" z="-14623.5" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="154.289" y="154.289" z="154.289" />
+            <nocollide run3batcher="true" name="rails_trainz01#17" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#27" id="896">
+            <position x="19423.6" y="635.97" z="16250" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="154.289" y="154.289" z="154.289" />
+            <nocollide run3batcher="true" name="rails_trainz01#27" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#37" id="79">
+            <position x="20565.9" y="635.97" z="27107.5" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="154.289" y="154.289" z="154.289" />
+            <nocollide run3batcher="true" name="rails_trainz01#37" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#47" id="835">
+            <position x="21112.4" y="635.97" z="7811.43" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="154.289" y="154.289" z="154.289" />
+            <nocollide run3batcher="true" name="rails_trainz01#47" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#16" id="594">
+            <position x="20565.9" y="635.97" z="-11393.3" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="154.289" y="154.289" z="154.289" />
+            <nocollide run3batcher="true" name="rails_trainz01#16" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#26" id="787">
+            <position x="20565.9" y="635.97" z="-53118.5" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="154.289" y="154.289" z="305" />
+            <nocollide run3batcher="true" name="rails_trainz01#26" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#36" id="221">
+            <position x="20565.9" y="635.97" z="23875.5" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="154.289" y="154.289" z="154.289" />
+            <nocollide run3batcher="true" name="rails_trainz01#36" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#46" id="369">
+            <position x="21112.4" y="635.97" z="4592.27" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="154.289" y="154.289" z="154.289" />
+            <nocollide run3batcher="true" name="rails_trainz01#46" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#15" id="495">
+            <position x="20565.9" y="635.97" z="-8166.98" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="154.289" y="154.289" z="154.289" />
+            <nocollide run3batcher="true" name="rails_trainz01#15" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#25" id="180">
+            <position x="20565.9" y="635.97" z="-48400" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="154.289" y="154.289" z="305" />
+            <nocollide run3batcher="true" name="rails_trainz01#25" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#35" id="646">
+            <position x="20565.9" y="635.97" z="20667.2" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="154.289" y="154.289" z="154.289" />
+            <nocollide run3batcher="true" name="rails_trainz01#35" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#45" id="263">
+            <position x="20566.3" y="635.97" z="-1800.95" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="154.289" y="154.289" z="154.289" />
+            <nocollide run3batcher="true" name="rails_trainz01#45" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#14" id="486">
+            <position x="19392.8" y="635.97" z="-53425.3" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="154.289" y="154.289" z="305" />
+            <nocollide run3batcher="true" name="rails_trainz01#14" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#24" id="863">
+            <position x="20587.8" y="635.97" z="-43160.8" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="154.289" y="154.289" z="305" />
+            <nocollide run3batcher="true" name="rails_trainz01#24" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#34" id="940">
+            <position x="20565.9" y="635.97" z="17442.8" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="154.289" y="154.289" z="154.289" />
+            <nocollide run3batcher="true" name="rails_trainz01#34" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#44" id="270">
+            <position x="19415.3" y="635.97" z="-1815.03" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="154.289" y="154.289" z="154.289" />
+            <nocollide run3batcher="true" name="rails_trainz01#44" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#13" id="575">
+            <position x="19392.8" y="635.97" z="-51838.8" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="154.289" y="154.289" z="305" />
+            <nocollide run3batcher="true" name="rails_trainz01#13" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#23" id="676">
+            <position x="20565.9" y="635.97" z="-36882.8" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="154.289" y="154.289" z="305" />
+            <nocollide run3batcher="true" name="rails_trainz01#23" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#33" id="842">
+            <position x="19423.6" y="635.97" z="35547.8" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="154.289" y="154.289" z="550" />
+            <nocollide run3batcher="true" name="rails_trainz01#33" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#43" id="484">
+            <position x="18085" y="635.97" z="1430.04" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="154.289" y="154.289" z="154.289" />
+            <nocollide run3batcher="true" name="rails_trainz01#43" meshFile="rails_trainz03.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#11" id="119">
+            <position x="19392.8" y="635.97" z="-43205.5" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="154.289" y="154.289" z="305" />
+            <nocollide run3batcher="true" name="rails_trainz01#11" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#21" id="815">
+            <position x="20565.9" y="635.97" z="-27505" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="154.289" y="154.289" z="154.289" />
+            <nocollide run3batcher="true" name="rails_trainz01#21" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#31" id="730">
+            <position x="19423.6" y="635.97" z="29094.3" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="154.289" y="154.289" z="154.289" />
+            <nocollide run3batcher="true" name="rails_trainz01#31" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#41" id="559">
+            <position x="20080.7" y="635.97" z="-3750" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="5" y="5" z="5" />
+            <nocollide run3batcher="true" name="rails_trainz01#41" meshFile="rzd_pylon01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#10" id="767">
+            <position x="19392.8" y="635.97" z="-36927.5" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="154.289" y="154.289" z="305" />
+            <nocollide run3batcher="true" name="rails_trainz01#10" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#20" id="568">
+            <position x="20565.9" y="635.97" z="-24282.5" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="154.289" y="154.289" z="154.289" />
+            <nocollide run3batcher="true" name="rails_trainz01#20" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#30" id="973">
+            <position x="19423.6" y="635.97" z="25914.8" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="154.289" y="154.289" z="154.289" />
+            <nocollide run3batcher="true" name="rails_trainz01#30" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#40" id="856">
+            <position x="20565.9" y="635.97" z="36740.5" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="154.289" y="154.289" z="550" />
+            <nocollide run3batcher="true" name="rails_trainz01#40" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#50" id="520">
+            <position x="19423.6" y="635.97" z="14174.6" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="154.289" y="154.289" z="154.289" />
+            <nocollide run3batcher="true" name="rails_trainz01#50" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#1" id="685">
+            <position x="20565.9" y="635.97" z="-5029.83" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="154.289" y="154.289" z="154.289" />
+            <nocollide run3batcher="true" name="rails_trainz01#1" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#0" id="604">
+            <position x="19418" y="635.97" z="-5015.95" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="154.289" y="154.289" z="154.289" />
+            <nocollide run3batcher="true" name="rails_trainz01#0" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#2" id="955">
+            <position x="19392.8" y="635.97" z="-8211.75" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="154.289" y="154.289" z="154.289" />
+            <nocollide run3batcher="true" name="rails_trainz01#2" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#3" id="284">
+            <position x="19392.8" y="635.97" z="-11438.1" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="154.289" y="154.289" z="154.289" />
+            <nocollide run3batcher="true" name="rails_trainz01#3" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#4" id="885">
+            <position x="19392.8" y="635.97" z="-14668.3" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="154.289" y="154.289" z="154.289" />
+            <nocollide run3batcher="true" name="rails_trainz01#4" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#5" id="444">
+            <position x="19392.8" y="635.97" z="-17898" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="154.289" y="154.289" z="154.289" />
+            <nocollide run3batcher="true" name="rails_trainz01#5" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#6" id="468">
+            <position x="19392.8" y="635.97" z="-21107.6" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="154.289" y="154.289" z="154.289" />
+            <nocollide run3batcher="true" name="rails_trainz01#6" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#7" id="758">
+            <position x="19392.8" y="635.97" z="-24327.3" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="154.289" y="154.289" z="154.289" />
+            <nocollide run3batcher="true" name="rails_trainz01#7" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#8" id="150">
+            <position x="19392.8" y="635.97" z="-27549.8" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="154.289" y="154.289" z="154.289" />
+            <nocollide run3batcher="true" name="rails_trainz01#8" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#9" id="991">
+            <position x="19392.8" y="635.97" z="-30730.3" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="154.289" y="154.289" z="154.289" />
+            <nocollide run3batcher="true" name="rails_trainz01#9" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz02#0" id="164">
+            <position x="18574.4" y="635.97" z="11049.8" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="154.289" y="154.289" z="154.289" />
+            <nocollide run3batcher="true" name="rails_trainz02#0" meshFile="rails_trainz02.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz03#0" id="700">
+            <position x="20256.1" y="635.97" z="1465.88" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="154.289" y="154.289" z="154.289" />
+            <nocollide run3batcher="true" name="rails_trainz03#0" meshFile="rails_trainz02.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz03#1" id="256">
+            <position x="19783.3" y="635.97" z="11060" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="154.289" y="154.289" z="154.289" />
+            <nocollide run3batcher="true" name="rails_trainz03#1" meshFile="rails_trainz03.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#12" id="177">
+            <position x="19392.8" y="635.97" z="-48444.8" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="154.289" y="154.289" z="305" />
+            <nocollide run3batcher="true" name="rails_trainz01#12" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#22" id="556">
+            <position x="20565.9" y="635.97" z="-30685.5" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="154.289" y="154.289" z="154.289" />
+            <nocollide run3batcher="true" name="rails_trainz01#22" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#32" id="179">
+            <position x="19423.6" y="635.97" z="32328.5" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="154.289" y="154.289" z="154.289" />
+            <nocollide run3batcher="true" name="rails_trainz01#32" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#42" id="788">
+            <position x="20565.9" y="635.97" z="14189" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="154.289" y="154.289" z="154.289" />
+            <nocollide run3batcher="true" name="rails_trainz01#42" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+    </nodes>
+    <aiNodes />
+</scene>

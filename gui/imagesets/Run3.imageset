@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<Imageset Name="PEImagery" Imagefile="PE_Imagery.tga" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true">
+	<Image Name="ArrowRightNormal" XPos="5" YPos="5" Width="35" Height="30" />
+	<Image Name="ArrowRightHighlight" XPos="5" YPos="45" Width="35" Height="30" />
+	<Image Name="ArrowRightDown" XPos="5" YPos="80" Width="35" Height="30" />
+	<Image Name="ArrowRightDisabled" XPos="5" YPos="115" Width="35" Height="30" />
+	
+	<Image Name="ArrowLeftNormal" XPos="44" YPos="5" Width="35" Height="30" />
+	<Image Name="ArrowLeftHighlight" XPos="44" YPos="45" Width="35" Height="30" />
+	<Image Name="ArrowLeftDown" XPos="44" YPos="80" Width="35" Height="30" />
+	<Image Name="ArrowLeftDisabled" XPos="44" YPos="115" Width="35" Height="30" />
+	
+	<Image Name="ArrowBackwardNormal" XPos="88" YPos="3" Width="29" Height="34" />
+	<Image Name="ArrowBackwardHighlight" XPos="88" YPos="44" Width="29" Height="34" />
+	<Image Name="ArrowBackwardDown" XPos="88" YPos="80" Width="29" Height="34" />	
+	<Image Name="ArrowBackwardDisabled" XPos="88" YPos="116" Width="29" Height="34" />
+	
+	<Image Name="ArrowForwardNormal" XPos="128" YPos="3" Width="29" Height="34" />
+	<Image Name="ArrowForwardHighlight" XPos="128" YPos="44" Width="29" Height="34" />
+	<Image Name="ArrowForwardDown" XPos="128" YPos="80" Width="29" Height="34" />
+	<Image Name="ArrowForwardDisabled" XPos="128" YPos="116" Width="29" Height="34" />
+	
+	<Image Name="CircleNormal" XPos="225" YPos="5" Width="22" Height="22" />
+	<Image Name="CircleHighlight" XPos="225" YPos="31" Width="22" Height="22" />
+	<Image Name="CircleDown" XPos="225" YPos="58" Width="22" Height="22" />	
+	
+	<Image Name="IncreaseZoomNormal" XPos="165" YPos="3" Width="22" Height="18" />
+	<Image Name="IncreaseZoomHighlight" XPos="165" YPos="24" Width="22" Height="18" />
+	<Image Name="IncreaseZoomDown" XPos="165" YPos="45" Width="22" Height="18" />
+	
+	<Image Name="DecreaseZoomNormal" XPos="192" YPos="3" Width="22" Height="18" />
+	<Image Name="DecreaseZoomHighlight" XPos="192" YPos="24" Width="22" Height="18" />
+	<Image Name="DecreaseZoomDown" XPos="192" YPos="45" Width="22" Height="18" />
+	
+	<Image Name="FrameShownNormal" XPos="5" YPos="156" Width="34" Height="34" />
+	<Image Name="FrameShownHighlight" XPos="43" YPos="156" Width="34" Height="34" />
+	<Image Name="FrameShownDown" XPos="43" YPos="156" Width="34" Height="34" />
+	
+	<Image Name="FrameHiddenNormal" XPos="81" YPos="156" Width="34" Height="34" />
+	<Image Name="FrameHiddenHighlight" XPos="43" YPos="156" Width="34" Height="34" />
+	<Image Name="FrameHiddenDown" XPos="43" YPos="156" Width="34" Height="34" />
+	
+	<Image Name="FrameResetNormal" XPos="119" YPos="156" Width="34" Height="34" />
+	<Image Name="FrameResetHighlight" XPos="157" YPos="156" Width="34" Height="34" />
+	<Image Name="FrameResetDown" XPos="195" YPos="156" Width="34" Height="34" />
+	
+	<Image Name="CloseNormal" XPos="5" YPos="194" Width="34" Height="34" />
+	<Image Name="CloseHighlight" XPos="43" YPos="194" Width="34" Height="34" />
+	<Image Name="CloseDown" XPos="43" YPos="194" Width="34" Height="34" />
+	
+	<Image Name="HelpNormal" XPos="81" YPos="194" Width="34" Height="34" />
+	<Image Name="HelpHighlight" XPos="119" YPos="194" Width="34" Height="34" />
+	<Image Name="HelpDown" XPos="119" YPos="194" Width="34" Height="34" />
+	
+	<Image Name="ToolTipLeft" XPos="165" YPos="80" Width="6" Height="6" />
+	<Image Name="ToolTipRight" XPos="187" YPos="80" Width="6" Height="6" />
+	<Image Name="ToolTipTop" XPos="176" YPos="69" Width="6" Height="6" />
+	<Image Name="ToolTipBottom" XPos="176" YPos="91" Width="6" Height="6" />
+	<Image Name="ToolTipTopLeft" XPos="165" YPos="69" Width="6" Height="6" />
+	<Image Name="ToolTipTopRight" XPos="187" YPos="69" Width="6" Height="6" />
+	<Image Name="ToolTipBottomLeft" XPos="165" YPos="91" Width="6" Height="6" />
+	<Image Name="ToolTipBottomRight" XPos="187" YPos="91" Width="6" Height="6" />
+	<Image Name="ToolTipBackdrop" XPos="176" YPos="80" Width="6" Height="6" />
+	
+	<Image Name="StatusButNormal" XPos="159" YPos="103" Width="96" Height="13" />
+	<Image Name="StatusButHighlight" XPos="159" YPos="116" Width="96" Height="13" />
+	<Image Name="StatusButDown" XPos="159" YPos="116" Width="96" Height="13" />
+	
+	<Image Name="TabButNormal" XPos="4" YPos="232" Width="60" Height="20" />
+	<Image Name="TabButHighlight" XPos="66" YPos="232" Width="60" Height="20" />
+	<Image Name="TabButDown" XPos="128" YPos="232" Width="60" Height="20" />	
+	<Image Name="TabButDisabled" XPos="190" YPos="232" Width="60" Height="20" />
+	
+	<Image Name="HelperButNormal" XPos="166" YPos="133" Width="16" Height="16" />
+	<Image Name="HelperButHighlight" XPos="186" YPos="133" Width="16" Height="16" />
+	<Image Name="HelperButDown" XPos="206" YPos="133" Width="16" Height="16" />
+	
+</Imageset>
+

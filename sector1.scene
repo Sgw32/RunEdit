@@ -1,0 +1,75 @@
+<scene formatVersion="1.0">
+    <environment>
+        <skyBox material="Examples/MorningSkyBox" />
+        <fog mode="none" />
+    </environment>
+    <nodes>
+        <node name="garbage01b#2" id="673">
+            <position x="1939.07" y="-445.168" z="-3351.15" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity name="garbage01b#2" meshFile="garbage01b.mesh" castShadows="true" />
+        </node>
+        <node name="garbage01b#3" id="383">
+            <position x="2318" y="-445.168" z="-3351.15" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity name="garbage01b#3" meshFile="garbage01b.mesh" castShadows="true" />
+        </node>
+        <node name="carpte01#4" id="97">
+            <position x="2132.41" y="-450.325" z="-3250.13" />
+            <rotation qw="0.870356" qx="0" qy="0.492424" qz="0" />
+            <scale x="61.6015" y="9.03098" z="61.6015" />
+            <entity name="carpte01#4" meshFile="carpte01.mesh" castShadows="true" />
+        </node>
+        <node name="carpte01#5" id="768">
+            <position x="1705.27" y="-450.325" z="-3293.63" />
+            <rotation qw="0.92554" qx="0" qy="-0.378649" qz="0" />
+            <scale x="61.6015" y="9.03098" z="61.6015" />
+            <entity name="carpte01#5" meshFile="carpte01.mesh" castShadows="true" />
+        </node>
+        <node name="carpte01#6" id="361">
+            <position x="1252.08" y="-450.325" z="-3338.92" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="61.6015" y="9.03098" z="61.6015" />
+            <entity name="carpte01#6" meshFile="carpte01.mesh" castShadows="true" />
+        </node>
+        <node name="monitor02#0" id="598">
+            <position x="1843.89" y="-280.467" z="-3095.55" />
+            <rotation qw="-1.37836e-007" qx="0" qy="1" qz="0" />
+            <scale x="5" y="5" z="5" />
+            <entity name="monitor02#0" meshFile="monitor02.mesh" castShadows="true" />
+        </node>
+        <node name="couch01a#3" id="92">
+            <position x="1489.58" y="-400.983" z="-4066.7" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity name="couch01a#3" meshFile="couch01a.mesh" castShadows="true" />
+        </node>
+        <node name="couchm01#1" id="264">
+            <position x="2271.05" y="-457.928" z="-3201.03" />
+            <rotation qw="0.296541" qx="0" qy="-0.95502" qz="0" />
+            <scale x="90.0885" y="90.0885" z="90.0885" />
+            <entity name="couchm01#1" meshFile="couchm01.mesh" castShadows="true" />
+        </node>
+        <node name="garbage02a#1" id="390">
+            <position x="1787.16" y="-440.622" z="-3365.78" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity name="garbage02a#1" meshFile="garbage02a.mesh" castShadows="true" />
+        </node>
+        <node name="garbage02a#2" id="19">
+            <position x="1449.4" y="-440.622" z="-3365.78" />
+            <rotation qw="0.386711" qx="0" qy="-0.922201" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity name="garbage02a#2" meshFile="garbage02a.mesh" castShadows="true" />
+        </node>
+        <node name="garbage02a#3" id="139">
+            <position x="1270.11" y="-440.622" z="-3243.58" />
+            <rotation qw="-0.760406" qx="0" qy="-0.649448" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity name="garbage02a#3" meshFile="garbage02a.mesh" castShadows="true" />
+        </node>
+    </nodes>
+    <aiNodes />
+</scene>

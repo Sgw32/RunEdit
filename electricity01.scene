@@ -1,0 +1,561 @@
+<scene formatVersion="1.0">
+    <environment>
+        <skyBox material="Examples/MorningSkyBox" />
+        <fog mode="none" />
+    </environment>
+    <nodes>
+        <node name="wire_cosh03#5" id="519">
+            <position x="37.302" y="-12133.1" z="16000" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="143.1" y="29.2911" z="1" />
+            <entity name="wire_cosh03#5" meshFile="wire_cosh03.mesh" castShadows="true" />
+        </node>
+        <node name="metaltruss02#28" id="718">
+            <position x="-75.5111" y="-12221.3" z="-8797.64" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="metaltruss02#28" meshFile="metaltruss02.mesh" castShadows="true" />
+        </node>
+        <node name="metaltruss02#18" id="737">
+            <position x="-2320.84" y="-12221.3" z="1500" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="metaltruss02#18" meshFile="metaltruss02.mesh" castShadows="true" />
+        </node>
+        <node name="metaltruss02#29" id="314">
+            <position x="-507.415" y="-12650.9" z="-8797.64" />
+            <rotation qw="0.5" qx="-0.5" qy="-0.5" qz="-0.5" />
+            <scale x="1.91606" y="2.21672" z="3" />
+            <entity name="metaltruss02#29" meshFile="metaltruss02.mesh" castShadows="true" />
+        </node>
+        <node name="metaltruss02#19" id="254">
+            <position x="-1560.77" y="-12221.3" z="1500" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="metaltruss02#19" meshFile="metaltruss02.mesh" castShadows="true" />
+        </node>
+        <node name="metaltruss02#34" id="45">
+            <position x="-2367.28" y="-12221.3" z="-8797.64" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="metaltruss02#34" meshFile="metaltruss02.mesh" castShadows="true" />
+        </node>
+        <node name="metaltruss02#24" id="420">
+            <position x="1509.7" y="-12221.3" z="1500" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="metaltruss02#24" meshFile="metaltruss02.mesh" castShadows="true" />
+        </node>
+        <node name="metaltruss02#14" id="753">
+            <position x="-1560.77" y="-12221.3" z="-1830.54" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="metaltruss02#14" meshFile="metaltruss02.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh02#0" id="261">
+            <position x="-905" y="-12130.7" z="16000" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="143.1" y="29.2911" z="1" />
+            <entity name="wire_cosh02#0" meshFile="wire_cosh03.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh03#1" id="69">
+            <position x="-916.392" y="-12350" z="16000" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="143.1" y="29.2911" z="1" />
+            <entity name="wire_cosh03#1" meshFile="wire_cosh03.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh03#2" id="650">
+            <position x="-957.026" y="-12130.7" z="16000" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="143.1" y="29.2911" z="1" />
+            <entity name="wire_cosh03#2" meshFile="wire_cosh03.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh03#3" id="810">
+            <position x="11.015" y="-12350" z="16000" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="143.1" y="29.2911" z="1" />
+            <entity name="wire_cosh03#3" meshFile="wire_cosh03.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh04#7" id="9">
+            <position x="-1218.57" y="-12185.5" z="2711.25" />
+            <rotation qw="0.65276" qx="0" qy="0.757565" qz="0" />
+            <scale x="18.0444" y="29.2911" z="0.999897" />
+            <entity name="wire_cosh04#7" meshFile="wire_cosh04.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh04#6" id="653">
+            <position x="-1167.03" y="-12185.5" z="2703.55" />
+            <rotation qw="0.65276" qx="0" qy="0.757565" qz="0" />
+            <scale x="18.0444" y="29.2911" z="0.999897" />
+            <entity name="wire_cosh04#6" meshFile="wire_cosh04.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh03#4" id="169">
+            <position x="-11.6578" y="-12133.1" z="16000" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="143.1" y="29.2911" z="1" />
+            <entity name="wire_cosh03#4" meshFile="wire_cosh03.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh04#19" id="759">
+            <position x="-1360.15" y="-12386.2" z="-6949.71" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="27.763" y="30.4461" z="1.03858" />
+            <entity name="wire_cosh04#19" meshFile="wire_cosh04.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh04#18" id="858">
+            <position x="497.872" y="-12150.2" z="-6909.56" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="27.763" y="30.4461" z="1.03858" />
+            <entity name="wire_cosh04#18" meshFile="wire_cosh04.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh04#13" id="504">
+            <position x="449.88" y="-12150.2" z="-6909.56" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="27.763" y="30.4461" z="1.03858" />
+            <entity name="wire_cosh04#13" meshFile="wire_cosh04.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh04#12" id="591">
+            <position x="474.877" y="-12386.2" z="-6949.71" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="27.763" y="30.4461" z="1.03858" />
+            <entity name="wire_cosh04#12" meshFile="wire_cosh04.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh04#15" id="297">
+            <position x="474.877" y="-12187.6" z="-131.294" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="23.5266" y="29.2911" z="0.999897" />
+            <entity name="wire_cosh04#15" meshFile="wire_cosh04.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh04#10" id="37">
+            <position x="298.42" y="-12380.8" z="2719.37" />
+            <rotation qw="0.75471" qx="0" qy="0.656059" qz="0" />
+            <scale x="18.0444" y="29.2911" z="0.999897" />
+            <entity name="wire_cosh04#10" meshFile="wire_cosh04.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh04#11" id="404">
+            <position x="298.42" y="-12182.1" z="2719.37" />
+            <rotation qw="0.75471" qx="0" qy="0.656059" qz="0" />
+            <scale x="18.0444" y="29.2911" z="0.999897" />
+            <entity name="wire_cosh04#11" meshFile="wire_cosh04.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh04#14" id="216">
+            <position x="333.649" y="-12182.1" z="2724.32" />
+            <rotation qw="0.75471" qx="0" qy="0.656059" qz="0" />
+            <scale x="18.0444" y="29.2911" z="0.999897" />
+            <entity name="wire_cosh04#14" meshFile="wire_cosh04.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh04#16" id="252">
+            <position x="496.021" y="-12182" z="-137.353" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="23.5266" y="29.2911" z="0.999897" />
+            <entity name="wire_cosh04#16" meshFile="wire_cosh04.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh04#17" id="36">
+            <position x="474.877" y="-12187.6" z="-3367.38" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="22.3324" y="29.2911" z="0.99918" />
+            <entity name="wire_cosh04#17" meshFile="wire_cosh04.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh04#1" id="80">
+            <position x="-962.011" y="-12376.8" z="4977.82" />
+            <rotation qw="0.691457" qx="-0.00754345" qy="0.722299" qz="-0.0106845" />
+            <scale x="14.8698" y="29.2911" z="1" />
+            <entity name="wire_cosh04#1" meshFile="wire_cosh04.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh04#29" id="628">
+            <position x="-1303.12" y="-12177.3" z="-6909.56" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="27.763" y="30.4461" z="1.03858" />
+            <entity name="wire_cosh04#29" meshFile="wire_cosh04.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh04#2" id="894">
+            <position x="73.5509" y="-12368.8" z="4987.02" />
+            <rotation qw="0.728309" qx="-0.00880101" qy="0.685124" qz="-0.00968916" />
+            <scale x="14.8698" y="29.2911" z="1" />
+            <entity name="wire_cosh04#2" meshFile="wire_cosh04.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh04#20" id="124">
+            <position x="474.877" y="-12386.2" z="-3392.41" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="23.4207" y="29.2911" z="0.99918" />
+            <entity name="wire_cosh04#20" meshFile="wire_cosh04.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh04#21" id="314">
+            <position x="-996.55" y="-12162.5" z="4973.83" />
+            <rotation qw="0.691457" qx="-0.00754345" qy="0.722299" qz="-0.0106845" />
+            <scale x="14.8698" y="29.2911" z="1" />
+            <entity name="wire_cosh04#21" meshFile="wire_cosh04.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh04#22" id="293">
+            <position x="-1343.4" y="-12386.2" z="-3392.41" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="23.4207" y="29.2911" z="0.99918" />
+            <entity name="wire_cosh04#22" meshFile="wire_cosh04.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh04#23" id="700">
+            <position x="-1346.5" y="-12386.2" z="-6068.02" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="14.8353" y="29.2911" z="1" />
+            <entity name="wire_cosh04#23" meshFile="wire_cosh04.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh04#24" id="85">
+            <position x="495.231" y="-12187.6" z="-3367.38" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="22.3324" y="29.2911" z="0.99918" />
+            <entity name="wire_cosh04#24" meshFile="wire_cosh04.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh04#25" id="951">
+            <position x="-1404.59" y="-12187.6" z="-3367.38" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="22.3324" y="29.2911" z="0.99918" />
+            <entity name="wire_cosh04#25" meshFile="wire_cosh04.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh04#26" id="703">
+            <position x="-1396.46" y="-12179.7" z="-136.545" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="23.5266" y="29.2911" z="0.999897" />
+            <entity name="wire_cosh04#26" meshFile="wire_cosh04.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh04#27" id="405">
+            <position x="-1335.9" y="-12179.7" z="-136.545" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="23.5266" y="29.2911" z="0.999897" />
+            <entity name="wire_cosh04#27" meshFile="wire_cosh04.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh04#28" id="855">
+            <position x="-1333.74" y="-12187.6" z="-3367.38" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="22.3324" y="29.2911" z="0.99918" />
+            <entity name="wire_cosh04#28" meshFile="wire_cosh04.mesh" castShadows="true" />
+        </node>
+        <node name="metaltruss02#9" id="140">
+            <position x="1810.97" y="-12650.9" z="-1830.54" />
+            <rotation qw="0.5" qx="-0.5" qy="-0.5" qz="-0.5" />
+            <scale x="1.91606" y="2.21672" z="3" />
+            <entity name="metaltruss02#9" meshFile="metaltruss02.mesh" castShadows="true" />
+        </node>
+        <node name="metaltruss02#5" id="840">
+            <position x="1509.7" y="-12221.3" z="-1830.54" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="metaltruss02#5" meshFile="metaltruss02.mesh" castShadows="true" />
+        </node>
+        <node name="metaltruss02#2" id="931">
+            <position x="-2367.28" y="-12221.3" z="-5000" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="metaltruss02#2" meshFile="metaltruss02.mesh" castShadows="true" />
+        </node>
+        <node name="metaltruss02#8" id="987">
+            <position x="1810.97" y="-12650.9" z="-5000" />
+            <rotation qw="0.5" qx="-0.5" qy="-0.5" qz="-0.5" />
+            <scale x="1.91606" y="2.21672" z="3" />
+            <entity name="metaltruss02#8" meshFile="metaltruss02.mesh" castShadows="true" />
+        </node>
+        <node name="metaltruss02#7" id="973">
+            <position x="-507.415" y="-12650.9" z="-5000" />
+            <rotation qw="0.5" qx="-0.5" qy="-0.5" qz="-0.5" />
+            <scale x="1.91606" y="2.21672" z="3" />
+            <entity name="metaltruss02#7" meshFile="metaltruss02.mesh" castShadows="true" />
+        </node>
+        <node name="metaltruss02#6" id="354">
+            <position x="-2710.47" y="-12650.9" z="-5000" />
+            <rotation qw="0.5" qx="-0.5" qy="-0.5" qz="-0.5" />
+            <scale x="1.91606" y="2.21672" z="3" />
+            <entity name="metaltruss02#6" meshFile="metaltruss02.mesh" castShadows="true" />
+        </node>
+        <node name="metaltruss02#4" id="799">
+            <position x="1463.26" y="-12221.3" z="-5000" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="metaltruss02#4" meshFile="metaltruss02.mesh" castShadows="true" />
+        </node>
+        <node name="metaltruss02#3" id="271">
+            <position x="692.83" y="-12221.3" z="-5000" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="metaltruss02#3" meshFile="metaltruss02.mesh" castShadows="true" />
+        </node>
+        <node name="metaltruss02#1" id="932">
+            <position x="-1607.21" y="-12221.3" z="-5000" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="metaltruss02#1" meshFile="metaltruss02.mesh" castShadows="true" />
+        </node>
+        <node name="metaltruss02#0" id="455">
+            <position x="-842.406" y="-12221.3" z="-5000" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="metaltruss02#0" meshFile="metaltruss02.mesh" castShadows="true" />
+        </node>
+        <node name="metaltruss02#30" id="476">
+            <position x="692.83" y="-12221.3" z="-8797.64" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="metaltruss02#30" meshFile="metaltruss02.mesh" castShadows="true" />
+        </node>
+        <node name="metaltruss02#20" id="263">
+            <position x="-795.971" y="-12221.3" z="1500" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="metaltruss02#20" meshFile="metaltruss02.mesh" castShadows="true" />
+        </node>
+        <node name="metaltruss02#10" id="724">
+            <position x="739.265" y="-12221.3" z="-1830.54" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="metaltruss02#10" meshFile="metaltruss02.mesh" castShadows="true" />
+        </node>
+        <node name="metaltruss02#31" id="445">
+            <position x="1463.26" y="-12221.3" z="-8797.64" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="metaltruss02#31" meshFile="metaltruss02.mesh" castShadows="true" />
+        </node>
+        <node name="metaltruss02#21" id="399">
+            <position x="-968.478" y="-12648.6" z="1500.81" />
+            <rotation qw="0.5" qx="-0.5" qy="-0.5" qz="-0.5" />
+            <scale x="1.91606" y="2.21672" z="3" />
+            <entity name="metaltruss02#21" meshFile="metaltruss02.mesh" castShadows="true" />
+        </node>
+        <node name="metaltruss02#11" id="520">
+            <position x="-29.0759" y="-12221.3" z="-1830.54" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="metaltruss02#11" meshFile="metaltruss02.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh04#9" id="814">
+            <position x="474.877" y="-12386.2" z="-131.294" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="23.5266" y="29.2911" z="0.999897" />
+            <entity name="wire_cosh04#9" meshFile="wire_cosh04.mesh" castShadows="true" />
+        </node>
+        <node name="metaltruss02#32" id="58">
+            <position x="1810.97" y="-12650.9" z="-8797.64" />
+            <rotation qw="0.5" qx="-0.5" qy="-0.5" qz="-0.5" />
+            <scale x="1.91606" y="2.21672" z="3" />
+            <entity name="metaltruss02#32" meshFile="metaltruss02.mesh" castShadows="true" />
+        </node>
+        <node name="metaltruss02#22" id="917">
+            <position x="-29.0761" y="-12221.3" z="1500" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="metaltruss02#22" meshFile="metaltruss02.mesh" castShadows="true" />
+        </node>
+        <node name="metaltruss02#12" id="598">
+            <position x="-795.971" y="-12221.3" z="-1830.54" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="metaltruss02#12" meshFile="metaltruss02.mesh" castShadows="true" />
+        </node>
+        <node name="metaltruss01#12" id="764">
+            <position x="-75.5112" y="-12221.3" z="-5000" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="metaltruss01#12" meshFile="metaltruss02.mesh" castShadows="true" />
+        </node>
+        <node name="metaltruss02#33" id="217">
+            <position x="-1607.21" y="-12221.3" z="-8797.64" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="metaltruss02#33" meshFile="metaltruss02.mesh" castShadows="true" />
+        </node>
+        <node name="metaltruss02#23" id="326">
+            <position x="739.265" y="-12221.3" z="1500" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="metaltruss02#23" meshFile="metaltruss02.mesh" castShadows="true" />
+        </node>
+        <node name="metaltruss02#13" id="305">
+            <position x="-507.415" y="-12650.9" z="-1830.54" />
+            <rotation qw="0.5" qx="-0.5" qy="-0.5" qz="-0.5" />
+            <scale x="1.91606" y="2.21672" z="3" />
+            <entity name="metaltruss02#13" meshFile="metaltruss02.mesh" castShadows="true" />
+        </node>
+        <node name="metaltruss02#35" id="108">
+            <position x="-2710.47" y="-12650.9" z="-8797.64" />
+            <rotation qw="0.5" qx="-0.5" qy="-0.5" qz="-0.5" />
+            <scale x="1.91606" y="2.21672" z="3" />
+            <entity name="metaltruss02#35" meshFile="metaltruss02.mesh" castShadows="true" />
+        </node>
+        <node name="metaltruss02#25" id="533">
+            <position x="1810.97" y="-12650.9" z="1500" />
+            <rotation qw="0.5" qx="-0.5" qy="-0.5" qz="-0.5" />
+            <scale x="1.91606" y="2.21672" z="3" />
+            <entity name="metaltruss02#25" meshFile="metaltruss02.mesh" castShadows="true" />
+        </node>
+        <node name="metaltruss02#15" id="649">
+            <position x="-2320.84" y="-12221.3" z="-1830.54" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="metaltruss02#15" meshFile="metaltruss02.mesh" castShadows="true" />
+        </node>
+        <node name="metaltruss02#26" id="723">
+            <position x="-10.2266" y="-12650.9" z="1500" />
+            <rotation qw="0.5" qx="-0.5" qy="-0.5" qz="-0.5" />
+            <scale x="1.91606" y="2.21672" z="3" />
+            <entity name="metaltruss02#26" meshFile="metaltruss02.mesh" castShadows="true" />
+        </node>
+        <node name="metaltruss02#16" id="224">
+            <position x="-2668.18" y="-12650.9" z="-1830.54" />
+            <rotation qw="0.5" qx="-0.5" qy="-0.5" qz="-0.5" />
+            <scale x="1.91606" y="2.21672" z="3" />
+            <entity name="metaltruss02#16" meshFile="metaltruss02.mesh" castShadows="true" />
+        </node>
+        <node name="metaltruss02#27" id="70">
+            <position x="-842.406" y="-12221.3" z="-8797.64" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="3" y="3" z="3" />
+            <entity name="metaltruss02#27" meshFile="metaltruss02.mesh" castShadows="true" />
+        </node>
+        <node name="metaltruss02#17" id="951">
+            <position x="-2668.18" y="-12650.9" z="1500" />
+            <rotation qw="0.5" qx="-0.5" qy="-0.5" qz="-0.5" />
+            <scale x="1.91606" y="2.21672" z="3" />
+            <entity name="metaltruss02#17" meshFile="metaltruss02.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh04#39" id="197">
+            <position x="-992.908" y="-12351.8" z="-18506.5" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="49.3415" y="30.4461" z="1.03858" />
+            <entity name="wire_cosh04#39" meshFile="wire_cosh04.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh04#38" id="627">
+            <position x="-1133.54" y="-12363.9" z="-13419.4" />
+            <rotation qw="0.734323" qx="0" qy="0.678801" qz="0" />
+            <scale x="24.7268" y="30.4461" z="1.03858" />
+            <entity name="wire_cosh04#38" meshFile="wire_cosh04.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh04#37" id="786">
+            <position x="167.936" y="-12386.2" z="-13333.7" />
+            <rotation qw="0.681998" qx="0" qy="0.731354" qz="0" />
+            <scale x="24.7268" y="30.4461" z="1.03858" />
+            <entity name="wire_cosh04#37" meshFile="wire_cosh04.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh04#36" id="348">
+            <position x="-1290.92" y="-12379.7" z="-10325.4" />
+            <rotation qw="0.71934" qx="0" qy="0.694658" qz="0" />
+            <scale x="20.9278" y="30.4461" z="1.03858" />
+            <entity name="wire_cosh04#36" meshFile="wire_cosh04.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh04#35" id="11">
+            <position x="-1257.03" y="-12175.2" z="-10324.2" />
+            <rotation qw="0.71934" qx="0" qy="0.694658" qz="0" />
+            <scale x="20.9278" y="30.4461" z="1.03858" />
+            <entity name="wire_cosh04#35" meshFile="wire_cosh04.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh04#34" id="718">
+            <position x="-1351.42" y="-12175.2" z="-10327.5" />
+            <rotation qw="0.71934" qx="0" qy="0.694658" qz="0" />
+            <scale x="20.9278" y="30.4461" z="1.03858" />
+            <entity name="wire_cosh04#34" meshFile="wire_cosh04.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh04#33" id="878">
+            <position x="469.688" y="-12175.2" z="-10229.5" />
+            <rotation qw="0.685183" qx="0" qy="0.728371" qz="0" />
+            <scale x="20.9278" y="30.4461" z="1.03858" />
+            <entity name="wire_cosh04#33" meshFile="wire_cosh04.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh04#32" id="924">
+            <position x="398.097" y="-12175.2" z="-10225.2" />
+            <rotation qw="0.685183" qx="0" qy="0.728371" qz="0" />
+            <scale x="20.9278" y="30.4461" z="1.03858" />
+            <entity name="wire_cosh04#32" meshFile="wire_cosh04.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh04#31" id="973">
+            <position x="398.097" y="-12386.2" z="-10225.2" />
+            <rotation qw="0.685183" qx="0" qy="0.728371" qz="0" />
+            <scale x="20.9278" y="30.4461" z="1.03858" />
+            <entity name="wire_cosh04#31" meshFile="wire_cosh04.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh04#30" id="365">
+            <position x="-1377.59" y="-12177.3" z="-6909.56" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="27.763" y="30.4461" z="1.03858" />
+            <entity name="wire_cosh04#30" meshFile="wire_cosh04.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh04#3" id="645">
+            <position x="91.7257" y="-12158.1" z="4982.6" />
+            <rotation qw="0.728309" qx="-0.00880101" qy="0.685124" qz="-0.00968916" />
+            <scale x="14.8698" y="29.2911" z="1" />
+            <entity name="wire_cosh04#3" meshFile="wire_cosh04.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh04#48" id="74">
+            <position x="249.354" y="-12185.9" z="-13339.4" />
+            <rotation qw="0.681998" qx="0" qy="0.731354" qz="0" />
+            <scale x="24.7268" y="30.4461" z="1.03858" />
+            <entity name="wire_cosh04#48" meshFile="wire_cosh04.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh04#47" id="160">
+            <position x="182.168" y="-12185.9" z="-13334.7" />
+            <rotation qw="0.681998" qx="0" qy="0.731354" qz="0" />
+            <scale x="24.7268" y="30.4461" z="1.03858" />
+            <entity name="wire_cosh04#47" meshFile="wire_cosh04.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh04#46" id="59">
+            <position x="35.319" y="-12154.8" z="-18506.5" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="49.3415" y="30.4461" z="1.03858" />
+            <entity name="wire_cosh04#46" meshFile="wire_cosh04.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh04#45" id="727">
+            <position x="80.3109" y="-12154.8" z="-18506.5" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="49.3415" y="30.4461" z="1.03858" />
+            <entity name="wire_cosh04#45" meshFile="wire_cosh04.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh04#44" id="583">
+            <position x="-1111.47" y="-12147" z="-18506.5" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="49.3415" y="30.4461" z="1.03858" />
+            <entity name="wire_cosh04#44" meshFile="wire_cosh04.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh04#43" id="652">
+            <position x="-1043.81" y="-12147" z="-18506.5" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="49.3415" y="30.4461" z="1.03858" />
+            <entity name="wire_cosh04#43" meshFile="wire_cosh04.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh04#42" id="213">
+            <position x="-1199.73" y="-12159.7" z="-13424.6" />
+            <rotation qw="0.734323" qx="0" qy="0.678801" qz="0" />
+            <scale x="24.7268" y="30.4461" z="1.03858" />
+            <entity name="wire_cosh04#42" meshFile="wire_cosh04.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh04#41" id="341">
+            <position x="-1133.54" y="-12159.7" z="-13419.4" />
+            <rotation qw="0.734323" qx="0" qy="0.678801" qz="0" />
+            <scale x="24.7268" y="30.4461" z="1.03858" />
+            <entity name="wire_cosh04#41" meshFile="wire_cosh04.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh04#40" id="625">
+            <position x="80.3109" y="-12398.7" z="-18506.5" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="49.3415" y="30.4461" z="1.03858" />
+            <entity name="wire_cosh04#40" meshFile="wire_cosh04.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh04#4" id="286">
+            <position x="56.1664" y="-12158.1" z="4980.43" />
+            <rotation qw="0.728309" qx="-0.00880101" qy="0.685124" qz="-0.00968916" />
+            <scale x="14.8698" y="29.2911" z="1" />
+            <entity name="wire_cosh04#4" meshFile="wire_cosh04.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh04#0" id="589">
+            <position x="-942.602" y="-12162.8" z="4971.48" />
+            <rotation qw="0.691457" qx="-0.00754345" qy="0.722299" qz="-0.0106845" />
+            <scale x="14.8698" y="29.2911" z="1" />
+            <entity name="wire_cosh04#0" meshFile="wire_cosh04.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh04#5" id="821">
+            <position x="-1167.03" y="-12389.2" z="2703.55" />
+            <rotation qw="0.65276" qx="0" qy="0.757565" qz="0" />
+            <scale x="18.0444" y="29.2911" z="0.999897" />
+            <entity name="wire_cosh04#5" meshFile="wire_cosh04.mesh" castShadows="true" />
+        </node>
+        <node name="wire_cosh04#8" id="250">
+            <position x="-1340.3" y="-12386.2" z="-131.293" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="23.5266" y="29.2911" z="0.999897" />
+            <entity name="wire_cosh04#8" meshFile="wire_cosh04.mesh" castShadows="true" />
+        </node>
+    </nodes>
+    <aiNodes />
+</scene>

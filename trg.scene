@@ -1,0 +1,45 @@
+<scene formatVersion="1.0">
+    <environment>
+        <skyBox material="Examples/MorningSkyBox" />
+        <fog mode="none" />
+    </environment>
+    <nodes>
+        <node name="box#0" id="315">
+            <position x="1409.11" y="-5088.18" z="-6134.75" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="238.866" y="247.702" z="24.4091" />
+            <entity name="box#0" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="phone_ring" id="145">
+            <position x="543.162" y="-5051.54" z="-6300.02" />
+            <rotation qw="0.999657" qx="0" qy="0.026177" qz="0" />
+            <scale x="160" y="240" z="207.754" />
+            <entity name="phone_ring" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="phone_tag" id="209">
+            <position x="614.365" y="-5051.54" z="-6059.42" />
+            <rotation qw="0.999657" qx="0" qy="0.026177" qz="0" />
+            <scale x="160" y="240" z="207.754" />
+            <entity name="phone_tag" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="flyby" id="83">
+            <position x="280.975" y="-5051.54" z="-5545.08" />
+            <rotation qw="0.999657" qx="0" qy="0.026177" qz="0" />
+            <scale x="160" y="240" z="207.754" />
+            <entity name="flyby" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="box#4" id="384">
+            <position x="978.824" y="-5051.54" z="-6528.18" />
+            <rotation qw="0.999657" qx="0" qy="0.026177" qz="0" />
+            <scale x="160" y="240" z="207.754" />
+            <entity name="box#4" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="eattrig" id="464">
+            <position x="953.736" y="-5051.54" z="-5731.66" />
+            <rotation qw="0.999657" qx="0" qy="0.026177" qz="0" />
+            <scale x="105.819" y="240" z="207.754" />
+            <entity name="eattrig" meshFile="box.mesh" castShadows="true" />
+        </node>
+    </nodes>
+    <aiNodes />
+</scene>

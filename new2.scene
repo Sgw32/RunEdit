@@ -1,0 +1,213 @@
+<scene formatVersion="1.0">
+    <environment>
+        <skyBox material="Examples/MorningSkyBox" />
+        <fog mode="none" />
+    </environment>
+    <nodes>
+        <node name="parts01#2" id="701">
+            <position x="-21839.3" y="2210.87" z="358.999" />
+            <rotation qw="0.939641" qx="0.265006" qy="0.149671" qz="0.156348" />
+            <scale x="2" y="2" z="2" />
+            <entity name="parts01#2" meshFile="parts01.mesh" castShadows="true" />
+        </node>
+        <node name="parts01#3" id="522">
+            <position x="-21783.6" y="2000.29" z="217.472" />
+            <rotation qw="0.939641" qx="0.265006" qy="0.149671" qz="0.156348" />
+            <scale x="2" y="2" z="2" />
+            <entity name="parts01#3" meshFile="parts04.mesh" castShadows="true" />
+        </node>
+        <node name="parts01#0" id="964">
+            <position x="-21703.7" y="1992.6" z="435.019" />
+            <rotation qw="0.947296" qx="-0.236187" qy="0.0523615" qz="0.21001" />
+            <scale x="2" y="2" z="2" />
+            <entity name="parts01#0" meshFile="parts01.mesh" castShadows="true" />
+        </node>
+        <node name="explosive01#0" id="194">
+            <position x="-24506.6" y="1589.16" z="-67.7147" />
+            <rotation qw="0.908358" qx="-0.25191" qy="0.333604" qz="0.0116497" />
+            <scale x="2" y="2" z="2" />
+            <entity name="explosive01#0" meshFile="explosive01.mesh" castShadows="true" />
+        </node>
+        <node name="explosive01#1" id="564">
+            <position x="-24053.8" y="1589.16" z="415.735" />
+            <rotation qw="0.968148" qx="-0.25038" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="explosive01#1" meshFile="explosive01.mesh" castShadows="true" />
+        </node>
+        <node name="explosive01#2" id="174">
+            <position x="-23860.4" y="1589.16" z="-214.352" />
+            <rotation qw="0.891006" qx="0.453991" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="explosive01#2" meshFile="explosive01.mesh" castShadows="true" />
+        </node>
+        <node name="computeh#0" id="327">
+            <position x="-24410.4" y="1665.03" z="279.319" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="computeh#0" meshFile="computeh.mesh" castShadows="true" />
+        </node>
+        <node name="computeh#1" id="480">
+            <position x="-23575.7" y="1665.03" z="538.464" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="computeh#1" meshFile="computeh.mesh" castShadows="true" />
+        </node>
+        <node name="computeh#2" id="194">
+            <position x="-23066.7" y="1665.03" z="391.953" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="computeh#2" meshFile="computeh.mesh" castShadows="true" />
+        </node>
+        <node name="computeh#3" id="834">
+            <position x="-25609.9" y="1664.42" z="393.953" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="computeh#3" meshFile="computeh.mesh" castShadows="true" />
+        </node>
+        <node name="explosive01#3" id="218">
+            <position x="-22734.9" y="2102.12" z="110.646" />
+            <rotation qw="0.908358" qx="-0.25191" qy="0.333604" qz="0.0116497" />
+            <scale x="2" y="2" z="2" />
+            <entity name="explosive01#3" meshFile="explosive01.mesh" castShadows="true" />
+        </node>
+        <node name="forester01#0" id="912">
+            <position x="-24053.4" y="1844.86" z="10.1963" />
+            <rotation qw="0.935135" qx="0" qy="0" qz="0.354291" />
+            <scale x="1" y="1" z="1" />
+            <entity name="forester01#0" meshFile="forester01.mesh" castShadows="true" />
+        </node>
+        <node name="forester01#1" id="933">
+            <position x="-23285.6" y="1881.25" z="201.306" />
+            <rotation qw="0.935135" qx="0" qy="0" qz="0.354291" />
+            <scale x="1" y="1" z="1" />
+            <entity name="forester01#1" meshFile="forester01.mesh" castShadows="true" />
+        </node>
+        <node name="forester01#2" id="923">
+            <position x="-21686.1" y="1978.03" z="201.306" />
+            <rotation qw="0.935135" qx="0" qy="0" qz="0.354291" />
+            <scale x="1" y="1" z="1" />
+            <entity name="forester01#2" meshFile="forester01.mesh" castShadows="true" />
+        </node>
+        <node name="forester01#3" id="919">
+            <position x="-21265.9" y="2349.77" z="201.306" />
+            <rotation qw="0.880127" qx="-0.119721" qy="0.315998" qz="0.33345" />
+            <scale x="1" y="1" z="1" />
+            <entity name="forester01#3" meshFile="forester01.mesh" castShadows="true" />
+        </node>
+        <node name="forester01#4" id="975">
+            <position x="-20266.9" y="2412.51" z="129.216" />
+            <rotation qw="0.79087" qx="-0.189055" qy="0.499002" qz="0.299634" />
+            <scale x="50" y="50" z="50" />
+            <entity name="forester01#4" meshFile="topolm01.mesh" castShadows="true" />
+        </node>
+        <node name="parts04#0" id="97">
+            <position x="-22919.9" y="1820.17" z="113.469" />
+            <rotation qw="0.990268" qx="0.139173" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="parts04#0" meshFile="parts04.mesh" castShadows="true" />
+        </node>
+        <node name="parts04#1" id="279">
+            <position x="-22328" y="1939.46" z="414.429" />
+            <rotation qw="0.947296" qx="-0.236187" qy="0.0523615" qz="0.21001" />
+            <scale x="2" y="2" z="2" />
+            <entity name="parts04#1" meshFile="parts04.mesh" castShadows="true" />
+        </node>
+        <node name="parts04#2" id="910">
+            <position x="-21762" y="1906.61" z="431.893" />
+            <rotation qw="0.947296" qx="-0.236187" qy="0.0523615" qz="0.21001" />
+            <scale x="2" y="2" z="2" />
+            <entity name="parts04#2" meshFile="parts01.mesh" castShadows="true" />
+        </node>
+        <node name="parts01#1" id="280">
+            <position x="-22151.2" y="2082.46" z="427.276" />
+            <rotation qw="0.939641" qx="0.265006" qy="0.149671" qz="0.156348" />
+            <scale x="2" y="2" z="2" />
+            <entity name="parts01#1" meshFile="parts01.mesh" castShadows="true" />
+        </node>
+        <node name="parts04#3" id="867">
+            <position x="-20892" y="2367.37" z="22.2913" />
+            <rotation qw="0.404863" qx="0.888392" qy="0.216036" qz="-0.0132133" />
+            <scale x="2" y="2" z="2" />
+            <entity name="parts04#3" meshFile="parts04.mesh" castShadows="true" />
+        </node>
+        <node name="parts04#4" id="543">
+            <position x="-20522.4" y="2140.26" z="118.858" />
+            <rotation qw="0.404863" qx="0.888392" qy="0.216036" qz="-0.0132133" />
+            <scale x="2" y="2" z="2" />
+            <entity name="parts04#4" meshFile="parts04.mesh" castShadows="true" />
+        </node>
+        <node name="topolm01#0" id="152">
+            <position x="-19662.6" y="1729.49" z="129.216" />
+            <rotation qw="0.163156" qx="-0.697759" qy="0.693422" qz="-0.0753547" />
+            <scale x="1" y="1" z="1" />
+            <entity name="topolm01#0" meshFile="perseus01.mesh" castShadows="true" />
+        </node>
+        <node name="perseus01#0" id="177">
+            <position x="-19997.3" y="1613.06" z="-196.666" />
+            <rotation qw="0.0526725" qx="-0.67738" qy="0.710408" qz="-0.183581" />
+            <scale x="1" y="1" z="1" />
+            <entity name="perseus01#0" meshFile="perseus01.mesh" castShadows="true" />
+        </node>
+        <node name="perseus01#1" id="388">
+            <position x="-19172.4" y="1622.43" z="220.421" />
+            <rotation qw="0.105175" qx="-0.689123" qy="0.704551" qz="-0.132876" />
+            <scale x="1" y="1" z="1" />
+            <entity name="perseus01#1" meshFile="perseus01.mesh" castShadows="true" />
+        </node>
+        <node name="perseus01#10" id="437">
+            <position x="-13874.9" y="1576.42" z="251.163" />
+            <rotation qw="0.0959437" qx="-0.687324" qy="0.705867" qz="-0.141885" />
+            <scale x="1" y="1" z="1" />
+            <entity name="perseus01#10" meshFile="perseus01.mesh" castShadows="true" />
+        </node>
+        <node name="perseus01#2" id="313">
+            <position x="-18489.5" y="1746.48" z="251.334" />
+            <rotation qw="0.0959437" qx="-0.687324" qy="0.705867" qz="-0.141885" />
+            <scale x="1" y="1" z="1" />
+            <entity name="perseus01#2" meshFile="perseus01.mesh" castShadows="true" />
+        </node>
+        <node name="perseus01#3" id="893">
+            <position x="-19574.6" y="1762.2" z="-119.142" />
+            <rotation qw="0.08361" qx="-0.684743" qy="0.707434" qz="-0.153859" />
+            <scale x="1" y="1" z="1" />
+            <entity name="perseus01#3" meshFile="perseus01.mesh" castShadows="true" />
+        </node>
+        <node name="perseus01#4" id="480">
+            <position x="-19768.5" y="1690.15" z="427.99" />
+            <rotation qw="0.0774333" qx="-0.683375" qy="0.708137" qz="-0.159828" />
+            <scale x="1" y="1" z="1" />
+            <entity name="perseus01#4" meshFile="perseus01.mesh" castShadows="true" />
+        </node>
+        <node name="perseus01#5" id="663">
+            <position x="-19010.6" y="1754.72" z="67.7673" />
+            <rotation qw="0.0959437" qx="-0.687324" qy="0.705867" qz="-0.141885" />
+            <scale x="1" y="1" z="1" />
+            <entity name="perseus01#5" meshFile="perseus01.mesh" castShadows="true" />
+        </node>
+        <node name="perseus01#6" id="974">
+            <position x="-19107" y="1774.66" z="342.215" />
+            <rotation qw="0.0959437" qx="-0.687324" qy="0.705867" qz="-0.141885" />
+            <scale x="1" y="1" z="1" />
+            <entity name="perseus01#6" meshFile="perseus01.mesh" castShadows="true" />
+        </node>
+        <node name="perseus01#7" id="826">
+            <position x="-18078.5" y="1722.35" z="100.882" />
+            <rotation qw="0.0959437" qx="-0.687324" qy="0.705867" qz="-0.141885" />
+            <scale x="1" y="1" z="1" />
+            <entity name="perseus01#7" meshFile="perseus01.mesh" castShadows="true" />
+        </node>
+        <node name="perseus01#8" id="111">
+            <position x="-17133.6" y="1705.98" z="409.737" />
+            <rotation qw="0.0959437" qx="-0.687324" qy="0.705867" qz="-0.141885" />
+            <scale x="1" y="1" z="1" />
+            <entity name="perseus01#8" meshFile="perseus01.mesh" castShadows="true" />
+        </node>
+        <node name="perseus01#9" id="933">
+            <position x="-15401.4" y="1616.82" z="-14.2387" />
+            <rotation qw="0.0959437" qx="-0.687324" qy="0.705867" qz="-0.141885" />
+            <scale x="1" y="1" z="1" />
+            <entity name="perseus01#9" meshFile="perseus01.mesh" castShadows="true" />
+        </node>
+    </nodes>
+    <aiNodes />
+</scene>

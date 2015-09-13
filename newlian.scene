@@ -1,0 +1,69 @@
+<scene formatVersion="1.0">
+    <environment>
+        <skyBox material="Examples/MorningSkyBox" />
+        <fog mode="none" />
+    </environment>
+    <nodes>
+        <node name="garbage02a#7" id="596">
+            <position x="-2380.78" y="-12873.1" z="444.369" />
+            <rotation qw="0.0174522" qx="0" qy="0.999848" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="garbage02a#7" meshFile="garbage02a.mesh" castShadows="true" />
+        </node>
+        <node name="garbage02a#8" id="948">
+            <position x="-2293.1" y="-12873.1" z="669.445" />
+            <rotation qw="0.0174522" qx="0" qy="0.999848" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="garbage02a#8" meshFile="garbage02a.mesh" castShadows="true" />
+        </node>
+        <node name="garbage02a#9" id="984">
+            <position x="-2332.96" y="-12873.1" z="805.833" />
+            <rotation qw="0.0174522" qx="0" qy="0.999848" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="garbage02a#9" meshFile="garbage01b.mesh" castShadows="true" />
+        </node>
+        <node name="brand_list_lian01#0" id="740">
+            <position x="8308.21" y="-11389.3" z="-22580.6" />
+            <rotation qw="0.75471" qx="0" qy="0.656059" qz="0" />
+            <scale x="5.22177" y="5.22177" z="5.22177" />
+            <entity name="brand_list_lian01#0" meshFile="brand_list_lian01.mesh" castShadows="true" />
+        </node>
+        <node name="butilka01#3" id="857">
+            <position x="-2386.8" y="-12879.6" z="516.354" />
+            <rotation qw="0.746057" qx="0" qy="0" qz="0.665882" />
+            <scale x="63" y="63" z="63" />
+            <entity name="butilka01#3" meshFile="butilka01.mesh" castShadows="true" />
+        </node>
+        <node name="butilka01#4" id="198">
+            <position x="-2386.8" y="-12879.6" z="523.869" />
+            <rotation qw="0.745035" qx="-0.0390456" qy="-0.0348496" qz="0.664969" />
+            <scale x="63" y="63" z="63" />
+            <entity name="butilka01#4" meshFile="butilka01.mesh" castShadows="true" />
+        </node>
+        <node name="parts02#2" id="400">
+            <position x="-2392.27" y="-12867.2" z="512.241" />
+            <rotation qw="1" qx="4.47035e-007" qy="0" qz="0" />
+            <scale x="1" y="1" z="1" />
+            <entity name="parts02#2" meshFile="parts02.mesh" castShadows="true" />
+        </node>
+        <node name="parts02#3" id="979">
+            <position x="-2376.34" y="-12867.2" z="675.999" />
+            <rotation qw="0.843391" qx="3.77025e-007" qy="-0.5373" qz="-2.40192e-007" />
+            <scale x="1" y="1" z="1" />
+            <entity name="parts02#3" meshFile="parts02.mesh" castShadows="true" />
+        </node>
+        <node name="garbage01b#0" id="874">
+            <position x="-2334.9" y="-12873.1" z="577.824" />
+            <rotation qw="0.731354" qx="0" qy="0.681998" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="garbage01b#0" meshFile="garbage01b.mesh" castShadows="true" />
+        </node>
+        <node name="parts02#4" id="432">
+            <position x="-2390.62" y="-12832.6" z="514.882" />
+            <rotation qw="0.957571" qx="0.288197" qy="0" qz="0" />
+            <scale x="1" y="1" z="1" />
+            <entity name="parts02#4" meshFile="parts01.mesh" castShadows="true" />
+        </node>
+    </nodes>
+    <aiNodes />
+</scene>

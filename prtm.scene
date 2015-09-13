@@ -1,0 +1,15 @@
+<scene formatVersion="1.0">
+    <environment>
+        <skyBox material="Examples/MorningSkyBox" />
+        <fog mode="none" />
+    </environment>
+    <nodes>
+        <node name="inventory01_prtm#0" id="473">
+            <position x="391.701" y="-5119.52" z="-6006.09" />
+            <rotation qw="0.957572" qx="0" qy="0.288196" qz="0" />
+            <scale x="0.0705715" y="0.0705715" z="0.0705715" />
+            <entity name="inventory01_prtm#0" meshFile="inventory01_prtm.mesh" castShadows="true" />
+        </node>
+    </nodes>
+    <aiNodes />
+</scene>

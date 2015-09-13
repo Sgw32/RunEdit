@@ -1,0 +1,39 @@
+<scene formatVersion="1.0">
+    <environment>
+        <skyBox material="Examples/MorningSkyBox" />
+        <fog mode="none" />
+    </environment>
+    <nodes>
+        <node name="radar01tm#0" id="305">
+            <position x="1497.79" y="3247.05" z="-2407.14" />
+            <rotation qw="0.961262" qx="0" qy="-0.275637" qz="0" />
+            <scale x="3.75" y="3.75" z="3.75" />
+            <entity name="radar01tm#0" meshFile="radar01tm.mesh" castShadows="true" />
+        </node>
+        <node name="radar01tm#1" id="553">
+            <position x="8323.03" y="3247.05" z="4553.52" />
+            <rotation qw="0.961262" qx="0" qy="-0.275637" qz="0" />
+            <scale x="3.75" y="3.75" z="3.75" />
+            <entity name="radar01tm#1" meshFile="radar01tm.mesh" castShadows="true" />
+        </node>
+        <node name="radar01tm#2" id="937">
+            <position x="2549.85" y="3247.05" z="11108.8" />
+            <rotation qw="0.961262" qx="0" qy="-0.275637" qz="0" />
+            <scale x="3.75" y="3.75" z="3.75" />
+            <entity name="radar01tm#2" meshFile="radar01tm.mesh" castShadows="true" />
+        </node>
+        <node name="radar01tm#3" id="223">
+            <position x="-81.8145" y="3247.05" z="11217.5" />
+            <rotation qw="0.961262" qx="0" qy="-0.275637" qz="0" />
+            <scale x="3.75" y="3.75" z="3.75" />
+            <entity name="radar01tm#3" meshFile="radar01tm.mesh" castShadows="true" />
+        </node>
+        <node name="radar01tm#4" id="825">
+            <position x="-3121.6" y="3247.05" z="5607.92" />
+            <rotation qw="0.961262" qx="0" qy="-0.275637" qz="0" />
+            <scale x="3.75" y="3.75" z="3.75" />
+            <entity name="radar01tm#4" meshFile="radar01tm.mesh" castShadows="true" />
+        </node>
+    </nodes>
+    <aiNodes />
+</scene>

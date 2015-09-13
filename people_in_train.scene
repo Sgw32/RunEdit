@@ -1,0 +1,99 @@
+<scene formatVersion="1.0">
+    <environment>
+        <skyBox material="Examples/MorningSkyBox" />
+        <fog mode="none" />
+    </environment>
+    <nodes>
+        <node name="air01#0" id="676">
+            <position x="-17651.2" y="-8564.19" z="-3803.21" />
+            <rotation qw="0.47332" qx="0" qy="-0.880891" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="air01#0" meshFile="air01.mesh" castShadows="true" />
+        </node>
+        <node name="train_tlw01_nm#2" id="199">
+            <position x="-3828.35" y="-6559.25" z="-86118.8" />
+            <rotation qw="-1.78814e-007" qx="0" qy="-1" qz="0" />
+            <scale x="2.6053" y="2.6053" z="2.6053" />
+            <entity name="train_tlw01_nm#2" meshFile="train_tlw01_nm.mesh" castShadows="true" />
+        </node>
+        <node name="train_tlw01_nm#1" id="580">
+            <position x="-3828.35" y="-6563.4" z="-84055.3" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="1.03" y="1.03" z="1.03" />
+            <entity name="train_tlw01_nm#1" meshFile="train_tlw02_1.mesh" castShadows="true" />
+        </node>
+        <node name="train_tlw01_nm#0" id="463">
+            <position x="0" y="0" z="0" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="1" y="1" z="1" />
+            <entity name="train_tlw01_nm#0" meshFile="train_tlw01_nm.mesh" castShadows="true" />
+        </node>
+        <node name="air01#1" id="570">
+            <position x="-18918.4" y="-8564.19" z="-4641.99" />
+            <rotation qw="0.47332" qx="0" qy="-0.880891" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="air01#1" meshFile="air01.mesh" castShadows="true" />
+        </node>
+        <node name="air01#2" id="392">
+            <position x="-17718.3" y="-8741.78" z="-5254.15" />
+            <rotation qw="0.47332" qx="0" qy="-0.880891" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="air01#2" meshFile="air01.mesh" castShadows="true" />
+        </node>
+        <node name="air01#3" id="731">
+            <position x="29604.3" y="-7428.58" z="-76750.7" />
+            <rotation qw="0.47332" qx="0" qy="-0.880891" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="air01#3" meshFile="air01.mesh" castShadows="true" />
+        </node>
+        <node name="air01#4" id="446">
+            <position x="28225.9" y="-7428.58" z="-76957.6" />
+            <rotation qw="0.47332" qx="0" qy="-0.880891" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="air01#4" meshFile="air01.mesh" castShadows="true" />
+        </node>
+        <node name="air01#5" id="726">
+            <position x="30214.5" y="-7428.58" z="-75641.4" />
+            <rotation qw="0.47332" qx="0" qy="-0.880891" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="air01#5" meshFile="air01.mesh" castShadows="true" />
+        </node>
+        <node name="test_sit01#0" id="679">
+            <position x="-45.0429" y="52.5548" z="-147.318" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="30" y="30" z="30" />
+            <entity name="test_sit01#0" meshFile="test_sit01.mesh" castShadows="true" />
+        </node>
+        <node name="test_sit01#1" id="405">
+            <position x="-38.693" y="52.5548" z="-210.392" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="30" y="30" z="30" />
+            <entity name="test_sit01#1" meshFile="test_sit01.mesh" castShadows="true" />
+        </node>
+        <node name="test_sit01#2" id="960">
+            <position x="-48.5848" y="52.5548" z="-277.446" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="30" y="30" z="30" />
+            <entity name="test_sit01#2" meshFile="test_sit01.mesh" castShadows="true" />
+        </node>
+        <node name="test_sit01#3" id="942">
+            <position x="43.1504" y="52.5548" z="-26.4942" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="30" y="30" z="30" />
+            <entity name="test_sit01#3" meshFile="test_sit01.mesh" castShadows="true" />
+        </node>
+        <node name="test_sit01#4" id="513">
+            <position x="29.0864" y="52.5548" z="-212.684" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="30" y="30" z="30" />
+            <entity name="test_sit01#4" meshFile="test_sit01.mesh" castShadows="true" />
+        </node>
+        <node name="test_sit01#5" id="384">
+            <position x="-45.0429" y="52.5548" z="103.271" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="30" y="30" z="30" />
+            <entity name="test_sit01#5" meshFile="test_sit01.mesh" castShadows="true" />
+        </node>
+    </nodes>
+    <aiNodes />
+</scene>

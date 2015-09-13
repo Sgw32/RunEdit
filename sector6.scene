@@ -1,0 +1,489 @@
+<scene formatVersion="1.0">
+    <environment>
+        <skyBox material="Examples/MorningSkyBox" />
+        <fog mode="none" />
+    </environment>
+    <nodes>
+        <node name="garbage02a#8" id="193">
+            <position x="19874.5" y="815.803" z="11588.7" />
+            <rotation qw="0.779884" qx="0" qy="0.625924" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="garbage02a#8" meshFile="garbage02a.mesh" castShadows="true" />
+        </node>
+        <node name="garbage02a#5" id="970">
+            <position x="19942.7" y="815.803" z="10046.3" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="garbage02a#5" meshFile="garbage02a.mesh" castShadows="true" />
+        </node>
+        <node name="garbage02a#4" id="69">
+            <position x="20099.2" y="815.803" z="8242.67" />
+            <rotation qw="0.944089" qx="0" qy="0.329691" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="garbage02a#4" meshFile="garbage02a.mesh" castShadows="true" />
+        </node>
+        <node name="garbage02a#0" id="907">
+            <position x="20099.2" y="815.803" z="9364.07" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="garbage02a#0" meshFile="garbage02a.mesh" castShadows="true" />
+        </node>
+        <node name="gprops06#4" id="236">
+            <position x="19989.4" y="599.622" z="10455" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="gprops06#4" meshFile="gprops06.mesh" castShadows="true" />
+        </node>
+        <node name="gprops03#3" id="756">
+            <position x="19943" y="1057.39" z="10269.2" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="3.925" y="3.925" z="3.925" />
+            <entity run3batcher="true" name="gprops03#3" meshFile="gprops03.mesh" castShadows="true" />
+        </node>
+        <node name="gprops04#1" id="880">
+            <position x="20090.1" y="611.102" z="7828.4" />
+            <rotation qw="0.00436319" qx="0" qy="-0.999991" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="gprops04#1" meshFile="gprops04.mesh" castShadows="true" />
+        </node>
+        <node name="gprops04#0" id="602">
+            <position x="19787.2" y="611.102" z="7816.23" />
+            <rotation qw="0.991445" qx="0" qy="-0.130526" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="gprops04#0" meshFile="gprops04.mesh" castShadows="true" />
+        </node>
+        <node name="gprops01#2" id="84">
+            <position x="19967.7" y="1008.99" z="8276.25" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="gprops01#2" meshFile="gprops01.mesh" castShadows="true" />
+        </node>
+        <node name="gprops03#2" id="278">
+            <position x="19943" y="1057.39" z="10090.2" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="3.925" y="3.925" z="3.925" />
+            <entity run3batcher="true" name="gprops03#2" meshFile="gprops03.mesh" castShadows="true" />
+        </node>
+        <node name="garbage01b#8" id="619">
+            <position x="20198.6" y="820.188" z="11595.6" />
+            <rotation qw="0.241922" qx="0" qy="0.970296" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="garbage01b#8" meshFile="garbage01b.mesh" castShadows="true" />
+        </node>
+        <node name="garbage01b#5" id="534">
+            <position x="19717.9" y="820.188" z="11595.6" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="garbage01b#5" meshFile="garbage01b.mesh" castShadows="true" />
+        </node>
+        <node name="garbage01b#4" id="191">
+            <position x="19784.5" y="816.188" z="8933.6" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="garbage01b#4" meshFile="garbage01b.mesh" castShadows="true" />
+        </node>
+        <node name="garbage01b#1" id="684">
+            <position x="19793" y="816.188" z="8151.43" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="garbage01b#1" meshFile="garbage01b.mesh" castShadows="true" />
+        </node>
+        <node name="garbage01b#0" id="113">
+            <position x="20375.3" y="816.188" z="8621.67" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="garbage01b#0" meshFile="garbage01b.mesh" castShadows="true" />
+        </node>
+        <node name="carpte01#1" id="788">
+            <position x="20046.3" y="808.25" z="7831.6" />
+            <rotation qw="0.544639" qx="0" qy="0.838671" qz="0" />
+            <scale x="89.8515" y="2.5" z="85.0687" />
+            <entity run3batcher="true" name="carpte01#1" meshFile="carpte01.mesh" castShadows="true" />
+        </node>
+        <node name="carpte01#0" id="820">
+            <position x="19995.2" y="808.25" z="6329" />
+            <rotation qw="0.806445" qx="0" qy="0.59131" qz="0" />
+            <scale x="89.8515" y="2.5" z="85.0687" />
+            <entity run3batcher="true" name="carpte01#0" meshFile="carpte01.mesh" castShadows="true" />
+        </node>
+        <node name="butilka01#8" id="124">
+            <position x="20060.6" y="815.02" z="10507" />
+            <rotation qw="0.659956" qx="0.595049" qy="-0.351209" qz="0.295005" />
+            <scale x="125" y="125" z="125" />
+            <entity run3batcher="true" name="butilka01#8" meshFile="butilka01.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#0" id="767">
+            <position x="20040.9" y="841.323" z="7509.4" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="gprops10#0" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#1" id="211">
+            <position x="20039.9" y="841.635" z="7408.85" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="gprops10#1" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#2" id="324">
+            <position x="20039.9" y="841.635" z="7308.85" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="gprops10#2" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#3" id="490">
+            <position x="20039.9" y="841.635" z="7208.95" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="gprops10#3" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#4" id="502">
+            <position x="20039.9" y="841.635" z="7108.85" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="gprops10#4" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#5" id="625">
+            <position x="20039.9" y="841.635" z="7008.85" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="gprops10#5" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#6" id="885">
+            <position x="20039.9" y="841.635" z="6908.85" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="gprops10#6" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#7" id="608">
+            <position x="20039.9" y="841.635" z="6808.85" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="gprops10#7" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#8" id="372">
+            <position x="20039.9" y="841.635" z="6708.85" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="gprops10#8" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#9" id="201">
+            <position x="19909.1" y="841.505" z="7509.4" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="gprops10#9" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#10" id="724">
+            <position x="19908.1" y="841.635" z="7408.85" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="gprops10#10" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#20" id="828">
+            <position x="19884" y="841.045" z="8853.03" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="gprops10#20" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#30" id="787">
+            <position x="20012.6" y="841.045" z="8653.03" />
+            <rotation qw="-1" qx="0" qy="-3.25841e-007" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="gprops10#30" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#40" id="81">
+            <position x="20012.6" y="841.045" z="9678.6" />
+            <rotation qw="-1" qx="0" qy="-3.25841e-007" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="gprops10#40" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#11" id="571">
+            <position x="19908.1" y="841.635" z="7308.85" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="gprops10#11" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#21" id="50">
+            <position x="19884" y="841.045" z="8954.9" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="gprops10#21" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#31" id="722">
+            <position x="20012.6" y="841.045" z="8753.43" />
+            <rotation qw="-1" qx="0" qy="-3.25841e-007" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="gprops10#31" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#41" id="881">
+            <position x="20012.6" y="841.045" z="9781.6" />
+            <rotation qw="-1" qx="0" qy="-3.25841e-007" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="gprops10#41" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#12" id="307">
+            <position x="19908.1" y="841.635" z="7208.85" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="gprops10#12" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#22" id="340">
+            <position x="19884" y="841.045" z="9057.88" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="gprops10#22" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#32" id="690">
+            <position x="20012.6" y="841.045" z="8856.13" />
+            <rotation qw="-1" qx="0" qy="-3.25841e-007" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="gprops10#32" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#13" id="742">
+            <position x="19908.1" y="841.635" z="7108.55" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="gprops10#13" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#23" id="92">
+            <position x="19884" y="841.045" z="9161.17" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="gprops10#23" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#33" id="647">
+            <position x="20012.6" y="841.045" z="8960.55" />
+            <rotation qw="-1" qx="0" qy="-3.25841e-007" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="gprops10#33" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#14" id="348">
+            <position x="19908.1" y="841.635" z="7007.82" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="gprops10#14" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#24" id="991">
+            <position x="19884" y="841.045" z="9264.05" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="gprops10#24" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#34" id="682">
+            <position x="20012.6" y="841.045" z="9064.5" />
+            <rotation qw="-1" qx="0" qy="-3.25841e-007" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="gprops10#34" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#15" id="472">
+            <position x="19908.1" y="841.635" z="6905.2" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="gprops10#15" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#25" id="233">
+            <position x="19884" y="841.045" z="9368.22" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="gprops10#25" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#35" id="391">
+            <position x="20012.6" y="841.045" z="9170.25" />
+            <rotation qw="-1" qx="0" qy="-3.25841e-007" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="gprops10#35" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#16" id="714">
+            <position x="19908.1" y="841.635" z="6800.18" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="gprops10#16" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#26" id="447">
+            <position x="19884" y="841.045" z="9473.3" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="gprops10#26" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#36" id="10">
+            <position x="20012.6" y="841.045" z="9273.28" />
+            <rotation qw="-1" qx="0" qy="-3.25841e-007" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="gprops10#36" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#17" id="453">
+            <position x="19908.1" y="841.635" z="6696.17" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="gprops10#17" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#27" id="326">
+            <position x="19884" y="841.045" z="9574.85" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="gprops10#27" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#37" id="539">
+            <position x="20012.6" y="841.045" z="9375.4" />
+            <rotation qw="-1" qx="0" qy="-3.25841e-007" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="gprops10#37" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#18" id="849">
+            <position x="19884" y="841.045" z="8653.03" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="gprops10#18" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#28" id="441">
+            <position x="19884" y="841.045" z="9682.8" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="gprops10#28" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#38" id="69">
+            <position x="20012.6" y="841.045" z="9475.95" />
+            <rotation qw="-1" qx="0" qy="-3.25841e-007" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="gprops10#38" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#19" id="197">
+            <position x="19884" y="841.045" z="8753.03" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="gprops10#19" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#29" id="936">
+            <position x="19884" y="841.045" z="9787.1" />
+            <rotation qw="-1.62921e-007" qx="0" qy="1" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="gprops10#29" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="gprops10#39" id="272">
+            <position x="20012.6" y="841.045" z="9578.58" />
+            <rotation qw="-1" qx="0" qy="-3.25841e-007" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="gprops10#39" meshFile="gprops10.mesh" castShadows="true" />
+        </node>
+        <node name="cagebulb01#4" id="711">
+            <position x="19974.7" y="1136.04" z="12161.3" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="cagebulb01#4" meshFile="cagebulb01.mesh" castShadows="true" />
+        </node>
+        <node name="cagebulb01#1" id="193">
+            <position x="19789.2" y="1133.12" z="6175.7" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="cagebulb01#1" meshFile="cagebulb01.mesh" castShadows="true" />
+        </node>
+        <node name="cagebulb01#0" id="361">
+            <position x="20168.7" y="1133.12" z="6175.7" />
+            <rotation qw="0.707107" qx="0" qy="-0.707107" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="cagebulb01#0" meshFile="cagebulb01.mesh" castShadows="true" />
+        </node>
+        <node name="cagebulb01#2" id="770">
+            <position x="19769.1" y="1136.04" z="11699.5" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="cagebulb01#2" meshFile="cagebulb01.mesh" castShadows="true" />
+        </node>
+        <node name="cagebulb01#3" id="327">
+            <position x="20178.1" y="1136.04" z="11699.5" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="cagebulb01#3" meshFile="cagebulb01.mesh" castShadows="true" />
+        </node>
+        <node name="snow01#0" id="51">
+            <position x="20224.5" y="808.715" z="4243.38" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="22.0746" y="8.0888" z="5.44045" />
+            <entity run3batcher="true" name="snow01#0" meshFile="snow01.mesh" castShadows="true" />
+        </node>
+        <node name="monitor02#1" id="301">
+            <position x="19985.1" y="1135.5" z="8301.65" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="7.5" y="7.5" z="7.5" />
+            <entity run3batcher="true" name="monitor02#1" meshFile="monitor02.mesh" castShadows="true" />
+        </node>
+        <node name="monitor02#2" id="849">
+            <position x="19981.2" y="1135.46" z="8255.25" />
+            <rotation qw="0.00436318" qx="0" qy="0.999991" qz="0" />
+            <scale x="7.5" y="7.5" z="7.5" />
+            <entity run3batcher="true" name="monitor02#2" meshFile="monitor02.mesh" castShadows="true" />
+        </node>
+        <node name="cafe_table01#0" id="530">
+            <position x="19965.5" y="802.022" z="7829.95" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="118.319" y="118.319" z="118.319" />
+            <entity run3batcher="true" name="cafe_table01#0" meshFile="cafe_table01.mesh" castShadows="true" />
+        </node>
+        <node name="box#3" id="222">
+            <position x="19981.3" y="1154.48" z="8254.42" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="226.001" y="127.386" z="2.5" />
+            <entity run3batcher="true" name="box#3" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="butilka01#7" id="744">
+            <position x="20044" y="812.032" z="10399.8" />
+            <rotation qw="0.588758" qx="0.386007" qy="-0.38939" qz="-0.593918" />
+            <scale x="125" y="125" z="125" />
+            <entity run3batcher="true" name="butilka01#7" meshFile="butilka01.mesh" castShadows="true" />
+        </node>
+        <node name="computeh#1" id="45">
+            <position x="20125.6" y="816.225" z="8244.28" />
+            <rotation qw="0.491198" qx="-0.491198" qy="-0.50865" qz="-0.50865" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="computeh#1" meshFile="computeh.mesh" castShadows="true" />
+        </node>
+        <node name="computeh#0" id="615">
+            <position x="20075.2" y="816.225" z="8368.98" />
+            <rotation qw="0.694697" qx="-0.694697" qy="0.131892" qz="0.131892" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="computeh#0" meshFile="computeh.mesh" castShadows="true" />
+        </node>
+        <node name="large_container01#0" id="603">
+            <position x="19590.6" y="808.475" z="9035.9" />
+            <rotation qw="0.66262" qx="0" qy="0.748956" qz="0" />
+            <scale x="6.3173" y="6.3173" z="6.3173" />
+            <entity run3batcher="true" name="large_container01#0" meshFile="large_container01.mesh" castShadows="true" />
+        </node>
+        <node name="parts04#0" id="589">
+            <position x="20071.2" y="848.705" z="7948.63" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity run3batcher="true" name="parts04#0" meshFile="parts04.mesh" castShadows="true" />
+        </node>
+        <node name="snow01#1" id="310">
+            <position x="20161.9" y="801.865" z="12285.2" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="13.2877" y="8.0888" z="5.44045" />
+            <entity run3batcher="true" name="snow01#1" meshFile="snow01.mesh" castShadows="true" />
+        </node>
+        <node name="butilka01#4" id="623">
+            <position x="19991.3" y="812.493" z="10612.7" />
+            <rotation qw="0.592104" qx="-0.380854" qy="0.384192" qz="-0.597294" />
+            <scale x="125" y="125" z="125" />
+            <entity run3batcher="true" name="butilka01#4" meshFile="butilka01.mesh" castShadows="true" />
+        </node>
+        <node name="butilka01#5" id="904">
+            <position x="19960.6" y="806.35" z="10624.7" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="125" y="125" z="125" />
+            <entity run3batcher="true" name="butilka01#5" meshFile="butilka01.mesh" castShadows="true" />
+        </node>
+        <node name="butilka01#6" id="839">
+            <position x="19945.4" y="806.35" z="10606.4" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="125" y="125" z="125" />
+            <entity run3batcher="true" name="butilka01#6" meshFile="butilka01.mesh" castShadows="true" />
+        </node>
+        <node name="large_container01#1" id="753">
+            <position x="19590.6" y="1036.35" z="9035.9" />
+            <rotation qw="0.71934" qx="0" qy="0.694659" qz="0" />
+            <scale x="6.3173" y="6.3173" z="6.3173" />
+            <entity run3batcher="true" name="large_container01#1" meshFile="large_container01.mesh" castShadows="true" />
+        </node>
+    </nodes>
+    <aiNodes />
+</scene>

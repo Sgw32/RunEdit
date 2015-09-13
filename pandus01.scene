@@ -1,0 +1,63 @@
+<scene formatVersion="1.0">
+    <environment>
+        <skyBox material="Examples/MorningSkyBox" />
+        <fog mode="none" />
+    </environment>
+    <nodes>
+        <node name="lianozovo_pandus01#0" id="863">
+            <position x="717.805" y="-13091.4" z="2922.71" />
+            <rotation qw="0.993823" qx="0.00313792" qy="-0.100073" qz="-0.0478754" />
+            <scale x="5.21834" y="6.46468" z="5.21834" />
+            <entity name="lianozovo_pandus01#0" meshFile="lianozovo_pandus01.mesh" castShadows="true" />
+        </node>
+        <node name="lianozovo_pandus01#1" id="653">
+            <position x="-614.767" y="-13067.2" z="2884.1" />
+            <rotation qw="0.994658" qx="0.0122153" qy="0.0913963" qz="-0.0463971" />
+            <scale x="5.21834" y="6.46468" z="5.21834" />
+            <entity name="lianozovo_pandus01#1" meshFile="lianozovo_pandus01.mesh" castShadows="true" />
+        </node>
+        <node name="lianozovo_pandus01#2" id="402">
+            <position x="276.231" y="-13055.1" z="2652.08" />
+            <rotation qw="0.994966" qx="-0.00210378" qy="-0.1001" qz="0.00420288" />
+            <scale x="1.09596" y="6.46468" z="5.21834" />
+            <entity name="lianozovo_pandus01#2" meshFile="lianozovo_pandus01.mesh" castShadows="true" />
+        </node>
+        <node name="lianozovo_pandus01#3" id="996">
+            <position x="-271.779" y="-13055.7" z="2861.53" />
+            <rotation qw="0.632083" qx="0.0162716" qy="-0.774503" qz="0.0187355" />
+            <scale x="5.21834" y="6.46468" z="5.21834" />
+            <entity name="lianozovo_pandus01#3" meshFile="lianozovo_pandus01.mesh" castShadows="true" />
+        </node>
+        <node name="lianozovo_pandus01#4" id="963">
+            <position x="128.903" y="-13052.6" z="3376.81" />
+            <rotation qw="0.994966" qx="-0.00210378" qy="-0.1001" qz="0.00420288" />
+            <scale x="1.09596" y="6.46468" z="5.21834" />
+            <entity name="lianozovo_pandus01#4" meshFile="lianozovo_pandus01.mesh" castShadows="true" />
+        </node>
+        <node name="lianozovo_pandus01#5" id="525">
+            <position x="-1204.92" y="-13067.1" z="2593.95" />
+            <rotation qw="0.994502" qx="-0.00291558" qy="0.104614" qz="0.00368639" />
+            <scale x="1.09596" y="6.46468" z="5.21834" />
+            <entity name="lianozovo_pandus01#5" meshFile="lianozovo_pandus01.mesh" castShadows="true" />
+        </node>
+        <node name="lianozovo_pandus01#6" id="519">
+            <position x="-1055.54" y="-13062.4" z="3296.17" />
+            <rotation qw="0.994502" qx="-0.00291558" qy="0.104614" qz="0.00368639" />
+            <scale x="1.09596" y="6.46468" z="5.21834" />
+            <entity name="lianozovo_pandus01#6" meshFile="lianozovo_pandus01.mesh" castShadows="true" />
+        </node>
+        <node name="lianozovo_pandus01#7" id="199">
+            <position x="-1690.38" y="-13090.1" z="2780.69" />
+            <rotation qw="0.771036" qx="0.0123039" qy="-0.636308" qz="0.02155" />
+            <scale x="5.21834" y="6.46468" z="5.21834" />
+            <entity name="lianozovo_pandus01#7" meshFile="lianozovo_pandus01.mesh" castShadows="true" />
+        </node>
+        <node name="lianozovo_pandus01#8" id="215">
+            <position x="-1549.47" y="-13077.1" z="3511.51" />
+            <rotation qw="0.771036" qx="0.0123039" qy="-0.636308" qz="0.02155" />
+            <scale x="5.21834" y="6.46468" z="5.21834" />
+            <entity name="lianozovo_pandus01#8" meshFile="lianozovo_pandus01.mesh" castShadows="true" />
+        </node>
+    </nodes>
+    <aiNodes />
+</scene>

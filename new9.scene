@@ -1,0 +1,27 @@
+<scene formatVersion="1.0">
+    <environment>
+        <skyBox material="Examples/MorningSkyBox" />
+        <fog mode="none" />
+    </environment>
+    <nodes>
+        <node name="adressbox2#0" id="425">
+            <position x="14832.3" y="458.205" z="9966.02" />
+            <rotation qw="-8.9407e-008" qx="0" qy="1" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity name="adressbox2#0" meshFile="adressbox9.mesh" castShadows="true" />
+        </node>
+        <node name="adressbox1#1" id="211">
+            <position x="14087.1" y="-112.988" z="7831.13" />
+            <rotation qw="0.707107" qx="0" qy="0.707107" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity name="adressbox1#1" meshFile="adressbox2.mesh" castShadows="true" />
+        </node>
+        <node name="adressbox1#0" id="438">
+            <position x="5313.45" y="-81.7033" z="-4450.47" />
+            <rotation qw="-8.9407e-008" qx="0" qy="1" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity name="adressbox1#0" meshFile="adressbox1.mesh" castShadows="true" />
+        </node>
+    </nodes>
+    <aiNodes />
+</scene>
