@@ -1,0 +1,64 @@
+<scene formatVersion="1.0" multiplier="0.5" >
+    <environment>
+	<fog mode="none" />
+ 		<skyBox material="Examples/MorningSkyBox" />
+         <player fov="45" x="1000" y="1000" z="1000" mpr="1" />
+        <fade speed="0.2" duration="3"overlay="Overlays/FadeInOut" material="Materials/OverlayMaterial" startFade="true" />
+        <hud show="false" />
+        <colourAmbient r="0.2" g="0.2" b="0.3" />
+    </environment>
+
+    <nodes>
+                      <node name="bunker01" id="722">
+            <position x="0" y="0" z="0" />
+            <scale x="20" y="20" z="20" />
+            <entity name="bunker01" meshFile="delusion02.mesh" castShadows="true" />
+        </node>
+
+        <node name="light4Node" id="655">
+            <position x="704.633" y="1090.18" z="823.205" />
+            <rotation qw="-0.542581" qx="0.478432" qy="0.517868" qz="0.456641" />
+            <light name="light4" castShadows="true" type="spot">
+                <colourDiffuse r="1" g="1" b="1.3" />
+                <colourSpecular r="0.2" g="0.2" b="0" />
+                <normal x="0" y="0" z="-1" />
+                <lightAttenuation range="2000" />
+                <lightRange inner="70" outer="120" />
+            </light>
+        </node>
+        <node name="light2Node" id="227">
+            <position x="2546.72" y="368.214" z="-200.898" />
+            <rotation qw="0.449779" qx="-0.484444" qy="0.510533" qz="0.549881" />
+            <light name="light2" castShadows="true" type="spot">
+                <colourDiffuse r="1" g="1" b="1.3" />
+                <colourSpecular r="1" g="1" b="1" />
+                <normal x="0" y="0" z="-1" />
+                <lightAttenuation range="1000" />
+                <lightRange inner="70" outer="120" />
+            </light>
+        </node>
+        <node name="light3Node" id="705">
+            <position x="2749.88" y="101.522" z="-198.704" />
+            <rotation qw="-0.707627" qx="-0.0708798" qy="0.699522" qz="-0.0700678" />
+            <light name="light3" castShadows="true" type="spot">
+                <colourDiffuse r="1" g="1" b="1.3" />
+                <colourSpecular r="1" g="1" b="1" />
+                <normal x="0" y="0" z="-1" />
+                <lightAttenuation range="1000" />
+                <lightRange inner="70" outer="120" />
+            </light>
+        </node>
+        <node name="light0Node" id="549">
+            <position x="787.839" y="970.846" z="-963.933" />
+            <rotation qw="-0.705033" qx="0.701351" qy="0.0744757" qz="0.0740861" />
+            <light name="light0" castShadows="true" type="spot">
+                <colourDiffuse r="1" g="1" b="1.3" />
+                <colourSpecular r="1" g="1" b="1" />
+                <normal x="0" y="0" z="-1" />
+                <lightAttenuation range="2000" />
+                <lightRange inner="70" outer="120" />
+            </light>
+        </node>
+       
+    </nodes>
+</scene>

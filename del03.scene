@@ -1,0 +1,87 @@
+<scene formatVersion="1.0">
+    <environment>
+        <skyBox material="Examples/MorningSkyBox" />
+        <fog mode="none" />
+    </environment>
+    <nodes>
+        <node name="su27#1" id="784">
+            <position x="41824" y="-2606.22" z="11614.5" />
+            <rotation qw="0.190809" qx="0" qy="-0.981627" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="su27#1" meshFile="bulding02p.mesh" castShadows="true" />
+        </node>
+        <node name="coming" id="670">
+            <position x="41824" y="3459.81" z="4669.71" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="coming" meshFile="su27.mesh" castShadows="true" />
+        </node>
+        <node name="building08#1" id="474">
+            <position x="66161" y="292.296" z="16338.3" />
+            <rotation qw="0.544639" qx="0" qy="-0.838671" qz="0" />
+            <scale x="20" y="20" z="20" />
+            <entity name="building08#1" meshFile="building08.mesh" castShadows="true" />
+        </node>
+        <node name="building08#0" id="463">
+            <position x="61182.4" y="292.296" z="14121.7" />
+            <rotation qw="0.544639" qx="0" qy="-0.838671" qz="0" />
+            <scale x="20" y="20" z="20" />
+            <entity name="building08#0" meshFile="building08.mesh" castShadows="true" />
+        </node>
+        <node name="building08#2" id="570">
+            <position x="58211.9" y="-1515.59" z="20793.7" />
+            <rotation qw="0.544639" qx="0" qy="-0.838671" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="building08#2" meshFile="moscowb2.mesh" castShadows="true" />
+        </node>
+        <node name="strange_terrain01#0" id="802">
+            <position x="57801.4" y="-2581.51" z="-55081" />
+            <rotation qw="0.999991" qx="0.00436331" qy="0" qz="0" />
+            <scale x="4000" y="240" z="4000" />
+            <entity name="strange_terrain01#0" meshFile="strange_terrain01.mesh" castShadows="true" />
+        </node>
+        <node name="bulding02p#0" id="358">
+            <position x="48812.3" y="-2606.22" z="8139.13" />
+            <rotation qw="0.190809" qx="0" qy="-0.981627" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="bulding02p#0" meshFile="bulding02p.mesh" castShadows="true" />
+        </node>
+        <node name="bulding02p#1" id="124">
+            <position x="57450.9" y="292.296" z="11426.7" />
+            <rotation qw="0.544639" qx="0" qy="-0.838671" qz="0" />
+            <scale x="20" y="20" z="20" />
+            <entity name="bulding02p#1" meshFile="building08.mesh" castShadows="true" />
+        </node>
+        <node name="start1" id="735">
+            <position x="41824" y="15417.8" z="-237080" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="start1" meshFile="su27.mesh" castShadows="true" />
+        </node>
+        <node name="fall" id="988">
+            <position x="41824" y="3459.81" z="6757.14" />
+            <rotation qw="0.916265" qx="0.393658" qy="0.0737976" qz="0.00678105" />
+            <scale x="2" y="2" z="2" />
+            <entity name="fall" meshFile="su27.mesh" castShadows="true" />
+        </node>
+        <node name="crush" id="426">
+            <position x="42637.9" y="-711.28" z="10689.6" />
+            <rotation qw="0.916265" qx="0.393658" qy="0.0737976" qz="0.00678105" />
+            <scale x="2" y="2" z="2" />
+            <entity name="crush" meshFile="su27.mesh" castShadows="true" />
+        </node>
+        <node name="light0Node" id="178">
+            <position x="5025.92" y="20523.32" z="-53403.4" />
+            <rotation qw="-0.446031" qx="0.0871038" qy="0.874254" qz="0.17073" />
+            <scale x="1" y="1" z="1" />
+            <light name="light0" castShadows="true" type="spot">
+                <colourDiffuse r="1" g="1" b="1" />
+                <colourSpecular r="1" g="1" b="1" />
+                <normal x="0" y="0" z="-1" />
+                <lightAttenuation range="100000" />
+                <lightRange inner="90" outer="120" />
+            </light>
+        </node>
+    </nodes>
+    <aiNodes />
+</scene>

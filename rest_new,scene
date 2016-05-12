@@ -1,0 +1,8 @@
+<scene formatVersion="1.0">
+    <environment>
+        <skyBox material="Examples/MorningSkyBox" />
+        <fog mode="none" />
+    </environment>
+    <nodes />
+    <aiNodes />
+</scene>

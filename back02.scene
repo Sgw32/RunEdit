@@ -1,0 +1,207 @@
+<scene formatVersion="1.0">
+    <environment>
+        <skyBox material="Examples/MorningSkyBox" />
+        <fog mode="none" />
+    </environment>
+    <nodes>
+        <node name="tree_dec01#20" id="303">
+            <position x="-18337.2" y="-459.667" z="-3323.36" />
+            <rotation qw="0.748927" qx="-0.0057824" qy="0.662595" qz="-0.0065358" />
+            <scale x="1" y="1" z="1" />
+            <nocollide run3batcher="true" name="tree_dec01#20" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#21" id="591">
+            <position x="-20054.8" y="-459.668" z="-3534.25" />
+            <rotation qw="0.748927" qx="-0.0057824" qy="0.662595" qz="-0.0065358" />
+            <scale x="1" y="1" z="1" />
+            <nocollide run3batcher="true" name="tree_dec01#21" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#22" id="655">
+            <position x="-21956.4" y="-448.867" z="-3426.88" />
+            <rotation qw="0.748927" qx="-0.0057824" qy="0.662595" qz="-0.0065358" />
+            <scale x="1" y="1" z="1" />
+            <nocollide run3batcher="true" name="tree_dec01#22" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="fence18#28" id="425">
+            <position x="-12205.2" y="-456.837" z="-4582.25" />
+            <rotation qw="0.622515" qx="0" qy="-0.782608" qz="0" />
+            <scale x="0.5" y="0.5" z="0.5" />
+            <nocollide run3batcher="true" name="fence18#28" meshFile="fence18.mesh" castShadows="true" />
+        </node>
+        <node name="bramble01#50" id="235">
+            <position x="-22191.9" y="-432.733" z="-2524.55" />
+            <rotation qw="0.748927" qx="-0.0057824" qy="0.662595" qz="-0.0065358" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="bramble01#50" meshFile="bramble01.mesh" castShadows="true" />
+        </node>
+        <node name="bramble01#51" id="326">
+            <position x="-21057.6" y="-429.013" z="-2170.51" />
+            <rotation qw="0.748927" qx="-0.0057824" qy="0.662595" qz="-0.0065358" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="bramble01#51" meshFile="bramble01.mesh" castShadows="true" />
+        </node>
+        <node name="bramble01#52" id="232">
+            <position x="-20583.9" y="-438.52" z="-2661.12" />
+            <rotation qw="0.748927" qx="-0.0057824" qy="0.662595" qz="-0.0065358" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="bramble01#52" meshFile="bramble01.mesh" castShadows="true" />
+        </node>
+        <node name="bramble01#53" id="306">
+            <position x="-20683.2" y="-429.768" z="-2168.14" />
+            <rotation qw="0.748927" qx="-0.0057824" qy="0.662595" qz="-0.0065358" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="bramble01#53" meshFile="bramble01.mesh" castShadows="true" />
+        </node>
+        <node name="bramble01#54" id="109">
+            <position x="-19858.4" y="-437.375" z="-2505.95" />
+            <rotation qw="0.748927" qx="-0.0057824" qy="0.662595" qz="-0.0065358" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="bramble01#54" meshFile="bramble01.mesh" castShadows="true" />
+        </node>
+        <node name="bramble01#55" id="200">
+            <position x="-18897.4" y="-433.125" z="-2142.65" />
+            <rotation qw="0.748927" qx="-0.0057824" qy="0.662595" qz="-0.0065358" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="bramble01#55" meshFile="bramble01.mesh" castShadows="true" />
+        </node>
+        <node name="bramble01#56" id="531">
+            <position x="-18385.6" y="-435.607" z="-2223.05" />
+            <rotation qw="0.748927" qx="-0.0057824" qy="0.662595" qz="-0.0065358" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="bramble01#56" meshFile="bramble01.mesh" castShadows="true" />
+        </node>
+        <node name="bramble01#57" id="858">
+            <position x="-17814.5" y="-443.134" z="-2587.39" />
+            <rotation qw="0.748927" qx="-0.0057824" qy="0.662595" qz="-0.0065358" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="bramble01#57" meshFile="bramble01.mesh" castShadows="true" />
+        </node>
+        <node name="bramble01#58" id="827">
+            <position x="-17018.7" y="-445.902" z="-2649.46" />
+            <rotation qw="0.748927" qx="-0.0057824" qy="0.662595" qz="-0.0065358" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="bramble01#58" meshFile="bramble01.mesh" castShadows="true" />
+        </node>
+        <node name="bramble01#59" id="554">
+            <position x="-16364.3" y="-439.638" z="-2207.54" />
+            <rotation qw="0.748927" qx="-0.0057824" qy="0.662595" qz="-0.0065358" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="bramble01#59" meshFile="bramble01.mesh" castShadows="true" />
+        </node>
+        <node name="bramble01#60" id="477">
+            <position x="-16151.7" y="-430.881" z="-1676.01" />
+            <rotation qw="0.748927" qx="-0.0057824" qy="0.662595" qz="-0.0065358" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="bramble01#60" meshFile="bramble01.mesh" castShadows="true" />
+        </node>
+        <node name="bramble01#61" id="10">
+            <position x="-17036" y="-430.181" z="-1744.19" />
+            <rotation qw="0.748927" qx="-0.0057824" qy="0.662595" qz="-0.0065358" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="bramble01#61" meshFile="bramble01.mesh" castShadows="true" />
+        </node>
+        <node name="bramble01#62" id="67">
+            <position x="-17545.9" y="-427.873" z="-1673.57" />
+            <rotation qw="0.748927" qx="-0.0057824" qy="0.662595" qz="-0.0065358" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="bramble01#62" meshFile="bramble01.mesh" castShadows="true" />
+        </node>
+        <node name="bramble01#63" id="614">
+            <position x="-17270.9" y="-427.783" z="-1634.62" />
+            <rotation qw="0.748927" qx="-0.0057824" qy="0.662595" qz="-0.0065358" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="bramble01#63" meshFile="bramble01.mesh" castShadows="true" />
+        </node>
+        <node name="bramble01#64" id="620">
+            <position x="-15842" y="-431.773" z="-1689.46" />
+            <rotation qw="0.748927" qx="-0.0057824" qy="0.662595" qz="-0.0065358" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="bramble01#64" meshFile="bramble01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#23" id="487">
+            <position x="-22951.1" y="-448.867" z="-3549.01" />
+            <rotation qw="0.748927" qx="-0.0057824" qy="0.662595" qz="-0.0065358" />
+            <scale x="1" y="1" z="1" />
+            <nocollide run3batcher="true" name="tree_dec01#23" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#24" id="892">
+            <position x="-23092.2" y="-428.65" z="-2399.39" />
+            <rotation qw="0.748927" qx="-0.0057824" qy="0.662595" qz="-0.0065358" />
+            <scale x="2" y="2" z="2" />
+            <nocollide run3batcher="true" name="tree_dec01#24" meshFile="bramble01.mesh" castShadows="true" />
+        </node>
+        <node name="zabor05#26" id="977">
+            <position x="-11206.5" y="-361.324" z="-6104.32" />
+            <rotation qw="0.665882" qx="0" qy="-0.746057" qz="0" />
+            <scale x="2" y="3.10277" z="2" />
+            <nocollide run3batcher="true" name="zabor05#26" meshFile="zabor05.mesh" castShadows="true" />
+        </node>
+        <node name="zabor05#27" id="172">
+            <position x="-11834.5" y="-361.324" z="-6267.07" />
+            <rotation qw="0.665882" qx="0" qy="-0.746057" qz="0" />
+            <scale x="2" y="3.10277" z="2" />
+            <nocollide run3batcher="true" name="zabor05#27" meshFile="zabor05.mesh" castShadows="true" />
+        </node>
+        <node name="zabor05#28" id="582">
+            <position x="-15928.1" y="-361.324" z="-3834.22" />
+            <rotation qw="1" qx="0" qy="8.9407e-008" qz="0" />
+            <scale x="2" y="3.10277" z="2" />
+            <nocollide run3batcher="true" name="zabor05#28" meshFile="zabor05.mesh" castShadows="true" />
+        </node>
+        <node name="zabor05#29" id="183">
+            <position x="-17373" y="-361.324" z="-3834.22" />
+            <rotation qw="1" qx="0" qy="8.9407e-008" qz="0" />
+            <scale x="2" y="3.10277" z="2" />
+            <nocollide run3batcher="true" name="zabor05#29" meshFile="zabor05.mesh" castShadows="true" />
+        </node>
+        <node name="zabor05#30" id="518">
+            <position x="-18821.2" y="-361.324" z="-3834.22" />
+            <rotation qw="1" qx="0" qy="8.9407e-008" qz="0" />
+            <scale x="2" y="3.10277" z="2" />
+            <nocollide run3batcher="true" name="zabor05#30" meshFile="zabor05.mesh" castShadows="true" />
+        </node>
+        <node name="zabor05#31" id="289">
+            <position x="-20065.3" y="-361.324" z="-3834.22" />
+            <rotation qw="1" qx="0" qy="8.9407e-008" qz="0" />
+            <scale x="2" y="3.10277" z="2" />
+            <nocollide run3batcher="true" name="zabor05#31" meshFile="zabor05.mesh" castShadows="true" />
+        </node>
+        <node name="zabor05#32" id="242">
+            <position x="-21476.3" y="-361.324" z="-3834.22" />
+            <rotation qw="1" qx="0" qy="8.9407e-008" qz="0" />
+            <scale x="2" y="3.10277" z="2" />
+            <nocollide run3batcher="true" name="zabor05#32" meshFile="zabor05.mesh" castShadows="true" />
+        </node>
+        <node name="zabor05#33" id="221">
+            <position x="-22780.3" y="-361.324" z="-3834.22" />
+            <rotation qw="1" qx="0" qy="8.9407e-008" qz="0" />
+            <scale x="2" y="3.10277" z="2" />
+            <nocollide run3batcher="true" name="zabor05#33" meshFile="zabor05.mesh" castShadows="true" />
+        </node>
+        <node name="zabor05#34" id="699">
+            <position x="-24227.2" y="-361.324" z="-3834.22" />
+            <rotation qw="1" qx="0" qy="8.9407e-008" qz="0" />
+            <scale x="2" y="3.10277" z="2" />
+            <nocollide run3batcher="true" name="zabor05#34" meshFile="zabor05.mesh" castShadows="true" />
+        </node>
+        <node name="zabor05#35" id="406">
+            <position x="-25671.8" y="-361.324" z="-3834.22" />
+            <rotation qw="1" qx="0" qy="8.9407e-008" qz="0" />
+            <scale x="2" y="3.10277" z="2" />
+            <nocollide run3batcher="true" name="zabor05#35" meshFile="zabor05.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#18" id="181">
+            <position x="-14733.7" y="-470.966" z="-3533.04" />
+            <rotation qw="0.748927" qx="-0.0057824" qy="0.662595" qz="-0.0065358" />
+            <scale x="1" y="1" z="1" />
+            <nocollide run3batcher="true" name="tree_dec01#18" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+        <node name="tree_dec01#19" id="306">
+            <position x="-16425.6" y="-466.753" z="-3497.64" />
+            <rotation qw="0.748927" qx="-0.0057824" qy="0.662595" qz="-0.0065358" />
+            <scale x="1" y="1" z="1" />
+            <nocollide run3batcher="true" name="tree_dec01#19" meshFile="tree_dec01.mesh" castShadows="true" />
+        </node>
+    </nodes>
+    <aiNodes />
+</scene>

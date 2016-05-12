@@ -1,0 +1,117 @@
+<scene formatVersion="1.0">
+    <environment>
+        <skyBox material="Examples/MorningSkyBox" />
+        <fog mode="none" />
+    </environment>
+    <nodes>
+        <node name="rails_trainz01#3" id="118">
+            <position x="-548.374" y="-243.367" z="767.707" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="60" y="60" z="60" />
+            <entity name="rails_trainz01#3" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#2" id="770">
+            <position x="-548.374" y="-243.367" z="-486.59" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="60" y="60" z="60" />
+            <entity name="rails_trainz01#2" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#1" id="862">
+            <position x="-548.374" y="-243.367" z="-1740.79" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="60" y="60" z="60" />
+            <entity name="rails_trainz01#1" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="rails_trainz01#0" id="723">
+            <position x="-548.374" y="-243.367" z="-2994.49" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="60" y="60" z="60" />
+            <entity name="rails_trainz01#0" meshFile="rails_trainz01.mesh" castShadows="true" />
+        </node>
+        <node name="box#0" id="734">
+            <position x="0" y="0" z="0" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="100" y="100" z="100" />
+            <entity name="box#0" meshFile="box.mesh" castShadows="true" />
+        </node>
+        <node name="reciever_cart01#0" id="966">
+            <position x="870.425" y="-441.317" z="-686.691" />
+            <rotation qw="0.636078" qx="0" qy="-0.771625" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="reciever_cart01#0" meshFile="reciever_cart01.mesh" castShadows="true" />
+        </node>
+        <node name="tbh01#0" id="57">
+            <position x="844.725" y="-481.857" z="-468.391" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="3" y="2" z="3" />
+            <entity name="tbh01#0" meshFile="tbh01.mesh" castShadows="true" />
+        </node>
+        <node name="delusion02#0" id="214">
+            <position x="-422.577" y="-263.176" z="-375.09" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="10" y="10" z="10" />
+            <entity name="delusion02#0" meshFile="delusion02.mesh" castShadows="true" />
+        </node>
+        <node name="reciever_cart01#1" id="760">
+            <position x="668.623" y="-441.317" z="-696.992" />
+            <rotation qw="0.887011" qx="0" qy="-0.461749" qz="0" />
+            <scale x="2" y="2" z="2" />
+            <entity name="reciever_cart01#1" meshFile="reciever_cart01.mesh" castShadows="true" />
+        </node>
+        <node name="tbh01#1" id="648">
+            <position x="550.125" y="-511.127" z="-450.293" />
+            <rotation qw="0.694658" qx="0" qy="0.71934" qz="0" />
+            <scale x="70" y="70" z="70" />
+            <entity name="tbh01#1" meshFile="table01_metro.mesh" castShadows="true" />
+        </node>
+        <node name="tbh01#2" id="602">
+            <position x="844.725" y="-511.197" z="-353.293" />
+            <rotation qw="0.104528" qx="0" qy="0.994522" qz="0" />
+            <scale x="70" y="70" z="70" />
+            <entity name="tbh01#2" meshFile="kreslo01.mesh" castShadows="true" />
+        </node>
+        <node name="kreslo01#2" id="173">
+            <position x="825.826" y="-390.187" z="-124.793" />
+            <rotation qw="0.104528" qx="0" qy="0.994522" qz="0" />
+            <scale x="1" y="1" z="1" />
+            <entity name="kreslo01#2" meshFile="phol_labs_logo.mesh" castShadows="true" />
+        </node>
+        <node name="kreslo01#1" id="2">
+            <position x="935.027" y="-511.197" z="-506.391" />
+            <rotation qw="0.861629" qx="0" qy="-0.507538" qz="0" />
+            <scale x="70" y="70" z="70" />
+            <entity name="kreslo01#1" meshFile="kreslo01.mesh" castShadows="true" />
+        </node>
+        <node name="kreslo01#0" id="215">
+            <position x="721.92" y="-511.197" z="-453.09" />
+            <rotation qw="0.65276" qx="0" qy="0.757565" qz="0" />
+            <scale x="70" y="70" z="70" />
+            <entity name="kreslo01#0" meshFile="kreslo01.mesh" castShadows="true" />
+        </node>
+        <node name="light0Node" id="253">
+            <position x="155.761" y="225.935" z="-1046.63" />
+            <rotation qw="-0.0884226" qx="0.0298519" qy="-0.943326" qz="-0.318474" />
+            <scale x="1" y="1" z="1" />
+            <light name="light0" castShadows="true" type="spot">
+                <colourDiffuse r="0.8" g="0.8" b="1" />
+                <colourSpecular r="1" g="1" b="1" />
+                <normal x="0" y="0" z="-1" />
+                <lightAttenuation range="2000" />
+                <lightRange inner="90" outer="120" />
+            </light>
+        </node>
+        <node name="light1Node" id="480">
+            <position x="806.767" y="341.365" z="-505.739" />
+            <rotation qw="-0.474796" qx="0.472318" qy="0.526485" qz="0.523735" />
+            <scale x="1" y="1" z="1" />
+            <light name="light1" castShadows="true" type="spot">
+                <colourDiffuse r="1" g="1" b="1" />
+                <colourSpecular r="1" g="1" b="1" />
+                <normal x="0" y="0" z="-1" />
+                <lightAttenuation range="1000" />
+                <lightRange inner="70" outer="90" />
+            </light>
+        </node>
+    </nodes>
+    <aiNodes />
+</scene>

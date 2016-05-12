@@ -1,0 +1,177 @@
+<scene formatVersion="1.0">
+    <environment>
+        <skyBox material="Examples/MorningSkyBox" />
+        <fog mode="none" />
+    </environment>
+    <nodes>
+        <node name="carpte01#2" id="794">
+            <position x="9069.7" y="-493.817" z="-1518.49" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="164.473" y="164.473" z="164.473" />
+            <entity name="carpte01#2" meshFile="carpte01.mesh" castShadows="true" />
+        </node>
+        <node name="carpte01#3" id="217">
+            <position x="8422.73" y="-493.817" z="-2030.81" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="164.473" y="164.473" z="164.473" />
+            <entity name="carpte01#3" meshFile="carpte01.mesh" castShadows="true" />
+        </node>
+        <node name="carpte01#7" id="283">
+            <position x="8422.4" y="-493.817" z="-872.617" />
+            <rotation qw="0.989016" qx="0" qy="0.147809" qz="0" />
+            <scale x="164.473" y="164.473" z="164.473" />
+            <entity name="carpte01#7" meshFile="carpte01.mesh" castShadows="true" />
+        </node>
+        <node name="mps08#0" id="421">
+            <position x="8377.65" y="-495.745" z="-905.585" />
+            <rotation qw="0.00436312" qx="0" qy="-0.999991" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity name="mps08#0" meshFile="mps06.mesh" castShadows="true" />
+        </node>
+        <node name="mps05#0" id="232">
+            <position x="8210.4" y="-495.745" z="-452.972" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity name="mps05#0" meshFile="mps05.mesh" castShadows="true" />
+        </node>
+        <node name="mps05#1" id="132">
+            <position x="8484.7" y="-495.745" z="-452.972" />
+            <rotation qw="0.00436318" qx="0" qy="0.999991" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity name="mps05#1" meshFile="mps05.mesh" castShadows="true" />
+        </node>
+        <node name="mps05#2" id="542">
+            <position x="8161.02" y="-495.745" z="-787.897" />
+            <rotation qw="0.00436312" qx="0" qy="-0.999991" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity name="mps05#2" meshFile="mps08.mesh" castShadows="true" />
+        </node>
+        <node name="mps06#0" id="243">
+            <position x="8371.55" y="-495.745" z="-747.935" />
+            <rotation qw="0.00436312" qx="0" qy="-0.999991" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity name="mps06#0" meshFile="mps06.mesh" castShadows="true" />
+        </node>
+        <node name="mps05#3" id="725">
+            <position x="8347.15" y="-494.292" z="-433.8" />
+            <rotation qw="1" qx="0" qy="0" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity name="mps05#3" meshFile="mps10.mesh" castShadows="true" />
+        </node>
+        <node name="mps10#3" id="726">
+            <position x="8266.48" y="-494.292" z="-768.985" />
+            <rotation qw="0.999962" qx="0" qy="-0.00872655" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity name="mps10#3" meshFile="mps10.mesh" castShadows="true" />
+        </node>
+        <node name="mps08#1" id="400">
+            <position x="8506.08" y="-495.745" z="-1147.89" />
+            <rotation qw="0.00436312" qx="0" qy="-0.999991" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity name="mps08#1" meshFile="mps08.mesh" castShadows="true" />
+        </node>
+        <node name="mps08#2" id="362">
+            <position x="8739.68" y="-495.745" z="-1128.74" />
+            <rotation qw="-0.999848" qx="0" qy="-0.017452" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity name="mps08#2" meshFile="mps08.mesh" castShadows="true" />
+        </node>
+        <node name="mps10#4" id="857">
+            <position x="8629.95" y="-494.292" z="-1149.16" />
+            <rotation qw="0.999962" qx="0" qy="-0.00872655" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity name="mps10#4" meshFile="mps10.mesh" castShadows="true" />
+        </node>
+        <node name="mps06#1" id="144">
+            <position x="8613.6" y="-495.745" z="-996.625" />
+            <rotation qw="-0.622515" qx="0" qy="-0.782608" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity name="mps06#1" meshFile="mps06.mesh" castShadows="true" />
+        </node>
+        <node name="mps05#4" id="952">
+            <position x="8949.9" y="-495.745" z="-761.11" />
+            <rotation qw="0.978148" qx="0" qy="0.207912" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity name="mps05#4" meshFile="mps05.mesh" castShadows="true" />
+        </node>
+        <node name="mps10#5" id="645">
+            <position x="9036.85" y="-494.292" z="-833.465" />
+            <rotation qw="-0.263031" qx="0" qy="0.964787" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity name="mps10#5" meshFile="mps10.mesh" castShadows="true" />
+        </node>
+        <node name="mps06#2" id="115">
+            <position x="9111.5" y="-495.745" z="-909.69" />
+            <rotation qw="0.337917" qx="0" qy="-0.941176" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity name="mps06#2" meshFile="mps06.mesh" castShadows="true" />
+        </node>
+        <node name="mps10#6" id="651">
+            <position x="9485.4" y="-494.292" z="-726.375" />
+            <rotation qw="-0.0261772" qx="0" qy="0.999657" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity name="mps10#6" meshFile="mps10.mesh" castShadows="true" />
+        </node>
+        <node name="mps10#7" id="128">
+            <position x="8588" y="-494.292" z="-747.493" />
+            <rotation qw="0.973379" qx="0" qy="0.2292" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity name="mps10#7" meshFile="mps10.mesh" castShadows="true" />
+        </node>
+        <node name="mps06#3" id="683">
+            <position x="8649.9" y="-495.745" z="-816.273" />
+            <rotation qw="0.284015" qx="0" qy="-0.95882" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity name="mps06#3" meshFile="mps06.mesh" castShadows="true" />
+        </node>
+        <node name="mps06#4" id="506">
+            <position x="8490.2" y="-495.745" z="-668.347" />
+            <rotation qw="-0.952396" qx="0" qy="-0.304864" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity name="mps06#4" meshFile="mps06.mesh" castShadows="true" />
+        </node>
+        <node name="mps08#3" id="293">
+            <position x="8594.92" y="-495.745" z="-1770.01" />
+            <rotation qw="-0.656059" qx="0" qy="0.75471" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity name="mps08#3" meshFile="mps08.mesh" castShadows="true" />
+        </node>
+        <node name="pj21#7" id="10">
+            <position x="8553.05" y="-479.328" z="-1842.84" />
+            <rotation qw="0.725374" qx="0" qy="0.688355" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity name="pj21#7" meshFile="pj21.mesh" castShadows="true" />
+        </node>
+        <node name="pj21#8" id="785">
+            <position x="8860.1" y="-479.328" z="-1739.03" />
+            <rotation qw="0.725374" qx="0" qy="0.688355" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity name="pj21#8" meshFile="pj21.mesh" castShadows="true" />
+        </node>
+        <node name="pj21#9" id="125">
+            <position x="8959.42" y="-479.328" z="-1612.18" />
+            <rotation qw="0.930418" qx="0" qy="-0.366501" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity name="pj21#9" meshFile="pj21.mesh" castShadows="true" />
+        </node>
+        <node name="mps08#4" id="323">
+            <position x="8157.52" y="-495.745" z="-1190.3" />
+            <rotation qw="0.00436312" qx="0" qy="-0.999991" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity name="mps08#4" meshFile="mps08.mesh" castShadows="true" />
+        </node>
+        <node name="mps10#8" id="979">
+            <position x="8251.42" y="-494.292" z="-1164.87" />
+            <rotation qw="0.999534" qx="0" qy="-0.0305385" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity name="mps10#8" meshFile="mps10.mesh" castShadows="true" />
+        </node>
+        <node name="mps08#5" id="247">
+            <position x="8356.35" y="-495.745" z="-1140.02" />
+            <rotation qw="-0.999962" qx="0" qy="0.00872692" qz="0" />
+            <scale x="2.5" y="2.5" z="2.5" />
+            <entity name="mps08#5" meshFile="mps08.mesh" castShadows="true" />
+        </node>
+    </nodes>
+    <aiNodes />
+</scene>
